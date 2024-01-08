@@ -1,0 +1,381 @@
+date,time,final_score,goals,country,league,home,away
+30. april 2022,20:00,2:0,"{'8': 'home', '56': 'home'}",spain,la liga,athletic-bilbao,atletico-madrid
+15. may 2022,18:30,2:0,"{'33': 'home', '79': 'home'}",spain,la liga,athletic-bilbao,ca-osasuna
+5. november 2021,20:00,0:1,{'6': 'away'},spain,la liga,athletic-bilbao,cadiz-cf
+1. october 2021,20:00,1:0,{'44': 'home'},spain,la liga,athletic-bilbao,cd-alaves
+17. april 2022,17:30,0:2,"{'11': 'away', '37': 'away'}",spain,la liga,athletic-bilbao,celta-vigo
+3. april 2022,13:00,2:1,"{'32': 'home', '86': 'home', '90': 'away'}",spain,la liga,athletic-bilbao,elche-cf
+7. february 2022,20:00,2:1,"{'3': 'away', '5': 'home', '16': 'home'}",spain,la liga,athletic-bilbao,espanyol-barcelona
+21. august 2021,21:00,1:1,"{'50': 'home', '75': 'away'}",spain,la liga,athletic-bilbao,fc-barcelona
+18. march 2022,20:00,1:1,"{'3': 'away', '29': 'home'}",spain,la liga,athletic-bilbao,getafe-cf
+26. november 2021,20:00,2:2,"{'10': 'home', '25': 'away', '34': 'away', '76': 'home'}",spain,la liga,athletic-bilbao,granada-cf
+7. march 2022,20:00,3:1,"{'63': 'home', None: 'away', '88': 'home'}",spain,la liga,athletic-bilbao,levante-ud
+21. september 2021,21:00,1:2,"{'5': 'away', '33': 'home', '90': 'away'}",spain,la liga,athletic-bilbao,rayo-vallecano
+11. september 2021,20:00,2:0,"{'68': 'home', '74': 'home'}",spain,la liga,athletic-bilbao,rcd-mallorca
+19. december 2021,15:15,3:2,"{'2': 'home', '6': 'away', '52': 'away', '72': 'home', '89': 'home'}",spain,la liga,athletic-bilbao,real-betis
+22. december 2021,20:30,1:2,"{'4': 'away', '7': 'away', '10': 'home'}",spain,la liga,athletic-bilbao,real-madrid
+20. february 2022,20:00,4:0,"{'68': 'home', None: 'home'}",spain,la liga,athletic-bilbao,real-sociedad
+11. december 2021,20:00,0:1,{'38': 'away'},spain,la liga,athletic-bilbao,sevilla-fc
+7. may 2022,15:15,0:0,,spain,la liga,athletic-bilbao,valencia-cf
+23. october 2021,20:00,2:1,"{'14': 'home', '32': 'away', '77': 'home'}",spain,la liga,athletic-bilbao,villarreal-cf
+18. september 2021,15:15,0:0,,spain,la liga,atletico-madrid,athletic-bilbao
+20. november 2021,17:30,1:0,{'87': 'home'},spain,la liga,atletico-madrid,ca-osasuna
+11. march 2022,20:00,2:1,"{'3': 'home', '45': 'away', '68': 'home'}",spain,la liga,atletico-madrid,cadiz-cf
+2. april 2022,20:00,4:1,"{'11': 'home', '63': 'away', '75': 'home', '83': 'home', '90': 'home'}",spain,la liga,atletico-madrid,cd-alaves
+26. february 2022,20:00,2:0,"{'36': 'home', '60': 'home'}",spain,la liga,atletico-madrid,celta-vigo
+22. august 2021,18:30,1:0,{'39': 'home'},spain,la liga,atletico-madrid,elche-cf
+17. april 2022,15:15,2:1,"{'52': 'home', '74': 'away', '90': 'home'}",spain,la liga,atletico-madrid,espanyol-barcelona
+2. october 2021,20:00,2:0,"{'23': 'home', '44': 'home'}",spain,la liga,atletico-madrid,fc-barcelona
+12. february 2022,20:00,4:3,"{'20': 'home', '27': 'home', '30': 'away', '37': 'away', '42': 'away', '45': 'home', '89': 'home'}",spain,la liga,atletico-madrid,getafe-cf
+20. april 2022,18:00,0:0,,spain,la liga,atletico-madrid,granada-cf
+16. february 2022,18:00,0:1,{'54': 'away'},spain,la liga,atletico-madrid,levante-ud
+2. january 2022,15:15,2:0,"{'28': 'home', '53': 'home'}",spain,la liga,atletico-madrid,rayo-vallecano
+4. december 2021,17:30,1:2,"{'68': 'home', '80': 'away', '90': 'away'}",spain,la liga,atletico-madrid,rcd-mallorca
+31. october 2021,15:15,3:0,"{'26': 'home', '63': 'home', '80': 'home'}",spain,la liga,atletico-madrid,real-betis
+8. may 2022,20:00,1:0,{'40': 'home'},spain,la liga,atletico-madrid,real-madrid
+24. october 2021,20:00,2:2,"{'7': 'away', '48': 'away', '61': 'home', '77': 'home'}",spain,la liga,atletico-madrid,real-sociedad
+15. may 2022,18:30,1:1,"{'30': 'home', '85': 'away'}",spain,la liga,atletico-madrid,sevilla-fc
+22. january 2022,20:00,3:2,"{'25': 'away', '45': 'away', '64': 'home', '90': 'home'}",spain,la liga,atletico-madrid,valencia-cf
+29. august 2021,21:00,2:2,"{'52': 'away', '56': 'home', '74': 'away', '90': 'home'}",spain,la liga,atletico-madrid,villarreal-cf
+3. january 2022,20:00,1:3,"{'10': 'home', '16': 'away', '25': 'away', '68': 'away'}",spain,la liga,ca-osasuna,athletic-bilbao
+19. february 2022,15:15,0:3,"{'3': 'away', '59': 'away', '89': 'away'}",spain,la liga,ca-osasuna,atletico-madrid
+9. january 2022,17:30,2:0,"{'38': 'home', '48': 'home'}",spain,la liga,ca-osasuna,cadiz-cf
+10. april 2022,13:00,1:0,{'90': 'home'},spain,la liga,ca-osasuna,cd-alaves
+23. august 2021,21:00,0:0,,spain,la liga,ca-osasuna,celta-vigo
+29. november 2021,20:00,1:1,"{'7': 'home', '19': 'away'}",spain,la liga,ca-osasuna,elche-cf
+14. august 2021,21:00,0:0,,spain,la liga,ca-osasuna,espanyol-barcelona
+12. december 2021,15:15,2:2,"{'12': 'away', '14': 'home', '49': 'away', '86': 'home'}",spain,la liga,ca-osasuna,fc-barcelona
+11. may 2022,18:00,1:1,"{'9': 'home', '20': 'away'}",spain,la liga,ca-osasuna,getafe-cf
+22. october 2021,20:00,1:1,"{'45': 'home', '90': 'away'}",spain,la liga,ca-osasuna,granada-cf
+19. march 2022,17:30,3:1,"{'44': 'home', '57': 'home', '64': 'home', '76': 'away'}",spain,la liga,ca-osasuna,levante-ud
+2. october 2021,13:00,1:0,{'90': 'home'},spain,la liga,ca-osasuna,rayo-vallecano
+22. may 2022,19:00,0:2,{None: 'away'},spain,la liga,ca-osasuna,rcd-mallorca
+23. september 2021,18:30,1:3,"{'21': 'away', '39': 'home', '80': 'away', '90': 'away'}",spain,la liga,ca-osasuna,real-betis
+20. april 2022,20:30,1:3,"{'12': 'away', '14': 'home', '45': 'away', '90': 'away'}",spain,la liga,ca-osasuna,real-madrid
+7. november 2021,17:30,0:2,"{'72': 'away', '82': 'away'}",spain,la liga,ca-osasuna,real-sociedad
+5. february 2022,20:00,0:0,,spain,la liga,ca-osasuna,sevilla-fc
+12. september 2021,15:15,1:4,"{'8': 'home', '26': 'away', '50': 'away', '55': 'away', '73': 'away'}",spain,la liga,ca-osasuna,valencia-cf
+5. march 2022,13:00,1:0,{'63': 'home'},spain,la liga,ca-osasuna,villarreal-cf
+21. april 2022,19:00,2:3,"{'3': 'away', '22': 'away', '33': 'away', '56': 'home', '87': 'home'}",spain,la liga,cadiz-cf,athletic-bilbao
+28. november 2021,17:30,1:4,"{'56': 'away', '70': 'away', '76': 'away', '86': 'home'}",spain,la liga,cadiz-cf,atletico-madrid
+29. august 2021,18:30,2:3,"{'16': 'home', '60': 'away', '66': 'home', '90': 'away'}",spain,la liga,cadiz-cf,ca-osasuna
+23. october 2021,15:15,0:2,"{'6': 'away', '90': 'away'}",spain,la liga,cadiz-cf,cd-alaves
+12. february 2022,13:00,0:0,,spain,la liga,cadiz-cf,celta-vigo
+7. may 2022,17:30,3:0,"{'80': 'home', '83': 'home', '90': 'home'}",spain,la liga,cadiz-cf,elche-cf
+18. january 2022,20:30,2:2,{None: 'away'},spain,la liga,cadiz-cf,espanyol-barcelona
+23. september 2021,21:00,0:0,,spain,la liga,cadiz-cf,fc-barcelona
+19. february 2022,17:30,1:1,"{'6': 'away', '45': 'home'}",spain,la liga,cadiz-cf,getafe-cf
+13. december 2021,20:00,1:1,"{'32': 'home', '88': 'away'}",spain,la liga,cadiz-cf,granada-cf
+14. august 2021,18:30,1:1,"{'39': 'away', '90': 'home'}",spain,la liga,cadiz-cf,levante-ud
+6. march 2022,13:00,2:0,"{'55': 'home', None: 'home'}",spain,la liga,cadiz-cf,rayo-vallecano
+31. october 2021,13:00,1:1,"{'29': 'away', '90': 'home'}",spain,la liga,cadiz-cf,rcd-mallorca
+9. april 2022,13:00,1:2,"{'58': 'home', '78': 'away', '85': 'away'}",spain,la liga,cadiz-cf,real-betis
+15. may 2022,18:30,1:1,"{'5': 'away', '37': 'home'}",spain,la liga,cadiz-cf,real-madrid
+12. september 2021,17:30,0:2,"{'71': 'away', '84': 'away'}",spain,la liga,cadiz-cf,real-sociedad
+3. january 2022,20:15,0:1,{'58': 'away'},spain,la liga,cadiz-cf,sevilla-fc
+2. october 2021,17:30,0:0,,spain,la liga,cadiz-cf,valencia-cf
+20. march 2022,15:15,1:0,{'90': 'home'},spain,la liga,cadiz-cf,villarreal-cf
+9. january 2022,17:30,0:0,,spain,la liga,cd-alaves,athletic-bilbao
+25. september 2021,13:00,1:0,{'4': 'home'},spain,la liga,cd-alaves,atletico-madrid
+18. september 2021,20:00,0:2,"{'22': 'away', '29': 'away'}",spain,la liga,cd-alaves,ca-osasuna
+22. may 2022,19:00,0:1,{None: 'away'},spain,la liga,cd-alaves,cadiz-cf
+27. november 2021,13:00,1:2,"{'11': 'away', '21': 'home', '70': 'away'}",spain,la liga,cd-alaves,celta-vigo
+26. october 2021,18:00,1:0,{'47': 'home'},spain,la liga,cd-alaves,elche-cf
+11. may 2022,18:00,2:1,"{None: 'home', '14': 'away'}",spain,la liga,cd-alaves,espanyol-barcelona
+23. january 2022,20:00,0:1,{'87': 'away'},spain,la liga,cd-alaves,fc-barcelona
+11. december 2021,15:15,1:1,"{'20': 'away', '86': 'home'}",spain,la liga,cd-alaves,getafe-cf
+19. march 2022,13:00,2:3,"{'50': 'away', '53': 'home', '57': 'home', '75': 'away', '87': 'away'}",spain,la liga,cd-alaves,granada-cf
+6. november 2021,17:30,2:1,"{'13': 'away', '77': 'home', '90': 'home'}",spain,la liga,cd-alaves,levante-ud
+16. april 2022,15:15,1:0,{'64': 'home'},spain,la liga,cd-alaves,rayo-vallecano
+21. august 2021,16:00,0:1,{'80': 'away'},spain,la liga,cd-alaves,rcd-mallorca
+18. october 2021,18:00,0:1,{'89': 'away'},spain,la liga,cd-alaves,real-betis
+14. august 2021,21:00,1:4,"{'48': 'away', '56': 'away', '63': 'away', '65': 'home', '90': 'away'}",spain,la liga,cd-alaves,real-madrid
+2. january 2022,17:30,1:1,"{'14': 'away', '58': 'home'}",spain,la liga,cd-alaves,real-sociedad
+4. march 2022,20:00,0:0,,spain,la liga,cd-alaves,sevilla-fc
+13. february 2022,13:00,2:1,"{None: 'home', '62': 'away', '76': 'home'}",spain,la liga,cd-alaves,valencia-cf
+30. april 2022,13:00,2:1,"{'4': 'home', '31': 'home', '47': 'away'}",spain,la liga,cd-alaves,villarreal-cf
+28. august 2021,16:00,0:1,{'34': 'away'},spain,la liga,celta-vigo,athletic-bilbao
+15. august 2021,16:30,1:2,"{'23': 'away', '59': 'home', '64': 'away'}",spain,la liga,celta-vigo,atletico-madrid
+19. january 2022,18:00,2:0,{None: 'home'},spain,la liga,celta-vigo,ca-osasuna
+17. september 2021,20:00,1:2,"{'38': 'away', '43': 'away', '64': 'home'}",spain,la liga,celta-vigo,cadiz-cf
+7. may 2022,17:30,4:0,"{'6': 'home', '34': 'home', '57': 'home', '66': 'home'}",spain,la liga,celta-vigo,cd-alaves
+15. may 2022,18:30,1:0,{None: 'home'},spain,la liga,celta-vigo,elche-cf
+17. december 2021,20:00,3:1,"{'3': 'home', '47': 'home', '82': 'home', '90': 'away'}",spain,la liga,celta-vigo,espanyol-barcelona
+6. november 2021,15:15,3:3,"{'5': 'away', '18': 'away', '34': 'away', '52': 'home', '74': 'home', '90': 'home'}",spain,la liga,celta-vigo,fc-barcelona
+20. april 2022,19:00,0:2,"{'23': 'away', '51': 'away'}",spain,la liga,celta-vigo,getafe-cf
+27. september 2021,20:00,1:0,{'90': 'home'},spain,la liga,celta-vigo,granada-cf
+21. february 2022,20:00,1:1,"{'67': 'home', None: 'away'}",spain,la liga,celta-vigo,levante-ud
+5. february 2022,17:30,2:0,"{'12': 'home', '80': 'home'}",spain,la liga,celta-vigo,rayo-vallecano
+6. march 2022,17:30,4:3,"{None: 'home', '49': 'away', '87': 'away', '90': 'home'}",spain,la liga,celta-vigo,rcd-mallorca
+20. march 2022,15:15,0:0,,spain,la liga,celta-vigo,real-betis
+2. april 2022,17:30,1:2,"{'19': 'away', '52': 'home', '69': 'away'}",spain,la liga,celta-vigo,real-madrid
+28. october 2021,18:00,0:2,"{'54': 'away', '79': 'away'}",spain,la liga,celta-vigo,real-sociedad
+17. october 2021,15:15,0:1,{'54': 'away'},spain,la liga,celta-vigo,sevilla-fc
+5. december 2021,20:00,1:2,"{'11': 'home', '19': 'away', '53': 'away'}",spain,la liga,celta-vigo,valencia-cf
+20. november 2021,13:00,1:1,"{'27': 'away', '72': 'home'}",spain,la liga,celta-vigo,villarreal-cf
+16. august 2021,21:00,0:0,,spain,la liga,elche-cf,athletic-bilbao
+11. may 2022,20:30,0:2,"{'28': 'away', '62': 'away'}",spain,la liga,elche-cf,atletico-madrid
+1. may 2022,13:00,1:1,"{'67': 'away', '84': 'home'}",spain,la liga,elche-cf,ca-osasuna
+5. december 2021,15:15,3:1,"{'13': 'home', '75': 'home', '90': 'home'}",spain,la liga,elche-cf,cadiz-cf
+5. february 2022,13:00,3:1,"{'18': 'away', '46': 'home', '58': 'home', '86': 'home'}",spain,la liga,elche-cf,cd-alaves
+3. october 2021,13:00,1:0,{'49': 'home'},spain,la liga,elche-cf,celta-vigo
+23. october 2021,17:30,2:2,"{'23': 'home', '51': 'away', '52': 'away', '84': 'home'}",spain,la liga,elche-cf,espanyol-barcelona
+6. march 2022,15:15,1:2,"{'44': 'home', '60': 'away', '84': 'away'}",spain,la liga,elche-cf,fc-barcelona
+22. may 2022,16:30,3:1,"{None: 'home', '90': 'home'}",spain,la liga,elche-cf,getafe-cf
+2. january 2022,15:15,0:0,,spain,la liga,elche-cf,granada-cf
+18. september 2021,17:30,1:1,"{'33': 'home', '55': 'away'}",spain,la liga,elche-cf,levante-ud
+18. february 2022,20:00,2:1,"{'52': 'away', '76': 'home', '84': 'home'}",spain,la liga,elche-cf,rayo-vallecano
+16. april 2022,13:00,3:0,"{'42': 'home', '58': 'home', '81': 'home'}",spain,la liga,elche-cf,rcd-mallorca
+21. november 2021,17:30,0:3,"{'12': 'away', '24': 'away', '27': 'away'}",spain,la liga,elche-cf,real-betis
+30. october 2021,13:00,1:2,"{'22': 'away', '73': 'away', '86': 'home'}",spain,la liga,elche-cf,real-madrid
+10. april 2022,17:30,1:2,"{'3': 'home', '31': 'away', '39': 'away'}",spain,la liga,elche-cf,real-sociedad
+28. august 2021,18:30,1:1,"{'11': 'home', '40': 'away'}",spain,la liga,elche-cf,sevilla-fc
+19. march 2022,15:15,0:1,{'50': 'away'},spain,la liga,elche-cf,valencia-cf
+16. january 2022,13:00,1:0,{None: 'home'},spain,la liga,elche-cf,villarreal-cf
+26. october 2021,20:00,1:1,"{'33': 'home', '52': 'away'}",spain,la liga,espanyol-barcelona,athletic-bilbao
+12. september 2021,13:00,1:2,"{'40': 'home', '79': 'away', '90': 'away'}",spain,la liga,espanyol-barcelona,atletico-madrid
+8. may 2022,17:30,1:1,{None: 'home'},spain,la liga,espanyol-barcelona,ca-osasuna
+18. october 2021,20:00,2:0,"{'45': 'home', '65': 'home'}",spain,la liga,espanyol-barcelona,cadiz-cf
+22. september 2021,18:30,1:0,{'54': 'home'},spain,la liga,espanyol-barcelona,cd-alaves
+10. april 2022,15:15,1:0,{'89': 'home'},spain,la liga,espanyol-barcelona,celta-vigo
+10. january 2022,20:00,1:2,"{'6': 'away', '14': 'away', '45': 'home'}",spain,la liga,espanyol-barcelona,elche-cf
+13. february 2022,20:00,2:2,"{'2': 'away', '40': 'home', '64': 'home', '90': 'away'}",spain,la liga,espanyol-barcelona,fc-barcelona
+5. march 2022,15:15,2:0,"{'17': 'home', '27': 'home'}",spain,la liga,espanyol-barcelona,getafe-cf
+6. november 2021,13:00,2:0,"{'30': 'home', '42': 'home'}",spain,la liga,espanyol-barcelona,granada-cf
+11. december 2021,13:00,4:3,"{'6': 'home', '11': 'away', '26': 'away', '49': 'home', '57': 'away', '60': 'home', '76': 'home'}",spain,la liga,espanyol-barcelona,levante-ud
+21. april 2022,18:00,0:1,{'42': 'away'},spain,la liga,espanyol-barcelona,rayo-vallecano
+20. march 2022,13:00,1:0,{'42': 'home'},spain,la liga,espanyol-barcelona,rcd-mallorca
+21. january 2022,20:00,1:4,"{None: 'away', '31': 'away', '36': 'away'}",spain,la liga,espanyol-barcelona,real-betis
+3. october 2021,15:15,2:1,"{'17': 'home', '60': 'home', '71': 'away'}",spain,la liga,espanyol-barcelona,real-madrid
+28. november 2021,15:15,1:0,{'77': 'home'},spain,la liga,espanyol-barcelona,real-sociedad
+20. february 2022,13:00,1:1,"{'36': 'away', '50': 'home'}",spain,la liga,espanyol-barcelona,sevilla-fc
+14. may 2022,17:30,1:1,"{'37': 'away', '45': 'home'}",spain,la liga,espanyol-barcelona,valencia-cf
+21. august 2021,18:30,0:0,,spain,la liga,espanyol-barcelona,villarreal-cf
+27. february 2022,20:00,4:0,"{'37': 'home', '73': 'home', '90': 'home'}",spain,la liga,fc-barcelona,athletic-bilbao
+6. february 2022,15:15,4:2,"{'8': 'away', '10': 'home', '21': 'home', '43': 'home', '49': 'home', '58': 'away'}",spain,la liga,fc-barcelona,atletico-madrid
+13. march 2022,20:00,4:0,"{'14': 'home', '21': 'home', '27': 'home', '75': 'home'}",spain,la liga,fc-barcelona,ca-osasuna
+18. april 2022,20:00,0:1,{'48': 'away'},spain,la liga,fc-barcelona,cadiz-cf
+30. october 2021,20:00,1:1,"{'49': 'home', '52': 'away'}",spain,la liga,fc-barcelona,cd-alaves
+10. may 2022,20:30,3:1,"{'30': 'home', '41': 'home', '48': 'home', '50': 'away'}",spain,la liga,fc-barcelona,celta-vigo
+18. december 2021,17:30,3:2,"{'16': 'home', '19': 'home', '62': 'away', '63': 'away', '85': 'home'}",spain,la liga,fc-barcelona,elche-cf
+20. november 2021,20:00,1:0,{'48': 'home'},spain,la liga,fc-barcelona,espanyol-barcelona
+29. august 2021,16:00,2:1,"{'1': 'home', '18': 'away', '29': 'home'}",spain,la liga,fc-barcelona,getafe-cf
+20. september 2021,20:00,1:1,"{'2': 'away', '90': 'home'}",spain,la liga,fc-barcelona,granada-cf
+26. september 2021,15:15,3:0,"{'7': 'home', '14': 'home', '90': 'home'}",spain,la liga,fc-barcelona,levante-ud
+24. april 2022,20:00,0:1,{'7': 'away'},spain,la liga,fc-barcelona,rayo-vallecano
+1. may 2022,20:00,2:1,"{'25': 'home', '54': 'home', '79': 'away'}",spain,la liga,fc-barcelona,rcd-mallorca
+4. december 2021,15:15,0:1,{'79': 'away'},spain,la liga,fc-barcelona,real-betis
+24. october 2021,15:15,1:2,"{'32': 'away', '90': 'home'}",spain,la liga,fc-barcelona,real-madrid
+15. august 2021,19:00,4:2,"{'19': 'home', '45': 'home', '59': 'home', '82': 'away', '85': 'away', '90': 'home'}",spain,la liga,fc-barcelona,real-sociedad
+3. april 2022,20:00,1:0,{'72': 'home'},spain,la liga,fc-barcelona,sevilla-fc
+17. october 2021,20:00,3:1,"{'5': 'away', '13': 'home', '41': 'home', '85': 'home'}",spain,la liga,fc-barcelona,valencia-cf
+22. may 2022,21:00,0:2,"{'41': 'away', '55': 'away'}",spain,la liga,fc-barcelona,villarreal-cf
+6. december 2021,20:00,0:0,,spain,la liga,getafe-cf,athletic-bilbao
+21. september 2021,18:30,1:2,"{'45': 'home', '78': 'away', '90': 'away'}",spain,la liga,getafe-cf,atletico-madrid
+19. december 2021,17:30,1:0,{'90': 'home'},spain,la liga,getafe-cf,ca-osasuna
+21. november 2021,13:00,4:0,"{'7': 'home', '60': 'home', '81': 'home', '90': 'home'}",spain,la liga,getafe-cf,cadiz-cf
+26. february 2022,15:15,2:2,"{'45': 'away', '55': 'home', '56': 'away', '72': 'home'}",spain,la liga,getafe-cf,cd-alaves
+25. october 2021,20:00,0:3,"{'55': 'away', '58': 'away', '73': 'away'}",spain,la liga,getafe-cf,celta-vigo
+13. september 2021,19:00,0:1,{'69': 'away'},spain,la liga,getafe-cf,elche-cf
+31. october 2021,17:30,2:1,{None: 'home'},spain,la liga,getafe-cf,espanyol-barcelona
+15. may 2022,18:30,0:0,,spain,la liga,getafe-cf,fc-barcelona
+20. january 2022,18:00,4:2,{None: 'home'},spain,la liga,getafe-cf,granada-cf
+4. february 2022,20:00,3:0,"{'1': 'home', None: 'home'}",spain,la liga,getafe-cf,levante-ud
+8. may 2022,13:00,0:0,,spain,la liga,getafe-cf,rayo-vallecano
+2. april 2022,13:00,1:0,{'82': 'home'},spain,la liga,getafe-cf,rcd-mallorca
+2. may 2022,20:00,0:0,,spain,la liga,getafe-cf,real-betis
+2. january 2022,13:00,1:0,{'9': 'home'},spain,la liga,getafe-cf,real-madrid
+3. october 2021,17:30,1:1,"{'40': 'home', '68': 'away'}",spain,la liga,getafe-cf,real-sociedad
+23. august 2021,19:00,0:1,{'90': 'away'},spain,la liga,getafe-cf,sevilla-fc
+12. march 2022,20:00,0:0,,spain,la liga,getafe-cf,valencia-cf
+16. april 2022,20:00,1:2,"{'7': 'away', '16': 'away', '63': 'home'}",spain,la liga,getafe-cf,villarreal-cf
+10. may 2022,19:00,1:0,{'35': 'home'},spain,la liga,granada-cf,athletic-bilbao
+22. december 2021,18:00,2:1,"{'2': 'away', '17': 'home', '61': 'home'}",spain,la liga,granada-cf,atletico-madrid
+23. january 2022,13:00,0:2,"{'64': 'away', '89': 'away'}",spain,la liga,granada-cf,ca-osasuna
+28. february 2022,20:00,0:0,,spain,la liga,granada-cf,cadiz-cf
+3. december 2021,20:00,2:1,"{'14': 'home', '81': 'away', '86': 'home'}",spain,la liga,granada-cf,cd-alaves
+1. may 2022,15:15,1:1,"{None: 'away', '90': 'home'}",spain,la liga,granada-cf,celta-vigo
+12. march 2022,15:15,0:1,{'11': 'away'},spain,la liga,granada-cf,elche-cf
+22. may 2022,19:00,0:0,,spain,la liga,granada-cf,espanyol-barcelona
+8. january 2022,17:30,1:1,"{'57': 'away', '89': 'home'}",spain,la liga,granada-cf,fc-barcelona
+28. october 2021,19:00,1:1,"{'36': 'away', '90': 'home'}",spain,la liga,granada-cf,getafe-cf
+17. april 2022,13:00,1:4,"{'17': 'away', '56': 'away', '77': 'away', '90': 'away'}",spain,la liga,granada-cf,levante-ud
+3. april 2022,17:30,2:2,"{'6': 'away', '17': 'away', '67': 'home', '90': 'home'}",spain,la liga,granada-cf,rayo-vallecano
+19. december 2021,13:00,4:1,"{'20': 'home', '24': 'away', '61': 'home', '90': 'home'}",spain,la liga,granada-cf,rcd-mallorca
+13. september 2021,21:00,1:2,"{'45': 'away', '66': 'home', '89': 'away'}",spain,la liga,granada-cf,real-betis
+21. november 2021,15:15,1:4,"{'18': 'away', '24': 'away', '34': 'home', '56': 'away', '76': 'away'}",spain,la liga,granada-cf,real-madrid
+23. september 2021,18:30,2:3,"{'9': 'home', '52': 'away', '60': 'away', '70': 'home', '82': 'away'}",spain,la liga,granada-cf,real-sociedad
+3. october 2021,20:00,1:0,{'25': 'home'},spain,la liga,granada-cf,sevilla-fc
+21. august 2021,18:30,1:1,"{'16': 'home', '88': 'away'}",spain,la liga,granada-cf,valencia-cf
+19. february 2022,13:00,1:4,"{'35': 'away', '39': 'away', '61': 'home', '81': 'away', '90': 'away'}",spain,la liga,granada-cf,villarreal-cf
+19. november 2021,20:00,0:0,,spain,la liga,levante-ud,athletic-bilbao
+28. october 2021,20:30,2:2,"{'12': 'away', '37': 'home', None: 'away', '90': 'home'}",spain,la liga,levante-ud,atletico-madrid
+5. december 2021,17:30,0:0,,spain,la liga,levante-ud,ca-osasuna
+22. january 2022,13:00,0:2,"{'34': 'away', '73': 'away'}",spain,la liga,levante-ud,cadiz-cf
+15. may 2022,18:30,3:1,"{None: 'home', '53': 'home', '90': 'home'}",spain,la liga,levante-ud,cd-alaves
+21. september 2021,21:00,0:2,"{'66': 'away', '85': 'away'}",spain,la liga,levante-ud,celta-vigo
+25. february 2022,20:00,3:0,"{'37': 'home', '67': 'home', '90': 'home'}",spain,la liga,levante-ud,elche-cf
+12. march 2022,13:00,1:1,"{'50': 'away', '80': 'home'}",spain,la liga,levante-ud,espanyol-barcelona
+10. april 2022,20:00,2:3,"{'52': 'home', '59': 'away', '63': 'away', '83': 'home', '90': 'away'}",spain,la liga,levante-ud,fc-barcelona
+16. october 2021,17:30,0:0,,spain,la liga,levante-ud,getafe-cf
+1. november 2021,20:00,0:3,"{'7': 'away', None: 'away'}",spain,la liga,levante-ud,granada-cf
+11. september 2021,17:30,1:1,"{'39': 'home', '90': 'away'}",spain,la liga,levante-ud,rayo-vallecano
+8. january 2022,13:00,2:0,"{'47': 'home', '90': 'home'}",spain,la liga,levante-ud,rcd-mallorca
+13. february 2022,15:15,2:4,"{None: 'away', '29': 'away'}",spain,la liga,levante-ud,real-betis
+22. august 2021,21:00,3:3,"{'5': 'away', '46': 'home', '57': 'home', '73': 'away', '79': 'home', '85': 'away'}",spain,la liga,levante-ud,real-madrid
+6. may 2022,20:00,2:1,"{'53': 'home', '66': 'away', '90': 'home'}",spain,la liga,levante-ud,real-sociedad
+21. april 2022,18:00,2:3,"{'14': 'away', '22': 'home', '27': 'away', '82': 'away', '87': 'home'}",spain,la liga,levante-ud,sevilla-fc
+20. december 2021,20:00,3:4,"{None: 'home', '50': 'away'}",spain,la liga,levante-ud,valencia-cf
+2. april 2022,15:15,2:0,"{'69': 'home', '90': 'home'}",spain,la liga,levante-ud,villarreal-cf
+23. january 2022,17:30,0:1,{'30': 'away'},spain,la liga,rayo-vallecano,athletic-bilbao
+19. march 2022,20:00,0:1,{'49': 'away'},spain,la liga,rayo-vallecano,atletico-madrid
+12. february 2022,17:30,0:3,"{'8': 'away', '40': 'away', '90': 'away'}",spain,la liga,rayo-vallecano,ca-osasuna
+26. september 2021,17:30,3:1,"{'9': 'home', '23': 'away', '44': 'home', '87': 'home'}",spain,la liga,rayo-vallecano,cadiz-cf
+18. december 2021,13:00,2:0,"{'19': 'home', '26': 'home'}",spain,la liga,rayo-vallecano,cd-alaves
+1. november 2021,17:30,0:0,,spain,la liga,rayo-vallecano,celta-vigo
+17. october 2021,13:00,2:1,"{'14': 'away', '26': 'home', '65': 'home'}",spain,la liga,rayo-vallecano,elche-cf
+5. december 2021,13:00,1:0,{'54': 'home'},spain,la liga,rayo-vallecano,espanyol-barcelona
+27. october 2021,18:00,1:0,{'30': 'home'},spain,la liga,rayo-vallecano,fc-barcelona
+18. september 2021,13:00,3:0,"{'9': 'home', '78': 'home', '81': 'home'}",spain,la liga,rayo-vallecano,getafe-cf
+29. august 2021,18:30,4:0,"{'3': 'home', '23': 'home', '43': 'home', '58': 'home'}",spain,la liga,rayo-vallecano,granada-cf
+20. may 2022,20:00,2:4,"{'18': 'home', '26': 'away', '44': 'away', '45': 'away', '61': 'home', '76': 'away'}",spain,la liga,rayo-vallecano,levante-ud
+22. november 2021,20:00,3:1,"{'16': 'home', '20': 'home', '63': 'home', '89': 'away'}",spain,la liga,rayo-vallecano,rcd-mallorca
+9. january 2022,13:00,1:1,"{'45': 'away', '70': 'home'}",spain,la liga,rayo-vallecano,real-betis
+26. february 2022,17:30,0:1,{'83': 'away'},spain,la liga,rayo-vallecano,real-madrid
+1. may 2022,17:30,1:1,"{'33': 'away', '78': 'home'}",spain,la liga,rayo-vallecano,real-sociedad
+13. march 2022,13:00,1:1,"{'46': 'home', '63': 'away'}",spain,la liga,rayo-vallecano,sevilla-fc
+11. april 2022,20:00,1:1,"{'57': 'away', '83': 'home'}",spain,la liga,rayo-vallecano,valencia-cf
+12. may 2022,19:00,1:5,"{'3': 'away', '21': 'home', '27': 'away', '38': 'away', '45': 'away', '88': 'away'}",spain,la liga,rayo-vallecano,villarreal-cf
+14. february 2022,20:00,3:2,"{'22': 'home', None: 'away', '88': 'home'}",spain,la liga,rcd-mallorca,athletic-bilbao
+9. april 2022,15:15,1:0,{'68': 'home'},spain,la liga,rcd-mallorca,atletico-madrid
+26. september 2021,13:00,2:3,"{'9': 'away', '11': 'home', '45': 'home', '58': 'away', '88': 'away'}",spain,la liga,rcd-mallorca,ca-osasuna
+5. february 2022,15:15,2:1,"{'8': 'away', '20': 'home', '66': 'home'}",spain,la liga,rcd-mallorca,cadiz-cf
+19. april 2022,18:00,2:1,"{'11': 'home', '45': 'home', '73': 'away'}",spain,la liga,rcd-mallorca,cd-alaves
+10. december 2021,20:00,0:0,,spain,la liga,rcd-mallorca,celta-vigo
+7. november 2021,17:30,2:2,"{'68': 'away', '72': 'home', '75': 'away', '90': 'home'}",spain,la liga,rcd-mallorca,elche-cf
+27. august 2021,19:00,1:0,{'27': 'home'},spain,la liga,rcd-mallorca,espanyol-barcelona
+2. january 2022,20:00,0:1,{'44': 'away'},spain,la liga,rcd-mallorca,fc-barcelona
+27. november 2021,17:30,0:0,,spain,la liga,rcd-mallorca,getafe-cf
+7. may 2022,13:00,2:6,"{'6': 'away', '28': 'home', '46': 'away', '55': 'away', '58': 'home', '69': 'away', '78': 'away', '90': 'away'}",spain,la liga,rcd-mallorca,granada-cf
+2. october 2021,15:15,1:0,{'75': 'home'},spain,la liga,rcd-mallorca,levante-ud
+15. may 2022,18:30,2:1,"{'13': 'home', '60': 'away', '90': 'home'}",spain,la liga,rcd-mallorca,rayo-vallecano
+14. august 2021,18:30,1:1,"{'24': 'home', '59': 'away'}",spain,la liga,rcd-mallorca,real-betis
+14. march 2022,20:00,0:3,"{'55': 'away', '76': 'away', '82': 'away'}",spain,la liga,rcd-mallorca,real-madrid
+2. march 2022,20:00,0:2,"{'35': 'away', '62': 'away'}",spain,la liga,rcd-mallorca,real-sociedad
+27. october 2021,18:00,1:1,{None: 'away'},spain,la liga,rcd-mallorca,sevilla-fc
+26. february 2022,13:00,0:1,{'4': 'away'},spain,la liga,rcd-mallorca,valencia-cf
+19. september 2021,13:00,0:0,,spain,la liga,rcd-mallorca,villarreal-cf
+13. march 2022,15:15,1:0,{'20': 'home'},spain,la liga,real-betis,athletic-bilbao
+6. march 2022,20:00,1:3,"{'2': 'away', '45': 'home', '61': 'away', '80': 'away'}",spain,la liga,real-betis,atletico-madrid
+3. april 2022,15:15,4:1,"{'34': 'home', '45': 'home', '65': 'away', '82': 'home', '88': 'home'}",spain,la liga,real-betis,ca-osasuna
+20. august 2021,20:00,1:1,"{'11': 'away', '22': 'home'}",spain,la liga,real-betis,cadiz-cf
+18. january 2022,19:00,4:0,"{'11': 'home', None: 'home'}",spain,la liga,real-betis,cd-alaves
+2. january 2022,17:30,0:2,"{'36': 'away', '45': 'away'}",spain,la liga,real-betis,celta-vigo
+19. april 2022,20:00,0:1,{'82': 'away'},spain,la liga,real-betis,elche-cf
+19. september 2021,17:30,2:2,"{'16': 'away', '41': 'home', '45': 'home', '90': 'away'}",spain,la liga,real-betis,espanyol-barcelona
+7. may 2022,20:00,1:2,"{'76': 'away', None: 'home', '90': 'away'}",spain,la liga,real-betis,fc-barcelona
+26. september 2021,20:00,2:0,"{'14': 'home', '55': 'home'}",spain,la liga,real-betis,getafe-cf
+15. may 2022,18:30,2:0,{None: 'home'},spain,la liga,real-betis,granada-cf
+28. november 2021,13:00,3:1,"{'7': 'away', '54': 'home', '63': 'home', '78': 'home'}",spain,la liga,real-betis,levante-ud
+24. october 2021,17:30,3:2,"{'22': 'home', '24': 'home', '45': 'away', '65': 'away', '75': 'home'}",spain,la liga,real-betis,rayo-vallecano
+20. february 2022,17:30,2:1,"{'25': 'home', '75': 'away', '83': 'home'}",spain,la liga,real-betis,rcd-mallorca
+28. august 2021,21:00,0:1,{'61': 'away'},spain,la liga,real-betis,real-madrid
+12. december 2021,17:30,4:0,"{'14': 'home', '57': 'home', '66': 'home', '79': 'home'}",spain,la liga,real-betis,real-sociedad
+7. november 2021,20:00,0:2,"{'55': 'away', '81': 'away'}",spain,la liga,real-betis,sevilla-fc
+27. october 2021,19:00,4:1,"{'14': 'home', '30': 'home', '39': 'away', '61': 'home', '68': 'home'}",spain,la liga,real-betis,valencia-cf
+6. february 2022,17:30,0:2,"{'41': 'away', '83': 'away'}",spain,la liga,real-betis,villarreal-cf
+1. december 2021,20:00,1:0,{None: 'home'},spain,la liga,real-madrid,athletic-bilbao
+12. december 2021,20:00,2:0,"{'16': 'home', '57': 'home'}",spain,la liga,real-madrid,atletico-madrid
+27. october 2021,20:30,0:0,,spain,la liga,real-madrid,ca-osasuna
+19. december 2021,20:00,0:0,,spain,la liga,real-madrid,cadiz-cf
+19. february 2022,20:00,3:0,"{'63': 'home', '80': 'home', '90': 'home'}",spain,la liga,real-madrid,cd-alaves
+12. september 2021,20:00,5:2,"{'4': 'away', '24': 'home', '31': 'away', '46': 'home', '55': 'home', '72': 'home', '87': 'home'}",spain,la liga,real-madrid,celta-vigo
+23. january 2022,15:15,2:2,"{'42': 'away', '76': 'away', '82': 'home', '90': 'home'}",spain,la liga,real-madrid,elche-cf
+30. april 2022,15:15,4:0,"{'33': 'home', '43': 'home', '55': 'home', '81': 'home'}",spain,la liga,real-madrid,espanyol-barcelona
+20. march 2022,20:00,0:4,"{'29': 'away', '38': 'away', '47': 'away', '51': 'away'}",spain,la liga,real-madrid,fc-barcelona
+9. april 2022,20:00,2:0,"{'38': 'home', '68': 'home'}",spain,la liga,real-madrid,getafe-cf
+6. february 2022,20:00,1:0,{'74': 'home'},spain,la liga,real-madrid,granada-cf
+12. may 2022,20:30,6:0,"{'13': 'home', '20': 'home', '34': 'home', '45': 'home', '68': 'home', '83': 'home'}",spain,la liga,real-madrid,levante-ud
+6. november 2021,20:00,2:1,"{'14': 'home', '38': 'home', '76': 'away'}",spain,la liga,real-madrid,rayo-vallecano
+22. september 2021,21:00,6:1,"{'3': 'home', '24': 'home', '25': 'away', '29': 'home', '55': 'home', '78': 'home', '84': 'home'}",spain,la liga,real-madrid,rcd-mallorca
+20. may 2022,20:00,0:0,,spain,la liga,real-madrid,real-betis
+5. march 2022,20:00,4:1,"{'10': 'away', '40': 'home', '43': 'home', '76': 'home', '79': 'home'}",spain,la liga,real-madrid,real-sociedad
+28. november 2021,20:00,2:1,"{'12': 'away', '32': 'home', '86': 'home'}",spain,la liga,real-madrid,sevilla-fc
+8. january 2022,20:00,4:1,"{'43': 'home', '52': 'home', '61': 'home', '76': 'away', '88': 'home'}",spain,la liga,real-madrid,valencia-cf
+25. september 2021,20:00,0:0,,spain,la liga,real-madrid,villarreal-cf
+31. october 2021,20:00,1:1,"{'58': 'home', None: 'away'}",spain,la liga,real-sociedad,athletic-bilbao
+22. may 2022,21:00,1:2,"{'51': 'away', '69': 'away', '90': 'home'}",spain,la liga,real-sociedad,atletico-madrid
+27. february 2022,17:30,1:0,{'52': 'home'},spain,la liga,real-sociedad,ca-osasuna
+12. may 2022,18:00,3:0,"{'19': 'home', '53': 'home', '90': 'home'}",spain,la liga,real-sociedad,cadiz-cf
+13. march 2022,17:30,1:0,{'70': 'home'},spain,la liga,real-sociedad,cd-alaves
+8. january 2022,15:15,1:0,{'13': 'home'},spain,la liga,real-sociedad,celta-vigo
+26. september 2021,17:30,1:0,{'81': 'home'},spain,la liga,real-sociedad,elche-cf
+4. april 2022,20:00,1:0,{'90': 'home'},spain,la liga,real-sociedad,espanyol-barcelona
+21. april 2022,20:30,0:1,{'11': 'away'},spain,la liga,real-sociedad,fc-barcelona
+23. january 2022,17:30,0:0,,spain,la liga,real-sociedad,getafe-cf
+13. february 2022,17:30,2:0,"{'37': 'home', None: 'home'}",spain,la liga,real-sociedad,granada-cf
+28. august 2021,18:30,1:0,{'42': 'home'},spain,la liga,real-sociedad,levante-ud
+22. august 2021,16:00,1:0,{'66': 'home'},spain,la liga,real-sociedad,rayo-vallecano
+16. october 2021,20:00,1:0,{'90': 'home'},spain,la liga,real-sociedad,rcd-mallorca
+15. april 2022,20:00,0:0,,spain,la liga,real-sociedad,real-betis
+4. december 2021,20:00,0:2,"{'47': 'away', '57': 'away'}",spain,la liga,real-sociedad,real-madrid
+19. september 2021,15:15,0:0,,spain,la liga,real-sociedad,sevilla-fc
+21. november 2021,20:00,0:0,,spain,la liga,real-sociedad,valencia-cf
+18. december 2021,15:15,1:3,"{'32': 'home', '38': 'away', '68': 'away', '90': 'away'}",spain,la liga,real-sociedad,villarreal-cf
+22. may 2022,21:00,1:0,{'68': 'home'},spain,la liga,sevilla-fc,athletic-bilbao
+18. december 2021,20:00,2:1,"{'7': 'home', '33': 'away', '88': 'home'}",spain,la liga,sevilla-fc,atletico-madrid
+30. october 2021,15:15,2:0,"{'40': 'home', '60': 'home'}",spain,la liga,sevilla-fc,ca-osasuna
+29. april 2022,20:00,1:1,"{'7': 'home', '66': 'away'}",spain,la liga,sevilla-fc,cadiz-cf
+20. november 2021,15:15,2:2,"{'5': 'away', '38': 'home', '45': 'away', '90': 'home'}",spain,la liga,sevilla-fc,cd-alaves
+22. january 2022,17:30,2:2,"{'37': 'away', '40': 'away', '71': 'home', '74': 'home'}",spain,la liga,sevilla-fc,celta-vigo
+11. february 2022,20:00,2:0,"{'70': 'home', '75': 'home'}",spain,la liga,sevilla-fc,elche-cf
+25. september 2021,17:30,2:0,"{'13': 'home', '87': 'home'}",spain,la liga,sevilla-fc,espanyol-barcelona
+21. december 2021,20:30,1:1,"{'32': 'home', '45': 'away'}",spain,la liga,sevilla-fc,fc-barcelona
+9. january 2022,15:15,1:0,{'22': 'home'},spain,la liga,sevilla-fc,getafe-cf
+8. april 2022,20:00,4:2,"{'23': 'away', '32': 'home', '66': 'home', '88': 'away', '90': 'home'}",spain,la liga,sevilla-fc,granada-cf
+24. october 2021,13:00,5:3,"{'8': 'home', '24': 'home', '33': 'away', '38': 'home', '50': 'home', '55': 'away', '61': 'away', '64': 'home'}",spain,la liga,sevilla-fc,levante-ud
+15. august 2021,21:15,3:0,"{'19': 'home', '55': 'home', '79': 'home'}",spain,la liga,sevilla-fc,rayo-vallecano
+11. may 2022,19:30,0:0,,spain,la liga,sevilla-fc,rcd-mallorca
+27. february 2022,15:15,2:1,"{'24': 'home', '41': 'home', '90': 'away'}",spain,la liga,sevilla-fc,real-betis
+17. april 2022,20:00,2:3,"{'21': 'home', '25': 'home', '50': 'away', '82': 'away', '90': 'away'}",spain,la liga,sevilla-fc,real-madrid
+20. march 2022,17:30,0:0,,spain,la liga,sevilla-fc,real-sociedad
+22. september 2021,18:30,3:1,"{'3': 'home', '15': 'home', '22': 'home', '30': 'away'}",spain,la liga,sevilla-fc,valencia-cf
+4. december 2021,13:00,1:0,{'16': 'home'},spain,la liga,sevilla-fc,villarreal-cf
+25. september 2021,15:15,1:1,"{'69': 'away', '90': 'home'}",spain,la liga,valencia-cf,athletic-bilbao
+7. november 2021,15:15,3:3,"{'35': 'away', '50': 'home', '58': 'away', '60': 'away', '90': 'home'}",spain,la liga,valencia-cf,atletico-madrid
+16. april 2022,17:30,1:2,"{'50': 'away', '74': 'away', '83': 'home'}",spain,la liga,valencia-cf,ca-osasuna
+3. april 2022,17:30,0:0,,spain,la liga,valencia-cf,cadiz-cf
+27. august 2021,21:15,3:0,"{'3': 'home', '45': 'home', '60': 'home'}",spain,la liga,valencia-cf,cd-alaves
+21. may 2022,16:30,2:0,"{None: 'home', '60': 'home'}",spain,la liga,valencia-cf,celta-vigo
+11. december 2021,17:30,2:1,"{'23': 'home', '75': 'away', '86': 'home'}",spain,la liga,valencia-cf,elche-cf
+31. december 2021,15:15,1:2,"{'51': 'home', '83': 'away', '88': 'away'}",spain,la liga,valencia-cf,espanyol-barcelona
+20. february 2022,15:15,1:4,"{'23': 'away', '32': 'away', '38': 'away', '52': 'home', None: 'away'}",spain,la liga,valencia-cf,fc-barcelona
+13. august 2021,20:00,1:0,{'11': 'home'},spain,la liga,valencia-cf,getafe-cf
+5. march 2022,17:30,3:1,"{'48': 'home', '51': 'home', '56': 'away', '62': 'home'}",spain,la liga,valencia-cf,granada-cf
+30. april 2022,17:30,1:1,"{'27': 'home', '81': 'away'}",spain,la liga,valencia-cf,levante-ud
+27. november 2021,15:15,1:1,"{'19': 'home', '64': 'away'}",spain,la liga,valencia-cf,rayo-vallecano
+23. october 2021,13:00,2:2,"{'32': 'away', '38': 'away', '90': 'home'}",spain,la liga,valencia-cf,rcd-mallorca
+10. may 2022,18:00,0:3,"{'57': 'away', '87': 'away', '90': 'away'}",spain,la liga,valencia-cf,real-betis
+19. september 2021,20:00,1:2,"{'66': 'home', '86': 'away', None: 'away'}",spain,la liga,valencia-cf,real-madrid
+6. february 2022,13:00,0:0,,spain,la liga,valencia-cf,real-sociedad
+19. january 2022,20:30,1:1,"{'7': 'away', '44': 'home'}",spain,la liga,valencia-cf,sevilla-fc
+30. october 2021,17:30,2:0,"{'43': 'home', '77': 'home'}",spain,la liga,valencia-cf,villarreal-cf
+9. april 2022,17:30,1:1,"{'43': 'away', '60': 'home'}",spain,la liga,villarreal-cf,athletic-bilbao
+9. january 2022,20:00,2:2,"{'10': 'away', '29': 'home', '58': 'home', '67': 'away'}",spain,la liga,villarreal-cf,atletico-madrid
+17. october 2021,17:30,1:2,"{'26': 'away', '55': 'home', '87': 'away'}",spain,la liga,villarreal-cf,ca-osasuna
+26. october 2021,20:30,3:3,"{'14': 'away', '43': 'home', '45': 'away', '52': 'away', '80': 'home', '90': 'home'}",spain,la liga,villarreal-cf,cadiz-cf
+21. december 2021,18:00,5:2,{None: 'home'},spain,la liga,villarreal-cf,cd-alaves
+12. march 2022,17:30,1:0,{'64': 'home'},spain,la liga,villarreal-cf,celta-vigo
+22. september 2021,21:00,4:1,"{'5': 'home', '19': 'away', '39': 'home', '60': 'home', '90': 'home'}",spain,la liga,villarreal-cf,elche-cf
+27. february 2022,13:00,5:1,"{'14': 'home', '20': 'home', '45': 'home', '53': 'home', '65': 'away', '86': 'home'}",spain,la liga,villarreal-cf,espanyol-barcelona
+27. november 2021,20:00,1:3,"{'48': 'away', '76': 'home', '88': 'away', '90': 'away'}",spain,la liga,villarreal-cf,fc-barcelona
+7. november 2021,13:00,1:0,{'10': 'home'},spain,la liga,villarreal-cf,getafe-cf
+16. august 2021,19:00,0:0,,spain,la liga,villarreal-cf,granada-cf
+3. january 2022,18:00,5:0,"{'8': 'home', '13': 'home', '37': 'home', '74': 'home', '79': 'home'}",spain,la liga,villarreal-cf,levante-ud
+12. december 2021,13:00,2:0,"{'32': 'home', '36': 'home'}",spain,la liga,villarreal-cf,rayo-vallecano
+22. january 2022,15:15,3:0,"{'12': 'home', '34': 'home', '87': 'home'}",spain,la liga,villarreal-cf,rcd-mallorca
+3. october 2021,17:30,2:0,"{'45': 'home', '69': 'home'}",spain,la liga,villarreal-cf,real-betis
+12. february 2022,15:15,0:0,,spain,la liga,villarreal-cf,real-madrid
+15. may 2022,18:30,1:2,"{'43': 'home', '56': 'away', '73': 'away'}",spain,la liga,villarreal-cf,real-sociedad
+8. may 2022,15:15,1:1,"{None: 'home', '90': 'away'}",spain,la liga,villarreal-cf,sevilla-fc
+19. april 2022,20:30,2:0,"{'10': 'home', '17': 'home'}",spain,la liga,villarreal-cf,valencia-cf

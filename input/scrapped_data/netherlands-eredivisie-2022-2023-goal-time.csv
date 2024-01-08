@@ -1,0 +1,307 @@
+date,time,final_score,country,league,home,away,goals
+6. may 2023,20:00,0:0,netherlands,eredivisie,afc-ajax,az-alkmaar,
+16. april 2023,19:00,3:1,netherlands,eredivisie,afc-ajax,fc-emmen,"{'22': 'home', '37': 'home', '59': 'away', '79': 'home'}"
+14. august 2022,13:30,6:1,netherlands,eredivisie,afc-ajax,fc-groningen,"{'4': 'home', '10': 'away', '28': 'home', '45': 'home', '57': 'home', '66': 'home', '88': 'home'}"
+14. january 2023,20:00,0:0,netherlands,eredivisie,afc-ajax,fc-twente,
+21. may 2023,13:30,3:1,netherlands,eredivisie,afc-ajax,fc-utrecht,"{'20': 'home', '49': 'away', '68': 'home', '90': 'home'}"
+26. january 2023,20:00,1:1,netherlands,eredivisie,afc-ajax,fc-volendam,"{'59': 'away', '80': 'home'}"
+19. march 2023,13:30,2:3,netherlands,eredivisie,afc-ajax,feyenoord,"{'5': 'away', '17': 'home', '37': 'home', '52': 'away', '86': 'away'}"
+9. april 2023,15:45,4:0,netherlands,eredivisie,afc-ajax,fortuna-sittard,"{'6': 'home', '27': 'home', '54': 'home', '86': 'home'}"
+1. october 2022,19:00,1:1,netherlands,eredivisie,afc-ajax,go-ahead-eagles,"{'45': 'home', '78': 'away'}"
+5. march 2023,15:45,1:0,netherlands,eredivisie,afc-ajax,nec-nijmegen,{'52': 'home'}
+6. november 2022,15:45,1:2,netherlands,eredivisie,afc-ajax,psv-eindhoven,"{'23': 'away', '50': 'away', '83': 'home'}"
+12. february 2023,15:45,3:1,netherlands,eredivisie,afc-ajax,rkc-waalwijk,"{'17': 'away', '50': 'home', '78': 'home', '81': 'home'}"
+16. october 2022,19:00,7:1,netherlands,eredivisie,afc-ajax,sbv-excelsior,"{'15': 'home', '26': 'home', '44': 'home', '59': 'home', '64': 'home', '75': 'home', '81': 'home', '90': 'away'}"
+3. september 2022,15:30,4:0,netherlands,eredivisie,afc-ajax,sc-cambuur,"{'35': 'home', '40': 'home', None: 'home', '64': 'home'}"
+10. september 2022,17:45,5:0,netherlands,eredivisie,afc-ajax,sc-heerenveen,"{'4': 'home', '16': 'home', '48': 'home', '59': 'home', '70': 'home'}"
+19. february 2023,15:45,4:0,netherlands,eredivisie,afc-ajax,sparta-rotterdam,"{'6': 'home', '27': 'home', '64': 'home', '84': 'home'}"
+9. november 2022,19:00,2:2,netherlands,eredivisie,afc-ajax,vitesse,"{'6': 'home', '25': 'away', '74': 'away', '79': 'home'}"
+18. september 2022,15:45,2:1,netherlands,eredivisie,az-alkmaar,afc-ajax,"{'12': 'away', '40': 'home', '45': 'home'}"
+14. may 2023,19:00,5:1,netherlands,eredivisie,az-alkmaar,fc-emmen,"{'13': 'home', '15': 'home', '23': 'home', '28': 'home', '45': 'home', '50': 'away'}"
+11. march 2023,19:00,1:0,netherlands,eredivisie,az-alkmaar,fc-groningen,{'4': 'home'}
+11. september 2022,15:45,1:1,netherlands,eredivisie,az-alkmaar,fc-twente,"{'54': 'home', '81': 'away'}"
+28. january 2023,20:00,5:5,netherlands,eredivisie,az-alkmaar,fc-utrecht,"{'12': 'away', '16': 'away', '20': 'home', '31': 'home', '34': 'home', '41': 'away', '65': 'away', '70': 'home', '78': 'home', '80': 'away'}"
+30. october 2022,15:45,2:1,netherlands,eredivisie,az-alkmaar,fc-volendam,"{'20': 'home', '40': 'home', '48': 'away'}"
+16. october 2022,15:45,1:3,netherlands,eredivisie,az-alkmaar,feyenoord,"{'26': 'home', '31': 'away', '56': 'away', '82': 'away'}"
+22. january 2023,15:45,3:1,netherlands,eredivisie,az-alkmaar,fortuna-sittard,"{'4': 'home', '11': 'away', '24': 'home', '56': 'home'}"
+7. august 2022,15:45,2:0,netherlands,eredivisie,az-alkmaar,go-ahead-eagles,"{'70': 'home', '86': 'home'}"
+1. september 2022,19:00,1:1,netherlands,eredivisie,az-alkmaar,nec-nijmegen,"{'54': 'away', '57': 'home'}"
+28. may 2023,13:30,1:2,netherlands,eredivisie,az-alkmaar,psv-eindhoven,"{'65': 'away', '84': 'home', '90': 'away'}"
+23. april 2023,19:00,3:0,netherlands,eredivisie,az-alkmaar,rkc-waalwijk,"{'8': 'home', '50': 'home', '63': 'home'}"
+10. february 2023,19:00,5:0,netherlands,eredivisie,az-alkmaar,sbv-excelsior,"{'20': 'home', '27': 'home', '30': 'home', '35': 'home', '38': 'home'}"
+25. february 2023,19:00,2:1,netherlands,eredivisie,az-alkmaar,sc-cambuur,"{'40': 'home', '73': 'home', '85': 'away'}"
+1. april 2023,15:30,1:1,netherlands,eredivisie,az-alkmaar,sc-heerenveen,"{'5': 'away', '75': 'home'}"
+8. april 2023,19:00,0:1,netherlands,eredivisie,az-alkmaar,sparta-rotterdam,{'45': 'away'}
+7. january 2023,17:45,1:1,netherlands,eredivisie,az-alkmaar,vitesse,"{'77': 'home', '87': 'away'}"
+12. november 2022,17:45,3:3,netherlands,eredivisie,fc-emmen,afc-ajax,"{'6': 'home', '8': 'away', '21': 'away', '25': 'away', '58': 'home', '84': 'home'}"
+4. september 2022,13:30,0:3,netherlands,eredivisie,fc-emmen,az-alkmaar,"{'21': 'away', '27': 'away', '34': 'away'}"
+30. october 2022,11:15,0:0,netherlands,eredivisie,fc-emmen,fc-groningen,
+7. may 2023,11:15,0:3,netherlands,eredivisie,fc-emmen,fc-twente,"{'70': 'away', '75': 'away', '90': 'away'}"
+20. august 2022,20:00,3:2,netherlands,eredivisie,fc-emmen,fc-utrecht,"{'10': 'away', '27': 'home', '34': 'away', '59': 'home', '79': 'home'}"
+14. october 2022,19:00,1:1,netherlands,eredivisie,fc-emmen,fc-volendam,"{'64': 'away', '67': 'home'}"
+21. may 2023,13:30,1:3,netherlands,eredivisie,fc-emmen,feyenoord,"{'15': 'home', '30': 'away', '80': 'away', '86': 'away'}"
+11. february 2023,20:00,0:1,netherlands,eredivisie,fc-emmen,fortuna-sittard,{'76': 'away'}
+26. february 2023,13:30,2:2,netherlands,eredivisie,fc-emmen,go-ahead-eagles,"{'9': 'away', '40': 'home', '61': 'away', '90': 'home'}"
+9. april 2023,13:30,0:0,netherlands,eredivisie,fc-emmen,nec-nijmegen,
+24. january 2023,17:45,1:0,netherlands,eredivisie,fc-emmen,psv-eindhoven,{'24': 'home'}
+13. august 2022,19:00,1:1,netherlands,eredivisie,fc-emmen,rkc-waalwijk,"{'58': 'home', '89': 'away'}"
+11. march 2023,15:30,2:0,netherlands,eredivisie,fc-emmen,sbv-excelsior,"{'63': 'home', '71': 'home'}"
+15. january 2023,15:45,0:0,netherlands,eredivisie,fc-emmen,sc-cambuur,
+2. october 2022,19:00,0:0,netherlands,eredivisie,fc-emmen,sc-heerenveen,
+18. march 2023,17:45,0:2,netherlands,eredivisie,fc-emmen,sparta-rotterdam,"{'44': 'away', '89': 'away'}"
+4. february 2023,19:00,2:2,netherlands,eredivisie,fc-emmen,vitesse,"{'33': 'away', '38': 'away', '43': 'home', '87': 'home'}"
+16. may 2023,14:00,2:3,netherlands,eredivisie,fc-groningen,afc-ajax,"{'18': 'away', '38': 'home', '68': 'away', '81': 'away', '87': 'home'}"
+1. october 2022,17:45,1:4,netherlands,eredivisie,fc-groningen,az-alkmaar,"{'3': 'away', '19': 'away', '42': 'home', '61': 'away', '85': 'away'}"
+18. february 2023,17:45,1:1,netherlands,eredivisie,fc-groningen,fc-emmen,"{'12': 'home', '14': 'away'}"
+5. february 2023,15:45,1:1,netherlands,eredivisie,fc-groningen,fc-twente,"{'5': 'away', '69': 'home'}"
+7. april 2023,19:00,1:2,netherlands,eredivisie,fc-groningen,fc-utrecht,"{'45': 'home', '76': 'away'}"
+7. august 2022,11:15,2:2,netherlands,eredivisie,fc-groningen,fc-volendam,"{'2': 'home', '34': 'home', '38': 'away', '68': 'away'}"
+15. january 2023,15:45,0:3,netherlands,eredivisie,fc-groningen,feyenoord,"{'19': 'away', '30': 'away', '90': 'away'}"
+13. november 2022,13:30,2:3,netherlands,eredivisie,fc-groningen,fortuna-sittard,"{'45': 'home', '78': 'away', '84': 'away', '90': 'away'}"
+21. august 2022,11:15,1:0,netherlands,eredivisie,fc-groningen,go-ahead-eagles,{'3': 'home'}
+25. april 2023,14:00,0:1,netherlands,eredivisie,fc-groningen,nec-nijmegen,{'84': 'away'}
+23. october 2022,13:30,4:2,netherlands,eredivisie,fc-groningen,psv-eindhoven,"{'39': 'home', '43': 'home', '45': 'away', '76': 'away', '90': 'home'}"
+7. october 2022,19:00,2:3,netherlands,eredivisie,fc-groningen,rkc-waalwijk,"{'14': 'home', '38': 'away', '61': 'away', '76': 'home', '80': 'away'}"
+25. february 2023,15:30,3:0,netherlands,eredivisie,fc-groningen,sbv-excelsior,"{'13': 'home', '50': 'home', '66': 'home'}"
+26. january 2023,17:45,0:1,netherlands,eredivisie,fc-groningen,sc-cambuur,{'77': 'away'}
+19. march 2023,11:15,0:2,netherlands,eredivisie,fc-groningen,sc-heerenveen,"{'27': 'away', '40': 'away'}"
+28. may 2023,13:30,0:5,netherlands,eredivisie,fc-groningen,sparta-rotterdam,"{'25': 'away', '58': 'away', '75': 'away', '79': 'away', '89': 'away'}"
+4. september 2022,15:45,0:1,netherlands,eredivisie,fc-groningen,vitesse,{'77': 'away'}
+28. may 2023,13:30,3:1,netherlands,eredivisie,fc-twente,afc-ajax,"{'31': 'away', '46': 'home', '51': 'home', '75': 'home'}"
+19. march 2023,19:00,2:1,netherlands,eredivisie,fc-twente,az-alkmaar,"{'8': 'home', '11': 'home', '66': 'away'}"
+6. january 2023,19:00,2:0,netherlands,eredivisie,fc-twente,fc-emmen,"{'5': 'home', '67': 'home'}"
+16. october 2022,13:30,3:0,netherlands,eredivisie,fc-twente,fc-groningen,"{'48': 'home', '55': 'home', '84': 'home'}"
+22. january 2023,13:30,2:0,netherlands,eredivisie,fc-twente,fc-utrecht,"{'45': 'home', '64': 'home'}"
+12. february 2023,15:45,3:0,netherlands,eredivisie,fc-twente,fc-volendam,"{'16': 'home', '17': 'home', '20': 'home'}"
+29. january 2023,11:15,1:1,netherlands,eredivisie,fc-twente,feyenoord,"{'30': 'away', '68': 'home'}"
+14. august 2022,13:30,3:0,netherlands,eredivisie,fc-twente,fortuna-sittard,"{'22': 'home', '44': 'home', '53': 'home'}"
+6. november 2022,13:30,1:1,netherlands,eredivisie,fc-twente,go-ahead-eagles,"{'34': 'home', '90': 'away'}"
+12. may 2023,19:00,4:0,netherlands,eredivisie,fc-twente,nec-nijmegen,"{'38': 'home', '61': 'home', '76': 'home', None: 'home'}"
+3. september 2022,17:45,2:1,netherlands,eredivisie,fc-twente,psv-eindhoven,"{'17': 'home', '24': 'home', '55': 'away'}"
+30. october 2022,13:30,3:0,netherlands,eredivisie,fc-twente,rkc-waalwijk,"{'34': 'home', '45': 'home', '89': 'home'}"
+31. august 2022,20:00,4:0,netherlands,eredivisie,fc-twente,sbv-excelsior,"{'1': 'home', '8': 'home', '62': 'home', '90': 'home'}"
+9. april 2023,11:15,4:0,netherlands,eredivisie,fc-twente,sc-cambuur,"{'12': 'home', '28': 'home', '36': 'home', '77': 'home'}"
+4. march 2023,20:00,3:3,netherlands,eredivisie,fc-twente,sc-heerenveen,"{'25': 'away', '34': 'home', '48': 'home', '55': 'home', '59': 'away', '90': 'away'}"
+23. april 2023,11:15,3:3,netherlands,eredivisie,fc-twente,sparta-rotterdam,"{'22': 'home', '32': 'away', '42': 'away', '65': 'home', '67': 'home', '90': 'away'}"
+1. october 2022,20:00,3:0,netherlands,eredivisie,fc-twente,vitesse,"{'37': 'home', '74': 'home', '90': 'home'}"
+28. august 2022,11:15,0:2,netherlands,eredivisie,fc-utrecht,afc-ajax,"{'10': 'away', '45': 'away'}"
+9. october 2022,13:30,1:2,netherlands,eredivisie,fc-utrecht,az-alkmaar,"{'31': 'away', '68': 'away', '90': 'home'}"
+28. may 2023,13:30,3:2,netherlands,eredivisie,fc-utrecht,fc-emmen,"{'2': 'home', '35': 'away', '53': 'home', '58': 'away', '79': 'home'}"
+6. november 2022,11:15,2:1,netherlands,eredivisie,fc-utrecht,fc-groningen,"{'40': 'away', '62': 'home', '84': 'home'}"
+16. april 2023,13:30,1:0,netherlands,eredivisie,fc-utrecht,fc-twente,{'70': 'home'}
+2. april 2023,13:30,0:0,netherlands,eredivisie,fc-utrecht,fc-volendam,
+8. january 2023,11:15,1:1,netherlands,eredivisie,fc-utrecht,feyenoord,"{'3': 'home', '90': 'away'}"
+3. march 2023,19:00,1:2,netherlands,eredivisie,fc-utrecht,fortuna-sittard,"{'59': 'home', '68': 'away', '87': 'away'}"
+18. march 2023,15:30,1:2,netherlands,eredivisie,fc-utrecht,go-ahead-eagles,"{'41': 'home', '45': 'away', '90': 'away'}"
+16. september 2022,19:00,0:0,netherlands,eredivisie,fc-utrecht,nec-nijmegen,
+19. february 2023,13:30,2:2,netherlands,eredivisie,fc-utrecht,psv-eindhoven,"{'33': 'home', '41': 'away', '57': 'away', '60': 'home'}"
+13. may 2023,20:00,2:0,netherlands,eredivisie,fc-utrecht,rkc-waalwijk,"{'60': 'home', '90': 'home'}"
+25. january 2023,20:00,1:0,netherlands,eredivisie,fc-utrecht,sbv-excelsior,{'6': 'home'}
+13. august 2022,19:00,0:0,netherlands,eredivisie,fc-utrecht,sc-cambuur,
+4. february 2023,19:00,1:0,netherlands,eredivisie,fc-utrecht,sc-heerenveen,{'69': 'home'}
+23. october 2022,15:45,3:1,netherlands,eredivisie,fc-utrecht,sparta-rotterdam,"{'6': 'home', '48': 'home', '79': 'home', '84': 'away'}"
+11. september 2022,11:15,1:0,netherlands,eredivisie,fc-utrecht,vitesse,{'84': 'home'}
+8. october 2022,15:30,2:4,netherlands,eredivisie,fc-volendam,afc-ajax,"{'17': 'away', '39': 'away', '64': 'away', '74': 'home', '86': 'home', '90': 'away'}"
+4. february 2023,17:45,1:1,netherlands,eredivisie,fc-volendam,az-alkmaar,"{'62': 'home', '83': 'away'}"
+4. march 2023,17:45,3:1,netherlands,eredivisie,fc-volendam,fc-emmen,"{'46': 'away', '67': 'home', '88': 'home', '90': 'home'}"
+29. january 2023,13:30,3:2,netherlands,eredivisie,fc-volendam,fc-groningen,"{'21': 'home', '50': 'away', '55': 'home', '73': 'away', '78': 'home'}"
+28. august 2022,13:30,1:0,netherlands,eredivisie,fc-volendam,fc-twente,{'83': 'home'}
+12. november 2022,15:30,0:4,netherlands,eredivisie,fc-volendam,fc-utrecht,"{'14': 'away', '73': 'away', '84': 'away', '90': 'away'}"
+6. november 2022,13:30,0:2,netherlands,eredivisie,fc-volendam,feyenoord,"{'16': 'away', '43': 'away'}"
+17. march 2023,19:00,2:1,netherlands,eredivisie,fc-volendam,fortuna-sittard,"{'42': 'home', '52': 'home', '62': 'away'}"
+9. september 2022,19:00,2:3,netherlands,eredivisie,fc-volendam,go-ahead-eagles,"{'23': 'away', '31': 'home', '77': 'away', '82': 'away', '90': 'home'}"
+14. august 2022,11:15,1:4,netherlands,eredivisie,fc-volendam,nec-nijmegen,"{'11': 'home', '17': 'away', '19': 'away', '76': 'away', '90': 'away'}"
+16. april 2023,13:30,2:3,netherlands,eredivisie,fc-volendam,psv-eindhoven,"{'33': 'away', '40': 'away', '55': 'home', '58': 'away', '61': 'home'}"
+14. january 2023,17:45,2:1,netherlands,eredivisie,fc-volendam,rkc-waalwijk,"{'63': 'away', '69': 'home', '81': 'home'}"
+28. may 2023,13:30,3:2,netherlands,eredivisie,fc-volendam,sbv-excelsior,"{'10': 'home', '23': 'home', '27': 'home', '56': 'away', '78': 'away'}"
+21. april 2023,19:00,2:0,netherlands,eredivisie,fc-volendam,sc-cambuur,"{'39': 'home', '90': 'home'}"
+23. october 2022,19:00,1:3,netherlands,eredivisie,fc-volendam,sc-heerenveen,"{'24': 'away', '43': 'home', '85': 'away', '87': 'away'}"
+13. may 2023,17:45,2:1,netherlands,eredivisie,fc-volendam,sparta-rotterdam,"{'5': 'away', '37': 'home', '90': 'home'}"
+18. february 2023,15:30,2:0,netherlands,eredivisie,fc-volendam,vitesse,"{'12': 'home', '68': 'home'}"
+22. january 2023,13:30,1:1,netherlands,eredivisie,feyenoord,afc-ajax,"{'34': 'home', '71': 'away'}"
+18. february 2023,20:00,2:1,netherlands,eredivisie,feyenoord,az-alkmaar,"{'17': 'away', '45': 'home', '90': 'home'}"
+27. august 2022,19:00,4:0,netherlands,eredivisie,feyenoord,fc-emmen,"{'60': 'home', '85': 'home', '88': 'home', '90': 'home'}"
+4. march 2023,19:00,1:0,netherlands,eredivisie,feyenoord,fc-groningen,{'88': 'home'}
+9. october 2022,13:30,2:0,netherlands,eredivisie,feyenoord,fc-twente,"{'43': 'home', '64': 'home'}"
+23. april 2023,15:45,3:1,netherlands,eredivisie,feyenoord,fc-utrecht,"{'15': 'home', '54': 'home', '82': 'home', '89': 'away'}"
+12. march 2023,19:00,2:1,netherlands,eredivisie,feyenoord,fc-volendam,"{'12': 'away', '52': 'home', '74': 'home'}"
+22. october 2022,15:30,1:1,netherlands,eredivisie,feyenoord,fortuna-sittard,"{'9': 'away', '46': 'home'}"
+14. may 2023,15:45,3:0,netherlands,eredivisie,feyenoord,go-ahead-eagles,"{'15': 'home', '18': 'home', '54': 'home'}"
+25. january 2023,20:00,2:0,netherlands,eredivisie,feyenoord,nec-nijmegen,"{'9': 'home', '45': 'home'}"
+5. february 2023,13:30,2:2,netherlands,eredivisie,feyenoord,psv-eindhoven,"{'8': 'away', '68': 'away', '81': 'home', '90': 'home'}"
+9. april 2023,19:00,5:1,netherlands,eredivisie,feyenoord,rkc-waalwijk,"{'29': 'home', '31': 'home', '39': 'home', '53': 'home', '61': 'home', '68': 'away'}"
+13. november 2022,15:45,5:1,netherlands,eredivisie,feyenoord,sbv-excelsior,"{'4': 'away', '11': 'home', '20': 'home', '50': 'home', '66': 'home', '78': 'home'}"
+10. november 2022,19:00,1:0,netherlands,eredivisie,feyenoord,sc-cambuur,{'4': 'home'}
+13. august 2022,20:00,0:0,netherlands,eredivisie,feyenoord,sc-heerenveen,
+11. september 2022,19:00,3:0,netherlands,eredivisie,feyenoord,sparta-rotterdam,"{'5': 'home', '35': 'home', '73': 'home'}"
+28. may 2023,13:30,0:1,netherlands,eredivisie,feyenoord,vitesse,{'43': 'away'}
+6. august 2022,15:30,2:3,netherlands,eredivisie,fortuna-sittard,afc-ajax,"{'6': 'home', '48': 'away', '51': 'away', '62': 'away', '87': 'home'}"
+16. april 2023,19:00,0:3,netherlands,eredivisie,fortuna-sittard,az-alkmaar,"{'24': 'away', '42': 'away', '84': 'away'}"
+5. november 2022,17:45,0:1,netherlands,eredivisie,fortuna-sittard,fc-emmen,{'58': 'away'}
+2. april 2023,15:45,3:1,netherlands,eredivisie,fortuna-sittard,fc-groningen,"{'3': 'home', '44': 'home', '76': 'away', '90': 'home'}"
+11. march 2023,17:45,0:3,netherlands,eredivisie,fortuna-sittard,fc-twente,"{'67': 'away', '71': 'away', '77': 'away'}"
+2. september 2022,19:00,3:4,netherlands,eredivisie,fortuna-sittard,fc-utrecht,"{'64': 'away', '67': 'home', '70': 'away', '77': 'away', '82': 'home', '86': 'away', '90': 'home'}"
+2. october 2022,11:15,2:0,netherlands,eredivisie,fortuna-sittard,fc-volendam,"{'33': 'home', '44': 'home'}"
+26. february 2023,11:15,2:4,netherlands,eredivisie,fortuna-sittard,feyenoord,"{'10': 'away', '16': 'away', '43': 'away', '48': 'home', '63': 'away', '84': 'home'}"
+7. january 2023,19:00,0:2,netherlands,eredivisie,fortuna-sittard,go-ahead-eagles,"{'21': 'away', '44': 'away'}"
+28. may 2023,13:30,1:1,netherlands,eredivisie,fortuna-sittard,nec-nijmegen,"{'65': 'away', '90': 'home'}"
+15. january 2023,13:30,2:2,netherlands,eredivisie,fortuna-sittard,psv-eindhoven,"{'45': 'home', '65': 'away', '76': 'away', '90': 'home'}"
+15. october 2022,17:45,0:0,netherlands,eredivisie,fortuna-sittard,rkc-waalwijk,
+17. september 2022,20:00,1:0,netherlands,eredivisie,fortuna-sittard,sbv-excelsior,{'87': 'home'}
+20. august 2022,17:45,1:4,netherlands,eredivisie,fortuna-sittard,sc-cambuur,"{'10': 'home', '47': 'away', '79': 'away', '87': 'away', '90': 'away'}"
+25. january 2023,19:00,2:0,netherlands,eredivisie,fortuna-sittard,sc-heerenveen,"{'58': 'home', '90': 'home'}"
+3. february 2023,19:00,0:0,netherlands,eredivisie,fortuna-sittard,sparta-rotterdam,
+7. may 2023,15:45,2:0,netherlands,eredivisie,fortuna-sittard,vitesse,"{'51': 'home', '76': 'home'}"
+2. april 2023,11:15,0:0,netherlands,eredivisie,go-ahead-eagles,afc-ajax,
+25. january 2023,17:45,1:4,netherlands,eredivisie,go-ahead-eagles,az-alkmaar,"{'38': 'away', '57': 'away', '87': 'away', '90': 'away'}"
+18. september 2022,11:15,2:0,netherlands,eredivisie,go-ahead-eagles,fc-emmen,"{'31': 'home', '57': 'home'}"
+7. may 2023,13:30,1:1,netherlands,eredivisie,go-ahead-eagles,fc-groningen,"{'6': 'away', '30': 'home'}"
+19. february 2023,13:30,2:0,netherlands,eredivisie,go-ahead-eagles,fc-twente,"{'6': 'home', '16': 'home'}"
+15. january 2023,13:30,2:2,netherlands,eredivisie,go-ahead-eagles,fc-utrecht,"{'3': 'away', '10': 'home', '13': 'away', '90': 'home'}"
+21. may 2023,13:30,3:0,netherlands,eredivisie,go-ahead-eagles,fc-volendam,"{'45': 'home', '51': 'home', '65': 'home'}"
+3. september 2022,20:00,3:4,netherlands,eredivisie,go-ahead-eagles,feyenoord,"{'3': 'home', '13': 'home', '24': 'away', '42': 'away', '56': 'away', '79': 'away', '90': 'home'}"
+23. april 2023,13:30,2:0,netherlands,eredivisie,go-ahead-eagles,fortuna-sittard,"{'17': 'home', '75': 'home'}"
+5. february 2023,13:30,1:0,netherlands,eredivisie,go-ahead-eagles,nec-nijmegen,{'35': 'home'}
+13. august 2022,17:45,2:5,netherlands,eredivisie,go-ahead-eagles,psv-eindhoven,"{'3': 'away', '14': 'home', '45': 'away', '76': 'away', '80': 'home', '89': 'away'}"
+19. april 2023,17:45,3:2,netherlands,eredivisie,go-ahead-eagles,rkc-waalwijk,"{'8': 'away', '15': 'home', '23': 'home', '55': 'away', '90': 'home'}"
+29. october 2022,20:00,3:1,netherlands,eredivisie,go-ahead-eagles,sbv-excelsior,"{'39': 'home', '41': 'home', '60': 'home', '72': 'away'}"
+9. october 2022,11:15,0:0,netherlands,eredivisie,go-ahead-eagles,sc-cambuur,
+15. october 2022,19:00,1:1,netherlands,eredivisie,go-ahead-eagles,sc-heerenveen,"{'52': 'away', '90': 'home'}"
+27. august 2022,15:30,0:1,netherlands,eredivisie,go-ahead-eagles,sparta-rotterdam,{'18': 'away'}
+13. november 2022,19:00,2:2,netherlands,eredivisie,go-ahead-eagles,vitesse,"{'8': 'home', '20': 'home', '49': 'away', '90': 'away'}"
+8. january 2023,13:30,1:1,netherlands,eredivisie,nec-nijmegen,afc-ajax,"{'38': 'away', '52': 'home'}"
+21. may 2023,13:30,0:3,netherlands,eredivisie,nec-nijmegen,az-alkmaar,"{'28': 'away', '43': 'away', '50': 'away'}"
+21. january 2023,17:45,3:1,netherlands,eredivisie,nec-nijmegen,fc-emmen,"{'12': 'home', '35': 'home', '44': 'away', '52': 'home'}"
+26. august 2022,19:00,1:1,netherlands,eredivisie,nec-nijmegen,fc-groningen,"{'75': 'away', '88': 'home'}"
+7. august 2022,13:30,0:1,netherlands,eredivisie,nec-nijmegen,fc-twente,{'90': 'away'}
+12. march 2023,11:15,2:2,netherlands,eredivisie,nec-nijmegen,fc-utrecht,"{'31': 'home', '48': 'home', '63': 'away', '67': 'away'}"
+25. february 2023,20:00,3:0,netherlands,eredivisie,nec-nijmegen,fc-volendam,"{'58': 'home', '66': 'home', '90': 'home'}"
+2. october 2022,13:30,1:1,netherlands,eredivisie,nec-nijmegen,feyenoord,"{'23': 'away', '37': 'home'}"
+10. september 2022,15:30,1:1,netherlands,eredivisie,nec-nijmegen,fortuna-sittard,"{'71': 'away', '90': 'home'}"
+23. october 2022,13:30,3:3,netherlands,eredivisie,nec-nijmegen,go-ahead-eagles,"{'3': 'home', '9': 'away', '41': 'away', '50': 'away', '78': 'home', '90': 'home'}"
+1. april 2023,19:00,2:4,netherlands,eredivisie,nec-nijmegen,psv-eindhoven,"{'7': 'away', '21': 'away', '39': 'away', '50': 'away', '59': 'home', '87': 'home'}"
+13. november 2022,11:15,6:1,netherlands,eredivisie,nec-nijmegen,rkc-waalwijk,"{'4': 'away', '38': 'home', '50': 'home', '73': 'home', '78': 'home', '88': 'home', '90': 'home'}"
+8. october 2022,20:00,1:1,netherlands,eredivisie,nec-nijmegen,sbv-excelsior,"{'59': 'home', '88': 'away'}"
+11. february 2023,17:45,0:0,netherlands,eredivisie,nec-nijmegen,sc-cambuur,
+6. may 2023,19:00,2:3,netherlands,eredivisie,nec-nijmegen,sc-heerenveen,"{'27': 'away', '37': 'home', '61': 'home', '82': 'away', '87': 'away'}"
+28. january 2023,19:00,1:1,netherlands,eredivisie,nec-nijmegen,sparta-rotterdam,"{'58': 'away', '80': 'home'}"
+16. april 2023,11:15,1:4,netherlands,eredivisie,nec-nijmegen,vitesse,"{'25': 'away', '28': 'away', '68': 'away', '70': 'home', '83': 'away'}"
+23. april 2023,13:30,3:0,netherlands,eredivisie,psv-eindhoven,afc-ajax,"{'13': 'home', '54': 'home', '78': 'home'}"
+12. november 2022,20:00,0:1,netherlands,eredivisie,psv-eindhoven,az-alkmaar,{'17': 'away'}
+6. august 2022,19:00,4:1,netherlands,eredivisie,psv-eindhoven,fc-emmen,"{'18': 'home', '26': 'home', '38': 'home', '54': 'home', '62': 'away'}"
+11. february 2023,19:00,6:0,netherlands,eredivisie,psv-eindhoven,fc-groningen,"{'27': 'home', '46': 'home', '69': 'home', '73': 'home', '84': 'home', '88': 'home'}"
+26. february 2023,15:45,3:1,netherlands,eredivisie,psv-eindhoven,fc-twente,"{'9': 'home', '47': 'away', '57': 'home', '74': 'home'}"
+16. october 2022,13:30,6:1,netherlands,eredivisie,psv-eindhoven,fc-utrecht,"{'8': 'home', '24': 'away', '33': 'home', '38': 'home', '60': 'home', '86': 'home', '89': 'home'}"
+31. august 2022,17:45,7:1,netherlands,eredivisie,psv-eindhoven,fc-volendam,"{'1': 'home', '25': 'home', '39': 'home', '40': 'away', '47': 'home', '51': 'home', '67': 'home', '79': 'home'}"
+18. september 2022,13:30,4:3,netherlands,eredivisie,psv-eindhoven,feyenoord,"{'3': 'away', '16': 'home', '25': 'home', '42': 'away', '47': 'home', '73': 'away', '83': 'home'}"
+14. may 2023,19:00,2:1,netherlands,eredivisie,psv-eindhoven,fortuna-sittard,"{'4': 'away', '25': 'home', '82': 'home'}"
+28. january 2023,15:30,2:0,netherlands,eredivisie,psv-eindhoven,go-ahead-eagles,"{'14': 'home', '64': 'home'}"
+30. october 2022,13:30,3:0,netherlands,eredivisie,psv-eindhoven,nec-nijmegen,"{'18': 'home', '50': 'home', '84': 'home'}"
+11. september 2022,13:30,1:0,netherlands,eredivisie,psv-eindhoven,rkc-waalwijk,{'90': 'home'}
+8. april 2023,19:00,4:0,netherlands,eredivisie,psv-eindhoven,sbv-excelsior,"{'12': 'home', '78': 'home', '82': 'home', '87': 'home'}"
+12. march 2023,15:45,5:2,netherlands,eredivisie,psv-eindhoven,sc-cambuur,"{'22': 'away', '25': 'home', '54': 'home', '56': 'home', '61': 'away', '65': 'home', '88': 'home'}"
+21. may 2023,13:30,3:3,netherlands,eredivisie,psv-eindhoven,sc-heerenveen,"{'14': 'home', '33': 'away', '45': 'away', '58': 'away', '79': 'home', '85': 'home'}"
+7. january 2023,20:00,0:0,netherlands,eredivisie,psv-eindhoven,sparta-rotterdam,
+21. january 2023,19:00,1:0,netherlands,eredivisie,psv-eindhoven,vitesse,{'48': 'home'}
+22. october 2022,17:45,1:4,netherlands,eredivisie,rkc-waalwijk,afc-ajax,"{'22': 'away', '40': 'home', '53': 'away', '62': 'away', '81': 'away'}"
+6. november 2022,15:45,3:1,netherlands,eredivisie,rkc-waalwijk,az-alkmaar,"{'9': 'away', '32': 'home', '87': 'home', '90': 'home'}"
+28. january 2023,17:45,2:0,netherlands,eredivisie,rkc-waalwijk,fc-emmen,"{'3': 'home', '28': 'home'}"
+15. april 2023,17:45,2:1,netherlands,eredivisie,rkc-waalwijk,fc-groningen,"{'64': 'home', '67': 'away', '86': 'home'}"
+21. may 2023,13:30,0:5,netherlands,eredivisie,rkc-waalwijk,fc-twente,"{'10': 'away', '34': 'away', '50': 'away', '74': 'away', '86': 'away'}"
+6. august 2022,20:00,2:2,netherlands,eredivisie,rkc-waalwijk,fc-utrecht,"{'15': 'home', '45': 'home', '52': 'away', '85': 'away'}"
+5. may 2023,19:00,4:1,netherlands,eredivisie,rkc-waalwijk,fc-volendam,"{'3': 'home', '35': 'home', '49': 'home', '52': 'away', '88': 'home'}"
+21. august 2022,15:45,0:1,netherlands,eredivisie,rkc-waalwijk,feyenoord,{'68': 'away'}
+17. february 2023,19:00,3:1,netherlands,eredivisie,rkc-waalwijk,fortuna-sittard,"{'49': 'away', '76': 'home', None: 'home', '90': 'home'}"
+1. february 2023,19:00,3:1,netherlands,eredivisie,rkc-waalwijk,go-ahead-eagles,"{'23': 'home', '45': 'away', '71': 'home', '78': 'home'}"
+18. march 2023,20:00,1:3,netherlands,eredivisie,rkc-waalwijk,nec-nijmegen,"{'18': 'away', '26': 'away', '31': 'away', '61': 'home'}"
+5. march 2023,13:30,0:1,netherlands,eredivisie,rkc-waalwijk,psv-eindhoven,{'35': 'away'}
+4. september 2022,11:15,5:2,netherlands,eredivisie,rkc-waalwijk,sbv-excelsior,"{'15': 'away', '38': 'home', '43': 'away', '50': 'home', '60': 'home', '80': 'home', '90': 'home'}"
+17. september 2022,19:00,5:1,netherlands,eredivisie,rkc-waalwijk,sc-cambuur,"{'17': 'away', '32': 'home', '77': 'home', '82': 'home', '86': 'home', '89': 'home'}"
+7. january 2023,15:30,0:0,netherlands,eredivisie,rkc-waalwijk,sc-heerenveen,
+2. october 2022,15:45,2:2,netherlands,eredivisie,rkc-waalwijk,sparta-rotterdam,"{'10': 'home', '35': 'away', '60': 'home', '75': 'away'}"
+1. april 2023,20:00,1:0,netherlands,eredivisie,rkc-waalwijk,vitesse,{'27': 'home'}
+29. january 2023,13:30,1:4,netherlands,eredivisie,sbv-excelsior,afc-ajax,"{'15': 'away', '36': 'home', '45': 'away', '61': 'away', '83': 'away'}"
+23. october 2022,11:15,2:1,netherlands,eredivisie,sbv-excelsior,az-alkmaar,"{'6': 'home', '31': 'home', '48': 'away'}"
+10. september 2022,20:00,2:1,netherlands,eredivisie,sbv-excelsior,fc-emmen,"{'45': 'away', '61': 'home', '90': 'home'}"
+8. january 2023,15:45,1:0,netherlands,eredivisie,sbv-excelsior,fc-groningen,{'69': 'home'}
+1. april 2023,17:45,0:0,netherlands,eredivisie,sbv-excelsior,fc-twente,
+2. october 2022,13:30,0:1,netherlands,eredivisie,sbv-excelsior,fc-utrecht,{'31': 'away'}
+20. january 2023,19:00,2:0,netherlands,eredivisie,sbv-excelsior,fc-volendam,"{'18': 'home', '80': 'home'}"
+7. may 2023,13:30,0:2,netherlands,eredivisie,sbv-excelsior,feyenoord,"{'9': 'away', '75': 'away'}"
+21. may 2023,13:30,3:0,netherlands,eredivisie,sbv-excelsior,fortuna-sittard,"{'59': 'home', '73': 'home', '85': 'home'}"
+14. april 2023,19:00,2:1,netherlands,eredivisie,sbv-excelsior,go-ahead-eagles,"{'54': 'home', '61': 'away', '65': 'home'}"
+19. february 2023,19:00,0:3,netherlands,eredivisie,sbv-excelsior,nec-nijmegen,"{'44': 'away', '73': 'away', '85': 'away'}"
+28. august 2022,13:30,1:6,netherlands,eredivisie,sbv-excelsior,psv-eindhoven,"{'2': 'away', '29': 'away', '45': 'away', '55': 'away', '59': 'away', '74': 'home', '84': 'away'}"
+4. february 2023,20:00,0:0,netherlands,eredivisie,sbv-excelsior,rkc-waalwijk,
+19. march 2023,13:30,4:1,netherlands,eredivisie,sbv-excelsior,sc-cambuur,"{'6': 'home', '10': 'home', '20': 'home', '33': 'home', '50': 'away'}"
+5. november 2022,20:00,0:1,netherlands,eredivisie,sbv-excelsior,sc-heerenveen,{'58': 'away'}
+5. march 2023,11:15,1:4,netherlands,eredivisie,sbv-excelsior,sparta-rotterdam,"{'20': 'away', '45': 'home', '49': 'away', '56': 'away', '60': 'away'}"
+12. august 2022,19:00,3:1,netherlands,eredivisie,sbv-excelsior,vitesse,"{'14': 'home', '20': 'home', '29': 'away', '76': 'home'}"
+5. february 2023,11:15,0:5,netherlands,eredivisie,sc-cambuur,afc-ajax,"{'16': 'away', '36': 'away', '64': 'away', '79': 'away', '90': 'away'}"
+28. august 2022,15:45,0:1,netherlands,eredivisie,sc-cambuur,az-alkmaar,{'90': 'away'}
+1. april 2023,19:00,1:2,netherlands,eredivisie,sc-cambuur,fc-emmen,"{'68': 'home', '78': 'away', '90': 'away'}"
+11. september 2022,13:30,0:1,netherlands,eredivisie,sc-cambuur,fc-groningen,{'71': 'away'}
+23. october 2022,13:30,0:1,netherlands,eredivisie,sc-cambuur,fc-twente,{'90': 'away'}
+6. may 2023,19:00,0:3,netherlands,eredivisie,sc-cambuur,fc-utrecht,"{'37': 'away', '41': 'away', '64': 'away'}"
+8. january 2023,13:30,0:3,netherlands,eredivisie,sc-cambuur,fc-volendam,"{'8': 'away', '9': 'away', '74': 'away'}"
+16. april 2023,15:45,0:3,netherlands,eredivisie,sc-cambuur,feyenoord,"{'17': 'away', '51': 'away', '64': 'away'}"
+29. january 2023,15:45,1:2,netherlands,eredivisie,sc-cambuur,fortuna-sittard,"{'31': 'home', '75': 'away', '84': 'away'}"
+5. march 2023,19:00,4:1,netherlands,eredivisie,sc-cambuur,go-ahead-eagles,"{'13': 'home', '25': 'away', '43': 'home', '57': 'home', '74': 'home'}"
+4. november 2022,19:00,0:1,netherlands,eredivisie,sc-cambuur,nec-nijmegen,{'44': 'away'}
+1. october 2022,15:30,3:0,netherlands,eredivisie,sc-cambuur,psv-eindhoven,"{'54': 'home', '84': 'home', '90': 'home'}"
+28. may 2023,13:30,4:0,netherlands,eredivisie,sc-cambuur,rkc-waalwijk,"{'45': 'home', '55': 'home', '67': 'home'}"
+6. august 2022,17:45,0:2,netherlands,eredivisie,sc-cambuur,sbv-excelsior,"{'10': 'away', '44': 'away'}"
+19. february 2023,11:15,1:2,netherlands,eredivisie,sc-cambuur,sc-heerenveen,"{'1': 'home', '22': 'away', '65': 'away'}"
+21. january 2023,19:00,0:3,netherlands,eredivisie,sc-cambuur,sparta-rotterdam,"{'9': 'away', '18': 'away', '51': 'away'}"
+15. october 2022,20:00,0:3,netherlands,eredivisie,sc-cambuur,vitesse,"{'20': 'away', '74': 'away', '82': 'away'}"
+12. march 2023,13:30,2:4,netherlands,eredivisie,sc-heerenveen,afc-ajax,"{'10': 'away', '16': 'away', '19': 'away', '42': 'home', '52': 'away', '79': 'home'}"
+14. january 2023,17:45,0:2,netherlands,eredivisie,sc-heerenveen,az-alkmaar,"{'33': 'away', '46': 'away'}"
+22. april 2023,17:45,2:3,netherlands,eredivisie,sc-heerenveen,fc-emmen,"{'21': 'home', '47': 'away', '59': 'home', None: 'away', '90': 'away'}"
+22. january 2023,11:15,3:1,netherlands,eredivisie,sc-heerenveen,fc-groningen,"{'5': 'home', '40': 'away', '81': 'home', '82': 'home'}"
+18. september 2022,13:30,2:1,netherlands,eredivisie,sc-heerenveen,fc-twente,"{'2': 'away', '28': 'home', '36': 'home'}"
+29. october 2022,15:30,1:2,netherlands,eredivisie,sc-heerenveen,fc-utrecht,"{'33': 'home', '44': 'away', '66': 'away'}"
+8. april 2023,20:00,2:1,netherlands,eredivisie,sc-heerenveen,fc-volendam,"{'6': 'home', '18': 'away', '33': 'home'}"
+12. february 2023,13:30,1:2,netherlands,eredivisie,sc-heerenveen,feyenoord,"{'22': 'away', '34': 'away', '75': 'home'}"
+27. august 2022,20:00,2:1,netherlands,eredivisie,sc-heerenveen,fortuna-sittard,"{'22': 'home', '44': 'home', '84': 'away'}"
+28. may 2023,13:30,2:0,netherlands,eredivisie,sc-heerenveen,go-ahead-eagles,"{'43': 'home', '79': 'home'}"
+4. september 2022,13:30,0:0,netherlands,eredivisie,sc-heerenveen,nec-nijmegen,
+9. october 2022,15:45,0:1,netherlands,eredivisie,sc-heerenveen,psv-eindhoven,{'75': 'away'}
+25. february 2023,17:45,1:4,netherlands,eredivisie,sc-heerenveen,rkc-waalwijk,"{'35': 'home', '61': 'away', '75': 'away', '77': 'away', '90': 'away'}"
+13. may 2023,19:00,0:0,netherlands,eredivisie,sc-heerenveen,sbv-excelsior,
+13. november 2022,13:30,2:1,netherlands,eredivisie,sc-heerenveen,sc-cambuur,"{'10': 'away', '36': 'home', '81': 'home'}"
+5. august 2022,19:00,0:0,netherlands,eredivisie,sc-heerenveen,sparta-rotterdam,
+28. january 2023,19:00,1:3,netherlands,eredivisie,sc-heerenveen,vitesse,"{'21': 'home', '32': 'away', '45': 'away', '47': 'away'}"
+21. august 2022,13:30,0:1,netherlands,eredivisie,sparta-rotterdam,afc-ajax,{'37': 'away'}
+14. august 2022,15:45,2:3,netherlands,eredivisie,sparta-rotterdam,az-alkmaar,"{'1': 'home', '45': 'away', '57': 'away', '59': 'home', '65': 'away'}"
+8. october 2022,17:45,3:1,netherlands,eredivisie,sparta-rotterdam,fc-emmen,"{'13': 'home', '51': 'away', '82': 'home', '90': 'home'}"
+17. september 2022,15:30,2:1,netherlands,eredivisie,sparta-rotterdam,fc-groningen,"{'61': 'away', '73': 'home', '90': 'home'}"
+11. november 2022,19:00,1:1,netherlands,eredivisie,sparta-rotterdam,fc-twente,"{'63': 'away', '71': 'home'}"
+24. february 2023,19:00,0:3,netherlands,eredivisie,sparta-rotterdam,fc-utrecht,"{'74': 'away', '88': 'away', '89': 'away'}"
+3. september 2022,19:00,4:0,netherlands,eredivisie,sparta-rotterdam,fc-volendam,"{'14': 'home', '68': 'home', '72': 'home', '85': 'home'}"
+2. april 2023,13:30,1:3,netherlands,eredivisie,sparta-rotterdam,feyenoord,"{'12': 'away', '33': 'home', '70': 'away', '76': 'away'}"
+29. october 2022,17:45,3:1,netherlands,eredivisie,sparta-rotterdam,fortuna-sittard,"{'19': 'away', '26': 'home', '54': 'home', '83': 'home'}"
+12. february 2023,11:15,2:1,netherlands,eredivisie,sparta-rotterdam,go-ahead-eagles,"{'4': 'home', '53': 'away', '58': 'home'}"
+16. october 2022,11:15,2:0,netherlands,eredivisie,sparta-rotterdam,nec-nijmegen,"{'7': 'home', '29': 'home'}"
+6. may 2023,17:45,0:1,netherlands,eredivisie,sparta-rotterdam,psv-eindhoven,{'74': 'away'}
+24. january 2023,20:00,0:0,netherlands,eredivisie,sparta-rotterdam,rkc-waalwijk,
+14. january 2023,20:00,1:0,netherlands,eredivisie,sparta-rotterdam,sbv-excelsior,{'90': 'home'}
+21. may 2023,13:30,4:1,netherlands,eredivisie,sparta-rotterdam,sc-cambuur,"{'9': 'away', '30': 'home', '38': 'home', '42': 'home', '50': 'home'}"
+15. april 2023,20:00,4:0,netherlands,eredivisie,sparta-rotterdam,sc-heerenveen,"{'39': 'home', '51': 'home', '68': 'home', '76': 'home'}"
+11. march 2023,20:00,3:1,netherlands,eredivisie,sparta-rotterdam,vitesse,"{'7': 'away', '11': 'home', '45': 'home', '87': 'home'}"
+26. february 2023,13:30,1:2,netherlands,eredivisie,vitesse,afc-ajax,"{'30': 'home', '32': 'away', '54': 'away'}"
+3. march 2023,19:00,0:1,netherlands,eredivisie,vitesse,az-alkmaar,{'29': 'away'}
+22. october 2022,20:00,2:1,netherlands,eredivisie,vitesse,fc-emmen,"{'26': 'home', '45': 'home', '68': 'away'}"
+21. may 2023,13:30,6:0,netherlands,eredivisie,vitesse,fc-groningen,"{'4': 'home', '45': 'home', '56': 'home', '71': 'home', '74': 'home', '84': 'home'}"
+25. january 2023,17:45,2:2,netherlands,eredivisie,vitesse,fc-twente,"{'33': 'away', '44': 'home', '52': 'home', '59': 'away'}"
+12. february 2023,13:30,2:0,netherlands,eredivisie,vitesse,fc-utrecht,"{'63': 'home', '90': 'home'}"
+17. september 2022,17:45,1:1,netherlands,eredivisie,vitesse,fc-volendam,"{'21': 'away', '48': 'home'}"
+7. august 2022,13:30,2:5,netherlands,eredivisie,vitesse,feyenoord,"{'19': 'home', '31': 'away', '41': 'away', '56': 'home', '61': 'away', '66': 'away', '69': 'away'}"
+9. october 2022,19:00,1:2,netherlands,eredivisie,vitesse,fortuna-sittard,"{'32': 'home', '40': 'away', '80': 'away'}"
+8. april 2023,17:45,2:0,netherlands,eredivisie,vitesse,go-ahead-eagles,"{'21': 'home', '63': 'home'}"
+15. january 2023,11:15,0:0,netherlands,eredivisie,vitesse,nec-nijmegen,
+19. march 2023,15:45,1:1,netherlands,eredivisie,vitesse,psv-eindhoven,"{'8': 'away', '61': 'home'}"
+27. august 2022,17:45,2:2,netherlands,eredivisie,vitesse,rkc-waalwijk,"{'35': 'away', '50': 'away', '61': 'home', '71': 'home'}"
+22. april 2023,20:00,0:0,netherlands,eredivisie,vitesse,sbv-excelsior,
+14. may 2023,11:15,2:0,netherlands,eredivisie,vitesse,sc-cambuur,"{'56': 'home', '61': 'home'}"
+20. august 2022,15:30,0:4,netherlands,eredivisie,vitesse,sc-heerenveen,"{'5': 'away', '45': 'away', '72': 'away', '77': 'away'}"
+5. november 2022,15:30,0:4,netherlands,eredivisie,vitesse,sparta-rotterdam,"{'69': 'away', '72': 'away', '88': 'away', '90': 'away'}"

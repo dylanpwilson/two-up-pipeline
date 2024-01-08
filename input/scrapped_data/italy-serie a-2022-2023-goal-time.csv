@@ -1,0 +1,381 @@
+date,time,final_score,goals,country,league,home,away
+22. october 2022,17:00,4:1,"{'16': 'home', '41': 'home', '65': 'home', '70': 'away', '84': 'home'}",italy,serie a,ac-milan,ac-monza
+13. november 2022,17:00,2:1,"{'2': 'home', '28': 'away', '90': 'home'}",italy,serie a,ac-milan,acf-fiorentina
+8. january 2023,19:45,2:2,"{'30': 'home', '77': 'home', '87': 'away', '90': 'away'}",italy,serie a,ac-milan,as-roma
+26. february 2023,19:45,2:0,"{'25': 'home', '86': 'home'}",italy,serie a,ac-milan,atalanta
+27. august 2022,19:45,2:0,"{'21': 'home', '58': 'home'}",italy,serie a,ac-milan,bologna-fc
+7. april 2023,20:00,0:0,,italy,serie a,ac-milan,empoli-fc
+4. june 2023,20:00,3:1,"{'45': 'home', '72': 'away', '85': 'home', '90': 'home'}",italy,serie a,ac-milan,hellas-verona
+3. september 2022,17:00,3:2,"{'21': 'away', '28': 'home', '54': 'home', '60': 'home', '67': 'away'}",italy,serie a,ac-milan,inter
+8. october 2022,17:00,2:0,"{'45': 'home', '54': 'home'}",italy,serie a,ac-milan,juventus
+6. may 2023,14:00,2:0,"{'17': 'home', '29': 'home'}",italy,serie a,ac-milan,lazio-roma
+20. may 2023,19:45,5:1,"{'9': 'home', '20': 'away', '23': 'home', '29': 'home', '63': 'home', '68': 'home'}",italy,serie a,ac-milan,sampdoria
+29. january 2023,11:30,2:5,"{'19': 'away', '21': 'away', '24': 'home', '30': 'away', '47': 'away', '79': 'away', '81': 'home'}",italy,serie a,ac-milan,sassuolo-calcio
+5. november 2022,19:45,2:1,"{'21': 'home', '59': 'away', '89': 'home'}",italy,serie a,ac-milan,spezia-calcio
+18. september 2022,19:45,1:2,"{'55': 'away', '69': 'home', '78': 'away'}",italy,serie a,ac-milan,ssc-napoli
+10. february 2023,19:45,1:0,{'62': 'home'},italy,serie a,ac-milan,torino-fc
+13. august 2022,17:30,4:2,"{'2': 'away', '11': 'home', '15': 'home', '45': 'away', '46': 'home', '68': 'home'}",italy,serie a,ac-milan,udinese-calcio
+3. may 2023,20:00,1:1,"{'77': 'away', '90': 'home'}",italy,serie a,ac-milan,us-cremonese
+23. april 2023,17:00,2:0,"{'40': 'home', '74': 'home'}",italy,serie a,ac-milan,us-lecce
+13. march 2023,19:45,1:1,"{'45': 'home', '61': 'away'}",italy,serie a,ac-milan,us-salernitana-1919
+18. february 2023,17:00,0:1,{'31': 'away'},italy,serie a,ac-monza,ac-milan
+23. april 2023,14:00,3:2,"{'8': 'away', '13': 'away', '26': 'home', '43': 'home', '59': 'home'}",italy,serie a,ac-monza,acf-fiorentina
+3. may 2023,20:00,1:1,"{'24': 'away', '39': 'home'}",italy,serie a,ac-monza,as-roma
+5. september 2022,17:30,0:2,"{'57': 'away', '65': 'away'}",italy,serie a,ac-monza,atalanta
+31. october 2022,19:45,1:2,"{'57': 'home', '60': 'away', '73': 'away'}",italy,serie a,ac-monza,bologna-fc
+4. march 2023,14:00,2:1,"{'19': 'home', '51': 'away', '67': 'home'}",italy,serie a,ac-monza,empoli-fc
+6. november 2022,14:00,2:0,"{'68': 'home', '90': 'home'}",italy,serie a,ac-monza,hellas-verona
+7. january 2023,19:45,2:2,"{'10': 'away', '11': 'home', '22': 'away', '90': 'home'}",italy,serie a,ac-monza,inter
+18. september 2022,14:00,1:0,{'74': 'home'},italy,serie a,ac-monza,juventus
+2. april 2023,14:00,0:2,"{'13': 'away', '56': 'away'}",italy,serie a,ac-monza,lazio-roma
+6. february 2023,19:45,2:2,"{'12': 'away', '32': 'home', '58': 'away', '90': 'home'}",italy,serie a,ac-monza,sampdoria
+22. january 2023,14:00,1:1,"{'13': 'away', '60': 'home'}",italy,serie a,ac-monza,sassuolo-calcio
+9. october 2022,14:00,2:0,"{'32': 'home', '63': 'home'}",italy,serie a,ac-monza,spezia-calcio
+14. may 2023,14:00,2:0,"{'18': 'home', '54': 'home'}",italy,serie a,ac-monza,ssc-napoli
+13. august 2022,19:45,1:2,"{'43': 'away', '66': 'away', '90': 'home'}",italy,serie a,ac-monza,torino-fc
+26. august 2022,17:30,1:2,"{'32': 'home', '36': 'away', '77': 'away'}",italy,serie a,ac-monza,udinese-calcio
+18. march 2023,14:00,1:1,"{'61': 'away', '69': 'home'}",italy,serie a,ac-monza,us-cremonese
+28. may 2023,14:00,0:1,{'90': 'away'},italy,serie a,ac-monza,us-lecce
+13. november 2022,14:00,3:0,"{'24': 'home', '35': 'home', '75': 'home'}",italy,serie a,ac-monza,us-salernitana-1919
+4. march 2023,19:45,2:1,"{'49': 'home', '87': 'home', '90': 'away'}",italy,serie a,acf-fiorentina,ac-milan
+4. january 2023,17:30,1:1,"{'19': 'home', '61': 'away'}",italy,serie a,acf-fiorentina,ac-monza
+27. may 2023,17:00,2:1,"{'11': 'away', '85': 'home', '88': 'home'}",italy,serie a,acf-fiorentina,as-roma
+17. april 2023,19:45,1:1,"{'37': 'away', '56': 'home'}",italy,serie a,acf-fiorentina,atalanta
+5. february 2023,17:00,1:2,"{'14': 'away', '19': 'home', '47': 'away'}",italy,serie a,acf-fiorentina,bologna-fc
+19. february 2023,14:00,1:1,"{'28': 'away', '85': 'home'}",italy,serie a,acf-fiorentina,empoli-fc
+18. september 2022,14:00,2:0,"{'13': 'home', '90': 'home'}",italy,serie a,acf-fiorentina,hellas-verona
+22. october 2022,19:45,3:4,"{'2': 'away', '15': 'away', '33': 'home', '60': 'home', '73': 'away', '90': 'away'}",italy,serie a,acf-fiorentina,inter
+3. september 2022,14:00,1:1,"{None: 'away', '29': 'home'}",italy,serie a,acf-fiorentina,juventus
+10. october 2022,19:45,0:4,"{'11': 'away', '25': 'away', '85': 'away', '90': 'away'}",italy,serie a,acf-fiorentina,lazio-roma
+30. april 2023,17:00,5:0,"{'45': 'home', '62': 'home', '66': 'home', '76': 'home', '88': 'home'}",italy,serie a,acf-fiorentina,sampdoria
+7. january 2023,14:00,2:1,"{'48': 'home', '57': 'away', '90': 'home'}",italy,serie a,acf-fiorentina,sassuolo-calcio
+8. april 2023,13:30,1:1,"{'25': 'home', '32': 'away'}",italy,serie a,acf-fiorentina,spezia-calcio
+28. august 2022,19:45,0:0,,italy,serie a,acf-fiorentina,ssc-napoli
+21. january 2023,19:45,0:1,{'33': 'away'},italy,serie a,acf-fiorentina,torino-fc
+14. may 2023,14:00,2:0,"{'7': 'home', '90': 'home'}",italy,serie a,acf-fiorentina,udinese-calcio
+14. august 2022,17:30,3:2,"{'16': 'home', '19': 'away', '34': 'home', '68': 'away', '90': 'home'}",italy,serie a,acf-fiorentina,us-cremonese
+19. march 2023,14:00,1:0,{'27': 'home'},italy,serie a,acf-fiorentina,us-lecce
+9. november 2022,19:45,2:1,"{'15': 'home', '55': 'away', '81': 'home'}",italy,serie a,acf-fiorentina,us-salernitana-1919
+29. april 2023,17:00,1:1,{'90': 'away'},italy,serie a,as-roma,ac-milan
+30. august 2022,19:45,3:0,"{'18': 'home', '32': 'home', '61': 'home'}",italy,serie a,as-roma,ac-monza
+15. january 2023,19:45,2:0,"{'40': 'home', '82': 'home'}",italy,serie a,as-roma,acf-fiorentina
+18. september 2022,17:00,0:1,{'35': 'away'},italy,serie a,as-roma,atalanta
+4. january 2023,15:30,1:0,{'6': 'home'},italy,serie a,as-roma,bologna-fc
+4. february 2023,17:00,2:0,"{'2': 'home', '6': 'home'}",italy,serie a,as-roma,empoli-fc
+19. february 2023,19:45,1:0,{'45': 'home'},italy,serie a,as-roma,hellas-verona
+6. may 2023,17:00,0:2,"{'33': 'away', '74': 'away'}",italy,serie a,as-roma,inter
+5. march 2023,19:45,1:0,{'53': 'home'},italy,serie a,as-roma,juventus
+6. november 2022,17:00,0:1,{'29': 'away'},italy,serie a,as-roma,lazio-roma
+2. april 2023,17:00,3:0,"{'57': 'home', '88': 'home', '90': 'home'}",italy,serie a,as-roma,sampdoria
+12. march 2023,17:00,3:4,"{'13': 'away', '18': 'away', '26': 'home', '45': 'away', '50': 'home', '75': 'away', '90': 'home'}",italy,serie a,as-roma,sassuolo-calcio
+4. june 2023,20:00,2:1,"{'6': 'away', '43': 'home', '90': 'home'}",italy,serie a,as-roma,spezia-calcio
+23. october 2022,19:45,0:1,{'80': 'away'},italy,serie a,as-roma,ssc-napoli
+13. november 2022,14:00,1:1,"{'55': 'away', '90': 'home'}",italy,serie a,as-roma,torino-fc
+16. april 2023,19:45,3:0,"{'37': 'home', '55': 'home', '90': 'home'}",italy,serie a,as-roma,udinese-calcio
+22. august 2022,17:30,1:0,{'65': 'home'},italy,serie a,as-roma,us-cremonese
+9. october 2022,19:45,2:1,"{'6': 'home', '39': 'away', '48': 'home'}",italy,serie a,as-roma,us-lecce
+22. may 2023,17:30,2:2,"{'12': 'away', '47': 'home', '54': 'away', '83': 'home'}",italy,serie a,as-roma,us-salernitana-1919
+21. august 2022,19:45,1:1,"{'29': 'home', '68': 'away'}",italy,serie a,atalanta,ac-milan
+4. june 2023,20:00,5:2,"{'12': 'home', '45': 'home', '51': 'away', '74': 'home', '79': 'home', '81': 'away', '90': 'home'}",italy,serie a,atalanta,ac-monza
+2. october 2022,17:00,1:0,{'59': 'home'},italy,serie a,atalanta,acf-fiorentina
+24. april 2023,19:45,3:1,"{'39': 'home', '74': 'home', '83': 'away', '84': 'home'}",italy,serie a,atalanta,as-roma
+8. april 2023,15:30,0:2,"{'49': 'away', '86': 'away'}",italy,serie a,atalanta,bologna-fc
+17. march 2023,19:45,2:1,"{'44': 'away', '58': 'home', '86': 'home'}",italy,serie a,atalanta,empoli-fc
+20. may 2023,17:00,3:1,"{'11': 'away', '22': 'home', '53': 'home', '62': 'home'}",italy,serie a,atalanta,hellas-verona
+13. november 2022,11:30,2:3,"{'25': 'home', '36': 'away', '56': 'away', '61': 'away', '77': 'home'}",italy,serie a,atalanta,inter
+7. may 2023,11:30,0:2,"{'56': 'away', '90': 'away'}",italy,serie a,atalanta,juventus
+23. october 2022,17:00,0:2,"{'10': 'away', '52': 'away'}",italy,serie a,atalanta,lazio-roma
+28. january 2023,19:45,2:0,"{'42': 'home', '57': 'home'}",italy,serie a,atalanta,sampdoria
+15. october 2022,19:45,2:1,"{'41': 'away', '45': 'home', '46': 'home'}",italy,serie a,atalanta,sassuolo-calcio
+3. may 2023,17:00,3:2,"{'18': 'away', '32': 'home', '48': 'home', '54': 'home', '64': 'away'}",italy,serie a,atalanta,spezia-calcio
+5. november 2022,17:00,1:2,"{'19': 'home', '23': 'away', '35': 'away'}",italy,serie a,atalanta,ssc-napoli
+1. september 2022,19:45,3:1,"{'45': 'home', '47': 'home', '77': 'away', '84': 'home'}",italy,serie a,atalanta,torino-fc
+4. march 2023,17:00,0:0,,italy,serie a,atalanta,udinese-calcio
+11. september 2022,11:30,1:1,"{'74': 'home', '78': 'away'}",italy,serie a,atalanta,us-cremonese
+19. february 2023,11:30,1:2,"{'4': 'away', '74': 'away', '87': 'home'}",italy,serie a,atalanta,us-lecce
+15. january 2023,17:00,8:2,"{'5': 'home', '10': 'away', '20': 'home', '23': 'home', '38': 'home', '41': 'home', '54': 'home', '56': 'away', '61': 'home', '85': 'home'}",italy,serie a,atalanta,us-salernitana-1919
+15. april 2023,14:00,1:1,"{'1': 'home', '40': 'away'}",italy,serie a,bologna-fc,ac-milan
+12. february 2023,14:00,0:1,{'25': 'away'},italy,serie a,bologna-fc,ac-monza
+11. september 2022,14:00,2:1,"{'54': 'away', '59': 'home', '62': 'home'}",italy,serie a,bologna-fc,acf-fiorentina
+14. may 2023,17:00,0:0,,italy,serie a,bologna-fc,as-roma
+9. january 2023,19:45,1:2,"{'6': 'home', '47': 'away', '58': 'away'}",italy,serie a,bologna-fc,atalanta
+17. september 2022,14:00,0:1,{'75': 'away'},italy,serie a,bologna-fc,empoli-fc
+21. august 2022,19:45,1:1,"{'21': 'home', '43': 'away'}",italy,serie a,bologna-fc,hellas-verona
+26. february 2023,11:30,1:0,{'76': 'home'},italy,serie a,bologna-fc,inter
+30. april 2023,19:45,1:1,"{'10': 'home', '60': 'away'}",italy,serie a,bologna-fc,juventus
+11. march 2023,19:45,0:0,,italy,serie a,bologna-fc,lazio-roma
+8. october 2022,19:45,1:1,"{'32': 'home', '72': 'away'}",italy,serie a,bologna-fc,sampdoria
+12. november 2022,19:45,3:0,"{'30': 'home', '50': 'home', '78': 'home'}",italy,serie a,bologna-fc,sassuolo-calcio
+27. january 2023,17:30,2:0,"{'37': 'home', '77': 'home'}",italy,serie a,bologna-fc,spezia-calcio
+28. may 2023,14:00,2:2,"{'14': 'away', '54': 'away', '63': 'home', '84': 'home'}",italy,serie a,bologna-fc,ssc-napoli
+6. november 2022,11:30,2:1,"{'26': 'away', '64': 'home', '73': 'home'}",italy,serie a,bologna-fc,torino-fc
+2. april 2023,11:30,3:0,"{'3': 'home', '12': 'home', '49': 'home'}",italy,serie a,bologna-fc,udinese-calcio
+23. january 2023,17:30,1:1,"{'50': 'away', '55': 'home'}",italy,serie a,bologna-fc,us-cremonese
+23. october 2022,14:00,2:0,"{'13': 'home', '34': 'home'}",italy,serie a,bologna-fc,us-lecce
+1. september 2022,19:45,1:1,"{'52': 'home', '88': 'away'}",italy,serie a,bologna-fc,us-salernitana-1919
+1. october 2022,19:45,1:3,"{'79': 'away', '90': 'away'}",italy,serie a,empoli-fc,ac-milan
+15. october 2022,14:00,1:0,{'11': 'home'},italy,serie a,empoli-fc,ac-monza
+21. august 2022,17:30,0:0,,italy,serie a,empoli-fc,acf-fiorentina
+12. september 2022,19:45,1:2,"{'17': 'away', '43': 'home', '71': 'away'}",italy,serie a,empoli-fc,as-roma
+30. october 2022,11:30,0:2,"{'32': 'away', '59': 'away'}",italy,serie a,empoli-fc,atalanta
+4. may 2023,19:45,3:1,"{'1': 'home', '45': 'home', '68': 'home', '88': 'away'}",italy,serie a,empoli-fc,bologna-fc
+31. august 2022,17:30,1:1,"{'26': 'home', '69': 'away'}",italy,serie a,empoli-fc,hellas-verona
+23. april 2023,11:30,0:3,"{'48': 'away', '76': 'away', '88': 'away'}",italy,serie a,empoli-fc,inter
+22. may 2023,19:45,4:1,"{'18': 'home', '21': 'home', '47': 'home', '85': 'away', '90': 'home'}",italy,serie a,empoli-fc,juventus
+3. june 2023,20:00,0:2,"{'48': 'away', '90': 'away'}",italy,serie a,empoli-fc,lazio-roma
+16. january 2023,19:45,1:0,{'55': 'home'},italy,serie a,empoli-fc,sampdoria
+5. november 2022,14:00,1:0,{'64': 'home'},italy,serie a,empoli-fc,sassuolo-calcio
+11. february 2023,14:00,2:2,"{'25': 'away', '31': 'away', '71': 'home', '90': 'home'}",italy,serie a,empoli-fc,spezia-calcio
+25. february 2023,17:00,0:2,"{'17': 'away', '28': 'away'}",italy,serie a,empoli-fc,ssc-napoli
+28. january 2023,14:00,2:2,"{'37': 'home', '69': 'home', '82': 'away', '85': 'away'}",italy,serie a,empoli-fc,torino-fc
+11. march 2023,14:00,0:1,{'54': 'away'},italy,serie a,empoli-fc,udinese-calcio
+11. november 2022,19:45,2:0,"{'46': 'home', None: 'home'}",italy,serie a,empoli-fc,us-cremonese
+3. april 2023,18:30,1:0,{'62': 'home'},italy,serie a,empoli-fc,us-lecce
+8. may 2023,17:30,2:1,"{'37': 'home', '63': 'home', '85': 'away'}",italy,serie a,empoli-fc,us-salernitana-1919
+16. october 2022,19:45,1:2,"{'9': 'away', '19': 'home', '81': 'away'}",italy,serie a,hellas-verona,ac-milan
+12. march 2023,14:00,1:1,"{'51': 'home', '55': 'away'}",italy,serie a,hellas-verona,ac-monza
+27. february 2023,17:30,0:3,"{'12': 'away', '38': 'away', '89': 'away'}",italy,serie a,hellas-verona,acf-fiorentina
+31. october 2022,17:30,1:3,"{'26': 'home', '45': 'away', '88': 'away', '90': 'away'}",italy,serie a,hellas-verona,as-roma
+28. august 2022,17:30,0:1,{'50': 'away'},italy,serie a,hellas-verona,atalanta
+21. april 2023,19:45,2:1,"{'45': 'home', '62': 'home', '90': 'away'}",italy,serie a,hellas-verona,bologna-fc
+28. may 2023,11:30,1:1,"{'61': 'home', '90': 'away'}",italy,serie a,hellas-verona,empoli-fc
+3. may 2023,20:00,0:6,"{'31': 'away', '36': 'away', '37': 'away', '55': 'away', '61': 'away', '90': 'away'}",italy,serie a,hellas-verona,inter
+10. november 2022,17:30,0:1,{'60': 'away'},italy,serie a,hellas-verona,juventus
+6. february 2023,17:30,1:1,"{'45': 'away', '51': 'home'}",italy,serie a,hellas-verona,lazio-roma
+4. september 2022,17:00,2:1,"{'40': 'away', '44': 'home', '45': 'home'}",italy,serie a,hellas-verona,sampdoria
+8. april 2023,17:30,2:1,"{'34': 'away', '84': 'home', '90': 'home'}",italy,serie a,hellas-verona,sassuolo-calcio
+13. november 2022,14:00,1:2,"{'30': 'home', '53': 'away', '69': 'away'}",italy,serie a,hellas-verona,spezia-calcio
+15. august 2022,17:30,2:5,"{'29': 'home', '37': 'away', '45': 'away', '48': 'home', '55': 'away', '65': 'away', '79': 'away'}",italy,serie a,hellas-verona,ssc-napoli
+14. may 2023,11:30,0:1,{'29': 'away'},italy,serie a,hellas-verona,torino-fc
+3. october 2022,19:45,1:2,"{'23': 'home', '70': 'away', '90': 'away'}",italy,serie a,hellas-verona,udinese-calcio
+9. january 2023,17:30,2:0,"{'9': 'home', '26': 'home'}",italy,serie a,hellas-verona,us-cremonese
+21. january 2023,14:00,2:0,"{'40': 'home', '54': 'home'}",italy,serie a,hellas-verona,us-lecce
+13. february 2023,17:30,1:0,{'31': 'home'},italy,serie a,hellas-verona,us-salernitana-1919
+5. february 2023,19:45,1:0,{'34': 'home'},italy,serie a,inter,ac-milan
+15. april 2023,19:45,0:1,{'78': 'away'},italy,serie a,inter,ac-monza
+1. april 2023,17:00,0:1,{'53': 'away'},italy,serie a,inter,acf-fiorentina
+1. october 2022,17:00,1:2,"{'30': 'home', '39': 'away', '75': 'away'}",italy,serie a,inter,as-roma
+27. may 2023,19:45,3:2,"{'1': 'home', '3': 'home', '36': 'away', '77': 'home', '90': 'away'}",italy,serie a,inter,atalanta
+9. november 2022,19:45,6:1,"{None: 'away', '26': 'home', '36': 'home', '42': 'home', '48': 'home', '59': 'home', '76': 'home'}",italy,serie a,inter,bologna-fc
+23. january 2023,19:45,0:1,{'66': 'away'},italy,serie a,inter,empoli-fc
+14. january 2023,19:45,1:0,{'3': 'home'},italy,serie a,inter,hellas-verona
+19. march 2023,19:45,0:1,{'23': 'away'},italy,serie a,inter,juventus
+30. april 2023,11:30,3:1,"{'30': 'away', '77': 'home', '83': 'home', '90': 'home'}",italy,serie a,inter,lazio-roma
+29. october 2022,19:45,3:0,"{'21': 'home', '44': 'home', '73': 'home'}",italy,serie a,inter,sampdoria
+13. may 2023,19:45,4:2,"{'41': 'home', '55': 'home', '58': 'home', '63': 'away', '77': 'away', '89': 'home'}",italy,serie a,inter,sassuolo-calcio
+20. august 2022,19:45,3:0,"{'35': 'home', '52': 'home', '82': 'home'}",italy,serie a,inter,spezia-calcio
+4. january 2023,19:45,1:0,{'56': 'home'},italy,serie a,inter,ssc-napoli
+10. september 2022,17:00,1:0,{'89': 'home'},italy,serie a,inter,torino-fc
+18. february 2023,19:45,3:1,"{'20': 'home', '43': 'away', '73': 'home', '89': 'home'}",italy,serie a,inter,udinese-calcio
+30. august 2022,19:45,3:1,"{'12': 'home', '38': 'home', '76': 'home', '90': 'away'}",italy,serie a,inter,us-cremonese
+5. march 2023,17:00,2:0,"{'29': 'home', '53': 'home'}",italy,serie a,inter,us-lecce
+16. october 2022,11:30,2:0,"{'14': 'home', '58': 'home'}",italy,serie a,inter,us-salernitana-1919
+28. may 2023,19:45,0:1,{'40': 'away'},italy,serie a,juventus,ac-milan
+29. january 2023,14:00,0:2,"{'18': 'away', '39': 'away'}",italy,serie a,juventus,ac-monza
+12. february 2023,17:00,1:0,{'34': 'home'},italy,serie a,juventus,acf-fiorentina
+27. august 2022,17:30,1:1,"{'2': 'home', '69': 'away'}",italy,serie a,juventus,as-roma
+22. january 2023,19:45,3:3,"{'4': 'away', '25': 'home', '34': 'home', '46': 'away', '53': 'away', '65': 'home'}",italy,serie a,juventus,atalanta
+2. october 2022,19:45,3:0,"{'24': 'home', '59': 'home', '62': 'home'}",italy,serie a,juventus,bologna-fc
+21. october 2022,19:45,4:0,"{'8': 'home', '55': 'home', '82': 'home', '90': 'home'}",italy,serie a,juventus,empoli-fc
+1. april 2023,19:45,1:0,{'55': 'home'},italy,serie a,juventus,hellas-verona
+6. november 2022,19:45,2:0,"{'52': 'home', '84': 'home'}",italy,serie a,juventus,inter
+13. november 2022,19:45,3:0,"{'43': 'home', '54': 'home', '89': 'home'}",italy,serie a,juventus,lazio-roma
+12. march 2023,19:45,4:2,"{'11': 'home', '26': 'home', '31': 'away', '32': 'away', '64': 'home', '90': 'home'}",italy,serie a,juventus,sampdoria
+15. august 2022,19:45,3:0,"{'26': 'home', '43': 'home', '51': 'home'}",italy,serie a,juventus,sassuolo-calcio
+31. august 2022,19:45,2:0,"{'9': 'home', '90': 'home'}",italy,serie a,juventus,spezia-calcio
+23. april 2023,19:45,0:1,{'90': 'away'},italy,serie a,juventus,ssc-napoli
+28. february 2023,19:45,4:2,"{'2': 'away', '16': 'home', '43': 'away', '45': 'home', '71': 'home', '80': 'home'}",italy,serie a,juventus,torino-fc
+7. january 2023,17:00,1:0,{'86': 'home'},italy,serie a,juventus,udinese-calcio
+14. may 2023,19:45,2:0,"{'55': 'home', '79': 'home'}",italy,serie a,juventus,us-cremonese
+3. may 2023,17:00,2:1,"{'15': 'home', '37': 'away', '40': 'home'}",italy,serie a,juventus,us-lecce
+11. september 2022,19:45,2:2,"{None: 'away', '45': 'away', '51': 'home', '90': 'home'}",italy,serie a,juventus,us-salernitana-1919
+24. january 2023,19:45,4:0,"{'4': 'home', '38': 'home', '67': 'home', '75': 'home'}",italy,serie a,lazio-roma,ac-milan
+10. november 2022,19:45,1:0,{'69': 'home'},italy,serie a,lazio-roma,ac-monza
+29. january 2023,17:00,1:1,"{'8': 'home', '49': 'away'}",italy,serie a,lazio-roma,acf-fiorentina
+19. march 2023,17:00,1:0,{'65': 'home'},italy,serie a,lazio-roma,as-roma
+11. february 2023,19:45,0:2,"{'23': 'away', '65': 'away'}",italy,serie a,lazio-roma,atalanta
+14. august 2022,17:30,2:1,"{'38': 'away', '68': 'home', '79': 'home'}",italy,serie a,lazio-roma,bologna-fc
+8. january 2023,14:00,2:2,"{'2': 'home', '54': 'home', '83': 'away', '90': 'away'}",italy,serie a,lazio-roma,empoli-fc
+11. september 2022,17:00,2:0,"{'68': 'home', '90': 'home'}",italy,serie a,lazio-roma,hellas-verona
+26. august 2022,19:45,3:1,"{'40': 'home', '51': 'away', '75': 'home', '86': 'home'}",italy,serie a,lazio-roma,inter
+8. april 2023,19:45,2:1,"{'38': 'home', '42': 'away', '53': 'home'}",italy,serie a,lazio-roma,juventus
+27. february 2023,19:45,1:0,{'80': 'home'},italy,serie a,lazio-roma,sampdoria
+3. may 2023,20:00,2:0,"{'14': 'home', '90': 'home'}",italy,serie a,lazio-roma,sassuolo-calcio
+2. october 2022,11:30,4:0,"{'12': 'home', '24': 'home', '61': 'home', '90': 'home'}",italy,serie a,lazio-roma,spezia-calcio
+3. september 2022,19:45,1:2,"{'4': 'home', '38': 'away', '61': 'away'}",italy,serie a,lazio-roma,ssc-napoli
+22. april 2023,17:00,0:1,{'43': 'away'},italy,serie a,lazio-roma,torino-fc
+16. october 2022,14:00,0:0,,italy,serie a,lazio-roma,udinese-calcio
+28. may 2023,17:00,3:2,"{'4': 'home', '37': 'home', '54': 'away', '58': 'away', '89': 'home'}",italy,serie a,lazio-roma,us-cremonese
+12. may 2023,19:45,2:2,"{'34': 'home', '45': 'away', '51': 'away', '90': 'home'}",italy,serie a,lazio-roma,us-lecce
+30. october 2022,17:00,1:3,"{'41': 'home', '51': 'away', '68': 'away', '76': 'away'}",italy,serie a,lazio-roma,us-salernitana-1919
+10. september 2022,19:45,1:2,"{'6': 'away', '57': 'home', '67': 'away'}",italy,serie a,sampdoria,ac-milan
+2. october 2022,14:00,0:3,"{'11': 'away', '67': 'away', '90': 'away'}",italy,serie a,sampdoria,ac-monza
+6. november 2022,14:00,0:2,"{'4': 'away', '58': 'away'}",italy,serie a,sampdoria,acf-fiorentina
+17. october 2022,17:30,0:1,{'9': 'away'},italy,serie a,sampdoria,as-roma
+13. august 2022,17:30,0:2,"{'26': 'away', '90': 'away'}",italy,serie a,sampdoria,atalanta
+18. february 2023,14:00,1:2,"{'27': 'away', '68': 'home', '90': 'away'}",italy,serie a,sampdoria,bologna-fc
+15. may 2023,19:45,1:1,"{'34': 'home', '90': 'away'}",italy,serie a,sampdoria,empoli-fc
+19. march 2023,11:30,3:1,"{'24': 'home', '35': 'home', None: 'away', '90': 'home'}",italy,serie a,sampdoria,hellas-verona
+13. february 2023,19:45,0:0,,italy,serie a,sampdoria,inter
+22. august 2022,19:45,0:0,,italy,serie a,sampdoria,juventus
+31. august 2022,17:30,1:1,"{'21': 'away', '90': 'home'}",italy,serie a,sampdoria,lazio-roma
+26. may 2023,19:45,2:2,"{'8': 'home', '9': 'away', '11': 'away', '78': 'home'}",italy,serie a,sampdoria,sassuolo-calcio
+22. april 2023,19:45,1:1,"{'23': 'home', '59': 'away'}",italy,serie a,sampdoria,spezia-calcio
+8. january 2023,17:00,0:2,"{'19': 'away', '82': 'away'}",italy,serie a,sampdoria,ssc-napoli
+3. may 2023,17:00,0:2,"{'31': 'away', '90': 'away'}",italy,serie a,sampdoria,torino-fc
+22. january 2023,11:30,0:1,{'88': 'away'},italy,serie a,sampdoria,udinese-calcio
+8. april 2023,15:30,2:3,"{'15': 'home', '35': 'away', '66': 'home', None: 'away', '90': 'away'}",italy,serie a,sampdoria,us-cremonese
+12. november 2022,17:00,0:2,"{'45': 'away', '83': 'away'}",italy,serie a,sampdoria,us-lecce
+5. march 2023,14:00,0:0,,italy,serie a,sampdoria,us-salernitana-1919
+30. august 2022,17:30,0:0,,italy,serie a,sassuolo-calcio,ac-milan
+19. may 2023,19:45,1:2,"{'45': 'home', '60': 'away', '90': 'away'}",italy,serie a,sassuolo-calcio,ac-monza
+2. june 2023,19:30,1:3,"{'46': 'away', '71': 'home', '79': 'away', '83': 'away'}",italy,serie a,sassuolo-calcio,acf-fiorentina
+9. november 2022,17:30,1:1,"{'80': 'away', '85': 'home'}",italy,serie a,sassuolo-calcio,as-roma
+4. february 2023,19:45,1:0,{'55': 'home'},italy,serie a,sassuolo-calcio,atalanta
+8. may 2023,19:45,1:1,"{'15': 'home', '42': 'away'}",italy,serie a,sassuolo-calcio,bologna-fc
+30. april 2023,14:00,2:1,"{'11': 'away', '82': 'home', '90': 'home'}",italy,serie a,sassuolo-calcio,empoli-fc
+24. october 2022,19:45,2:1,"{'2': 'away', '32': 'home', '74': 'home'}",italy,serie a,sassuolo-calcio,hellas-verona
+8. october 2022,14:00,1:2,"{'44': 'away', '60': 'home', '75': 'away'}",italy,serie a,sassuolo-calcio,inter
+16. april 2023,17:00,1:0,{'64': 'home'},italy,serie a,sassuolo-calcio,juventus
+15. january 2023,11:30,0:2,"{'45': 'away', '90': 'away'}",italy,serie a,sassuolo-calcio,lazio-roma
+4. january 2023,11:30,1:2,"{'25': 'away', '28': 'away', '64': 'home'}",italy,serie a,sassuolo-calcio,sampdoria
+17. march 2023,17:30,1:0,{'71': 'home'},italy,serie a,sassuolo-calcio,spezia-calcio
+17. february 2023,19:45,0:2,"{'12': 'away', '33': 'away'}",italy,serie a,sassuolo-calcio,ssc-napoli
+3. april 2023,19:45,1:1,"{'36': 'home', '66': 'away'}",italy,serie a,sassuolo-calcio,torino-fc
+11. september 2022,14:00,1:3,"{'33': 'home', '75': 'away', '90': 'away'}",italy,serie a,sassuolo-calcio,udinese-calcio
+6. march 2023,17:30,3:2,"{'26': 'home', '41': 'home', '62': 'away', '83': 'away', '90': 'home'}",italy,serie a,sassuolo-calcio,us-cremonese
+20. august 2022,19:45,1:0,{'39': 'home'},italy,serie a,sassuolo-calcio,us-lecce
+2. october 2022,14:00,5:0,"{'12': 'home', '39': 'home', '53': 'home', '76': 'home', '90': 'home'}",italy,serie a,sassuolo-calcio,us-salernitana-1919
+13. may 2023,17:00,2:0,"{'75': 'home', '85': 'home'}",italy,serie a,spezia-calcio,ac-milan
+28. april 2023,19:45,0:2,"{'21': 'away', '90': 'away'}",italy,serie a,spezia-calcio,ac-monza
+30. october 2022,14:00,1:2,"{'14': 'away', '35': 'home', '90': 'away'}",italy,serie a,spezia-calcio,acf-fiorentina
+22. january 2023,17:00,0:2,"{'45': 'away', '49': 'away'}",italy,serie a,spezia-calcio,as-roma
+4. january 2023,13:30,2:2,"{'8': 'home', '31': 'home', '77': 'away', '90': 'away'}",italy,serie a,spezia-calcio,atalanta
+4. september 2022,14:00,2:2,"{'6': 'away', '45': 'home', '54': 'home', '64': 'away'}",italy,serie a,spezia-calcio,bologna-fc
+14. august 2022,19:45,1:0,{'36': 'home'},italy,serie a,spezia-calcio,empoli-fc
+5. march 2023,11:30,0:0,,italy,serie a,spezia-calcio,hellas-verona
+10. march 2023,19:45,2:1,"{'55': 'home', '83': 'away', '87': 'home'}",italy,serie a,spezia-calcio,inter
+19. february 2023,17:00,0:2,"{'32': 'away', '66': 'away'}",italy,serie a,spezia-calcio,juventus
+14. april 2023,19:45,0:3,"{'36': 'away', '52': 'away', '89': 'away'}",italy,serie a,spezia-calcio,lazio-roma
+17. september 2022,17:00,2:1,"{'11': 'away', '12': 'home', '72': 'home'}",italy,serie a,spezia-calcio,sampdoria
+27. august 2022,19:45,2:2,"{'27': 'away', '30': 'home', '45': 'home', '50': 'away'}",italy,serie a,spezia-calcio,sassuolo-calcio
+5. february 2023,11:30,0:3,"{'47': 'away', '68': 'away', '73': 'away'}",italy,serie a,spezia-calcio,ssc-napoli
+27. may 2023,14:00,0:4,"{'24': 'away', '72': 'away', '76': 'away', '90': 'away'}",italy,serie a,spezia-calcio,torino-fc
+8. november 2022,17:30,1:1,"{'33': 'home', '43': 'away'}",italy,serie a,spezia-calcio,udinese-calcio
+16. october 2022,14:00,2:2,"{'2': 'away', '19': 'home', '22': 'home', '52': 'away'}",italy,serie a,spezia-calcio,us-cremonese
+8. january 2023,14:00,0:0,,italy,serie a,spezia-calcio,us-lecce
+2. april 2023,14:00,1:1,"{'43': 'away', '70': 'home'}",italy,serie a,spezia-calcio,us-salernitana-1919
+2. april 2023,19:45,0:4,"{'17': 'away', '25': 'away', '59': 'away', '67': 'away'}",italy,serie a,ssc-napoli,ac-milan
+21. august 2022,17:30,4:0,"{'35': 'home', '45': 'home', '62': 'home', '90': 'home'}",italy,serie a,ssc-napoli,ac-monza
+7. may 2023,17:00,1:0,{'74': 'home'},italy,serie a,ssc-napoli,acf-fiorentina
+29. january 2023,19:45,2:1,"{'17': 'home', '75': 'away', '86': 'home'}",italy,serie a,ssc-napoli,as-roma
+11. march 2023,17:00,2:0,"{'60': 'home', '77': 'home'}",italy,serie a,ssc-napoli,atalanta
+16. october 2022,17:00,3:2,"{'41': 'away', '45': 'home', '49': 'home', '51': 'away', '69': 'home'}",italy,serie a,ssc-napoli,bologna-fc
+8. november 2022,17:30,2:0,"{'69': 'home', '88': 'home'}",italy,serie a,ssc-napoli,empoli-fc
+15. april 2023,17:00,0:0,,italy,serie a,ssc-napoli,hellas-verona
+21. may 2023,17:00,3:1,"{'67': 'home', '82': 'away', '85': 'home', '90': 'home'}",italy,serie a,ssc-napoli,inter
+13. january 2023,19:45,5:1,"{'14': 'home', '39': 'home', '42': 'away', '55': 'home', '65': 'home', '72': 'home'}",italy,serie a,ssc-napoli,juventus
+3. march 2023,19:45,0:1,{'67': 'away'},italy,serie a,ssc-napoli,lazio-roma
+4. june 2023,17:30,2:0,"{'64': 'home', '85': 'home'}",italy,serie a,ssc-napoli,sampdoria
+29. october 2022,14:00,4:0,"{'4': 'home', '19': 'home', '36': 'home', '77': 'home'}",italy,serie a,ssc-napoli,sassuolo-calcio
+10. september 2022,14:00,1:0,{'89': 'home'},italy,serie a,ssc-napoli,spezia-calcio
+1. october 2022,14:00,3:1,"{'6': 'home', '12': 'home', '37': 'home', '44': 'away'}",italy,serie a,ssc-napoli,torino-fc
+12. november 2022,14:00,3:2,"{'15': 'home', '31': 'home', '58': 'home', '79': 'away', '82': 'away'}",italy,serie a,ssc-napoli,udinese-calcio
+12. february 2023,19:45,3:0,"{'21': 'home', '65': 'home', '79': 'home'}",italy,serie a,ssc-napoli,us-cremonese
+31. august 2022,19:45,1:1,"{'27': 'home', '31': 'away'}",italy,serie a,ssc-napoli,us-lecce
+30. april 2023,14:00,1:1,"{'62': 'home', '84': 'away'}",italy,serie a,ssc-napoli,us-salernitana-1919
+30. october 2022,19:45,2:1,"{'35': 'home', '37': 'home', '67': 'away'}",italy,serie a,torino-fc,ac-milan
+7. may 2023,14:00,1:1,"{'46': 'home', '86': 'away'}",italy,serie a,torino-fc,ac-monza
+21. may 2023,14:00,1:1,"{'48': 'away', '66': 'home'}",italy,serie a,torino-fc,acf-fiorentina
+8. april 2023,17:30,0:1,{'8': 'away'},italy,serie a,torino-fc,as-roma
+29. april 2023,19:45,1:2,"{'34': 'away', '75': 'home', '88': 'away'}",italy,serie a,torino-fc,atalanta
+6. march 2023,19:45,1:0,{'22': 'home'},italy,serie a,torino-fc,bologna-fc
+9. october 2022,11:30,1:1,"{'49': 'away', None: 'home'}",italy,serie a,torino-fc,empoli-fc
+4. january 2023,13:30,1:1,"{'45': 'away', '64': 'home'}",italy,serie a,torino-fc,hellas-verona
+3. june 2023,17:30,0:1,{'37': 'away'},italy,serie a,torino-fc,inter
+15. october 2022,17:00,0:1,{'74': 'away'},italy,serie a,torino-fc,juventus
+20. august 2022,17:30,0:0,,italy,serie a,torino-fc,lazio-roma
+9. november 2022,19:45,2:0,"{'29': 'home', '59': 'home'}",italy,serie a,torino-fc,sampdoria
+17. september 2022,19:45,0:1,{'90': 'away'},italy,serie a,torino-fc,sassuolo-calcio
+15. january 2023,14:00,0:1,{'28': 'away'},italy,serie a,torino-fc,spezia-calcio
+19. march 2023,14:00,0:4,"{'9': 'away', '35': 'away', '51': 'away', '68': 'away'}",italy,serie a,torino-fc,ssc-napoli
+5. february 2023,14:00,1:0,{'49': 'home'},italy,serie a,torino-fc,udinese-calcio
+20. february 2023,19:45,2:2,"{'41': 'home', '54': 'away', '74': 'away', '79': 'home'}",italy,serie a,torino-fc,us-cremonese
+5. september 2022,19:45,1:0,{'40': 'home'},italy,serie a,torino-fc,us-lecce
+16. april 2023,14:00,1:1,"{'9': 'away', '57': 'home'}",italy,serie a,torino-fc,us-salernitana-1919
+18. march 2023,19:45,3:1,"{'9': 'home', '45': 'home', '70': 'home'}",italy,serie a,udinese-calcio,ac-milan
+8. april 2023,11:30,2:2,"{'18': 'home', '48': 'away', '56': 'away', '90': 'home'}",italy,serie a,udinese-calcio,ac-monza
+31. august 2022,17:30,1:0,{'17': 'home'},italy,serie a,udinese-calcio,acf-fiorentina
+4. september 2022,19:45,4:0,"{'5': 'home', '56': 'home', '75': 'home', '82': 'home'}",italy,serie a,udinese-calcio,as-roma
+9. october 2022,14:00,2:2,"{'36': 'away', '56': 'away', '67': 'home', '78': 'home'}",italy,serie a,udinese-calcio,atalanta
+15. january 2023,14:00,1:2,"{'10': 'home', '59': 'away', '80': 'away'}",italy,serie a,udinese-calcio,bologna-fc
+4. january 2023,19:45,1:1,"{'3': 'away', '70': 'home'}",italy,serie a,udinese-calcio,empoli-fc
+30. january 2023,19:45,1:1,"{'4': 'away', '21': 'home'}",italy,serie a,udinese-calcio,hellas-verona
+18. september 2022,11:30,3:1,"{'5': 'away', '22': 'home', '84': 'home', '90': 'home'}",italy,serie a,udinese-calcio,inter
+4. june 2023,20:00,0:1,{'68': 'away'},italy,serie a,udinese-calcio,juventus
+21. may 2023,19:45,0:1,{'61': 'away'},italy,serie a,udinese-calcio,lazio-roma
+8. may 2023,17:30,2:0,"{'9': 'home', '34': 'home'}",italy,serie a,udinese-calcio,sampdoria
+12. february 2023,11:30,2:2,"{'1': 'home', '6': 'away', '28': 'home', '45': 'away'}",italy,serie a,udinese-calcio,sassuolo-calcio
+26. february 2023,17:00,2:2,"{'6': 'away', '22': 'home', '55': 'home', '72': 'away'}",italy,serie a,udinese-calcio,spezia-calcio
+4. may 2023,19:45,1:1,"{'13': 'home', '52': 'away'}",italy,serie a,udinese-calcio,ssc-napoli
+23. october 2022,11:30,1:2,"{'14': 'away', '26': 'home', '69': 'away'}",italy,serie a,udinese-calcio,torino-fc
+23. april 2023,14:00,3:0,"{'2': 'home', '27': 'home', '36': 'home'}",italy,serie a,udinese-calcio,us-cremonese
+4. november 2022,19:45,1:1,"{'33': 'away', '68': 'home'}",italy,serie a,udinese-calcio,us-lecce
+20. august 2022,17:30,0:0,,italy,serie a,udinese-calcio,us-salernitana-1919
+8. november 2022,19:45,0:0,,italy,serie a,us-cremonese,ac-milan
+14. january 2023,14:00,2:3,"{'8': 'away', '19': 'away', '55': 'away', '67': 'home', '83': 'home'}",italy,serie a,us-cremonese,ac-monza
+12. march 2023,14:00,0:2,"{'27': 'away', '50': 'away'}",italy,serie a,us-cremonese,acf-fiorentina
+28. february 2023,17:30,2:1,"{'17': 'home', '71': 'away', '83': 'home'}",italy,serie a,us-cremonese,as-roma
+1. april 2023,14:00,1:3,"{'44': 'away', '56': 'home', '72': 'away', '90': 'away'}",italy,serie a,us-cremonese,atalanta
+20. may 2023,14:00,1:5,"{'14': 'away', '27': 'away', '45': 'away', '62': 'away', '80': 'away', '90': 'home'}",italy,serie a,us-cremonese,bologna-fc
+14. april 2023,17:30,1:0,{'4': 'home'},italy,serie a,us-cremonese,empoli-fc
+30. april 2023,14:00,1:1,"{'9': 'home', '75': 'away'}",italy,serie a,us-cremonese,hellas-verona
+28. january 2023,17:00,1:2,"{'11': 'home', '21': 'away', '65': 'away'}",italy,serie a,us-cremonese,inter
+4. january 2023,17:30,0:1,{'90': 'away'},italy,serie a,us-cremonese,juventus
+18. september 2022,14:00,0:4,"{'7': 'away', '21': 'away', '45': 'away', '79': 'away'}",italy,serie a,us-cremonese,lazio-roma
+24. october 2022,17:30,0:1,{'78': 'away'},italy,serie a,us-cremonese,sampdoria
+4. september 2022,11:30,0:0,,italy,serie a,us-cremonese,sassuolo-calcio
+6. may 2023,19:45,2:0,"{'41': 'home', '77': 'home'}",italy,serie a,us-cremonese,spezia-calcio
+9. october 2022,17:00,1:4,"{'26': 'away', '47': 'home', '76': 'away', '90': 'away'}",italy,serie a,us-cremonese,ssc-napoli
+27. august 2022,17:30,1:2,"{'17': 'away', '65': 'away', '80': 'home'}",italy,serie a,us-cremonese,torino-fc
+30. october 2022,14:00,0:0,,italy,serie a,us-cremonese,udinese-calcio
+4. february 2023,14:00,0:2,"{'58': 'away', '69': 'away'}",italy,serie a,us-cremonese,us-lecce
+3. june 2023,20:00,2:0,"{'26': 'home', '88': 'home'}",italy,serie a,us-cremonese,us-salernitana-1919
+14. january 2023,17:00,2:2,"{'3': 'home', '23': 'home', '58': 'away', '70': 'away'}",italy,serie a,us-lecce,ac-milan
+11. september 2022,14:00,1:1,"{'35': 'away', '48': 'home'}",italy,serie a,us-lecce,ac-monza
+17. october 2022,19:45,1:1,"{'43': 'home', '48': 'away'}",italy,serie a,us-lecce,acf-fiorentina
+11. february 2023,17:00,1:1,"{'7': 'home', '17': 'away'}",italy,serie a,us-lecce,as-roma
+9. november 2022,17:30,2:1,"{'28': 'home', '30': 'home', '40': 'away'}",italy,serie a,us-lecce,atalanta
+4. june 2023,20:00,2:3,"{'17': 'home', '58': 'away', '81': 'away', '88': 'home', '90': 'away'}",italy,serie a,us-lecce,bologna-fc
+28. august 2022,19:45,1:1,"{'22': 'away', '40': 'home'}",italy,serie a,us-lecce,empoli-fc
+7. may 2023,19:45,0:1,{'71': 'away'},italy,serie a,us-lecce,hellas-verona
+13. august 2022,19:45,1:2,"{'2': 'away', '48': 'home', '90': 'away'}",italy,serie a,us-lecce,inter
+29. october 2022,17:00,0:1,{'73': 'away'},italy,serie a,us-lecce,juventus
+4. january 2023,15:30,2:1,"{'14': 'away', '57': 'home', '71': 'home'}",italy,serie a,us-lecce,lazio-roma
+16. april 2023,11:30,1:1,"{'31': 'home', '75': 'away'}",italy,serie a,us-lecce,sampdoria
+25. february 2023,19:45,0:1,{'65': 'away'},italy,serie a,us-lecce,sassuolo-calcio
+21. may 2023,11:30,0:0,,italy,serie a,us-lecce,spezia-calcio
+7. april 2023,18:00,1:2,"{'18': 'away', '52': 'home', '64': 'away'}",italy,serie a,us-lecce,ssc-napoli
+12. march 2023,11:30,0:2,"{'20': 'away', '23': 'away'}",italy,serie a,us-lecce,torino-fc
+28. april 2023,17:30,1:0,{'62': 'home'},italy,serie a,us-lecce,udinese-calcio
+2. october 2022,14:00,1:1,"{'19': 'away', '42': 'home'}",italy,serie a,us-lecce,us-cremonese
+27. january 2023,19:45,1:2,"{'5': 'away', '20': 'away', '23': 'home'}",italy,serie a,us-lecce,us-salernitana-1919
+4. january 2023,11:30,1:2,"{'10': 'away', '15': 'away', '83': 'home'}",italy,serie a,us-salernitana-1919,ac-milan
+26. february 2023,14:00,3:0,"{'52': 'home', '65': 'home', '71': 'home'}",italy,serie a,us-salernitana-1919,ac-monza
+3. may 2023,17:00,3:3,"{'10': 'home', '36': 'away', '59': 'home', '71': 'away', '81': 'home', '84': 'away'}",italy,serie a,us-salernitana-1919,acf-fiorentina
+14. august 2022,19:45,0:1,{'33': 'away'},italy,serie a,us-salernitana-1919,as-roma
+13. may 2023,14:00,1:0,{'90': 'home'},italy,serie a,us-salernitana-1919,atalanta
+18. march 2023,17:00,2:2,"{'7': 'home', '11': 'away', '64': 'home', '73': 'away'}",italy,serie a,us-salernitana-1919,bologna-fc
+5. september 2022,17:30,2:2,"{'31': 'away', '39': 'home', '61': 'home', '81': 'away'}",italy,serie a,us-salernitana-1919,empoli-fc
+9. october 2022,14:00,2:1,"{'18': 'home', '56': 'away', '90': 'home'}",italy,serie a,us-salernitana-1919,hellas-verona
+7. april 2023,16:00,1:1,"{'6': 'away', '90': 'home'}",italy,serie a,us-salernitana-1919,inter
+7. february 2023,19:45,0:3,"{'26': 'away', '45': 'away', '47': 'away'}",italy,serie a,us-salernitana-1919,juventus
+19. february 2023,14:00,0:2,"{'60': 'away', '69': 'away'}",italy,serie a,us-salernitana-1919,lazio-roma
+28. august 2022,17:30,4:0,"{'7': 'home', '16': 'home', '50': 'home', '76': 'home'}",italy,serie a,us-salernitana-1919,sampdoria
+22. april 2023,14:00,3:0,"{'9': 'home', '20': 'home', '65': 'home'}",italy,serie a,us-salernitana-1919,sassuolo-calcio
+22. october 2022,14:00,1:0,{'48': 'home'},italy,serie a,us-salernitana-1919,spezia-calcio
+21. january 2023,17:00,0:2,"{'45': 'away', '48': 'away'}",italy,serie a,us-salernitana-1919,ssc-napoli
+8. january 2023,11:30,1:1,"{'36': 'away', '49': 'home'}",italy,serie a,us-salernitana-1919,torino-fc
+27. may 2023,14:00,3:2,"{'25': 'away', '30': 'away', '43': 'home', '57': 'home', '90': 'home'}",italy,serie a,us-salernitana-1919,udinese-calcio
+5. november 2022,14:00,2:2,"{'3': 'home', '12': 'away', '38': 'home', '89': 'away'}",italy,serie a,us-salernitana-1919,us-cremonese
+16. september 2022,19:45,1:2,"{'43': 'away', '55': 'home', '83': 'away'}",italy,serie a,us-salernitana-1919,us-lecce

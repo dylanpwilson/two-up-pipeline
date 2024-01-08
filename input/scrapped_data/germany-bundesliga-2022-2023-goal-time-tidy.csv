@@ -1,0 +1,307 @@
+date,time,final_score,goals,country,league,home,away,season
+2022-09-11,14:30,0:1,{'3': 'away'},germany,bundesliga,FC Koln,Union Berlin,2022-2023
+2023-04-15,14:30,1:1,"{'17': 'away', '51': 'home'}",germany,bundesliga,FC Koln,Mainz,2022-2023
+2022-10-30,18:30,1:1,"{'13': 'home', '36': 'away'}",germany,bundesliga,FC Koln,Hoffenheim,2022-2023
+2022-11-09,17:30,1:2,"{'30': 'home', '65': 'away', '71': 'away'}",germany,bundesliga,FC Koln,Leverkusen,2022-2023
+2023-05-27,14:30,1:2,"{'8': 'away', '81': 'home', '89': 'away'}",germany,bundesliga,FC Koln,Bayern Munich,2022-2023
+2023-04-02,14:30,0:0,,germany,bundesliga,FC Koln,M'gladbach,2022-2023
+2022-10-01,14:30,3:2,"{'31': 'away', '53': 'home', '56': 'home', '71': 'home', '78': 'away'}",germany,bundesliga,FC Koln,Dortmund,2022-2023
+2023-02-12,16:30,3:0,"{'49': 'home', '71': 'home', '86': 'home'}",germany,bundesliga,FC Koln,Ein Frankfurt,2022-2023
+2022-10-16,14:30,3:2,"{'14': 'away', '47': 'home', '61': 'home', '68': 'away', '81': 'home'}",germany,bundesliga,FC Koln,Augsburg,2022-2023
+2022-08-07,16:30,3:1,"{'49': 'home', '62': 'home', '76': 'away', '80': 'home'}",germany,bundesliga,FC Koln,Schalke 04,2022-2023
+2023-05-12,19:30,5:2,"{'8': 'home', '18': 'away', '33': 'away', '39': 'home', '43': 'home', '69': 'home', '81': 'home'}",germany,bundesliga,FC Koln,Hertha,2022-2023
+2023-02-04,14:30,0:0,,germany,bundesliga,FC Koln,RB Leipzig,2022-2023
+2023-04-29,14:30,0:1,{'53': 'away'},germany,bundesliga,FC Koln,Freiburg,2022-2023
+2022-08-28,14:30,0:0,,germany,bundesliga,FC Koln,Stuttgart,2022-2023
+2023-03-10,19:30,0:2,"{'9': 'away', '76': 'away'}",germany,bundesliga,FC Koln,Bochum,2022-2023
+2023-02-25,14:30,0:2,"{'4': 'away', '68': 'away'}",germany,bundesliga,FC Koln,Wolfsburg,2022-2023
+2023-01-21,17:30,7:1,"{'9': 'home', '15': 'home', '21': 'home', '30': 'home', '36': 'home', '38': 'away', '54': 'home', '76': 'home'}",germany,bundesliga,FC Koln,Werder Bremen,2022-2023
+2023-03-04,14:30,0:0,,germany,bundesliga,Union Berlin,FC Koln,2022-2023
+2023-02-04,14:30,2:1,"{'32': 'home', '78': 'away', '84': 'home'}",germany,bundesliga,Union Berlin,Mainz,2022-2023
+2023-01-21,14:30,3:1,"{'43': 'away', '73': 'home', '89': 'home', '90': 'home'}",germany,bundesliga,Union Berlin,Hoffenheim,2022-2023
+2023-04-29,14:30,0:0,,germany,bundesliga,Union Berlin,Leverkusen,2022-2023
+2022-09-03,14:30,1:1,"{'12': 'home', '15': 'away'}",germany,bundesliga,Union Berlin,Bayern Munich,2022-2023
+2022-10-30,14:30,2:1,"{'33': 'away', '79': 'home', '90': 'home'}",germany,bundesliga,Union Berlin,M'gladbach,2022-2023
+2022-10-16,16:30,2:0,"{'8': 'home', '21': 'home'}",germany,bundesliga,Union Berlin,Dortmund,2022-2023
+2023-03-19,14:30,2:0,"{'53': 'home', '75': 'home'}",germany,bundesliga,Union Berlin,Ein Frankfurt,2022-2023
+2022-11-09,19:30,2:2,"{'7': 'home', '8': 'away', '22': 'home', '39': 'away'}",germany,bundesliga,Union Berlin,Augsburg,2022-2023
+2023-02-19,14:30,0:0,,germany,bundesliga,Union Berlin,Schalke 04,2022-2023
+2022-08-06,14:30,3:1,"{'31': 'home', '50': 'home', '54': 'home', '85': 'away'}",germany,bundesliga,Union Berlin,Hertha,2022-2023
+2022-08-20,17:30,2:1,"{'32': 'home', '38': 'home', '83': 'away'}",germany,bundesliga,Union Berlin,RB Leipzig,2022-2023
+2023-05-13,14:30,4:2,"{'5': 'home', '36': 'home', '38': 'home', '56': 'away', '70': 'away', '80': 'home'}",germany,bundesliga,Union Berlin,Freiburg,2022-2023
+2023-04-01,14:30,3:0,"{'51': 'home', '65': 'home', '68': 'home'}",germany,bundesliga,Union Berlin,Stuttgart,2022-2023
+2023-04-16,16:30,1:1,"{'45': 'home', '55': 'away'}",germany,bundesliga,Union Berlin,Bochum,2022-2023
+2022-09-18,14:30,2:0,"{'54': 'home', '77': 'home'}",germany,bundesliga,Union Berlin,Wolfsburg,2022-2023
+2023-05-27,14:30,1:0,{'81': 'home'},germany,bundesliga,Union Berlin,Werder Bremen,2022-2023
+2022-10-21,19:30,5:0,"{'11': 'home', '35': 'home', '40': 'home', '73': 'home', '83': 'home'}",germany,bundesliga,Mainz,FC Koln,2022-2023
+2022-08-14,14:30,0:0,,germany,bundesliga,Mainz,Union Berlin,2022-2023
+2023-03-04,14:30,1:0,{'33': 'home'},germany,bundesliga,Mainz,Hoffenheim,2022-2023
+2022-08-27,14:30,0:3,"{'29': 'away', '39': 'away', '41': 'away'}",germany,bundesliga,Mainz,Leverkusen,2022-2023
+2023-04-22,14:30,3:1,"{'29': 'away', '65': 'home', '73': 'home', '79': 'home'}",germany,bundesliga,Mainz,Bayern Munich,2022-2023
+2023-02-24,19:30,4:0,"{'25': 'home', '49': 'home', '72': 'home', '90': 'home'}",germany,bundesliga,Mainz,M'gladbach,2022-2023
+2023-01-25,17:30,1:2,"{'2': 'home', '4': 'away', '90': 'away'}",germany,bundesliga,Mainz,Dortmund,2022-2023
+2022-11-13,14:30,1:1,"{'40': 'home', '67': 'away'}",germany,bundesliga,Mainz,Ein Frankfurt,2022-2023
+2023-02-11,14:30,3:1,"{'21': 'home', '24': 'home', '28': 'away', '52': 'home'}",germany,bundesliga,Mainz,Augsburg,2022-2023
+2023-05-05,19:30,2:3,"{'26': 'away', '53': 'home', '60': 'away', '70': 'home', '90': 'away'}",germany,bundesliga,Mainz,Schalke 04,2022-2023
+2022-09-16,19:30,1:1,"{'30': 'away', '90': 'home'}",germany,bundesliga,Mainz,Hertha,2022-2023
+2022-10-08,14:30,1:1,"{'45': 'home', '80': 'away'}",germany,bundesliga,Mainz,RB Leipzig,2022-2023
+2023-03-19,18:30,1:1,"{'55': 'away', '90': 'home'}",germany,bundesliga,Mainz,Freiburg,2022-2023
+2023-05-21,14:30,1:4,"{'23': 'home', '41': 'away', '64': 'away', '78': 'away', '90': 'away'}",germany,bundesliga,Mainz,Stuttgart,2022-2023
+2023-01-28,14:30,5:2,"{'1': 'home', '18': 'home', '28': 'home', '57': 'home', '70': 'away', None: 'away', '87': 'home'}",germany,bundesliga,Mainz,Bochum,2022-2023
+2022-11-05,14:30,0:3,"{'33': 'away', '70': 'away', '84': 'away'}",germany,bundesliga,Mainz,Wolfsburg,2022-2023
+2023-04-08,14:30,2:2,"{'85': 'home', '87': 'away', '90': 'away'}",germany,bundesliga,Mainz,Werder Bremen,2022-2023
+2023-04-22,14:30,1:3,"{'18': 'away', '39': 'away', '90': 'home'}",germany,bundesliga,Hoffenheim,FC Koln,2022-2023
+2023-05-20,14:30,4:2,"{'22': 'home', '36': 'home', '45': 'away', '90': 'home'}",germany,bundesliga,Hoffenheim,Union Berlin,2022-2023
+2022-09-10,14:30,4:1,"{'53': 'home', '69': 'home', '80': 'home', '83': 'away', '90': 'home'}",germany,bundesliga,Hoffenheim,Mainz,2022-2023
+2023-02-11,14:30,1:3,"{'6': 'away', '47': 'away', '56': 'away', '77': 'home'}",germany,bundesliga,Hoffenheim,Leverkusen,2022-2023
+2022-10-22,14:30,0:2,"{'17': 'away', '38': 'away'}",germany,bundesliga,Hoffenheim,Bayern Munich,2022-2023
+2023-01-28,14:30,1:4,"{'12': 'away', '37': 'away', '80': 'home', '83': 'away', '90': 'away'}",germany,bundesliga,Hoffenheim,M'gladbach,2022-2023
+2023-02-25,14:30,0:1,{None: 'away'},germany,bundesliga,Hoffenheim,Dortmund,2022-2023
+2023-05-06,14:30,3:1,"{'8': 'home', '41': 'home', '45': 'home', '54': 'away'}",germany,bundesliga,Hoffenheim,Ein Frankfurt,2022-2023
+2022-08-27,14:30,1:0,{'38': 'home'},germany,bundesliga,Hoffenheim,Augsburg,2022-2023
+2023-04-09,18:30,2:0,"{'22': 'home', '70': 'home'}",germany,bundesliga,Hoffenheim,Schalke 04,2022-2023
+2023-03-18,14:30,3:1,"{'24': 'home', '37': 'home', '51': 'home', '90': 'away'}",germany,bundesliga,Hoffenheim,Hertha,2022-2023
+2022-11-05,14:30,1:3,"{'17': 'away', '50': 'home', '57': 'away', '69': 'away'}",germany,bundesliga,Hoffenheim,RB Leipzig,2022-2023
+2022-09-18,18:30,0:0,,germany,bundesliga,Hoffenheim,Freiburg,2022-2023
+2023-01-24,19:30,2:2,"{'11': 'home', '45': 'away', '77': 'away', '90': 'home'}",germany,bundesliga,Hoffenheim,Stuttgart,2022-2023
+2022-08-13,14:30,3:2,"{'10': 'away', '12': 'away', '14': 'home', '23': 'home', '88': 'home'}",germany,bundesliga,Hoffenheim,Bochum,2022-2023
+2022-11-12,14:30,1:2,"{'42': 'home', '45': 'away', '56': 'away'}",germany,bundesliga,Hoffenheim,Wolfsburg,2022-2023
+2022-10-07,19:30,1:2,"{'18': 'away', '32': 'home', '88': 'away'}",germany,bundesliga,Hoffenheim,Werder Bremen,2022-2023
+2023-05-05,19:30,1:2,"{'14': 'away', '28': 'home', '36': 'away'}",germany,bundesliga,Leverkusen,FC Koln,2022-2023
+2022-11-06,14:30,5:0,"{'46': 'home', '56': 'home', '58': 'home', '68': 'home', '76': 'home'}",germany,bundesliga,Leverkusen,Union Berlin,2022-2023
+2023-02-19,18:30,2:3,"{'26': 'away', '32': 'home', '45': 'away', '58': 'home', '82': 'away'}",germany,bundesliga,Leverkusen,Mainz,2022-2023
+2022-08-20,14:30,0:3,"{'9': 'away', '34': 'away', '78': 'away'}",germany,bundesliga,Leverkusen,Hoffenheim,2022-2023
+2023-03-19,16:30,2:1,"{'22': 'away', '55': 'home', '73': 'home'}",germany,bundesliga,Leverkusen,Bayern Munich,2022-2023
+2023-05-21,18:30,2:2,"{'15': 'home', '20': 'home', '58': 'away', '90': 'away'}",germany,bundesliga,Leverkusen,M'gladbach,2022-2023
+2023-01-29,16:30,0:2,"{'33': 'away', '53': 'away'}",germany,bundesliga,Leverkusen,Dortmund,2022-2023
+2023-04-08,14:30,3:1,"{'10': 'home', '34': 'home', '74': 'away', '90': 'home'}",germany,bundesliga,Leverkusen,Ein Frankfurt,2022-2023
+2022-08-13,14:30,1:2,"{'15': 'away', '43': 'home', '82': 'away'}",germany,bundesliga,Leverkusen,Augsburg,2022-2023
+2022-10-08,14:30,4:0,"{'38': 'home', '41': 'home', '53': 'home', '90': 'home'}",germany,bundesliga,Leverkusen,Schalke 04,2022-2023
+2023-03-05,14:30,4:1,"{'12': 'home', '21': 'home', '60': 'home', '67': 'away', '73': 'home'}",germany,bundesliga,Leverkusen,Hertha,2022-2023
+2023-04-23,16:30,2:0,"{'40': 'home', '86': 'home'}",germany,bundesliga,Leverkusen,RB Leipzig,2022-2023
+2022-09-03,14:30,2:3,"{None: 'home', '48': 'away', '51': 'away', '65': 'home', '72': 'away'}",germany,bundesliga,Leverkusen,Freiburg,2022-2023
+2022-11-12,14:30,2:0,"{'30': 'home', '82': 'home'}",germany,bundesliga,Leverkusen,Stuttgart,2022-2023
+2023-01-25,19:30,2:0,"{'8': 'home', '53': 'home'}",germany,bundesliga,Leverkusen,Bochum,2022-2023
+2022-10-22,14:30,2:2,"{'17': 'home', '28': 'away', '54': 'away', '76': 'home'}",germany,bundesliga,Leverkusen,Wolfsburg,2022-2023
+2022-09-17,14:30,1:1,"{'57': 'home', '82': 'away'}",germany,bundesliga,Leverkusen,Werder Bremen,2022-2023
+2023-01-24,19:30,1:1,"{'4': 'away', '90': 'home'}",germany,bundesliga,Bayern Munich,FC Koln,2022-2023
+2023-02-26,16:30,3:0,"{'31': 'home', '40': 'home', '45': 'home'}",germany,bundesliga,Bayern Munich,Union Berlin,2022-2023
+2022-10-29,14:30,6:2,"{'5': 'home', '28': 'home', '43': 'home', '45': 'away', '58': 'home', '79': 'home', '82': 'away', '86': 'home'}",germany,bundesliga,Bayern Munich,Mainz,2022-2023
+2023-04-15,14:30,1:1,"{'17': 'home', '71': 'away'}",germany,bundesliga,Bayern Munich,Hoffenheim,2022-2023
+2022-09-30,19:30,4:0,"{'3': 'home', '17': 'home', '39': 'home', '84': 'home'}",germany,bundesliga,Bayern Munich,Leverkusen,2022-2023
+2022-08-27,17:30,1:1,"{'43': 'away', '83': 'home'}",germany,bundesliga,Bayern Munich,M'gladbach,2022-2023
+2023-04-01,17:30,4:2,"{'13': 'home', None: 'home', '23': 'home', '50': 'home', '72': 'away', '90': 'away'}",germany,bundesliga,Bayern Munich,Dortmund,2022-2023
+2023-01-28,17:30,1:1,"{'34': 'home', '69': 'away'}",germany,bundesliga,Bayern Munich,Ein Frankfurt,2022-2023
+2023-03-11,14:30,5:3,"{'2': 'away', '15': 'home', '19': 'home', '35': 'home', '45': 'home', '60': 'away', '74': 'home', '90': 'away'}",germany,bundesliga,Bayern Munich,Augsburg,2022-2023
+2023-05-13,14:30,6:0,"{'21': 'home', '29': 'home', '50': 'home', '65': 'home', '80': 'home', '90': 'home'}",germany,bundesliga,Bayern Munich,Schalke 04,2022-2023
+2023-04-30,14:30,2:0,"{'69': 'home', '79': 'home'}",germany,bundesliga,Bayern Munich,Hertha,2022-2023
+2023-05-20,17:30,1:3,"{'25': 'home', '65': 'away', '76': 'away', '86': 'away'}",germany,bundesliga,Bayern Munich,RB Leipzig,2022-2023
+2022-10-16,18:30,5:0,"{'13': 'home', '33': 'home', '52': 'home', '55': 'home', '80': 'home'}",germany,bundesliga,Bayern Munich,Freiburg,2022-2023
+2022-09-10,14:30,2:2,"{'36': 'home', '57': 'away', '60': 'home', '90': 'away'}",germany,bundesliga,Bayern Munich,Stuttgart,2022-2023
+2023-02-11,14:30,3:0,"{'41': 'home', '64': 'home', '74': 'home'}",germany,bundesliga,Bayern Munich,Bochum,2022-2023
+2022-08-14,16:30,2:0,"{'33': 'home', '44': 'home'}",germany,bundesliga,Bayern Munich,Wolfsburg,2022-2023
+2022-11-08,19:30,6:1,"{'6': 'home', '10': 'away', '22': 'home', '26': 'home', '28': 'home', '82': 'home', '84': 'home'}",germany,bundesliga,Bayern Munich,Werder Bremen,2022-2023
+2022-10-09,14:30,5:2,"{None: 'home', '31': 'away', '45': 'home', '47': 'home', '76': 'home', '83': 'away', '90': 'home'}",germany,bundesliga,M'gladbach,FC Koln,2022-2023
+2023-04-23,18:30,0:1,{'60': 'away'},germany,bundesliga,M'gladbach,Union Berlin,2022-2023
+2022-09-04,16:30,0:1,{'55': 'away'},germany,bundesliga,M'gladbach,Mainz,2022-2023
+2022-08-06,14:30,3:1,"{'25': 'away', '42': 'home', '71': 'home', '78': 'home'}",germany,bundesliga,M'gladbach,Hoffenheim,2022-2023
+2023-01-22,16:30,2:3,"{'21': 'away', '43': 'away', '67': 'away', '82': 'home', '90': 'home'}",germany,bundesliga,M'gladbach,Leverkusen,2022-2023
+2023-02-18,14:30,3:2,"{'13': 'home', '35': 'away', '55': 'home', '84': 'home', '90': 'away'}",germany,bundesliga,M'gladbach,Bayern Munich,2022-2023
+2022-11-11,19:30,4:2,"{'4': 'home', '19': 'away', '26': 'home', '30': 'home', '40': 'away', '46': 'home'}",germany,bundesliga,M'gladbach,Dortmund,2022-2023
+2022-10-22,17:30,1:3,"{'6': 'away', '29': 'away', '45': 'away', '72': 'home'}",germany,bundesliga,M'gladbach,Ein Frankfurt,2022-2023
+2023-05-27,14:30,2:0,"{None: 'home', '40': 'home'}",germany,bundesliga,M'gladbach,Augsburg,2022-2023
+2023-02-04,17:30,0:0,,germany,bundesliga,M'gladbach,Schalke 04,2022-2023
+2022-08-19,19:30,1:0,{'34': 'home'},germany,bundesliga,M'gladbach,Hertha,2022-2023
+2022-09-17,17:30,3:0,"{'10': 'home', '35': 'home', '53': 'home'}",germany,bundesliga,M'gladbach,RB Leipzig,2022-2023
+2023-03-04,14:30,0:0,,germany,bundesliga,M'gladbach,Freiburg,2022-2023
+2022-11-04,19:30,3:1,"{'4': 'home', '25': 'home', '35': 'away', '90': 'home'}",germany,bundesliga,M'gladbach,Stuttgart,2022-2023
+2023-05-06,14:30,2:0,"{'35': 'home', '90': 'home'}",germany,bundesliga,M'gladbach,Bochum,2022-2023
+2023-04-09,14:30,2:0,"{'34': 'home', '63': 'home'}",germany,bundesliga,M'gladbach,Wolfsburg,2022-2023
+2023-03-17,19:30,2:2,"{'48': 'home', '65': 'away', '73': 'home', '89': 'away'}",germany,bundesliga,M'gladbach,Werder Bremen,2022-2023
+2023-03-18,17:30,6:1,"{'15': 'home', '17': 'home', '32': 'home', '36': 'home', '42': 'away', '69': 'home', '70': 'home'}",germany,bundesliga,Dortmund,FC Koln,2022-2023
+2023-04-08,14:30,2:1,"{'28': 'home', '61': 'away', '79': 'home'}",germany,bundesliga,Dortmund,Union Berlin,2022-2023
+2023-05-27,14:30,2:2,"{'15': 'away', '24': 'away', '69': 'home', '90': 'home'}",germany,bundesliga,Dortmund,Mainz,2022-2023
+2022-09-02,19:30,1:0,{'16': 'home'},germany,bundesliga,Dortmund,Hoffenheim,2022-2023
+2022-08-06,17:30,1:0,{'10': 'home'},germany,bundesliga,Dortmund,Leverkusen,2022-2023
+2022-10-08,17:30,2:2,"{'33': 'away', '53': 'away', '74': 'home', '90': 'home'}",germany,bundesliga,Dortmund,Bayern Munich,2022-2023
+2023-05-13,17:30,5:2,"{'5': 'home', '18': 'home', '20': 'home', '32': 'home', '75': 'away', '86': 'away', '90': 'home'}",germany,bundesliga,Dortmund,M'gladbach,2022-2023
+2023-04-22,17:30,4:0,"{'19': 'home', '24': 'home', '41': 'home', '66': 'home'}",germany,bundesliga,Dortmund,Ein Frankfurt,2022-2023
+2023-01-22,14:30,4:3,"{'29': 'home', '40': 'away', '42': 'home', '45': 'away', '75': 'home', '76': 'away', '78': 'home'}",germany,bundesliga,Dortmund,Augsburg,2022-2023
+2022-09-17,14:30,1:0,{'79': 'home'},germany,bundesliga,Dortmund,Schalke 04,2022-2023
+2023-02-19,16:30,4:1,"{'27': 'home', '32': 'home', '46': 'away', '76': 'home', '90': 'home'}",germany,bundesliga,Dortmund,Hertha,2022-2023
+2023-03-03,19:30,2:1,"{'21': 'home', '39': 'home', '74': 'away'}",germany,bundesliga,Dortmund,RB Leipzig,2022-2023
+2023-02-04,14:30,5:1,"{'25': 'home', '45': 'away', '48': 'home', '51': 'home', '69': 'home', '82': 'home'}",germany,bundesliga,Dortmund,Freiburg,2022-2023
+2022-10-22,14:30,5:0,"{'2': 'home', '13': 'home', '44': 'home', '53': 'home', '72': 'home'}",germany,bundesliga,Dortmund,Stuttgart,2022-2023
+2022-11-05,14:30,3:0,"{'8': 'home', '12': 'home', '45': 'home'}",germany,bundesliga,Dortmund,Bochum,2022-2023
+2023-05-07,16:30,6:0,"{'14': 'home', '28': 'home', '37': 'home', '54': 'home', '59': 'home', '86': 'home'}",germany,bundesliga,Dortmund,Wolfsburg,2022-2023
+2022-08-20,14:30,2:3,"{'45': 'home', '77': 'home', '89': 'away', '90': 'away'}",germany,bundesliga,Dortmund,Werder Bremen,2022-2023
+2022-08-21,14:30,1:1,"{'71': 'home', '82': 'away'}",germany,bundesliga,Ein Frankfurt,FC Koln,2022-2023
+2022-10-01,14:30,2:0,"{'12': 'home', '42': 'home'}",germany,bundesliga,Ein Frankfurt,Union Berlin,2022-2023
+2023-05-13,14:30,3:0,"{'18': 'home', '40': 'home', '59': 'home'}",germany,bundesliga,Ein Frankfurt,Mainz,2022-2023
+2022-11-09,19:30,4:2,"{'6': 'home', '8': 'home', '29': 'home', '37': 'away', '46': 'away', '56': 'home'}",germany,bundesliga,Ein Frankfurt,Hoffenheim,2022-2023
+2022-10-15,14:30,5:1,"{'45': 'home', '56': 'away', '58': 'home', '65': 'home', '72': 'home', '86': 'home'}",germany,bundesliga,Ein Frankfurt,Leverkusen,2022-2023
+2022-08-05,19:30,1:6,"{'5': 'away', '11': 'away', '29': 'away', '35': 'away', '43': 'away', '64': 'home', '83': 'away'}",germany,bundesliga,Ein Frankfurt,Bayern Munich,2022-2023
+2023-04-15,17:30,1:1,"{'13': 'away', '83': 'home'}",germany,bundesliga,Ein Frankfurt,M'gladbach,2022-2023
+2022-10-29,17:30,1:2,"{'21': 'away', '26': 'home', '52': 'away'}",germany,bundesliga,Ein Frankfurt,Dortmund,2022-2023
+2023-04-29,14:30,1:1,"{'25': 'home', '58': 'away'}",germany,bundesliga,Ein Frankfurt,Augsburg,2022-2023
+2023-01-21,14:30,3:0,"{'22': 'home', '84': 'home', '90': 'home'}",germany,bundesliga,Ein Frankfurt,Schalke 04,2022-2023
+2023-02-04,14:30,3:0,"{'21': 'home', '28': 'home', '90': 'home'}",germany,bundesliga,Ein Frankfurt,Hertha,2022-2023
+2022-09-03,17:30,4:0,"{'16': 'home', '22': 'home', '67': 'home', '84': 'home'}",germany,bundesliga,Ein Frankfurt,RB Leipzig,2022-2023
+2023-05-27,14:30,2:1,"{'44': 'away', '83': 'home', '90': 'home'}",germany,bundesliga,Ein Frankfurt,Freiburg,2022-2023
+2023-03-11,14:30,1:1,"{'55': 'home', '75': 'away'}",germany,bundesliga,Ein Frankfurt,Stuttgart,2022-2023
+2023-03-31,19:30,1:1,"{'13': 'away', '22': 'home'}",germany,bundesliga,Ein Frankfurt,Bochum,2022-2023
+2022-09-10,14:30,0:1,{'60': 'away'},germany,bundesliga,Ein Frankfurt,Wolfsburg,2022-2023
+2023-02-18,17:30,2:0,"{'8': 'home', '52': 'home'}",germany,bundesliga,Ein Frankfurt,Werder Bremen,2022-2023
+2023-04-08,14:30,1:3,"{'7': 'away', '16': 'away', '29': 'home', '59': 'away'}",germany,bundesliga,Augsburg,FC Koln,2022-2023
+2023-05-06,14:30,1:0,{'53': 'home'},germany,bundesliga,Augsburg,Union Berlin,2022-2023
+2022-08-20,14:30,1:2,"{'31': 'away', '35': 'home', '90': 'away'}",germany,bundesliga,Augsburg,Mainz,2022-2023
+2023-02-17,19:30,1:0,{'88': 'home'},germany,bundesliga,Augsburg,Hoffenheim,2022-2023
+2023-02-03,19:30,1:0,{'55': 'home'},germany,bundesliga,Augsburg,Leverkusen,2022-2023
+2022-09-17,14:30,1:0,{'59': 'home'},germany,bundesliga,Augsburg,Bayern Munich,2022-2023
+2023-01-25,19:30,1:0,{'82': 'home'},germany,bundesliga,Augsburg,M'gladbach,2022-2023
+2023-05-21,16:30,0:3,"{'59': 'away', '84': 'away', '90': 'away'}",germany,bundesliga,Augsburg,Dortmund,2022-2023
+2022-11-05,14:30,1:2,"{'1': 'home', '13': 'away', '64': 'away'}",germany,bundesliga,Augsburg,Ein Frankfurt,2022-2023
+2023-03-18,14:30,1:1,"{'51': 'home', '90': 'away'}",germany,bundesliga,Augsburg,Schalke 04,2022-2023
+2022-09-04,14:30,0:2,"{'57': 'away', '90': 'away'}",germany,bundesliga,Augsburg,Hertha,2022-2023
+2022-10-22,14:30,3:3,"{'34': 'home', '51': 'home', '64': 'home', '73': 'away', '89': 'away', '90': 'away'}",germany,bundesliga,Augsburg,RB Leipzig,2022-2023
+2022-08-06,14:30,0:4,"{'46': 'away', '48': 'away', '61': 'away', '78': 'away'}",germany,bundesliga,Augsburg,Freiburg,2022-2023
+2023-04-21,19:30,1:1,"{'8': 'home', '78': 'away'}",germany,bundesliga,Augsburg,Stuttgart,2022-2023
+2022-11-12,14:30,0:1,{'58': 'away'},germany,bundesliga,Augsburg,Bochum,2022-2023
+2022-10-08,14:30,1:1,"{'27': 'away', '55': 'home'}",germany,bundesliga,Augsburg,Wolfsburg,2022-2023
+2023-03-04,14:30,2:1,"{'5': 'home', '16': 'away', '46': 'home'}",germany,bundesliga,Augsburg,Werder Bremen,2022-2023
+2023-01-29,14:30,0:0,,germany,bundesliga,Schalke 04,FC Koln,2022-2023
+2022-08-27,14:30,1:6,"{'6': 'away', '31': 'home', '36': 'away', '45': 'away', '46': 'away', '87': 'away', '90': 'away'}",germany,bundesliga,Schalke 04,Union Berlin,2022-2023
+2022-11-09,19:30,1:0,{'10': 'home'},germany,bundesliga,Schalke 04,Mainz,2022-2023
+2022-10-14,19:30,0:3,"{'11': 'away', '45': 'away', '59': 'away'}",germany,bundesliga,Schalke 04,Hoffenheim,2022-2023
+2023-04-01,14:30,0:3,"{'50': 'away', '61': 'away', '90': 'away'}",germany,bundesliga,Schalke 04,Leverkusen,2022-2023
+2022-11-12,17:30,0:2,"{'38': 'away', '52': 'away'}",germany,bundesliga,Schalke 04,Bayern Munich,2022-2023
+2022-08-13,17:30,2:2,"{'29': 'home', '72': 'away', '78': 'away', '90': 'home'}",germany,bundesliga,Schalke 04,M'gladbach,2022-2023
+2023-03-11,17:30,2:2,"{'38': 'away', '50': 'home', '60': 'away', '79': 'home'}",germany,bundesliga,Schalke 04,Dortmund,2022-2023
+2023-05-20,14:30,2:2,"{'1': 'home', '21': 'away', '59': 'away', '85': 'home'}",germany,bundesliga,Schalke 04,Ein Frankfurt,2022-2023
+2022-10-02,16:30,2:3,"{'9': 'away', '21': 'away', '33': 'home', '63': 'home', '77': 'away'}",germany,bundesliga,Schalke 04,Augsburg,2022-2023
+2023-04-14,19:30,5:2,"{'3': 'home', '13': 'home', '45': 'away', '48': 'home', '78': 'home', '84': 'away', '90': 'home'}",germany,bundesliga,Schalke 04,Hertha,2022-2023
+2023-01-24,17:30,1:6,"{'7': 'away', '15': 'away', '44': 'away', '45': 'away', '56': 'home', '83': 'away', '89': 'away'}",germany,bundesliga,Schalke 04,RB Leipzig,2022-2023
+2022-10-30,16:30,0:2,"{'45': 'away', '61': 'away'}",germany,bundesliga,Schalke 04,Freiburg,2022-2023
+2023-02-25,17:30,2:1,"{'10': 'home', '40': 'home', '63': 'away'}",germany,bundesliga,Schalke 04,Stuttgart,2022-2023
+2022-09-10,17:30,3:1,"{'38': 'home', '51': 'away', '73': 'home', '90': 'home'}",germany,bundesliga,Schalke 04,Bochum,2022-2023
+2023-02-10,19:30,0:0,,germany,bundesliga,Schalke 04,Wolfsburg,2022-2023
+2023-04-29,17:30,2:1,"{'18': 'away', '81': 'home', '90': 'home'}",germany,bundesliga,Schalke 04,Werder Bremen,2022-2023
+2022-11-12,14:30,2:0,"{'9': 'home', '54': 'home'}",germany,bundesliga,Hertha,FC Koln,2022-2023
+2023-01-28,14:30,0:2,"{'44': 'away', '67': 'away'}",germany,bundesliga,Hertha,Union Berlin,2022-2023
+2023-03-11,14:30,1:1,"{'18': 'home', '57': 'away'}",germany,bundesliga,Hertha,Mainz,2022-2023
+2022-10-02,14:30,1:1,"{'25': 'away', '37': 'home'}",germany,bundesliga,Hertha,Hoffenheim,2022-2023
+2022-09-10,14:30,2:2,"{'49': 'away', '55': 'home', '74': 'home', '79': 'away'}",germany,bundesliga,Hertha,Leverkusen,2022-2023
+2022-11-05,14:30,2:3,"{'12': 'away', '37': 'away', '38': 'away', '40': 'home', '45': 'home'}",germany,bundesliga,Hertha,Bayern Munich,2022-2023
+2023-02-12,14:30,4:1,"{'17': 'away', '30': 'home', '52': 'home', '90': 'home'}",germany,bundesliga,Hertha,M'gladbach,2022-2023
+2022-08-27,14:30,0:1,{'32': 'away'},germany,bundesliga,Hertha,Dortmund,2022-2023
+2022-08-13,14:30,1:1,"{'3': 'home', '48': 'away'}",germany,bundesliga,Hertha,Ein Frankfurt,2022-2023
+2023-02-25,14:30,2:0,"{'61': 'home', '70': 'home'}",germany,bundesliga,Hertha,Augsburg,2022-2023
+2022-10-23,16:30,2:1,"{'49': 'home', '85': 'away', '88': 'home'}",germany,bundesliga,Hertha,Schalke 04,2022-2023
+2023-04-08,17:30,0:1,{'39': 'away'},germany,bundesliga,Hertha,RB Leipzig,2022-2023
+2022-10-09,16:30,2:2,"{'22': 'away', '34': 'home', '61': 'home', '78': 'away'}",germany,bundesliga,Hertha,Freiburg,2022-2023
+2023-05-06,14:30,2:1,"{'29': 'home', '38': 'away', '45': 'home'}",germany,bundesliga,Hertha,Stuttgart,2022-2023
+2023-05-20,14:30,1:1,"{'63': 'home', '90': 'away'}",germany,bundesliga,Hertha,Bochum,2022-2023
+2023-01-24,19:30,0:5,"{'4': 'away', '31': 'away', '34': 'away', '72': 'away', '86': 'away'}",germany,bundesliga,Hertha,Wolfsburg,2022-2023
+2023-04-22,14:30,2:4,"{'6': 'away', '27': 'away', '51': 'away', '63': 'away', '68': 'home', '79': 'home'}",germany,bundesliga,Hertha,Werder Bremen,2022-2023
+2022-08-13,14:30,2:2,"{'36': 'home', '40': 'away', '56': 'home', '72': 'away'}",germany,bundesliga,RB Leipzig,FC Koln,2022-2023
+2023-02-11,17:30,1:2,"{'24': 'home', '61': 'away', '72': 'away'}",germany,bundesliga,RB Leipzig,Union Berlin,2022-2023
+2023-04-01,14:30,0:3,"{'9': 'away', '57': 'away', '67': 'away'}",germany,bundesliga,RB Leipzig,Mainz,2022-2023
+2023-04-29,14:30,1:0,{'28': 'home'},germany,bundesliga,RB Leipzig,Hoffenheim,2022-2023
+2022-10-29,14:30,2:0,"{'32': 'home', '83': 'home'}",germany,bundesliga,RB Leipzig,Leverkusen,2022-2023
+2023-01-20,19:30,1:1,"{'37': 'away', '52': 'home'}",germany,bundesliga,RB Leipzig,Bayern Munich,2022-2023
+2023-03-11,14:30,3:0,"{'58': 'home', '71': 'home', '80': 'home'}",germany,bundesliga,RB Leipzig,M'gladbach,2022-2023
+2022-09-10,14:30,3:0,"{'6': 'home', '45': 'home', '84': 'home'}",germany,bundesliga,RB Leipzig,Dortmund,2022-2023
+2023-02-25,14:30,2:1,"{'6': 'home', '40': 'home', '61': 'away'}",germany,bundesliga,RB Leipzig,Ein Frankfurt,2022-2023
+2023-04-15,14:30,3:2,"{'5': 'away', '10': 'home', '32': 'home', '35': 'home', '82': 'away'}",germany,bundesliga,RB Leipzig,Augsburg,2022-2023
+2023-05-27,14:30,4:2,"{'10': 'home', '19': 'home', '28': 'away', '49': 'away', '82': 'home', '90': 'home'}",germany,bundesliga,RB Leipzig,Schalke 04,2022-2023
+2022-10-15,17:30,3:2,"{'25': 'home', '30': 'home', None: 'home', '62': 'away', '64': 'away'}",germany,bundesliga,RB Leipzig,Hertha,2022-2023
+2022-11-09,19:30,3:1,"{'54': 'home', '56': 'home', '66': 'away', '78': 'home'}",germany,bundesliga,RB Leipzig,Freiburg,2022-2023
+2023-01-27,19:30,2:1,"{'25': 'home', '49': 'home', '68': 'away'}",germany,bundesliga,RB Leipzig,Stuttgart,2022-2023
+2022-10-01,14:30,4:0,"{'15': 'home', '23': 'home', '53': 'home', '85': 'home'}",germany,bundesliga,RB Leipzig,Bochum,2022-2023
+2022-08-27,14:30,2:0,"{'5': 'home', '90': 'home'}",germany,bundesliga,RB Leipzig,Wolfsburg,2022-2023
+2023-05-14,16:30,2:1,"{'70': 'away', '87': 'home', '90': 'home'}",germany,bundesliga,RB Leipzig,Werder Bremen,2022-2023
+2022-11-06,16:30,2:0,"{'52': 'home', '64': 'home'}",germany,bundesliga,Freiburg,FC Koln,2022-2023
+2022-11-13,16:30,4:1,"{'4': 'home', '6': 'home', '20': 'home', '45': 'home', '84': 'away'}",germany,bundesliga,Freiburg,Union Berlin,2022-2023
+2022-10-01,14:30,2:1,"{'3': 'home', '37': 'home', '52': 'away'}",germany,bundesliga,Freiburg,Mainz,2022-2023
+2023-03-12,14:30,2:1,"{'5': 'home', '49': 'away', '89': 'home'}",germany,bundesliga,Freiburg,Hoffenheim,2022-2023
+2023-02-26,14:30,1:1,"{'29': 'home', '67': 'away'}",germany,bundesliga,Freiburg,Leverkusen,2022-2023
+2023-04-08,14:30,0:1,{'51': 'away'},germany,bundesliga,Freiburg,Bayern Munich,2022-2023
+2022-09-11,16:30,0:0,,germany,bundesliga,Freiburg,M'gladbach,2022-2023
+2022-08-12,19:30,1:3,"{'35': 'home', '77': 'away', '84': 'away', '88': 'away'}",germany,bundesliga,Freiburg,Dortmund,2022-2023
+2023-01-25,19:30,1:1,"{'42': 'away', '47': 'home'}",germany,bundesliga,Freiburg,Ein Frankfurt,2022-2023
+2023-01-28,14:30,3:1,"{'13': 'home', '29': 'away', '30': 'home', '85': 'home'}",germany,bundesliga,Freiburg,Augsburg,2022-2023
+2023-04-23,14:30,4:0,"{'7': 'home', '35': 'home', '52': 'home', '82': 'home'}",germany,bundesliga,Freiburg,Schalke 04,2022-2023
+2023-04-01,14:30,1:1,"{'52': 'home', '77': 'away'}",germany,bundesliga,Freiburg,Hertha,2022-2023
+2023-05-06,14:30,0:1,{'73': 'away'},germany,bundesliga,Freiburg,RB Leipzig,2022-2023
+2023-02-11,14:30,2:1,"{'30': 'away', '60': 'home', '84': 'home'}",germany,bundesliga,Freiburg,Stuttgart,2022-2023
+2022-08-26,19:30,1:0,{'49': 'home'},germany,bundesliga,Freiburg,Bochum,2022-2023
+2023-05-19,19:30,2:0,"{'71': 'home', '75': 'home'}",germany,bundesliga,Freiburg,Wolfsburg,2022-2023
+2022-10-22,14:30,2:0,"{'56': 'home', '80': 'home'}",germany,bundesliga,Freiburg,Werder Bremen,2022-2023
+2023-02-18,14:30,3:0,"{'9': 'home', '59': 'home', '74': 'home'}",germany,bundesliga,Stuttgart,FC Koln,2022-2023
+2022-10-09,18:30,0:1,{'76': 'away'},germany,bundesliga,Stuttgart,Union Berlin,2022-2023
+2023-01-21,14:30,1:1,"{'36': 'home', '40': 'away'}",germany,bundesliga,Stuttgart,Mainz,2022-2023
+2023-05-27,14:30,1:1,"{'75': 'away', '80': 'home'}",germany,bundesliga,Stuttgart,Hoffenheim,2022-2023
+2023-05-14,14:30,1:1,"{'57': 'home', '70': 'away'}",germany,bundesliga,Stuttgart,Leverkusen,2022-2023
+2023-03-04,17:30,1:2,"{None: 'away', '62': 'away', '88': 'home'}",germany,bundesliga,Stuttgart,Bayern Munich,2022-2023
+2023-04-29,14:30,2:1,"{'22': 'home', '78': 'away', '83': 'home'}",germany,bundesliga,Stuttgart,M'gladbach,2022-2023
+2023-04-15,14:30,3:3,"{'26': 'away', '33': 'away', '78': 'home', '84': 'home', '90': 'home'}",germany,bundesliga,Stuttgart,Dortmund,2022-2023
+2022-09-17,14:30,1:3,"{'6': 'away', '55': 'away', '79': 'home', '88': 'away'}",germany,bundesliga,Stuttgart,Ein Frankfurt,2022-2023
+2022-10-29,14:30,2:1,"{'4': 'away', '15': 'home', '90': 'home'}",germany,bundesliga,Stuttgart,Augsburg,2022-2023
+2022-09-03,14:30,1:1,"{'18': 'home', '21': 'away'}",germany,bundesliga,Stuttgart,Schalke 04,2022-2023
+2022-11-08,19:30,2:1,"{'3': 'home', '19': 'away', '90': 'home'}",germany,bundesliga,Stuttgart,Hertha,2022-2023
+2022-08-07,14:30,1:1,"{'8': 'away', '31': 'home'}",germany,bundesliga,Stuttgart,RB Leipzig,2022-2023
+2022-08-20,14:30,0:1,{'11': 'away'},germany,bundesliga,Stuttgart,Freiburg,2022-2023
+2022-10-15,14:30,4:1,"{'3': 'home', '22': 'home', '29': 'away', '64': 'home', '71': 'home'}",germany,bundesliga,Stuttgart,Bochum,2022-2023
+2023-03-18,14:30,0:1,{'56': 'away'},germany,bundesliga,Stuttgart,Wolfsburg,2022-2023
+2023-02-05,14:30,0:2,"{'59': 'away', '77': 'away'}",germany,bundesliga,Stuttgart,Werder Bremen,2022-2023
+2022-09-18,16:30,1:1,"{'9': 'home', '88': 'away'}",germany,bundesliga,Bochum,FC Koln,2022-2023
+2022-10-23,14:30,2:1,"{'43': 'home', '71': 'home', '90': 'away'}",germany,bundesliga,Bochum,Union Berlin,2022-2023
+2022-08-06,14:30,1:2,"{'26': 'away', '39': 'home', '77': 'away'}",germany,bundesliga,Bochum,Mainz,2022-2023
+2023-02-04,14:30,5:2,"{'22': 'home', '30': 'home', '40': 'home', '49': 'away', '69': 'home', '77': 'away', '83': 'home'}",germany,bundesliga,Bochum,Hoffenheim,2022-2023
+2023-05-27,14:30,3:0,"{'19': 'home', '34': 'home', '86': 'home'}",germany,bundesliga,Bochum,Leverkusen,2022-2023
+2022-08-21,16:30,0:7,"{'4': 'away', '25': 'away', '33': 'away', '42': 'away', '60': 'away', '69': 'away', '76': 'away'}",germany,bundesliga,Bochum,Bayern Munich,2022-2023
+2022-11-08,19:30,2:1,"{'7': 'home', '12': 'home', '62': 'away'}",germany,bundesliga,Bochum,M'gladbach,2022-2023
+2023-04-28,19:30,1:1,"{'5': 'home', '7': 'away'}",germany,bundesliga,Bochum,Dortmund,2022-2023
+2022-10-08,14:30,3:0,"{'71': 'home', '87': 'home', '90': 'home'}",germany,bundesliga,Bochum,Ein Frankfurt,2022-2023
+2023-05-13,14:30,3:2,"{'2': 'home', '29': 'away', '59': 'home', '62': 'home', '85': 'away'}",germany,bundesliga,Bochum,Augsburg,2022-2023
+2023-03-04,14:30,0:2,"{'45': 'away', '79': 'away'}",germany,bundesliga,Bochum,Schalke 04,2022-2023
+2023-01-21,14:30,3:1,"{'22': 'home', '44': 'home', '56': 'home', '87': 'away'}",germany,bundesliga,Bochum,Hertha,2022-2023
+2023-03-18,14:30,1:0,{'49': 'home'},germany,bundesliga,Bochum,RB Leipzig,2022-2023
+2023-02-18,14:30,0:2,"{'39': 'away', '51': 'away'}",germany,bundesliga,Bochum,Freiburg,2022-2023
+2023-04-09,16:30,2:3,"{'14': 'away', '58': 'home', '60': 'away', '63': 'away', '85': 'home'}",germany,bundesliga,Bochum,Stuttgart,2022-2023
+2023-04-22,14:30,1:5,"{'10': 'away', '21': 'away', '33': 'away', '56': 'away', '69': 'home', '77': 'away'}",germany,bundesliga,Bochum,Wolfsburg,2022-2023
+2022-09-03,14:30,0:2,"{'86': 'away', '90': 'away'}",germany,bundesliga,Bochum,Werder Bremen,2022-2023
+2022-09-03,14:30,2:4,"{'2': 'home', '22': 'away', '32': 'away', '45': 'away', '79': 'home', '81': 'away'}",germany,bundesliga,Wolfsburg,FC Koln,2022-2023
+2023-03-12,18:30,1:1,"{'72': 'away', '84': 'home'}",germany,bundesliga,Wolfsburg,Union Berlin,2022-2023
+2023-04-30,16:30,3:0,"{'5': 'home', '13': 'home', '28': 'home'}",germany,bundesliga,Wolfsburg,Mainz,2022-2023
+2023-05-13,14:30,2:1,"{'15': 'home', '75': 'home', '90': 'away'}",germany,bundesliga,Wolfsburg,Hoffenheim,2022-2023
+2023-04-16,18:30,0:0,,germany,bundesliga,Wolfsburg,Leverkusen,2022-2023
+2023-02-05,16:30,2:4,"{'9': 'away', '14': 'away', '19': 'away', '44': 'home', '73': 'away', '81': 'home'}",germany,bundesliga,Wolfsburg,Bayern Munich,2022-2023
+2022-10-15,14:30,2:2,"{'13': 'away', '43': 'home', '47': 'away', '69': 'home'}",germany,bundesliga,Wolfsburg,M'gladbach,2022-2023
+2022-11-08,17:30,2:0,"{'6': 'home', '90': 'home'}",germany,bundesliga,Wolfsburg,Dortmund,2022-2023
+2023-03-05,16:30,2:2,"{'10': 'home', '22': 'away', '26': 'away', '43': 'home'}",germany,bundesliga,Wolfsburg,Ein Frankfurt,2022-2023
+2023-04-01,14:30,2:2,"{'2': 'away', '32': 'away', '84': 'home', '90': 'home'}",germany,bundesliga,Wolfsburg,Augsburg,2022-2023
+2022-08-20,14:30,0:0,,germany,bundesliga,Wolfsburg,Schalke 04,2022-2023
+2023-05-27,14:30,1:2,"{'2': 'home', '55': 'away', '68': 'away'}",germany,bundesliga,Wolfsburg,Hertha,2022-2023
+2023-02-18,14:30,0:3,"{'14': 'away', '85': 'away', '90': 'away'}",germany,bundesliga,Wolfsburg,RB Leipzig,2022-2023
+2023-01-21,14:30,6:0,"{'1': 'home', '28': 'home', '37': 'home', None: 'home', '80': 'home', '90': 'home'}",germany,bundesliga,Wolfsburg,Freiburg,2022-2023
+2022-10-01,14:30,3:2,"{'22': 'away', '23': 'home', '38': 'home', '45': 'away', '90': 'home'}",germany,bundesliga,Wolfsburg,Stuttgart,2022-2023
+2022-10-29,14:30,4:0,"{'27': 'home', '35': 'home', '58': 'home', '80': 'home'}",germany,bundesliga,Wolfsburg,Bochum,2022-2023
+2022-08-06,14:30,2:2,"{'11': 'home', '21': 'away', '23': 'away', '84': 'home'}",germany,bundesliga,Wolfsburg,Werder Bremen,2022-2023
+2023-05-20,14:30,1:1,"{'36': 'away', '73': 'home'}",germany,bundesliga,Werder Bremen,FC Koln,2022-2023
+2023-01-25,19:30,1:2,"{'14': 'home', '18': 'away', '46': 'away'}",germany,bundesliga,Werder Bremen,Union Berlin,2022-2023
+2022-10-15,14:30,0:2,"{'36': 'away', '66': 'away'}",germany,bundesliga,Werder Bremen,Mainz,2022-2023
+2023-04-02,16:30,1:2,"{'50': 'away', '52': 'away', '76': 'home'}",germany,bundesliga,Werder Bremen,Hoffenheim,2022-2023
+2023-03-12,16:30,2:3,"{'30': 'home', '34': 'away', '56': 'away', '83': 'away', '86': 'home'}",germany,bundesliga,Werder Bremen,Leverkusen,2022-2023
+2023-05-06,17:30,1:2,"{'62': 'away', '72': 'away', '87': 'home'}",germany,bundesliga,Werder Bremen,Bayern Munich,2022-2023
+2022-10-01,17:30,5:1,"{'5': 'home', '8': 'home', '13': 'home', '37': 'home', '63': 'away', '73': 'home'}",germany,bundesliga,Werder Bremen,M'gladbach,2022-2023
+2023-02-11,14:30,0:2,"{'67': 'away', '85': 'away'}",germany,bundesliga,Werder Bremen,Dortmund,2022-2023
+2022-08-28,16:30,3:4,"{'2': 'away', '14': 'home', '17': 'home', '32': 'away', '39': 'away', '48': 'away', '90': 'home'}",germany,bundesliga,Werder Bremen,Ein Frankfurt,2022-2023
+2022-09-09,19:30,0:1,{'63': 'away'},germany,bundesliga,Werder Bremen,Augsburg,2022-2023
+2022-11-05,17:30,2:1,"{'29': 'home', '76': 'home', '89': 'away'}",germany,bundesliga,Werder Bremen,Schalke 04,2022-2023
+2022-10-28,19:30,1:0,{'85': 'home'},germany,bundesliga,Werder Bremen,Hertha,2022-2023
+2022-11-12,14:30,1:2,"{'13': 'away', '56': 'home', '71': 'away'}",germany,bundesliga,Werder Bremen,RB Leipzig,2022-2023
+2023-04-16,14:30,1:2,"{'46': 'home', '67': 'away', '71': 'away'}",germany,bundesliga,Werder Bremen,Freiburg,2022-2023
+2022-08-13,14:30,2:2,"{'4': 'home', '38': 'away', '77': 'away', '90': 'home'}",germany,bundesliga,Werder Bremen,Stuttgart,2022-2023
+2023-02-25,14:30,3:0,"{'29': 'home', '43': 'home', '59': 'home'}",germany,bundesliga,Werder Bremen,Bochum,2022-2023
+2023-01-28,14:30,2:1,"{'24': 'home', '77': 'home', '90': 'away'}",germany,bundesliga,Werder Bremen,Wolfsburg,2022-2023

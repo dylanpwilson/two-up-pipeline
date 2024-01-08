@@ -1,0 +1,307 @@
+date,time,final_score,goals,country,league,home,away
+7. november 2021,16:30,2:2,"{'7': 'home', '9': 'away', '45': 'away', '86': 'home'}",germany,bundesliga,1-fc-koeln,1-fc-union-berlin
+9. april 2022,14:30,3:2,"{'14': 'away', '55': 'away', '60': 'home', '78': 'home', '82': 'home'}",germany,bundesliga,1-fc-koeln,1-fsv-mainz-05
+6. march 2022,16:30,0:1,{'62': 'away'},germany,bundesliga,1-fc-koeln,1899-hoffenheim
+23. april 2022,14:30,3:1,"{'3': 'home', '33': 'away', '43': 'home', '86': 'home'}",germany,bundesliga,1-fc-koeln,arminia-bielefeld
+24. october 2021,14:30,2:2,"{'15': 'away', '17': 'away', '63': 'home', '82': 'home'}",germany,bundesliga,1-fc-koeln,bayer-leverkusen
+15. january 2022,14:30,0:4,"{'9': 'away', '25': 'away', '62': 'away', '74': 'away'}",germany,bundesliga,1-fc-koeln,bayern-muenchen
+27. november 2021,14:30,4:1,"{'55': 'home', '74': 'away', '77': 'home', '78': 'home', '90': 'home'}",germany,bundesliga,1-fc-koeln,bor-moenchengladbach
+20. march 2022,18:30,1:1,"{'8': 'away', '36': 'home'}",germany,bundesliga,1-fc-koeln,borussia-dortmund
+19. february 2022,17:30,1:0,{'84': 'home'},germany,bundesliga,1-fc-koeln,eintracht-frankfurt
+10. december 2021,19:30,0:2,"{'72': 'away', '88': 'away'}",germany,bundesliga,1-fc-koeln,fc-augsburg
+15. august 2021,16:30,3:1,"{'5': 'away', '41': 'home', '52': 'home', '55': 'home'}",germany,bundesliga,1-fc-koeln,hertha-bsc
+18. september 2021,17:30,1:1,"{'53': 'home', '71': 'away'}",germany,bundesliga,1-fc-koeln,rb-leipzig
+5. february 2022,14:30,1:0,{'23': 'home'},germany,bundesliga,1-fc-koeln,sc-freiburg
+1. october 2021,19:30,3:1,"{'7': 'away', '50': 'home', '55': 'home', '89': 'home'}",germany,bundesliga,1-fc-koeln,spvgg-greuther-fuerth
+19. december 2021,16:30,1:0,{'89': 'home'},germany,bundesliga,1-fc-koeln,vfb-stuttgart
+28. august 2021,14:30,2:1,"{'82': 'home', '90': 'away'}",germany,bundesliga,1-fc-koeln,vfl-bochum
+7. may 2022,14:30,0:1,{'43': 'away'},germany,bundesliga,1-fc-koeln,vfl-wolfsburg
+1. april 2022,19:30,1:0,{'49': 'home'},germany,bundesliga,1-fc-union-berlin,1-fc-koeln
+26. february 2022,14:30,3:1,"{'7': 'home', '56': 'home', '75': 'home', '90': 'away'}",germany,bundesliga,1-fc-union-berlin,1-fsv-mainz-05
+15. january 2022,14:30,2:1,"{'16': 'away', '22': 'home', '73': 'home'}",germany,bundesliga,1-fc-union-berlin,1899-hoffenheim
+25. september 2021,14:30,1:0,{'88': 'home'},germany,bundesliga,1-fc-union-berlin,arminia-bielefeld
+14. august 2021,14:30,1:1,"{'7': 'home', '12': 'away'}",germany,bundesliga,1-fc-union-berlin,bayer-leverkusen
+30. october 2021,14:30,2:5,"{'15': 'away', '23': 'away', '35': 'away', '43': 'home', '60': 'away', '64': 'home', '79': 'away'}",germany,bundesliga,1-fc-union-berlin,bayern-muenchen
+29. august 2021,14:30,2:1,"{'22': 'home', '41': 'home', '90': 'away'}",germany,bundesliga,1-fc-union-berlin,bor-moenchengladbach
+13. february 2022,14:30,0:3,"{'18': 'away', '25': 'away', '71': 'away'}",germany,bundesliga,1-fc-union-berlin,borussia-dortmund
+17. april 2022,16:30,2:0,"{'17': 'home', '21': 'home'}",germany,bundesliga,1-fc-union-berlin,eintracht-frankfurt
+11. september 2021,14:30,0:0,,germany,bundesliga,1-fc-union-berlin,fc-augsburg
+20. november 2021,17:30,2:0,"{'8': 'home', '30': 'home'}",germany,bundesliga,1-fc-union-berlin,hertha-bsc
+3. december 2021,19:30,2:1,"{'6': 'home', '13': 'away', '57': 'home'}",germany,bundesliga,1-fc-union-berlin,rb-leipzig
+15. december 2021,19:30,0:0,,germany,bundesliga,1-fc-union-berlin,sc-freiburg
+29. april 2022,19:30,1:1,"{'33': 'away', '72': 'home'}",germany,bundesliga,1-fc-union-berlin,spvgg-greuther-fuerth
+12. march 2022,14:30,1:1,"{'41': 'home', '90': 'away'}",germany,bundesliga,1-fc-union-berlin,vfb-stuttgart
+14. may 2022,14:30,3:2,"{'5': 'home', '25': 'home', '55': 'away', '79': 'away', '88': 'home'}",germany,bundesliga,1-fc-union-berlin,vfl-bochum
+16. october 2021,14:30,2:0,"{'49': 'home', '82': 'home'}",germany,bundesliga,1-fc-union-berlin,vfl-wolfsburg
+21. november 2021,16:30,1:1,"{'41': 'home', '47': 'away'}",germany,bundesliga,1-fsv-mainz-05,1-fc-koeln
+3. october 2021,14:30,1:2,"{'39': 'home', '70': 'away', '73': 'away'}",germany,bundesliga,1-fsv-mainz-05,1-fc-union-berlin
+5. february 2022,14:30,2:0,"{'79': 'home', '83': 'home'}",germany,bundesliga,1-fsv-mainz-05,1899-hoffenheim
+19. march 2022,14:30,4:0,"{'1': 'home', '65': 'home', '75': 'home', '79': 'home'}",germany,bundesliga,1-fsv-mainz-05,arminia-bielefeld
+18. february 2022,19:30,3:2,"{'35': 'away', '57': 'home', '74': 'away', '84': 'home', '88': 'home'}",germany,bundesliga,1-fsv-mainz-05,bayer-leverkusen
+30. april 2022,14:30,3:1,"{'18': 'home', '27': 'home', '33': 'away', '57': 'home'}",germany,bundesliga,1-fsv-mainz-05,bayern-muenchen
+5. november 2021,19:30,1:1,"{'38': 'away', '76': 'home'}",germany,bundesliga,1-fsv-mainz-05,bor-moenchengladbach
+16. march 2022,17:30,0:1,{'87': 'away'},germany,bundesliga,1-fsv-mainz-05,borussia-dortmund
+14. may 2022,14:30,2:2,"{'10': 'home', '26': 'away', '35': 'away', '49': 'home'}",germany,bundesliga,1-fsv-mainz-05,eintracht-frankfurt
+22. october 2021,19:30,4:1,"{'10': 'home', '15': 'home', '26': 'home', '69': 'away', '71': 'home'}",germany,bundesliga,1-fsv-mainz-05,fc-augsburg
+14. december 2021,19:30,4:0,"{'19': 'home', '41': 'home', '49': 'home', '79': 'home'}",germany,bundesliga,1-fsv-mainz-05,hertha-bsc
+15. august 2021,14:30,1:0,{'13': 'home'},germany,bundesliga,1-fsv-mainz-05,rb-leipzig
+18. september 2021,14:30,0:0,,germany,bundesliga,1-fsv-mainz-05,sc-freiburg
+28. august 2021,14:30,3:0,"{'15': 'home', '18': 'home', '90': 'home'}",germany,bundesliga,1-fsv-mainz-05,spvgg-greuther-fuerth
+16. april 2022,14:30,0:0,,germany,bundesliga,1-fsv-mainz-05,vfb-stuttgart
+15. january 2022,14:30,1:0,{'48': 'home'},germany,bundesliga,1-fsv-mainz-05,vfl-bochum
+4. december 2021,14:30,3:0,"{'2': 'home', '4': 'home', '90': 'home'}",germany,bundesliga,1-fsv-mainz-05,vfl-wolfsburg
+15. october 2021,19:30,5:0,"{'31': 'home', '49': 'home', '51': 'home', '74': 'home', '87': 'home'}",germany,bundesliga,1899-hoffenheim,1-fc-koeln
+22. august 2021,14:30,2:2,"{'10': 'away', '14': 'home', '30': 'home', '47': 'away'}",germany,bundesliga,1899-hoffenheim,1-fc-union-berlin
+11. september 2021,14:30,0:2,"{'21': 'away', '77': 'away'}",germany,bundesliga,1899-hoffenheim,1-fsv-mainz-05
+13. february 2022,16:30,2:0,"{'22': 'home', '51': 'home'}",germany,bundesliga,1899-hoffenheim,arminia-bielefeld
+7. may 2022,14:30,2:4,"{'22': 'home', '34': 'away', '36': 'home', '73': 'away', '76': 'away', '90': 'away'}",germany,bundesliga,1899-hoffenheim,bayer-leverkusen
+12. march 2022,14:30,1:1,"{'32': 'home', '45': 'away'}",germany,bundesliga,1899-hoffenheim,bayern-muenchen
+18. december 2021,14:30,1:1,"{'35': 'away', '90': 'home'}",germany,bundesliga,1899-hoffenheim,bor-moenchengladbach
+22. january 2022,14:30,2:3,"{'6': 'away', '45': 'home', '58': 'away', '66': 'away', '77': 'home'}",germany,bundesliga,1899-hoffenheim,borussia-dortmund
+4. december 2021,14:30,3:2,"{'15': 'away', '24': 'home', '30': 'home', '59': 'home', '72': 'away'}",germany,bundesliga,1899-hoffenheim,eintracht-frankfurt
+8. january 2022,14:30,3:1,"{'5': 'away', '38': 'home', '44': 'home', '90': 'home'}",germany,bundesliga,1899-hoffenheim,fc-augsburg
+29. october 2021,19:30,2:0,"{'19': 'home', '36': 'home'}",germany,bundesliga,1899-hoffenheim,hertha-bsc
+20. november 2021,14:30,2:0,"{'12': 'home', '68': 'home'}",germany,bundesliga,1899-hoffenheim,rb-leipzig
+30. april 2022,17:30,3:4,"{'23': 'away', '32': 'home', '49': 'home', '50': 'away', '70': 'away', '73': 'away', '84': 'home'}",germany,bundesliga,1899-hoffenheim,sc-freiburg
+17. april 2022,16:30,0:0,,germany,bundesliga,1899-hoffenheim,spvgg-greuther-fuerth
+25. february 2022,19:30,2:1,"{'58': 'away', '85': 'home', '90': 'home'}",germany,bundesliga,1899-hoffenheim,vfb-stuttgart
+2. april 2022,14:30,1:2,"{'28': 'away', '54': 'home', '59': 'away'}",germany,bundesliga,1899-hoffenheim,vfl-bochum
+25. september 2021,14:30,3:1,"{'25': 'away', '45': 'home', '73': 'home', '81': 'home'}",germany,bundesliga,1899-hoffenheim,vfl-wolfsburg
+4. december 2021,14:30,1:1,"{'17': 'away', '59': 'home'}",germany,bundesliga,arminia-bielefeld,1-fc-koeln
+19. february 2022,14:30,1:0,{'53': 'home'},germany,bundesliga,arminia-bielefeld,1-fc-union-berlin
+30. october 2021,14:30,1:2,"{'25': 'away', '42': 'home', '69': 'away'}",germany,bundesliga,arminia-bielefeld,1-fsv-mainz-05
+18. september 2021,14:30,0:0,,germany,bundesliga,arminia-bielefeld,1899-hoffenheim
+3. october 2021,18:30,0:4,"{'18': 'away', '24': 'away', '57': 'away', '90': 'away'}",germany,bundesliga,arminia-bielefeld,bayer-leverkusen
+17. april 2022,14:30,0:3,"{'10': 'away', '45': 'away', '85': 'away'}",germany,bundesliga,arminia-bielefeld,bayern-muenchen
+5. february 2022,14:30,1:1,"{'19': 'home', '38': 'away'}",germany,bundesliga,arminia-bielefeld,bor-moenchengladbach
+23. october 2021,14:30,1:3,"{'31': 'away', '45': 'away', '72': 'away', '87': 'home'}",germany,bundesliga,arminia-bielefeld,borussia-dortmund
+28. august 2021,14:30,1:1,"{'22': 'away', '86': 'home'}",germany,bundesliga,arminia-bielefeld,eintracht-frankfurt
+4. march 2022,19:30,0:1,{'50': 'away'},germany,bundesliga,arminia-bielefeld,fc-augsburg
+30. april 2022,14:30,1:1,"{'54': 'away', '90': 'home'}",germany,bundesliga,arminia-bielefeld,hertha-bsc
+14. may 2022,14:30,1:1,"{None: 'home', '90': 'away'}",germany,bundesliga,arminia-bielefeld,rb-leipzig
+14. august 2021,14:30,0:0,,germany,bundesliga,arminia-bielefeld,sc-freiburg
+16. january 2022,16:30,2:2,"{'8': 'home', '35': 'away', '67': 'away', '83': 'home'}",germany,bundesliga,arminia-bielefeld,spvgg-greuther-fuerth
+2. april 2022,14:30,1:1,"{'25': 'away', '59': 'home'}",germany,bundesliga,arminia-bielefeld,vfb-stuttgart
+14. december 2021,19:30,2:0,"{'51': 'home', '69': 'home'}",germany,bundesliga,arminia-bielefeld,vfl-bochum
+20. november 2021,14:30,2:2,"{'11': 'home', '54': 'home', '62': 'away', '63': 'away'}",germany,bundesliga,arminia-bielefeld,vfl-wolfsburg
+13. march 2022,14:30,0:1,{'67': 'away'},germany,bundesliga,bayer-leverkusen,1-fc-koeln
+8. january 2022,14:30,2:2,"{'38': 'home', '45': 'away', '50': 'away', '84': 'home'}",germany,bundesliga,bayer-leverkusen,1-fc-union-berlin
+25. september 2021,14:30,1:0,{'62': 'home'},germany,bundesliga,bayer-leverkusen,1-fsv-mainz-05
+15. december 2021,19:30,2:2,"{'37': 'home', '63': 'home', '80': 'away', '83': 'away'}",germany,bundesliga,bayer-leverkusen,1899-hoffenheim
+26. february 2022,14:30,3:0,"{'30': 'home', '57': 'home', '81': 'home'}",germany,bundesliga,bayer-leverkusen,arminia-bielefeld
+17. october 2021,14:30,1:5,"{'4': 'away', '30': 'away', '34': 'away', '35': 'away', '37': 'away', '55': 'home'}",germany,bundesliga,bayer-leverkusen,bayern-muenchen
+21. august 2021,17:30,4:0,"{'3': 'home', '8': 'home', '55': 'home', '87': 'home'}",germany,bundesliga,bayer-leverkusen,bor-moenchengladbach
+11. september 2021,14:30,3:4,"{'9': 'home', '37': 'away', '45': 'home', '49': 'away', '55': 'home', '71': 'away', '77': 'away'}",germany,bundesliga,bayer-leverkusen,borussia-dortmund
+2. may 2022,19:30,2:0,"{'18': 'home', '51': 'home'}",germany,bundesliga,bayer-leverkusen,eintracht-frankfurt
+22. january 2022,14:30,5:1,"{'9': 'home', '24': 'home', '62': 'away', '65': 'home', '69': 'home', '81': 'home'}",germany,bundesliga,bayer-leverkusen,fc-augsburg
+2. april 2022,14:30,2:1,"{'34': 'home', '40': 'home', '42': 'away'}",germany,bundesliga,bayer-leverkusen,hertha-bsc
+17. april 2022,18:30,0:1,{'69': 'away'},germany,bundesliga,bayer-leverkusen,rb-leipzig
+14. may 2022,14:30,2:1,"{'54': 'home', '88': 'away', '90': 'home'}",germany,bundesliga,bayer-leverkusen,sc-freiburg
+4. december 2021,14:30,7:1,"{'11': 'home', '17': 'home', '33': 'away', '45': 'home', '49': 'home', '69': 'home', '74': 'home', '76': 'home'}",germany,bundesliga,bayer-leverkusen,spvgg-greuther-fuerth
+12. february 2022,17:30,4:2,"{'41': 'home', '49': 'away', '52': 'home', '85': 'home', '88': 'away', '89': 'home'}",germany,bundesliga,bayer-leverkusen,vfb-stuttgart
+20. november 2021,14:30,1:0,{'3': 'home'},germany,bundesliga,bayer-leverkusen,vfl-bochum
+30. october 2021,14:30,0:2,"{'48': 'away', '51': 'away'}",germany,bundesliga,bayer-leverkusen,vfl-wolfsburg
+22. august 2021,16:30,3:2,"{'50': 'home', '59': 'home', '60': 'away', '62': 'away', '71': 'home'}",germany,bundesliga,bayern-muenchen,1-fc-koeln
+19. march 2022,17:30,4:0,"{'16': 'home', '25': 'home', '45': 'home', '47': 'home'}",germany,bundesliga,bayern-muenchen,1-fc-union-berlin
+11. december 2021,14:30,2:1,"{'22': 'away', '53': 'home', '74': 'home'}",germany,bundesliga,bayern-muenchen,1-fsv-mainz-05
+23. october 2021,14:30,4:0,"{'16': 'home', '30': 'home', '82': 'home', '87': 'home'}",germany,bundesliga,bayern-muenchen,1899-hoffenheim
+27. november 2021,17:30,1:0,{'71': 'home'},germany,bundesliga,bayern-muenchen,arminia-bielefeld
+5. march 2022,14:30,1:1,"{'18': 'home', '36': 'away'}",germany,bundesliga,bayern-muenchen,bayer-leverkusen
+7. january 2022,19:30,1:2,"{'18': 'home', '27': 'away', '31': 'away'}",germany,bundesliga,bayern-muenchen,bor-moenchengladbach
+23. april 2022,17:30,3:1,"{'15': 'home', '34': 'home', '52': 'away', '83': 'home'}",germany,bundesliga,bayern-muenchen,borussia-dortmund
+3. october 2021,16:30,1:2,"{'29': 'home', '32': 'away', '83': 'away'}",germany,bundesliga,bayern-muenchen,eintracht-frankfurt
+9. april 2022,14:30,1:0,{'82': 'home'},germany,bundesliga,bayern-muenchen,fc-augsburg
+28. august 2021,17:30,5:0,"{'6': 'home', '35': 'home', '49': 'home', '70': 'home', '84': 'home'}",germany,bundesliga,bayern-muenchen,hertha-bsc
+5. february 2022,17:30,3:2,"{'12': 'home', '27': 'away', '44': 'home', '53': 'away', '58': 'home'}",germany,bundesliga,bayern-muenchen,rb-leipzig
+6. november 2021,14:30,2:1,"{'30': 'home', '75': 'home', '90': 'away'}",germany,bundesliga,bayern-muenchen,sc-freiburg
+20. february 2022,14:30,4:1,"{'42': 'away', '46': 'home', '61': 'home', '82': 'home', '90': 'home'}",germany,bundesliga,bayern-muenchen,spvgg-greuther-fuerth
+8. may 2022,16:30,2:2,"{'8': 'away', '35': 'home', '44': 'home', '52': 'away'}",germany,bundesliga,bayern-muenchen,vfb-stuttgart
+18. september 2021,14:30,7:0,"{'17': 'home', '27': 'home', '32': 'home', '43': 'home', '61': 'home', '65': 'home', '79': 'home'}",germany,bundesliga,bayern-muenchen,vfl-bochum
+17. december 2021,19:30,4:0,"{'7': 'home', '57': 'home', '59': 'home', '87': 'home'}",germany,bundesliga,bayern-muenchen,vfl-wolfsburg
+16. april 2022,17:30,1:3,"{'5': 'away', '20': 'away', '34': 'away', '85': 'home'}",germany,bundesliga,bor-moenchengladbach,1-fc-koeln
+22. january 2022,14:30,1:2,"{'18': 'away', '40': 'home', '84': 'away'}",germany,bundesliga,bor-moenchengladbach,1-fc-union-berlin
+3. april 2022,16:30,1:1,"{'33': 'home', '73': 'away'}",germany,bundesliga,bor-moenchengladbach,1-fsv-mainz-05
+14. may 2022,14:30,5:1,"{'3': 'away', '26': 'home', '43': 'home', '45': 'home', '53': 'home', '68': 'home'}",germany,bundesliga,bor-moenchengladbach,1899-hoffenheim
+12. september 2021,18:30,3:1,"{'35': 'home', '45': 'away', '69': 'home', '72': 'home'}",germany,bundesliga,bor-moenchengladbach,arminia-bielefeld
+15. january 2022,17:30,1:2,"{'51': 'away', '74': 'away', '81': 'home'}",germany,bundesliga,bor-moenchengladbach,bayer-leverkusen
+13. august 2021,19:30,1:1,"{'10': 'home', '42': 'away'}",germany,bundesliga,bor-moenchengladbach,bayern-muenchen
+25. september 2021,17:30,1:0,{'37': 'home'},germany,bundesliga,bor-moenchengladbach,borussia-dortmund
+15. december 2021,17:30,2:3,"{'6': 'home', '45': 'away', '50': 'away', '54': 'home', '55': 'away'}",germany,bundesliga,bor-moenchengladbach,eintracht-frankfurt
+12. february 2022,14:30,3:2,"{'30': 'home', '46': 'home', '55': 'away', '67': 'home', '90': 'away'}",germany,bundesliga,bor-moenchengladbach,fc-augsburg
+12. march 2022,17:30,2:0,"{'24': 'home', '59': 'home'}",germany,bundesliga,bor-moenchengladbach,hertha-bsc
+2. may 2022,19:30,3:1,"{'17': 'home', '36': 'away', '45': 'home', '77': 'home'}",germany,bundesliga,bor-moenchengladbach,rb-leipzig
+5. december 2021,16:30,0:6,"{'2': 'away', '5': 'away', '12': 'away', '19': 'away', '25': 'away', '37': 'away'}",germany,bundesliga,bor-moenchengladbach,sc-freiburg
+20. november 2021,14:30,4:0,"{'9': 'home', '28': 'home', '43': 'home', '57': 'home'}",germany,bundesliga,bor-moenchengladbach,spvgg-greuther-fuerth
+16. october 2021,17:30,1:1,"{'15': 'away', None: 'home'}",germany,bundesliga,bor-moenchengladbach,vfb-stuttgart
+31. october 2021,16:30,2:1,"{'12': 'home', '40': 'home', '86': 'away'}",germany,bundesliga,bor-moenchengladbach,vfl-bochum
+26. february 2022,14:30,2:2,"{'6': 'away', '33': 'away', '42': 'home', '82': 'home'}",germany,bundesliga,bor-moenchengladbach,vfl-wolfsburg
+30. october 2021,14:30,2:0,"{'40': 'home', '64': 'home'}",germany,bundesliga,borussia-dortmund,1-fc-koeln
+19. september 2021,16:30,4:2,"{'10': 'home', '24': 'home', '52': 'home', '57': 'away', '81': 'away', '83': 'home'}",germany,bundesliga,borussia-dortmund,1-fc-union-berlin
+16. october 2021,14:30,3:1,"{'3': 'home', '54': 'home', '87': 'away', '90': 'home'}",germany,bundesliga,borussia-dortmund,1-fsv-mainz-05
+27. august 2021,19:30,3:2,"{'49': 'home', '61': 'away', '69': 'home', '90': 'home'}",germany,bundesliga,borussia-dortmund,1899-hoffenheim
+13. march 2022,16:30,1:0,{'21': 'home'},germany,bundesliga,borussia-dortmund,arminia-bielefeld
+6. february 2022,14:30,2:5,"{'10': 'away', '16': 'home', '20': 'away', '28': 'away', '53': 'away', '87': 'away', '89': 'home'}",germany,bundesliga,borussia-dortmund,bayer-leverkusen
+4. december 2021,17:30,2:3,"{'5': 'home', '9': 'away', '44': 'away', '48': 'home', '77': 'away'}",germany,bundesliga,borussia-dortmund,bayern-muenchen
+20. february 2022,16:30,6:0,"{'26': 'home', '32': 'home', '70': 'home', '74': 'home', '82': 'home', '90': 'home'}",germany,bundesliga,borussia-dortmund,bor-moenchengladbach
+14. august 2021,17:30,5:2,"{'23': 'home', '27': 'away', '32': 'home', '34': 'home', '58': 'home', '70': 'home', '86': 'away'}",germany,bundesliga,borussia-dortmund,eintracht-frankfurt
+2. october 2021,14:30,2:1,"{'10': 'home', '35': 'away', '51': 'home'}",germany,bundesliga,borussia-dortmund,fc-augsburg
+14. may 2022,14:30,2:1,"{'18': 'away', '68': 'home', '84': 'home'}",germany,bundesliga,borussia-dortmund,hertha-bsc
+2. april 2022,17:30,1:4,"{'21': 'away', '30': 'away', '57': 'away', '84': 'home', '86': 'away'}",germany,bundesliga,borussia-dortmund,rb-leipzig
+14. january 2022,19:30,5:1,"{'14': 'home', '29': 'home', '45': 'home', '61': 'away', '75': 'home', '86': 'home'}",germany,bundesliga,borussia-dortmund,sc-freiburg
+15. december 2021,19:30,3:0,"{'33': 'home', '82': 'home', '89': 'home'}",germany,bundesliga,borussia-dortmund,spvgg-greuther-fuerth
+20. november 2021,14:30,2:1,"{'56': 'home', '63': 'away', '85': 'home'}",germany,bundesliga,borussia-dortmund,vfb-stuttgart
+30. april 2022,14:30,3:4,"{'3': 'away', '8': 'away', '18': 'home', '30': 'home', '62': 'home', '81': 'away', '85': 'away'}",germany,bundesliga,borussia-dortmund,vfl-bochum
+16. april 2022,14:30,6:1,"{'24': 'home', '26': 'home', '28': 'home', '34': 'home', '38': 'home', '54': 'home', '81': 'away'}",germany,bundesliga,borussia-dortmund,vfl-wolfsburg
+25. september 2021,14:30,1:1,"{'14': 'away', '45': 'home'}",germany,bundesliga,eintracht-frankfurt,1-fc-koeln
+28. november 2021,14:30,2:1,"{'22': 'home', '62': 'away', '90': 'home'}",germany,bundesliga,eintracht-frankfurt,1-fc-union-berlin
+18. december 2021,14:30,1:0,{'35': 'home'},germany,bundesliga,eintracht-frankfurt,1-fsv-mainz-05
+23. april 2022,14:30,2:2,"{'12': 'away', '32': 'home', '66': 'home', '78': 'away'}",germany,bundesliga,eintracht-frankfurt,1899-hoffenheim
+21. january 2022,19:30,0:2,"{'5': 'away', None: 'away'}",germany,bundesliga,eintracht-frankfurt,arminia-bielefeld
+12. december 2021,16:30,5:2,"{'5': 'away', '22': 'away', '23': 'home', '30': 'home', '50': 'home', '66': 'home', '76': 'home'}",germany,bundesliga,eintracht-frankfurt,bayer-leverkusen
+26. february 2022,17:30,0:1,{'71': 'away'},germany,bundesliga,eintracht-frankfurt,bayern-muenchen
+8. may 2022,14:30,1:1,"{'4': 'away', '66': 'home'}",germany,bundesliga,eintracht-frankfurt,bor-moenchengladbach
+8. january 2022,17:30,2:3,"{'15': 'home', '24': 'home', '71': 'away', '87': 'away', '89': 'away'}",germany,bundesliga,eintracht-frankfurt,borussia-dortmund
+21. august 2021,14:30,0:0,,germany,bundesliga,eintracht-frankfurt,fc-augsburg
+16. october 2021,14:30,1:2,"{'7': 'away', '63': 'away', '78': 'home'}",germany,bundesliga,eintracht-frankfurt,hertha-bsc
+30. october 2021,17:30,1:1,"{None: 'away', '90': 'home'}",germany,bundesliga,eintracht-frankfurt,rb-leipzig
+10. april 2022,16:30,1:2,"{'27': 'away', '54': 'home', '69': 'away'}",germany,bundesliga,eintracht-frankfurt,sc-freiburg
+2. april 2022,14:30,0:0,,germany,bundesliga,eintracht-frankfurt,spvgg-greuther-fuerth
+12. september 2021,14:30,1:1,"{'79': 'home', '88': 'away'}",germany,bundesliga,eintracht-frankfurt,vfb-stuttgart
+13. march 2022,16:30,2:1,"{'19': 'away', '46': 'home', '52': 'home'}",germany,bundesliga,eintracht-frankfurt,vfl-bochum
+12. february 2022,14:30,0:2,"{'28': 'away', '90': 'away'}",germany,bundesliga,eintracht-frankfurt,vfl-wolfsburg
+30. april 2022,14:30,1:4,"{'12': 'away', '15': 'away', '63': 'away', '73': 'home', '77': 'away'}",germany,bundesliga,fc-augsburg,1-fc-koeln
+5. february 2022,14:30,2:0,"{'16': 'home', '59': 'home'}",germany,bundesliga,fc-augsburg,1-fc-union-berlin
+6. april 2022,17:30,2:1,"{'11': 'home', '54': 'away', '56': 'home'}",germany,bundesliga,fc-augsburg,1-fsv-mainz-05
+14. august 2021,14:30,0:4,"{'37': 'away', '79': 'away', '87': 'away', '90': 'away'}",germany,bundesliga,fc-augsburg,1899-hoffenheim
+17. october 2021,16:30,1:1,"{'19': 'home', '77': 'away'}",germany,bundesliga,fc-augsburg,arminia-bielefeld
+28. august 2021,14:30,1:4,"{'3': 'away', '14': 'away', '30': 'home', '75': 'away', '81': 'away'}",germany,bundesliga,fc-augsburg,bayer-leverkusen
+19. november 2021,19:30,2:1,"{'23': 'home', '35': 'home', '38': 'away'}",germany,bundesliga,fc-augsburg,bayern-muenchen
+18. september 2021,14:30,1:0,{'80': 'home'},germany,bundesliga,fc-augsburg,bor-moenchengladbach
+27. february 2022,16:30,1:1,"{'35': 'away', '78': 'home'}",germany,bundesliga,fc-augsburg,borussia-dortmund
+16. january 2022,14:30,1:1,"{'22': 'away', '38': 'home'}",germany,bundesliga,fc-augsburg,eintracht-frankfurt
+16. april 2022,14:30,0:1,{'49': 'away'},germany,bundesliga,fc-augsburg,hertha-bsc
+15. december 2021,19:30,1:1,"{'19': 'away', '86': 'home'}",germany,bundesliga,fc-augsburg,rb-leipzig
+19. february 2022,14:30,1:2,"{'4': 'away', '16': 'home', '26': 'away'}",germany,bundesliga,fc-augsburg,sc-freiburg
+14. may 2022,14:30,2:1,"{'11': 'home', '24': 'away', '84': 'home'}",germany,bundesliga,fc-augsburg,spvgg-greuther-fuerth
+31. october 2021,14:30,4:1,"{'7': 'away', '30': 'home', '52': 'home', '72': 'home', '81': 'home'}",germany,bundesliga,fc-augsburg,vfb-stuttgart
+4. december 2021,14:30,2:3,"{'23': 'away', '40': 'away', '45': 'away', '57': 'home', '86': 'home'}",germany,bundesliga,fc-augsburg,vfl-bochum
+3. april 2022,14:30,3:0,"{'1': 'home', '62': 'home', '69': 'home'}",germany,bundesliga,fc-augsburg,vfl-wolfsburg
+9. january 2022,14:30,1:3,"{'29': 'away', '32': 'away', '57': 'home', '90': 'away'}",germany,bundesliga,hertha-bsc,1-fc-koeln
+9. april 2022,17:30,1:4,"{'31': 'away', '49': 'home', '53': 'away', '74': 'away', '85': 'away'}",germany,bundesliga,hertha-bsc,1-fc-union-berlin
+7. may 2022,17:30,1:2,"{'25': 'away', '45': 'home', '81': 'away'}",germany,bundesliga,hertha-bsc,1-fsv-mainz-05
+19. march 2022,14:30,3:0,"{'39': 'home', '63': 'home', '74': 'home'}",germany,bundesliga,hertha-bsc,1899-hoffenheim
+11. december 2021,14:30,2:0,"{'53': 'home', '90': 'home'}",germany,bundesliga,hertha-bsc,arminia-bielefeld
+7. november 2021,14:30,1:1,"{'42': 'home', '90': 'away'}",germany,bundesliga,hertha-bsc,bayer-leverkusen
+23. january 2022,16:30,1:4,"{'25': 'away', '45': 'away', '75': 'away', '79': 'away', '80': 'home'}",germany,bundesliga,hertha-bsc,bayern-muenchen
+23. october 2021,17:30,1:0,{'40': 'home'},germany,bundesliga,hertha-bsc,bor-moenchengladbach
+18. december 2021,17:30,3:2,"{'31': 'away', '51': 'home', '57': 'home', '69': 'home', '83': 'away'}",germany,bundesliga,hertha-bsc,borussia-dortmund
+5. march 2022,14:30,1:4,"{'17': 'away', '48': 'away', '56': 'away', '61': 'home', '63': 'away'}",germany,bundesliga,hertha-bsc,eintracht-frankfurt
+27. november 2021,14:30,1:1,"{'40': 'home', '90': 'away'}",germany,bundesliga,hertha-bsc,fc-augsburg
+20. february 2022,18:30,1:6,"{'20': 'away', '48': 'home', '64': 'away', '67': 'away', '74': 'away', '81': 'away', '88': 'away'}",germany,bundesliga,hertha-bsc,rb-leipzig
+2. october 2021,14:30,1:2,"{'17': 'away', '70': 'home', '78': 'away'}",germany,bundesliga,hertha-bsc,sc-freiburg
+17. september 2021,19:30,2:1,"{'57': 'away', '61': 'home', '79': 'home'}",germany,bundesliga,hertha-bsc,spvgg-greuther-fuerth
+24. april 2022,16:30,2:0,"{'4': 'home', '90': 'home'}",germany,bundesliga,hertha-bsc,vfb-stuttgart
+4. february 2022,19:30,1:1,"{'23': 'home', '48': 'away'}",germany,bundesliga,hertha-bsc,vfl-bochum
+21. august 2021,14:30,1:2,"{'60': 'home', '74': 'away', '88': 'away'}",germany,bundesliga,hertha-bsc,vfl-wolfsburg
+11. february 2022,19:30,3:1,"{'25': 'home', '54': 'home', '57': 'home', '90': 'away'}",germany,bundesliga,rb-leipzig,1-fc-koeln
+23. april 2022,14:30,1:2,"{'46': 'home', '86': 'away', '89': 'away'}",germany,bundesliga,rb-leipzig,1-fc-union-berlin
+8. january 2022,14:30,4:1,"{'21': 'home', '47': 'home', '57': 'away', '58': 'home', '61': 'home'}",germany,bundesliga,rb-leipzig,1-fsv-mainz-05
+10. april 2022,18:30,3:0,"{'5': 'home', '20': 'home', '44': 'home'}",germany,bundesliga,rb-leipzig,1899-hoffenheim
+18. december 2021,14:30,0:2,"{'57': 'away', '75': 'away'}",germany,bundesliga,rb-leipzig,arminia-bielefeld
+28. november 2021,16:30,1:3,"{'21': 'away', '34': 'away', '62': 'home', '64': 'away'}",germany,bundesliga,rb-leipzig,bayer-leverkusen
+11. september 2021,17:30,1:4,"{'12': 'away', '47': 'away', '54': 'away', '58': 'home', '90': 'away'}",germany,bundesliga,rb-leipzig,bayern-muenchen
+11. december 2021,14:30,4:1,"{'21': 'home', '32': 'home', '88': 'away', '90': 'home'}",germany,bundesliga,rb-leipzig,bor-moenchengladbach
+6. november 2021,17:30,2:1,"{'29': 'home', '52': 'away', '68': 'home'}",germany,bundesliga,rb-leipzig,borussia-dortmund
+20. march 2022,14:30,0:0,,germany,bundesliga,rb-leipzig,eintracht-frankfurt
+8. may 2022,18:30,4:0,"{'40': 'home', '48': 'home', '57': 'home', '64': 'home'}",germany,bundesliga,rb-leipzig,fc-augsburg
+25. september 2021,14:30,6:0,"{'16': 'home', '23': 'home', '45': 'home', '60': 'home', '70': 'home', '77': 'home'}",germany,bundesliga,rb-leipzig,hertha-bsc
+5. march 2022,14:30,1:1,"{'38': 'away', '90': 'home'}",germany,bundesliga,rb-leipzig,sc-freiburg
+23. october 2021,14:30,4:1,"{'45': 'away', '46': 'home', '53': 'home', '65': 'home', '88': 'home'}",germany,bundesliga,rb-leipzig,spvgg-greuther-fuerth
+20. august 2021,19:30,4:0,"{'38': 'home', '46': 'home', '52': 'home', '65': 'home'}",germany,bundesliga,rb-leipzig,vfb-stuttgart
+2. october 2021,17:30,3:0,"{'69': 'home', '73': 'home', '78': 'home'}",germany,bundesliga,rb-leipzig,vfl-bochum
+23. january 2022,14:30,2:0,"{'76': 'home', '84': 'home'}",germany,bundesliga,rb-leipzig,vfl-wolfsburg
+11. september 2021,14:30,1:1,"{'33': 'away', '89': 'home'}",germany,bundesliga,sc-freiburg,1-fc-koeln
+7. may 2022,14:30,1:4,"{'11': 'away', '30': 'away', '41': 'away', '59': 'home', '90': 'away'}",germany,bundesliga,sc-freiburg,1-fc-union-berlin
+12. february 2022,14:30,1:1,"{'31': 'away', '69': 'home'}",germany,bundesliga,sc-freiburg,1-fsv-mainz-05
+11. december 2021,14:30,1:2,"{'3': 'away', '21': 'home', '90': 'away'}",germany,bundesliga,sc-freiburg,1899-hoffenheim
+8. january 2022,14:30,2:2,"{'6': 'home', '46': 'home', '60': 'away', '87': 'away'}",germany,bundesliga,sc-freiburg,arminia-bielefeld
+19. december 2021,14:30,2:1,"{'33': 'home', '45': 'away', '84': 'home'}",germany,bundesliga,sc-freiburg,bayer-leverkusen
+2. april 2022,14:30,1:4,"{'58': 'away', '63': 'home', '73': 'away', '82': 'away', '90': 'away'}",germany,bundesliga,sc-freiburg,bayern-muenchen
+23. april 2022,14:30,3:3,"{'3': 'away', '13': 'away', '49': 'home', '61': 'home', '80': 'home', '90': 'away'}",germany,bundesliga,sc-freiburg,bor-moenchengladbach
+21. august 2021,14:30,2:1,"{'6': 'home', '53': 'home', '59': 'away'}",germany,bundesliga,sc-freiburg,borussia-dortmund
+21. november 2021,14:30,0:2,"{'34': 'away', '43': 'away'}",germany,bundesliga,sc-freiburg,eintracht-frankfurt
+26. september 2021,16:30,3:0,"{'6': 'home', '25': 'home', '33': 'home'}",germany,bundesliga,sc-freiburg,fc-augsburg
+26. february 2022,14:30,3:0,"{'12': 'home', '83': 'home', '86': 'home'}",germany,bundesliga,sc-freiburg,hertha-bsc
+16. october 2021,14:30,1:1,"{'32': 'away', '64': 'home'}",germany,bundesliga,sc-freiburg,rb-leipzig
+30. october 2021,14:30,3:1,"{'20': 'home', '39': 'home', '74': 'away', '78': 'home'}",germany,bundesliga,sc-freiburg,spvgg-greuther-fuerth
+22. january 2022,14:30,2:0,"{'37': 'home', '71': 'home'}",germany,bundesliga,sc-freiburg,vfb-stuttgart
+16. april 2022,14:30,3:0,"{'5': 'home', '16': 'home', '53': 'home'}",germany,bundesliga,sc-freiburg,vfl-bochum
+12. march 2022,14:30,3:2,"{'7': 'home', '44': 'home', '52': 'away', '84': 'away', '87': 'home'}",germany,bundesliga,sc-freiburg,vfl-wolfsburg
+26. february 2022,14:30,1:1,"{'53': 'away', '69': 'home'}",germany,bundesliga,spvgg-greuther-fuerth,1-fc-koeln
+12. december 2021,14:30,1:0,{'56': 'home'},germany,bundesliga,spvgg-greuther-fuerth,1-fc-union-berlin
+22. january 2022,14:30,2:1,"{'12': 'home', '66': 'home', '90': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,1-fsv-mainz-05
+27. november 2021,14:30,3:6,"{'22': 'home', '32': 'away', '40': 'away', '46': 'home', '57': 'away', '62': 'away', '66': 'away', '67': 'home', '80': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,1899-hoffenheim
+21. august 2021,14:30,1:1,"{'45': 'away', '50': 'home'}",germany,bundesliga,spvgg-greuther-fuerth,arminia-bielefeld
+23. april 2022,14:30,1:4,"{'5': 'home', '8': 'away', '18': 'away', '58': 'away', '84': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,bayer-leverkusen
+24. september 2021,19:30,1:3,"{'10': 'away', '31': 'away', '68': 'away', '87': 'home'}",germany,bundesliga,spvgg-greuther-fuerth,bayern-muenchen
+9. april 2022,14:30,0:2,"{'18': 'away', '24': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,bor-moenchengladbach
+7. may 2022,14:30,1:3,"{'26': 'away', '70': 'home', '72': 'away', '77': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,borussia-dortmund
+7. november 2021,18:30,1:2,"{'75': 'away', None: 'home', '90': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,eintracht-frankfurt
+18. december 2021,14:30,0:0,,germany,bundesliga,spvgg-greuther-fuerth,fc-augsburg
+12. february 2022,14:30,2:1,"{'1': 'home', '71': 'home', '82': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,hertha-bsc
+13. march 2022,18:30,1:6,"{'4': 'home', '17': 'away', '32': 'away', '34': 'away', '45': 'away', '58': 'away', '69': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,rb-leipzig
+19. march 2022,14:30,0:0,,germany,bundesliga,spvgg-greuther-fuerth,sc-freiburg
+8. january 2022,14:30,0:0,,germany,bundesliga,spvgg-greuther-fuerth,vfb-stuttgart
+16. october 2021,14:30,0:1,{'80': 'away'},germany,bundesliga,spvgg-greuther-fuerth,vfl-bochum
+11. september 2021,14:30,0:2,"{'10': 'away', '90': 'away'}",germany,bundesliga,spvgg-greuther-fuerth,vfl-wolfsburg
+14. may 2022,14:30,2:1,"{'12': 'home', '59': 'away', '90': 'home'}",germany,bundesliga,vfb-stuttgart,1-fc-koeln
+24. october 2021,16:30,1:1,"{'31': 'away', '90': 'home'}",germany,bundesliga,vfb-stuttgart,1-fc-union-berlin
+26. november 2021,19:30,2:1,"{'21': 'home', '39': 'away', '51': 'home'}",germany,bundesliga,vfb-stuttgart,1-fsv-mainz-05
+2. october 2021,14:30,3:1,"{'18': 'home', '60': 'home', '81': 'home', '84': 'away'}",germany,bundesliga,vfb-stuttgart,1899-hoffenheim
+6. november 2021,14:30,0:1,{'19': 'away'},germany,bundesliga,vfb-stuttgart,arminia-bielefeld
+19. september 2021,14:30,1:3,"{'2': 'away', '19': 'away', '38': 'home', '70': 'away'}",germany,bundesliga,vfb-stuttgart,bayer-leverkusen
+14. december 2021,17:30,0:5,"{'40': 'away', '53': 'away', '69': 'away', '72': 'away', '74': 'away'}",germany,bundesliga,vfb-stuttgart,bayern-muenchen
+5. march 2022,17:30,3:2,"{'14': 'away', '35': 'away', '38': 'home', '51': 'home', '83': 'home'}",germany,bundesliga,vfb-stuttgart,bor-moenchengladbach
+8. april 2022,19:30,0:2,"{'12': 'away', '71': 'away'}",germany,bundesliga,vfb-stuttgart,borussia-dortmund
+5. february 2022,14:30,2:3,"{'7': 'away', '42': 'home', '47': 'away', '70': 'home', '77': 'away'}",germany,bundesliga,vfb-stuttgart,eintracht-frankfurt
+19. march 2022,14:30,3:2,"{'6': 'away', '44': 'home', '45': 'away', '79': 'home', '85': 'home'}",germany,bundesliga,vfb-stuttgart,fc-augsburg
+5. december 2021,14:30,2:2,"{'15': 'home', '19': 'home', '40': 'away', '76': 'away'}",germany,bundesliga,vfb-stuttgart,hertha-bsc
+15. january 2022,14:30,0:2,"{'11': 'away', '70': 'away'}",germany,bundesliga,vfb-stuttgart,rb-leipzig
+28. august 2021,14:30,2:3,"{'3': 'away', '9': 'away', '28': 'away', '45': 'home'}",germany,bundesliga,vfb-stuttgart,sc-freiburg
+14. august 2021,14:30,5:1,"{'30': 'home', '36': 'home', '55': 'home', '61': 'home', '76': 'home', '90': 'away'}",germany,bundesliga,vfb-stuttgart,spvgg-greuther-fuerth
+19. february 2022,14:30,1:1,"{'56': 'home', '90': 'away'}",germany,bundesliga,vfb-stuttgart,vfl-bochum
+30. april 2022,14:30,1:1,"{'13': 'away', '89': 'home'}",germany,bundesliga,vfb-stuttgart,vfl-wolfsburg
+22. january 2022,17:30,2:2,"{'25': 'home', '36': 'away', '45': 'away', '70': 'home'}",germany,bundesliga,vfl-bochum,1-fc-koeln
+18. december 2021,14:30,0:1,{'16': 'away'},germany,bundesliga,vfl-bochum,1-fc-union-berlin
+21. august 2021,14:30,2:0,"{'21': 'home', '56': 'home'}",germany,bundesliga,vfl-bochum,1-fsv-mainz-05
+6. november 2021,14:30,2:0,"{'66': 'home', '90': 'home'}",germany,bundesliga,vfl-bochum,1899-hoffenheim
+6. may 2022,19:30,2:1,"{'22': 'home', '35': 'away', '89': 'home'}",germany,bundesliga,vfl-bochum,arminia-bielefeld
+10. april 2022,14:30,0:0,,germany,bundesliga,vfl-bochum,bayer-leverkusen
+12. february 2022,14:30,4:2,"{'9': 'away', '14': 'home', '38': 'home', '40': 'home', '44': 'home', '75': 'away'}",germany,bundesliga,vfl-bochum,bayern-muenchen
+18. march 2022,19:30,0:2,"{'55': 'away', '61': 'away'}",germany,bundesliga,vfl-bochum,bor-moenchengladbach
+11. december 2021,14:30,1:1,"{'40': 'home', '85': 'away'}",germany,bundesliga,vfl-bochum,borussia-dortmund
+24. october 2021,18:30,2:0,"{'3': 'home', '90': 'home'}",germany,bundesliga,vfl-bochum,eintracht-frankfurt
+24. april 2022,14:30,0:2,"{'15': 'away', '43': 'away'}",germany,bundesliga,vfl-bochum,fc-augsburg
+12. september 2021,16:30,1:3,"{'37': 'away', '43': 'away', '59': 'home', '78': 'away'}",germany,bundesliga,vfl-bochum,hertha-bsc
+27. february 2022,14:30,0:1,{'82': 'away'},germany,bundesliga,vfl-bochum,rb-leipzig
+27. november 2021,14:30,2:1,"{'51': 'away', '54': 'home', '82': 'home'}",germany,bundesliga,vfl-bochum,sc-freiburg
+5. march 2022,14:30,2:1,"{'35': 'home', '64': 'away', '71': 'home'}",germany,bundesliga,vfl-bochum,spvgg-greuther-fuerth
+26. september 2021,14:30,0:0,,germany,bundesliga,vfl-bochum,vfb-stuttgart
+9. january 2022,16:30,1:0,{'65': 'home'},germany,bundesliga,vfl-bochum,vfl-wolfsburg
+14. december 2021,19:30,2:3,"{'8': 'home', '34': 'away', '51': 'home', None: 'away', '89': 'away'}",germany,bundesliga,vfl-wolfsburg,1-fc-koeln
+5. march 2022,14:30,1:0,{'24': 'home'},germany,bundesliga,vfl-wolfsburg,1-fc-union-berlin
+22. april 2022,19:30,5:0,"{'8': 'home', '24': 'home', '35': 'home', '42': 'home', '45': 'home'}",germany,bundesliga,vfl-wolfsburg,1-fsv-mainz-05
+19. february 2022,14:30,1:2,"{'36': 'home', '73': 'away', '78': 'away'}",germany,bundesliga,vfl-wolfsburg,1899-hoffenheim
+9. april 2022,14:30,4:0,"{'11': 'home', '38': 'home', '48': 'home', '53': 'home'}",germany,bundesliga,vfl-wolfsburg,arminia-bielefeld
+20. march 2022,16:30,0:2,"{'86': 'away', '90': 'away'}",germany,bundesliga,vfl-wolfsburg,bayer-leverkusen
+14. may 2022,14:30,2:2,"{'17': 'away', '40': 'away', '45': 'home', '58': 'home'}",germany,bundesliga,vfl-wolfsburg,bayern-muenchen
+2. october 2021,14:30,1:3,"{'5': 'away', '7': 'away', '25': 'home', '90': 'away'}",germany,bundesliga,vfl-wolfsburg,bor-moenchengladbach
+27. november 2021,14:30,1:3,"{None: 'home', '35': 'away', '55': 'away', '81': 'away'}",germany,bundesliga,vfl-wolfsburg,borussia-dortmund
+19. september 2021,18:30,1:1,"{'38': 'away', '70': 'home'}",germany,bundesliga,vfl-wolfsburg,eintracht-frankfurt
+6. november 2021,14:30,1:0,{'14': 'home'},germany,bundesliga,vfl-wolfsburg,fc-augsburg
+15. january 2022,14:30,0:0,,germany,bundesliga,vfl-wolfsburg,hertha-bsc
+29. august 2021,16:30,1:0,{'52': 'home'},germany,bundesliga,vfl-wolfsburg,rb-leipzig
+23. october 2021,14:30,0:2,"{'27': 'away', '68': 'away'}",germany,bundesliga,vfl-wolfsburg,sc-freiburg
+6. february 2022,16:30,4:1,"{'7': 'home', '44': 'away', '49': 'home', '70': 'home', '75': 'home'}",germany,bundesliga,vfl-wolfsburg,spvgg-greuther-fuerth
+11. december 2021,17:30,0:2,"{'25': 'away', '63': 'away'}",germany,bundesliga,vfl-wolfsburg,vfb-stuttgart
+14. august 2021,14:30,1:0,{'22': 'home'},germany,bundesliga,vfl-wolfsburg,vfl-bochum
