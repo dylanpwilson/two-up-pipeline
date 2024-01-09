@@ -1,8 +1,9 @@
 USE football;
 
+DROP TABLE matches_scrapped_data;
 CREATE TABLE matches_scrapped_data (
 	match_date VARCHAR(100),
-    match_time TIME,
+    match_time VARCHAR(20),
     country VARCHAR(100),
     league VARCHAR(100),
     home_team VARCHAR(200),
@@ -10,3 +11,5 @@ CREATE TABLE matches_scrapped_data (
     final_score VARCHAR(20),
     goals VARCHAR(1000)
 );
+
+-- SELECT * FROM matches_scrapped_data;

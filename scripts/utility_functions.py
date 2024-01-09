@@ -1,5 +1,7 @@
 import pandas as pd
 import os
+import regex
+
 
 def read_txt_by_line(file_path):
     '''
@@ -29,3 +31,11 @@ def nullOrEmptyStr(el):
         return True
     else:
         return False
+
+
+def extract_str(pattern, string):
+
+    if regex.search(pattern, string) is not None:
+        return regex.search(pattern, string).group()
+    else:
+        return None
