@@ -1,0 +1,381 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+9. august 2019,20:00,4:1,Liverpool FC,Norwich City,"{'7': 'home', '19': 'home', '28': 'home', '42': 'home', '64': 'away'}",2019-2020,1
+10. august 2019,12:30,0:5,West Ham United,Manchester City,"{'25': 'away', '51': 'away', '75': 'away', '86': 'away', '90': 'away'}",2019-2020,1
+10. august 2019,15:00,1:1,AFC Bournemouth,Sheffield United,"{'62': 'home', '88': 'away'}",2019-2020,1
+10. august 2019,15:00,3:0,Burnley FC,Southampton FC,"{'63': 'home', '70': 'home', '75': 'home'}",2019-2020,1
+10. august 2019,15:00,0:0,Crystal Palace,Everton FC,,2019-2020,1
+10. august 2019,15:00,0:3,Watford FC,Brighton & Hove Albion,"{'28': 'away', '65': 'away', '77': 'away'}",2019-2020,1
+10. august 2019,17:30,3:1,Tottenham Hotspur,Aston Villa,"{'9': 'away', '73': 'home', '86': 'home', '90': 'home'}",2019-2020,1
+11. august 2019,14:00,0:0,Leicester City,Wolverhampton Wanderers,,2019-2020,1
+11. august 2019,14:00,0:1,Newcastle United,Arsenal FC,{'58': 'away'},2019-2020,1
+11. august 2019,16:30,4:0,Manchester United,Chelsea FC,"{'18': 'home', '65': 'home', '67': 'home', '81': 'home'}",2019-2020,1
+17. august 2019,12:30,2:1,Arsenal FC,Burnley FC,"{'13': 'home', '43': 'away', '64': 'home'}",2019-2020,2
+17. august 2019,15:00,1:2,Aston Villa,AFC Bournemouth,"{'2': 'away', '12': 'away', '71': 'home'}",2019-2020,2
+17. august 2019,15:00,1:1,Brighton & Hove Albion,West Ham United,"{'61': 'away', '65': 'home'}",2019-2020,2
+17. august 2019,15:00,1:0,Everton FC,Watford FC,{'10': 'home'},2019-2020,2
+17. august 2019,15:00,3:1,Norwich City,Newcastle United,"{'32': 'home', '63': 'home', '75': 'home', '90': 'away'}",2019-2020,2
+17. august 2019,15:00,1:2,Southampton FC,Liverpool FC,"{'45': 'away', '71': 'away', '83': 'home'}",2019-2020,2
+17. august 2019,17:30,2:2,Manchester City,Tottenham Hotspur,"{'20': 'home', '23': 'away', '35': 'home', '56': 'away'}",2019-2020,2
+18. august 2019,14:00,1:0,Sheffield United,Crystal Palace,{'47': 'home'},2019-2020,2
+18. august 2019,16:30,1:1,Chelsea FC,Leicester City,"{'7': 'home', '67': 'away'}",2019-2020,2
+19. august 2019,20:00,1:1,Wolverhampton Wanderers,Manchester United,"{'27': 'away', '55': 'home'}",2019-2020,2
+23. august 2019,20:00,2:0,Aston Villa,Everton FC,"{'21': 'home', '90': 'home'}",2019-2020,3
+24. august 2019,12:30,2:3,Norwich City,Chelsea FC,"{'3': 'away', '6': 'home', '17': 'away', '30': 'home', '68': 'away'}",2019-2020,3
+24. august 2019,15:00,0:2,Brighton & Hove Albion,Southampton FC,"{'55': 'away', '90': 'away'}",2019-2020,3
+24. august 2019,15:00,1:2,Manchester United,Crystal Palace,"{'32': 'away', '89': 'home', '90': 'away'}",2019-2020,3
+24. august 2019,15:00,1:2,Sheffield United,Leicester City,"{'38': 'away', '62': 'home', '70': 'away'}",2019-2020,3
+24. august 2019,15:00,1:3,Watford FC,West Ham United,"{'3': 'away', '17': 'home', '64': 'away', '73': 'away'}",2019-2020,3
+24. august 2019,17:30,3:1,Liverpool FC,Arsenal FC,"{'41': 'home', '49': 'home', '58': 'home', '85': 'away'}",2019-2020,3
+25. august 2019,14:00,1:3,AFC Bournemouth,Manchester City,"{'15': 'away', '43': 'away', '45': 'home', '64': 'away'}",2019-2020,3
+25. august 2019,16:30,0:1,Tottenham Hotspur,Newcastle United,{'27': 'away'},2019-2020,3
+25. august 2019,16:30,1:1,Wolverhampton Wanderers,Burnley FC,"{'13': 'away', '90': 'home'}",2019-2020,3
+31. august 2019,12:30,1:1,Southampton FC,Manchester United,"{'10': 'away', '58': 'home'}",2019-2020,4
+31. august 2019,15:00,2:2,Chelsea FC,Sheffield United,"{'19': 'home', '43': 'home', '46': 'away', '89': 'away'}",2019-2020,4
+31. august 2019,15:00,1:0,Crystal Palace,Aston Villa,{'73': 'home'},2019-2020,4
+31. august 2019,15:00,3:1,Leicester City,AFC Bournemouth,"{'12': 'home', '15': 'away', '41': 'home', '73': 'home'}",2019-2020,4
+31. august 2019,15:00,4:0,Manchester City,Brighton & Hove Albion,"{'2': 'home', '42': 'home', '55': 'home', '79': 'home'}",2019-2020,4
+31. august 2019,15:00,1:1,Newcastle United,Watford FC,"{'2': 'away', '41': 'home'}",2019-2020,4
+31. august 2019,15:00,2:0,West Ham United,Norwich City,"{'24': 'home', '56': 'home'}",2019-2020,4
+31. august 2019,17:30,0:3,Burnley FC,Liverpool FC,"{'33': 'away', '37': 'away', '80': 'away'}",2019-2020,4
+1. september 2019,14:00,3:2,Everton FC,Wolverhampton Wanderers,"{'5': 'home', '9': 'away', '12': 'home', '75': 'away', '80': 'home'}",2019-2020,4
+1. september 2019,16:30,2:2,Arsenal FC,Tottenham Hotspur,"{'10': 'away', '40': 'away', '45': 'home', '71': 'home'}",2019-2020,4
+14. september 2019,12:30,3:1,Liverpool FC,Newcastle United,"{'7': 'away', '28': 'home', '40': 'home', '72': 'home'}",2019-2020,5
+14. september 2019,15:00,1:1,Brighton & Hove Albion,Burnley FC,"{'51': 'home', '90': 'away'}",2019-2020,5
+14. september 2019,15:00,1:0,Manchester United,Leicester City,{'8': 'home'},2019-2020,5
+14. september 2019,15:00,0:1,Sheffield United,Southampton FC,{'66': 'away'},2019-2020,5
+14. september 2019,15:00,4:0,Tottenham Hotspur,Crystal Palace,"{'10': 'home', '21': 'home', '23': 'home', '42': 'home'}",2019-2020,5
+14. september 2019,15:00,2:5,Wolverhampton Wanderers,Chelsea FC,"{'31': 'away', '34': 'away', '41': 'away', '55': 'away', '69': 'home', '85': 'home', '90': 'away'}",2019-2020,5
+14. september 2019,17:30,3:2,Norwich City,Manchester City,"{'18': 'home', '28': 'home', '45': 'away', '50': 'home', '88': 'away'}",2019-2020,5
+15. september 2019,14:00,3:1,AFC Bournemouth,Everton FC,"{'23': 'home', '44': 'away', '67': 'home', '72': 'home'}",2019-2020,5
+15. september 2019,16:30,2:2,Watford FC,Arsenal FC,"{'21': 'away', '32': 'away', '53': 'home', '81': 'home'}",2019-2020,5
+16. september 2019,20:00,0:0,Aston Villa,West Ham United,,2019-2020,5
+20. september 2019,20:00,1:3,Southampton FC,AFC Bournemouth,"{'10': 'away', '35': 'away', '53': 'home', '90': 'away'}",2019-2020,6
+21. september 2019,12:30,2:1,Leicester City,Tottenham Hotspur,"{'29': 'away', '69': 'home', '85': 'home'}",2019-2020,6
+21. september 2019,15:00,2:0,Burnley FC,Norwich City,"{'10': 'home', '14': 'home'}",2019-2020,6
+21. september 2019,15:00,0:2,Everton FC,Sheffield United,"{'40': 'away', '79': 'away'}",2019-2020,6
+21. september 2019,15:00,8:0,Manchester City,Watford FC,"{'1': 'home', '7': 'home', '12': 'home', '15': 'home', '18': 'home', '48': 'home', '60': 'home', '85': 'home'}",2019-2020,6
+21. september 2019,17:30,0:0,Newcastle United,Brighton & Hove Albion,,2019-2020,6
+22. september 2019,14:00,1:1,Crystal Palace,Wolverhampton Wanderers,"{'46': 'home', '90': 'away'}",2019-2020,6
+22. september 2019,14:00,2:0,West Ham United,Manchester United,"{'44': 'home', '84': 'home'}",2019-2020,6
+22. september 2019,16:30,3:2,Arsenal FC,Aston Villa,"{'20': 'away', '59': 'home', '60': 'away', '81': 'home', '84': 'home'}",2019-2020,6
+22. september 2019,16:30,1:2,Chelsea FC,Liverpool FC,"{'14': 'away', '30': 'away', '71': 'home'}",2019-2020,6
+28. september 2019,12:30,0:1,Sheffield United,Liverpool FC,{'70': 'away'},2019-2020,7
+28. september 2019,15:00,2:2,AFC Bournemouth,West Ham United,"{'10': 'away', '17': 'home', '46': 'home', '74': 'away'}",2019-2020,7
+28. september 2019,15:00,2:2,Aston Villa,Burnley FC,"{'33': 'home', '68': 'away', '79': 'home', '81': 'away'}",2019-2020,7
+28. september 2019,15:00,2:0,Chelsea FC,Brighton & Hove Albion,"{'50': 'home', '76': 'home'}",2019-2020,7
+28. september 2019,15:00,2:0,Crystal Palace,Norwich City,"{'21': 'home', '90': 'home'}",2019-2020,7
+28. september 2019,15:00,2:1,Tottenham Hotspur,Southampton FC,"{'24': 'home', '39': 'away', '43': 'home'}",2019-2020,7
+28. september 2019,15:00,2:0,Wolverhampton Wanderers,Watford FC,"{'18': 'home', '61': 'home'}",2019-2020,7
+28. september 2019,17:30,1:3,Everton FC,Manchester City,"{'24': 'away', '33': 'home', '71': 'away', '84': 'away'}",2019-2020,7
+29. september 2019,16:30,5:0,Leicester City,Newcastle United,"{'16': 'home', '54': 'home', '57': 'home', '64': 'home', '90': 'home'}",2019-2020,7
+30. september 2019,20:00,1:1,Manchester United,Arsenal FC,"{'45': 'home', '58': 'away'}",2019-2020,7
+5. october 2019,12:30,3:0,Brighton & Hove Albion,Tottenham Hotspur,"{'3': 'home', '32': 'home', '65': 'home'}",2019-2020,8
+5. october 2019,15:00,1:0,Burnley FC,Everton FC,{'72': 'home'},2019-2020,8
+5. october 2019,15:00,2:1,Liverpool FC,Leicester City,"{'40': 'home', '80': 'away', '90': 'home'}",2019-2020,8
+5. october 2019,15:00,1:5,Norwich City,Aston Villa,"{'14': 'away', '30': 'away', '49': 'away', '61': 'away', '83': 'away', '87': 'home'}",2019-2020,8
+5. october 2019,15:00,0:0,Watford FC,Sheffield United,,2019-2020,8
+5. october 2019,17:30,1:2,West Ham United,Crystal Palace,"{'54': 'home', '63': 'away', '87': 'away'}",2019-2020,8
+6. october 2019,14:00,1:0,Arsenal FC,AFC Bournemouth,{'9': 'home'},2019-2020,8
+6. october 2019,14:00,0:2,Manchester City,Wolverhampton Wanderers,"{'80': 'away', '90': 'away'}",2019-2020,8
+6. october 2019,14:00,1:4,Southampton FC,Chelsea FC,"{'17': 'away', '24': 'away', '30': 'home', '40': 'away', '89': 'away'}",2019-2020,8
+6. october 2019,16:30,1:0,Newcastle United,Manchester United,{'72': 'home'},2019-2020,8
+19. october 2019,12:30,2:0,Everton FC,West Ham United,"{'17': 'home', '90': 'home'}",2019-2020,9
+19. october 2019,15:00,0:0,AFC Bournemouth,Norwich City,,2019-2020,9
+19. october 2019,15:00,2:1,Aston Villa,Brighton & Hove Albion,"{'21': 'away', '45': 'home', '90': 'home'}",2019-2020,9
+19. october 2019,15:00,1:0,Chelsea FC,Newcastle United,{'73': 'home'},2019-2020,9
+19. october 2019,15:00,2:1,Leicester City,Burnley FC,"{'26': 'away', '45': 'home', '74': 'home'}",2019-2020,9
+19. october 2019,15:00,1:1,Tottenham Hotspur,Watford FC,"{'6': 'away', '86': 'home'}",2019-2020,9
+19. october 2019,15:00,1:1,Wolverhampton Wanderers,Southampton FC,"{'53': 'away', '61': 'home'}",2019-2020,9
+19. october 2019,17:30,0:2,Crystal Palace,Manchester City,"{'39': 'away', '41': 'away'}",2019-2020,9
+20. october 2019,16:30,1:1,Manchester United,Liverpool FC,"{'36': 'home', '85': 'away'}",2019-2020,9
+21. october 2019,20:00,1:0,Sheffield United,Arsenal FC,{'30': 'home'},2019-2020,9
+25. october 2019,20:00,0:9,Southampton FC,Leicester City,"{'10': 'away', '17': 'away', '19': 'away', '39': 'away', '45': 'away', '57': 'away', '58': 'away', '85': 'away', '90': 'away'}",2019-2020,10
+26. october 2019,12:30,3:0,Manchester City,Aston Villa,"{'46': 'home', '65': 'home', '70': 'home'}",2019-2020,10
+26. october 2019,15:00,3:2,Brighton & Hove Albion,Everton FC,"{'15': 'home', '20': 'away', '74': 'away', '80': 'home', '90': 'home'}",2019-2020,10
+26. october 2019,15:00,0:0,Watford FC,AFC Bournemouth,,2019-2020,10
+26. october 2019,15:00,1:1,West Ham United,Sheffield United,"{'44': 'home', '69': 'away'}",2019-2020,10
+26. october 2019,17:30,2:4,Burnley FC,Chelsea FC,"{'21': 'away', '45': 'away', '56': 'away', '58': 'away', '86': 'home', '89': 'home'}",2019-2020,10
+27. october 2019,14:00,1:1,Newcastle United,Wolverhampton Wanderers,"{'37': 'home', '73': 'away'}",2019-2020,10
+27. october 2019,16:30,2:2,Arsenal FC,Crystal Palace,"{'7': 'home', '9': 'home', '32': 'away', '52': 'away'}",2019-2020,10
+27. october 2019,16:30,2:1,Liverpool FC,Tottenham Hotspur,"{'1': 'away', '52': 'home', '75': 'home'}",2019-2020,10
+27. october 2019,16:30,1:3,Norwich City,Manchester United,"{'21': 'away', '30': 'away', '73': 'away', '88': 'home'}",2019-2020,10
+2. november 2019,12:30,1:0,AFC Bournemouth,Manchester United,{'45': 'home'},2019-2020,11
+2. november 2019,15:00,1:1,Arsenal FC,Wolverhampton Wanderers,"{'21': 'home', '76': 'away'}",2019-2020,11
+2. november 2019,15:00,1:2,Aston Villa,Liverpool FC,"{'21': 'home', '87': 'away', '90': 'away'}",2019-2020,11
+2. november 2019,15:00,2:0,Brighton & Hove Albion,Norwich City,"{'68': 'home', '84': 'home'}",2019-2020,11
+2. november 2019,15:00,2:1,Manchester City,Southampton FC,"{'13': 'away', '70': 'home', '86': 'home'}",2019-2020,11
+2. november 2019,15:00,3:0,Sheffield United,Burnley FC,"{'17': 'home', '43': 'home', '44': 'home'}",2019-2020,11
+2. november 2019,15:00,2:3,West Ham United,Newcastle United,"{'16': 'away', '22': 'away', '51': 'away', '73': 'home', '90': 'home'}",2019-2020,11
+2. november 2019,17:30,1:2,Watford FC,Chelsea FC,"{'5': 'away', '55': 'away', '80': 'home'}",2019-2020,11
+3. november 2019,14:00,0:2,Crystal Palace,Leicester City,"{'57': 'away', '88': 'away'}",2019-2020,11
+3. november 2019,16:30,1:1,Everton FC,Tottenham Hotspur,"{'63': 'away', '90': 'home'}",2019-2020,11
+8. november 2019,20:00,0:2,Norwich City,Watford FC,"{'2': 'away', '52': 'away'}",2019-2020,12
+9. november 2019,12:30,2:0,Chelsea FC,Crystal Palace,"{'52': 'home', '79': 'home'}",2019-2020,12
+9. november 2019,15:00,3:0,Burnley FC,West Ham United,"{'11': 'home', '44': 'home', '54': 'home'}",2019-2020,12
+9. november 2019,15:00,2:1,Newcastle United,AFC Bournemouth,"{'14': 'away', '42': 'home', '52': 'home'}",2019-2020,12
+9. november 2019,15:00,1:2,Southampton FC,Everton FC,"{'4': 'away', '50': 'home', '75': 'away'}",2019-2020,12
+9. november 2019,15:00,1:1,Tottenham Hotspur,Sheffield United,"{'58': 'home', '78': 'away'}",2019-2020,12
+9. november 2019,17:30,2:0,Leicester City,Arsenal FC,"{'68': 'home', '75': 'home'}",2019-2020,12
+10. november 2019,14:00,3:1,Manchester United,Brighton & Hove Albion,"{'17': 'home', '19': 'home', '64': 'away', '66': 'home'}",2019-2020,12
+10. november 2019,14:00,2:1,Wolverhampton Wanderers,Aston Villa,"{'41': 'home', '84': 'home', '90': 'away'}",2019-2020,12
+10. november 2019,16:30,3:1,Liverpool FC,Manchester City,"{'6': 'home', '13': 'home', '51': 'home', '78': 'away'}",2019-2020,12
+23. november 2019,12:30,2:3,West Ham United,Tottenham Hotspur,"{'36': 'away', '43': 'away', '49': 'away', '73': 'home', '90': 'home'}",2019-2020,13
+23. november 2019,15:00,1:2,AFC Bournemouth,Wolverhampton Wanderers,"{'21': 'away', '31': 'away', '59': 'home'}",2019-2020,13
+23. november 2019,15:00,2:2,Arsenal FC,Southampton FC,"{'8': 'away', '18': 'home', '71': 'away', '90': 'home'}",2019-2020,13
+23. november 2019,15:00,0:2,Brighton & Hove Albion,Leicester City,"{'64': 'away', '82': 'away'}",2019-2020,13
+23. november 2019,15:00,1:2,Crystal Palace,Liverpool FC,"{'49': 'away', '82': 'home', '85': 'away'}",2019-2020,13
+23. november 2019,15:00,0:2,Everton FC,Norwich City,"{'54': 'away', '90': 'away'}",2019-2020,13
+23. november 2019,15:00,0:3,Watford FC,Burnley FC,"{'53': 'away', '82': 'away', '88': 'away'}",2019-2020,13
+23. november 2019,17:30,2:1,Manchester City,Chelsea FC,"{'21': 'away', '29': 'home', '37': 'home'}",2019-2020,13
+24. november 2019,16:30,3:3,Sheffield United,Manchester United,"{'19': 'home', '52': 'home', '72': 'away', '77': 'away', '79': 'away', '90': 'home'}",2019-2020,13
+25. november 2019,20:00,2:0,Aston Villa,Newcastle United,"{'32': 'home', '36': 'home'}",2019-2020,13
+30. november 2019,12:30,2:2,Newcastle United,Manchester City,"{'22': 'away', '25': 'home', '82': 'away', '88': 'home'}",2019-2020,14
+30. november 2019,15:00,0:2,Burnley FC,Crystal Palace,"{'45': 'away', '78': 'away'}",2019-2020,14
+30. november 2019,15:00,0:1,Chelsea FC,West Ham United,{'48': 'away'},2019-2020,14
+30. november 2019,15:00,2:1,Liverpool FC,Brighton & Hove Albion,"{'18': 'home', '24': 'home', '79': 'away'}",2019-2020,14
+30. november 2019,15:00,3:2,Tottenham Hotspur,AFC Bournemouth,"{'21': 'home', '50': 'home', '69': 'home', '73': 'away', '90': 'away'}",2019-2020,14
+30. november 2019,17:30,2:1,Southampton FC,Watford FC,"{'24': 'away', '78': 'home', '83': 'home'}",2019-2020,14
+1. december 2019,14:00,2:2,Norwich City,Arsenal FC,"{'21': 'home', '29': 'away', '45': 'home', '57': 'away'}",2019-2020,14
+1. december 2019,14:00,1:1,Wolverhampton Wanderers,Sheffield United,"{'2': 'away', '64': 'home'}",2019-2020,14
+1. december 2019,16:30,2:1,Leicester City,Everton FC,"{'23': 'away', '68': 'home', '90': 'home'}",2019-2020,14
+1. december 2019,16:30,2:2,Manchester United,Aston Villa,"{'11': 'away', '42': 'home', '64': 'home', '66': 'away'}",2019-2020,14
+3. december 2019,19:30,1:0,Crystal Palace,AFC Bournemouth,{'76': 'home'},2019-2020,15
+3. december 2019,20:15,1:4,Burnley FC,Manchester City,"{'24': 'away', '50': 'away', '68': 'away', '87': 'away', '89': 'home'}",2019-2020,15
+4. december 2019,19:30,2:0,Leicester City,Watford FC,"{'55': 'home', '90': 'home'}",2019-2020,15
+4. december 2019,19:30,2:0,Wolverhampton Wanderers,West Ham United,"{'23': 'home', '86': 'home'}",2019-2020,15
+4. december 2019,19:30,2:1,Manchester United,Tottenham Hotspur,"{'6': 'home', '39': 'away', '49': 'home'}",2019-2020,15
+4. december 2019,19:30,2:1,Chelsea FC,Aston Villa,"{'24': 'home', '41': 'away', '48': 'home'}",2019-2020,15
+4. december 2019,19:30,2:1,Southampton FC,Norwich City,"{'22': 'home', '43': 'home', '65': 'away'}",2019-2020,15
+4. december 2019,20:15,5:2,Liverpool FC,Everton FC,"{'6': 'home', '17': 'home', '21': 'away', '31': 'home', '45': 'home', None: 'away', '90': 'home'}",2019-2020,15
+5. december 2019,19:30,0:2,Sheffield United,Newcastle United,"{'15': 'away', '70': 'away'}",2019-2020,15
+5. december 2019,20:15,1:2,Arsenal FC,Brighton & Hove Albion,"{'36': 'away', '50': 'home', '80': 'away'}",2019-2020,15
+7. december 2019,12:30,3:1,Everton FC,Chelsea FC,"{'5': 'home', '49': 'home', '52': 'away', '84': 'home'}",2019-2020,16
+7. december 2019,15:00,0:3,AFC Bournemouth,Liverpool FC,"{'35': 'away', '44': 'away', '54': 'away'}",2019-2020,16
+7. december 2019,15:00,5:0,Tottenham Hotspur,Burnley FC,"{'4': 'home', '9': 'home', '32': 'home', '54': 'home', '74': 'home'}",2019-2020,16
+7. december 2019,15:00,0:0,Watford FC,Crystal Palace,,2019-2020,16
+7. december 2019,17:30,1:2,Manchester City,Manchester United,"{'23': 'away', '29': 'away', '85': 'home'}",2019-2020,16
+8. december 2019,14:00,1:4,Aston Villa,Leicester City,"{'20': 'away', '41': 'away', '45': 'home', '49': 'away', '75': 'away'}",2019-2020,16
+8. december 2019,14:00,2:1,Newcastle United,Southampton FC,"{'52': 'away', '68': 'home', '87': 'home'}",2019-2020,16
+8. december 2019,14:00,1:2,Norwich City,Sheffield United,"{'27': 'home', '49': 'away', '52': 'away'}",2019-2020,16
+8. december 2019,16:30,2:2,Brighton & Hove Albion,Wolverhampton Wanderers,"{'28': 'away', '34': 'home', '36': 'home', '44': 'away'}",2019-2020,16
+9. december 2019,20:00,1:3,West Ham United,Arsenal FC,"{None: 'home', '60': 'away', '66': 'away', '69': 'away'}",2019-2020,16
+14. december 2019,12:30,2:0,Liverpool FC,Watford FC,"{'38': 'home', '90': 'home'}",2019-2020,17
+14. december 2019,15:00,1:0,Burnley FC,Newcastle United,{'58': 'home'},2019-2020,17
+14. december 2019,15:00,0:1,Chelsea FC,AFC Bournemouth,{'84': 'away'},2019-2020,17
+14. december 2019,15:00,1:1,Leicester City,Norwich City,"{'26': 'away', '38': 'home'}",2019-2020,17
+14. december 2019,15:00,2:0,Sheffield United,Aston Villa,"{'50': 'home', '73': 'home'}",2019-2020,17
+14. december 2019,17:30,0:1,Southampton FC,West Ham United,{'37': 'away'},2019-2020,17
+15. december 2019,14:00,1:1,Manchester United,Everton FC,"{'36': 'away', '77': 'home'}",2019-2020,17
+15. december 2019,14:00,1:2,Wolverhampton Wanderers,Tottenham Hotspur,"{'8': 'away', '67': 'home', '90': 'away'}",2019-2020,17
+15. december 2019,16:30,0:3,Arsenal FC,Manchester City,"{'2': 'away', '15': 'away', '40': 'away'}",2019-2020,17
+16. december 2019,19:45,1:1,Crystal Palace,Brighton & Hove Albion,"{'54': 'away', '76': 'home'}",2019-2020,17
+21. december 2019,12:30,0:0,Everton FC,Arsenal FC,,2019-2020,18
+21. december 2019,15:00,0:1,AFC Bournemouth,Burnley FC,{None: 'away'},2019-2020,18
+21. december 2019,15:00,1:3,Aston Villa,Southampton FC,"{'21': 'away', '31': 'away', '51': 'away', '75': 'home'}",2019-2020,18
+21. december 2019,15:00,0:1,Brighton & Hove Albion,Sheffield United,{'23': 'away'},2019-2020,18
+21. december 2019,15:00,1:0,Newcastle United,Crystal Palace,{'83': 'home'},2019-2020,18
+21. december 2019,15:00,1:2,Norwich City,Wolverhampton Wanderers,"{'17': 'home', '60': 'away', '81': 'away'}",2019-2020,18
+21. december 2019,17:30,3:1,Manchester City,Leicester City,"{'22': 'away', '30': 'home', '43': 'home', '69': 'home'}",2019-2020,18
+22. december 2019,14:00,2:0,Watford FC,Manchester United,"{'50': 'home', '54': 'home'}",2019-2020,18
+22. december 2019,16:30,0:2,Tottenham Hotspur,Chelsea FC,"{'12': 'away', '45': 'away'}",2019-2020,18
+29. january 2020,19:45,0:2,West Ham United,Liverpool FC,"{'35': 'away', '52': 'away'}",2019-2020,18
+26. december 2019,12:30,2:1,Tottenham Hotspur,Brighton & Hove Albion,"{'37': 'away', '53': 'home', '72': 'home'}",2019-2020,19
+26. december 2019,15:00,1:1,AFC Bournemouth,Arsenal FC,"{'35': 'home', '63': 'away'}",2019-2020,19
+26. december 2019,15:00,1:0,Aston Villa,Norwich City,{'64': 'home'},2019-2020,19
+26. december 2019,15:00,0:2,Chelsea FC,Southampton FC,"{'31': 'away', '73': 'away'}",2019-2020,19
+26. december 2019,15:00,2:1,Crystal Palace,West Ham United,"{'57': 'away', '68': 'home', '90': 'home'}",2019-2020,19
+26. december 2019,15:00,1:0,Everton FC,Burnley FC,{'80': 'home'},2019-2020,19
+26. december 2019,15:00,1:1,Sheffield United,Watford FC,"{'27': 'away', '36': 'home'}",2019-2020,19
+26. december 2019,17:30,4:1,Manchester United,Newcastle United,"{'17': 'away', '24': 'home', '36': 'home', '41': 'home', '51': 'home'}",2019-2020,19
+26. december 2019,20:00,0:4,Leicester City,Liverpool FC,"{'31': 'away', '71': 'away', '74': 'away', '78': 'away'}",2019-2020,19
+27. december 2019,19:45,3:2,Wolverhampton Wanderers,Manchester City,"{'25': 'away', '50': 'away', '55': 'home', '82': 'home', '89': 'home'}",2019-2020,19
+28. december 2019,12:30,2:0,Brighton & Hove Albion,AFC Bournemouth,"{'3': 'home', '79': 'home'}",2019-2020,20
+28. december 2019,15:00,1:2,Newcastle United,Everton FC,"{'13': 'away', '56': 'home', '64': 'away'}",2019-2020,20
+28. december 2019,15:00,1:1,Southampton FC,Crystal Palace,"{'50': 'away', '74': 'home'}",2019-2020,20
+28. december 2019,15:00,3:0,Watford FC,Aston Villa,"{'42': 'home', '67': 'home', '71': 'home'}",2019-2020,20
+28. december 2019,17:30,2:2,Norwich City,Tottenham Hotspur,"{'18': 'home', '55': 'away', '61': 'home', '83': 'away'}",2019-2020,20
+28. december 2019,17:30,1:2,West Ham United,Leicester City,"{'40': 'away', '45': 'home', '56': 'away'}",2019-2020,20
+28. december 2019,19:45,0:2,Burnley FC,Manchester United,"{'44': 'away', '90': 'away'}",2019-2020,20
+29. december 2019,14:00,1:2,Arsenal FC,Chelsea FC,"{'13': 'home', '83': 'away', '87': 'away'}",2019-2020,20
+29. december 2019,16:30,1:0,Liverpool FC,Wolverhampton Wanderers,{'42': 'home'},2019-2020,20
+29. december 2019,18:00,2:0,Manchester City,Sheffield United,"{'52': 'home', '82': 'home'}",2019-2020,20
+1. january 2020,12:30,1:1,Brighton & Hove Albion,Chelsea FC,"{'10': 'away', '84': 'home'}",2019-2020,21
+1. january 2020,12:30,1:2,Burnley FC,Aston Villa,"{'27': 'away', '41': 'away', '80': 'home'}",2019-2020,21
+1. january 2020,15:00,0:3,Newcastle United,Leicester City,"{'36': 'away', '39': 'away', '87': 'away'}",2019-2020,21
+1. january 2020,15:00,1:0,Southampton FC,Tottenham Hotspur,{'17': 'home'},2019-2020,21
+1. january 2020,15:00,2:1,Watford FC,Wolverhampton Wanderers,"{'30': 'home', '49': 'home', '60': 'away'}",2019-2020,21
+1. january 2020,17:30,2:1,Manchester City,Everton FC,"{'51': 'home', '58': 'home', '71': 'away'}",2019-2020,21
+1. january 2020,17:30,1:1,Norwich City,Crystal Palace,"{'4': 'home', '85': 'away'}",2019-2020,21
+1. january 2020,17:30,4:0,West Ham United,AFC Bournemouth,"{'17': 'home', '25': 'home', '35': 'home', '66': 'home'}",2019-2020,21
+1. january 2020,20:00,2:0,Arsenal FC,Manchester United,"{'8': 'home', '42': 'home'}",2019-2020,21
+2. january 2020,20:00,2:0,Liverpool FC,Sheffield United,"{'4': 'home', '64': 'home'}",2019-2020,21
+10. january 2020,20:00,1:0,Sheffield United,West Ham United,{'53': 'home'},2019-2020,22
+11. january 2020,12:30,1:1,Crystal Palace,Arsenal FC,"{'12': 'away', '54': 'home'}",2019-2020,22
+11. january 2020,15:00,3:0,Chelsea FC,Burnley FC,"{'27': 'home', '38': 'home', '49': 'home'}",2019-2020,22
+11. january 2020,15:00,1:0,Everton FC,Brighton & Hove Albion,{'38': 'home'},2019-2020,22
+11. january 2020,15:00,1:2,Leicester City,Southampton FC,"{'14': 'home', '19': 'away', '81': 'away'}",2019-2020,22
+11. january 2020,15:00,4:0,Manchester United,Norwich City,"{'27': 'home', '52': 'home', '54': 'home', '76': 'home'}",2019-2020,22
+11. january 2020,15:00,1:1,Wolverhampton Wanderers,Newcastle United,"{'7': 'away', '14': 'home'}",2019-2020,22
+11. january 2020,17:30,0:1,Tottenham Hotspur,Liverpool FC,{'37': 'away'},2019-2020,22
+12. january 2020,14:00,0:3,AFC Bournemouth,Watford FC,"{'42': 'away', '65': 'away', '90': 'away'}",2019-2020,22
+12. january 2020,16:30,1:6,Aston Villa,Manchester City,"{'18': 'away', '24': 'away', '28': 'away', '45': 'away', '57': 'away', '81': 'away', '90': 'home'}",2019-2020,22
+18. january 2020,12:30,0:0,Watford FC,Tottenham Hotspur,,2019-2020,23
+18. january 2020,15:00,1:1,Arsenal FC,Sheffield United,"{'45': 'home', '83': 'away'}",2019-2020,23
+18. january 2020,15:00,1:1,Brighton & Hove Albion,Aston Villa,"{'38': 'home', '75': 'away'}",2019-2020,23
+18. january 2020,15:00,2:2,Manchester City,Crystal Palace,"{'39': 'away', '82': 'home', '87': 'home', '90': 'away'}",2019-2020,23
+18. january 2020,15:00,1:0,Norwich City,AFC Bournemouth,{'33': 'home'},2019-2020,23
+18. january 2020,15:00,2:3,Southampton FC,Wolverhampton Wanderers,"{'15': 'home', '35': 'home', '53': 'away', '65': 'away', '76': 'away'}",2019-2020,23
+18. january 2020,15:00,1:1,West Ham United,Everton FC,"{'40': 'home', '44': 'away'}",2019-2020,23
+18. january 2020,17:30,1:0,Newcastle United,Chelsea FC,{'90': 'home'},2019-2020,23
+19. january 2020,14:00,2:1,Burnley FC,Leicester City,"{'33': 'away', '56': 'home', '79': 'home'}",2019-2020,23
+19. january 2020,16:30,2:0,Liverpool FC,Manchester United,"{'14': 'home', '90': 'home'}",2019-2020,23
+21. january 2020,19:30,3:1,AFC Bournemouth,Brighton & Hove Albion,"{'36': 'home', '41': 'home', '74': 'home', '81': 'away'}",2019-2020,24
+21. january 2020,19:30,2:1,Aston Villa,Watford FC,"{'38': 'away', '68': 'home', None: 'home'}",2019-2020,24
+21. january 2020,19:30,2:2,Everton FC,Newcastle United,"{'30': 'home', '54': 'home', '90': 'away'}",2019-2020,24
+21. january 2020,19:30,0:1,Sheffield United,Manchester City,{'73': 'away'},2019-2020,24
+21. january 2020,19:30,0:2,Crystal Palace,Southampton FC,"{'22': 'away', '48': 'away'}",2019-2020,24
+21. january 2020,20:15,2:2,Chelsea FC,Arsenal FC,"{'28': 'home', '63': 'away', '84': 'home', '87': 'away'}",2019-2020,24
+22. january 2020,19:30,4:1,Leicester City,West Ham United,"{'24': 'home', '45': 'home', '50': 'away', '81': 'home', '88': 'home'}",2019-2020,24
+22. january 2020,19:30,2:1,Tottenham Hotspur,Norwich City,"{'38': 'home', '70': 'away', '79': 'home'}",2019-2020,24
+22. january 2020,20:15,0:2,Manchester United,Burnley FC,"{'39': 'away', '56': 'away'}",2019-2020,24
+23. january 2020,20:00,1:2,Wolverhampton Wanderers,Liverpool FC,"{'8': 'away', '51': 'home', '84': 'away'}",2019-2020,24
+1. february 2020,12:30,2:2,Leicester City,Chelsea FC,"{'46': 'away', '54': 'home', '64': 'home', '71': 'away'}",2019-2020,25
+1. february 2020,15:00,2:1,AFC Bournemouth,Aston Villa,"{'37': 'home', '44': 'home', '70': 'away'}",2019-2020,25
+1. february 2020,15:00,0:1,Crystal Palace,Sheffield United,{'58': 'away'},2019-2020,25
+1. february 2020,15:00,4:0,Liverpool FC,Southampton FC,"{'47': 'home', '60': 'home', '71': 'home', '90': 'home'}",2019-2020,25
+1. february 2020,15:00,0:0,Newcastle United,Norwich City,,2019-2020,25
+1. february 2020,15:00,2:3,Watford FC,Everton FC,"{'10': 'home', '42': 'home', '45': 'away', '90': 'away'}",2019-2020,25
+1. february 2020,15:00,3:3,West Ham United,Brighton & Hove Albion,"{'30': 'home', '45': 'home', '47': 'away', '57': 'home', '75': 'away', '79': 'away'}",2019-2020,25
+1. february 2020,17:30,0:0,Manchester United,Wolverhampton Wanderers,,2019-2020,25
+2. february 2020,14:00,0:0,Burnley FC,Arsenal FC,,2019-2020,25
+2. february 2020,16:30,2:0,Tottenham Hotspur,Manchester City,"{'63': 'home', '71': 'home'}",2019-2020,25
+8. february 2020,12:30,3:1,Everton FC,Crystal Palace,"{'18': 'home', '51': 'away', '58': 'home', '88': 'home'}",2019-2020,26
+8. february 2020,17:30,1:1,Brighton & Hove Albion,Watford FC,"{'19': 'away', '78': 'home'}",2019-2020,26
+9. february 2020,14:00,2:1,Sheffield United,AFC Bournemouth,"{'13': 'away', '45': 'home', '84': 'home'}",2019-2020,26
+14. february 2020,20:00,0:0,Wolverhampton Wanderers,Leicester City,,2019-2020,26
+15. february 2020,12:30,1:2,Southampton FC,Burnley FC,"{'2': 'away', '18': 'home', '60': 'away'}",2019-2020,26
+15. february 2020,17:30,0:1,Norwich City,Liverpool FC,{'78': 'away'},2019-2020,26
+16. february 2020,14:00,2:3,Aston Villa,Tottenham Hotspur,"{'9': 'home', '27': 'away', '45': 'away', '53': 'home', '90': 'away'}",2019-2020,26
+16. february 2020,16:30,4:0,Arsenal FC,Newcastle United,"{'54': 'home', '57': 'home', '90': 'home'}",2019-2020,26
+17. february 2020,20:00,0:2,Chelsea FC,Manchester United,"{'45': 'away', '66': 'away'}",2019-2020,26
+19. february 2020,19:30,2:0,Manchester City,West Ham United,"{'30': 'home', '62': 'home'}",2019-2020,26
+22. february 2020,12:30,2:1,Chelsea FC,Tottenham Hotspur,"{'15': 'home', '48': 'home', '89': 'away'}",2019-2020,27
+22. february 2020,15:00,3:0,Burnley FC,AFC Bournemouth,"{'53': 'home', '61': 'home', '87': 'home'}",2019-2020,27
+22. february 2020,15:00,1:0,Crystal Palace,Newcastle United,{'44': 'home'},2019-2020,27
+22. february 2020,15:00,1:1,Sheffield United,Brighton & Hove Albion,"{'26': 'home', '30': 'away'}",2019-2020,27
+22. february 2020,15:00,2:0,Southampton FC,Aston Villa,"{'8': 'home', '90': 'home'}",2019-2020,27
+22. february 2020,17:30,0:1,Leicester City,Manchester City,{'80': 'away'},2019-2020,27
+23. february 2020,14:00,3:0,Manchester United,Watford FC,"{'42': 'home', '58': 'home', '75': 'home'}",2019-2020,27
+23. february 2020,14:00,3:0,Wolverhampton Wanderers,Norwich City,"{'19': 'home', '30': 'home', '50': 'home'}",2019-2020,27
+23. february 2020,16:30,3:2,Arsenal FC,Everton FC,"{'1': 'away', '27': 'home', '33': 'home', '45': 'away', '46': 'home'}",2019-2020,27
+24. february 2020,20:00,3:2,Liverpool FC,West Ham United,"{'9': 'home', '12': 'away', '54': 'away', '68': 'home', '81': 'home'}",2019-2020,27
+28. february 2020,20:00,1:0,Norwich City,Leicester City,{'70': 'home'},2019-2020,28
+29. february 2020,12:30,0:1,Brighton & Hove Albion,Crystal Palace,{'70': 'away'},2019-2020,28
+29. february 2020,15:00,2:2,AFC Bournemouth,Chelsea FC,"{'33': 'away', '54': 'home', '57': 'home', '85': 'away'}",2019-2020,28
+29. february 2020,15:00,0:0,Newcastle United,Burnley FC,,2019-2020,28
+29. february 2020,15:00,3:1,West Ham United,Southampton FC,"{'15': 'home', '31': 'away', '40': 'home', '54': 'home'}",2019-2020,28
+29. february 2020,17:30,3:0,Watford FC,Liverpool FC,"{'54': 'home', '60': 'home', '72': 'home'}",2019-2020,28
+1. march 2020,14:00,1:1,Everton FC,Manchester United,"{'3': 'home', '31': 'away'}",2019-2020,28
+1. march 2020,14:00,2:3,Tottenham Hotspur,Wolverhampton Wanderers,"{'13': 'home', '27': 'away', '45': 'home', '57': 'away', '73': 'away'}",2019-2020,28
+17. june 2020,18:00,0:0,Aston Villa,Sheffield United,,2019-2020,28
+17. june 2020,20:15,3:0,Manchester City,Arsenal FC,"{'45': 'home', '51': 'home', '90': 'home'}",2019-2020,28
+7. march 2020,12:30,2:1,Liverpool FC,AFC Bournemouth,"{'9': 'away', '25': 'home', '33': 'home'}",2019-2020,29
+7. march 2020,15:00,1:0,Arsenal FC,West Ham United,{'78': 'home'},2019-2020,29
+7. march 2020,15:00,1:0,Crystal Palace,Watford FC,{'28': 'home'},2019-2020,29
+7. march 2020,15:00,1:0,Sheffield United,Norwich City,{'36': 'home'},2019-2020,29
+7. march 2020,15:00,0:1,Southampton FC,Newcastle United,{'79': 'away'},2019-2020,29
+7. march 2020,15:00,0:0,Wolverhampton Wanderers,Brighton & Hove Albion,,2019-2020,29
+7. march 2020,17:30,1:1,Burnley FC,Tottenham Hotspur,"{'13': 'home', '50': 'away'}",2019-2020,29
+8. march 2020,14:00,4:0,Chelsea FC,Everton FC,"{'14': 'home', '21': 'home', '51': 'home', '54': 'home'}",2019-2020,29
+8. march 2020,16:30,2:0,Manchester United,Manchester City,"{'30': 'home', '90': 'home'}",2019-2020,29
+9. march 2020,20:00,4:0,Leicester City,Aston Villa,"{'40': 'home', '63': 'home', '79': 'home', '85': 'home'}",2019-2020,29
+19. june 2020,18:00,0:3,Norwich City,Southampton FC,"{'49': 'away', '54': 'away', '79': 'away'}",2019-2020,30
+19. june 2020,20:15,1:1,Tottenham Hotspur,Manchester United,"{'27': 'home', '81': 'away'}",2019-2020,30
+20. june 2020,12:30,1:1,Watford FC,Leicester City,{'90': 'home'},2019-2020,30
+20. june 2020,15:00,2:1,Brighton & Hove Albion,Arsenal FC,"{'68': 'away', '75': 'home', '90': 'home'}",2019-2020,30
+20. june 2020,17:30,0:2,West Ham United,Wolverhampton Wanderers,"{'73': 'away', '84': 'away'}",2019-2020,30
+20. june 2020,19:45,0:2,AFC Bournemouth,Crystal Palace,"{'12': 'away', '23': 'away'}",2019-2020,30
+21. june 2020,14:00,3:0,Newcastle United,Sheffield United,"{'55': 'home', '69': 'home', '78': 'home'}",2019-2020,30
+21. june 2020,16:15,1:2,Aston Villa,Chelsea FC,"{'43': 'home', '60': 'away', '62': 'away'}",2019-2020,30
+21. june 2020,19:00,0:0,Everton FC,Liverpool FC,,2019-2020,30
+22. june 2020,20:00,5:0,Manchester City,Burnley FC,"{'22': 'home', '43': 'home', '45': 'home', '51': 'home', '63': 'home'}",2019-2020,30
+23. june 2020,18:00,0:0,Leicester City,Brighton & Hove Albion,,2019-2020,31
+23. june 2020,20:15,2:0,Tottenham Hotspur,West Ham United,"{'64': 'home', '82': 'home'}",2019-2020,31
+24. june 2020,18:00,3:0,Manchester United,Sheffield United,"{'7': 'home', '44': 'home', '74': 'home'}",2019-2020,31
+24. june 2020,18:00,1:1,Newcastle United,Aston Villa,"{'68': 'home', '83': 'away'}",2019-2020,31
+24. june 2020,18:00,0:1,Norwich City,Everton FC,{'55': 'away'},2019-2020,31
+24. june 2020,18:00,1:0,Wolverhampton Wanderers,AFC Bournemouth,{'60': 'home'},2019-2020,31
+24. june 2020,20:15,4:0,Liverpool FC,Crystal Palace,"{'23': 'home', '44': 'home', '55': 'home', '69': 'home'}",2019-2020,31
+25. june 2020,18:00,1:0,Burnley FC,Watford FC,{'73': 'home'},2019-2020,31
+25. june 2020,18:00,0:2,Southampton FC,Arsenal FC,"{'20': 'away', '86': 'away'}",2019-2020,31
+25. june 2020,20:15,2:1,Chelsea FC,Manchester City,"{'36': 'home', '55': 'away', '78': 'home'}",2019-2020,31
+27. june 2020,12:30,0:1,Aston Villa,Wolverhampton Wanderers,{'62': 'away'},2019-2020,32
+28. june 2020,16:30,1:3,Watford FC,Southampton FC,"{'16': 'away', '70': 'away', '79': 'home', '82': 'away'}",2019-2020,32
+29. june 2020,20:00,0:1,Crystal Palace,Burnley FC,{'62': 'away'},2019-2020,32
+30. june 2020,20:15,0:3,Brighton & Hove Albion,Manchester United,"{'16': 'away', '29': 'away', '50': 'away'}",2019-2020,32
+1. july 2020,18:00,1:4,AFC Bournemouth,Newcastle United,"{'5': 'away', '30': 'away', '57': 'away', '77': 'away', '90': 'home'}",2019-2020,32
+1. july 2020,18:00,4:0,Arsenal FC,Norwich City,"{'33': 'home', '37': 'home', '67': 'home', '81': 'home'}",2019-2020,32
+1. july 2020,18:00,2:1,Everton FC,Leicester City,"{'10': 'home', '16': 'home', '51': 'away'}",2019-2020,32
+1. july 2020,20:15,3:2,West Ham United,Chelsea FC,"{'42': 'away', '45': 'home', '51': 'home', '72': 'away', '89': 'home'}",2019-2020,32
+2. july 2020,18:00,3:1,Sheffield United,Tottenham Hotspur,"{'31': 'home', '69': 'home', '84': 'home', '90': 'away'}",2019-2020,32
+2. july 2020,20:15,4:0,Manchester City,Liverpool FC,"{'25': 'home', '35': 'home', '45': 'home', '66': 'home'}",2019-2020,32
+4. july 2020,12:30,0:1,Norwich City,Brighton & Hove Albion,{'25': 'away'},2019-2020,33
+4. july 2020,15:00,3:0,Leicester City,Crystal Palace,"{'49': 'home', '77': 'home', '90': 'home'}",2019-2020,33
+4. july 2020,15:00,5:2,Manchester United,AFC Bournemouth,"{'15': 'away', '29': 'home', '35': 'home', '45': 'home', '49': 'away', '54': 'home', '59': 'home'}",2019-2020,33
+4. july 2020,17:30,0:2,Wolverhampton Wanderers,Arsenal FC,"{'43': 'away', '86': 'away'}",2019-2020,33
+4. july 2020,20:00,3:0,Chelsea FC,Watford FC,"{'28': 'home', '43': 'home', '90': 'home'}",2019-2020,33
+5. july 2020,12:00,1:1,Burnley FC,Sheffield United,"{'43': 'home', '80': 'away'}",2019-2020,33
+5. july 2020,14:15,2:2,Newcastle United,West Ham United,"{'4': 'away', '17': 'home', '65': 'away', '67': 'home'}",2019-2020,33
+5. july 2020,16:30,2:0,Liverpool FC,Aston Villa,"{'71': 'home', '89': 'home'}",2019-2020,33
+5. july 2020,19:00,1:0,Southampton FC,Manchester City,{'16': 'home'},2019-2020,33
+6. july 2020,20:00,1:0,Tottenham Hotspur,Everton FC,{'24': 'home'},2019-2020,33
+7. july 2020,18:00,2:3,Crystal Palace,Chelsea FC,"{'6': 'away', '27': 'away', '34': 'home', '71': 'away', '72': 'home'}",2019-2020,34
+7. july 2020,18:00,2:1,Watford FC,Norwich City,"{'4': 'away', '10': 'home', '55': 'home'}",2019-2020,34
+7. july 2020,20:15,1:1,Arsenal FC,Leicester City,"{'21': 'home', '84': 'away'}",2019-2020,34
+8. july 2020,18:00,5:0,Manchester City,Newcastle United,"{'10': 'home', '21': 'home', '58': 'home', '65': 'home', '90': 'home'}",2019-2020,34
+8. july 2020,18:00,1:0,Sheffield United,Wolverhampton Wanderers,{'90': 'home'},2019-2020,34
+8. july 2020,18:00,0:1,West Ham United,Burnley FC,{'38': 'away'},2019-2020,34
+8. july 2020,20:15,1:3,Brighton & Hove Albion,Liverpool FC,"{'6': 'away', '8': 'away', '45': 'home', '76': 'away'}",2019-2020,34
+9. july 2020,18:00,0:0,AFC Bournemouth,Tottenham Hotspur,,2019-2020,34
+9. july 2020,18:00,1:1,Everton FC,Southampton FC,"{'31': 'away', '43': 'home'}",2019-2020,34
+9. july 2020,20:15,0:3,Aston Villa,Manchester United,"{'27': 'away', '45': 'away', '58': 'away'}",2019-2020,34
+11. july 2020,12:30,0:4,Norwich City,West Ham United,"{'11': 'away', '45': 'away', '54': 'away', '74': 'away'}",2019-2020,35
+11. july 2020,12:30,2:1,Watford FC,Newcastle United,"{'23': 'away', '52': 'home', '82': 'home'}",2019-2020,35
+11. july 2020,15:00,1:1,Liverpool FC,Burnley FC,"{'34': 'home', '69': 'away'}",2019-2020,35
+11. july 2020,17:30,3:0,Sheffield United,Chelsea FC,"{'18': 'home', '33': 'home', '77': 'home'}",2019-2020,35
+11. july 2020,20:00,0:5,Brighton & Hove Albion,Manchester City,"{'21': 'away', '44': 'away', '53': 'away', '56': 'away', '81': 'away'}",2019-2020,35
+12. july 2020,12:00,3:0,Wolverhampton Wanderers,Everton FC,"{'45': 'home', '46': 'home', '74': 'home'}",2019-2020,35
+12. july 2020,14:15,2:0,Aston Villa,Crystal Palace,"{'45': 'home', '59': 'home'}",2019-2020,35
+12. july 2020,16:30,2:1,Tottenham Hotspur,Arsenal FC,"{'16': 'away', '19': 'home', '81': 'home'}",2019-2020,35
+12. july 2020,19:00,4:1,AFC Bournemouth,Leicester City,"{'23': 'away', '66': 'home', '67': 'home', '83': 'home', '87': 'home'}",2019-2020,35
+13. july 2020,20:00,2:2,Manchester United,Southampton FC,"{'12': 'away', '20': 'home', '23': 'home', '90': 'away'}",2019-2020,35
+14. july 2020,20:15,1:0,Chelsea FC,Norwich City,{'45': 'home'},2019-2020,36
+15. july 2020,18:00,1:1,Burnley FC,Wolverhampton Wanderers,"{'76': 'away', '90': 'home'}",2019-2020,36
+15. july 2020,18:00,2:1,Manchester City,AFC Bournemouth,"{'6': 'home', '39': 'home', '88': 'away'}",2019-2020,36
+15. july 2020,18:00,1:3,Newcastle United,Tottenham Hotspur,"{'27': 'away', '56': 'home', '60': 'away', '90': 'away'}",2019-2020,36
+15. july 2020,20:15,2:1,Arsenal FC,Liverpool FC,"{'20': 'away', '32': 'home', '44': 'home'}",2019-2020,36
+16. july 2020,18:00,1:1,Everton FC,Aston Villa,"{'72': 'away', '87': 'home'}",2019-2020,36
+16. july 2020,18:00,2:0,Leicester City,Sheffield United,"{'29': 'home', '79': 'home'}",2019-2020,36
+16. july 2020,20:15,0:2,Crystal Palace,Manchester United,"{'45': 'away', '78': 'away'}",2019-2020,36
+16. july 2020,20:15,1:1,Southampton FC,Brighton & Hove Albion,"{'17': 'away', '66': 'home'}",2019-2020,36
+17. july 2020,20:00,3:1,West Ham United,Watford FC,"{'6': 'home', '10': 'home', '36': 'home', '49': 'away'}",2019-2020,36
+18. july 2020,17:30,0:2,Norwich City,Burnley FC,"{'45': 'away', '80': 'away'}",2019-2020,37
+19. july 2020,14:00,0:2,AFC Bournemouth,Southampton FC,"{'41': 'away', '90': 'away'}",2019-2020,37
+19. july 2020,16:00,3:0,Tottenham Hotspur,Leicester City,"{'6': 'home', '37': 'home', '40': 'home'}",2019-2020,37
+20. july 2020,18:00,0:0,Brighton & Hove Albion,Newcastle United,,2019-2020,37
+20. july 2020,18:00,0:1,Sheffield United,Everton FC,{'46': 'away'},2019-2020,37
+20. july 2020,20:15,2:0,Wolverhampton Wanderers,Crystal Palace,"{'41': 'home', '68': 'home'}",2019-2020,37
+21. july 2020,18:00,0:4,Watford FC,Manchester City,"{'31': 'away', '40': 'away', '63': 'away', '66': 'away'}",2019-2020,37
+21. july 2020,20:15,1:0,Aston Villa,Arsenal FC,{'27': 'home'},2019-2020,37
+22. july 2020,18:00,1:1,Manchester United,West Ham United,"{'45': 'away', '51': 'home'}",2019-2020,37
+22. july 2020,20:15,5:3,Liverpool FC,Chelsea FC,"{'23': 'home', '38': 'home', '43': 'home', '45': 'away', '55': 'home', '61': 'away', '73': 'away', '84': 'home'}",2019-2020,37
+26. july 2020,16:00,3:2,Arsenal FC,Watford FC,"{'5': 'home', '24': 'home', '33': 'home', '43': 'away', '66': 'away'}",2019-2020,38
+26. july 2020,16:00,1:2,Burnley FC,Brighton & Hove Albion,"{'20': 'away', '44': 'home', '50': 'away'}",2019-2020,38
+26. july 2020,16:00,2:0,Chelsea FC,Wolverhampton Wanderers,{'45': 'home'},2019-2020,38
+26. july 2020,16:00,1:1,Crystal Palace,Tottenham Hotspur,"{'13': 'away', '53': 'home'}",2019-2020,38
+26. july 2020,16:00,1:3,Everton FC,AFC Bournemouth,"{'13': 'away', '41': 'home', '45': 'away', '80': 'away'}",2019-2020,38
+26. july 2020,16:00,0:2,Leicester City,Manchester United,"{'71': 'away', '90': 'away'}",2019-2020,38
+26. july 2020,16:00,5:0,Manchester City,Norwich City,"{'11': 'home', '45': 'home', '79': 'home', '83': 'home', '90': 'home'}",2019-2020,38
+26. july 2020,16:00,1:3,Newcastle United,Liverpool FC,"{'1': 'home', '38': 'away', '59': 'away', '89': 'away'}",2019-2020,38
+26. july 2020,16:00,3:1,Southampton FC,Sheffield United,"{'26': 'away', '50': 'home', '71': 'home', '84': 'home'}",2019-2020,38
+26. july 2020,16:00,1:1,West Ham United,Aston Villa,"{'84': 'away', '85': 'home'}",2019-2020,38

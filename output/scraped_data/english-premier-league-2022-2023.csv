@@ -1,0 +1,381 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+5. august 2022,20:00,0:2,Crystal Palace,Arsenal FC,"{'20': 'away', '85': 'away'}",2022-2023,1
+6. august 2022,12:30,2:2,Fulham FC,Liverpool FC,"{'32': 'home', '64': 'away', '72': 'home', '80': 'away'}",2022-2023,1
+6. august 2022,15:00,2:0,AFC Bournemouth,Aston Villa,"{'2': 'home', '80': 'home'}",2022-2023,1
+6. august 2022,15:00,2:1,Leeds United,Wolverhampton Wanderers,"{'6': 'away', '24': 'home', '74': 'home'}",2022-2023,1
+6. august 2022,15:00,2:0,Newcastle United,Nottingham Forest,"{'58': 'home', '78': 'home'}",2022-2023,1
+6. august 2022,15:00,4:1,Tottenham Hotspur,Southampton FC,"{'12': 'away', '21': 'home', '31': 'home', '61': 'home', '63': 'home'}",2022-2023,1
+6. august 2022,17:30,0:1,Everton FC,Chelsea FC,{'45': 'away'},2022-2023,1
+7. august 2022,14:00,2:2,Leicester City,Brentford FC,"{'33': 'home', '46': 'home', '62': 'away', '86': 'away'}",2022-2023,1
+7. august 2022,14:00,1:2,Manchester United,Brighton & Hove Albion,"{'30': 'away', '39': 'away', '68': 'home'}",2022-2023,1
+7. august 2022,16:30,0:2,West Ham United,Manchester City,"{'36': 'away', '65': 'away'}",2022-2023,1
+13. august 2022,12:30,2:1,Aston Villa,Everton FC,"{'31': 'home', '85': 'home', '87': 'away'}",2022-2023,2
+13. august 2022,15:00,0:0,Brighton & Hove Albion,Newcastle United,,2022-2023,2
+13. august 2022,15:00,4:2,Arsenal FC,Leicester City,"{'23': 'home', '35': 'home', '53': 'away', '55': 'home', '74': 'away', '75': 'home'}",2022-2023,2
+13. august 2022,15:00,2:2,Southampton FC,Leeds United,"{'46': 'away', '60': 'away', '72': 'home', '81': 'home'}",2022-2023,2
+13. august 2022,15:00,4:0,Manchester City,AFC Bournemouth,"{'19': 'home', '31': 'home', '37': 'home', '79': 'home'}",2022-2023,2
+13. august 2022,15:00,0:0,Wolverhampton Wanderers,Fulham FC,,2022-2023,2
+13. august 2022,17:30,4:0,Brentford FC,Manchester United,"{'10': 'home', '18': 'home', '30': 'home', '35': 'home'}",2022-2023,2
+14. august 2022,14:00,1:0,Nottingham Forest,West Ham United,{'45': 'home'},2022-2023,2
+14. august 2022,16:30,2:2,Chelsea FC,Tottenham Hotspur,"{'19': 'home', '68': 'away', '77': 'home', '90': 'away'}",2022-2023,2
+15. august 2022,20:00,1:1,Liverpool FC,Crystal Palace,"{'32': 'away', '61': 'home'}",2022-2023,2
+20. august 2022,12:30,1:0,Tottenham Hotspur,Wolverhampton Wanderers,{'64': 'home'},2022-2023,3
+20. august 2022,15:00,3:1,Crystal Palace,Aston Villa,"{'5': 'away', '7': 'home', '58': 'home', '71': 'home'}",2022-2023,3
+20. august 2022,15:00,1:1,Everton FC,Nottingham Forest,"{'81': 'away', '88': 'home'}",2022-2023,3
+20. august 2022,15:00,3:2,Fulham FC,Brentford FC,"{'1': 'home', '20': 'home', '44': 'away', '71': 'away', '90': 'home'}",2022-2023,3
+20. august 2022,15:00,1:2,Leicester City,Southampton FC,"{'54': 'home', '68': 'away', '84': 'away'}",2022-2023,3
+20. august 2022,17:30,0:3,AFC Bournemouth,Arsenal FC,"{'5': 'away', '11': 'away', '54': 'away'}",2022-2023,3
+21. august 2022,14:00,3:0,Leeds United,Chelsea FC,"{'33': 'home', '37': 'home', '69': 'home'}",2022-2023,3
+21. august 2022,14:00,0:2,West Ham United,Brighton & Hove Albion,"{'22': 'away', '66': 'away'}",2022-2023,3
+21. august 2022,16:30,3:3,Newcastle United,Manchester City,"{'5': 'away', '28': 'home', '39': 'home', '54': 'home', '60': 'away', '64': 'away'}",2022-2023,3
+22. august 2022,20:00,2:1,Manchester United,Liverpool FC,"{'16': 'home', '53': 'home', '81': 'away'}",2022-2023,3
+27. august 2022,12:30,0:1,Southampton FC,Manchester United,{'55': 'away'},2022-2023,4
+27. august 2022,15:00,1:0,Brighton & Hove Albion,Leeds United,{'66': 'home'},2022-2023,4
+27. august 2022,15:00,1:1,Brentford FC,Everton FC,"{'24': 'away', '84': 'home'}",2022-2023,4
+27. august 2022,15:00,2:1,Chelsea FC,Leicester City,"{'47': 'home', '63': 'home', '66': 'away'}",2022-2023,4
+27. august 2022,15:00,9:0,Liverpool FC,AFC Bournemouth,"{'3': 'home', '6': 'home', '28': 'home', '31': 'home', '45': 'home', '46': 'home', '62': 'home', '80': 'home', '85': 'home'}",2022-2023,4
+27. august 2022,15:00,4:2,Manchester City,Crystal Palace,"{'4': 'away', '21': 'away', '53': 'home', '62': 'home', '70': 'home', '81': 'home'}",2022-2023,4
+27. august 2022,17:30,2:1,Arsenal FC,Fulham FC,"{'56': 'away', '64': 'home', '85': 'home'}",2022-2023,4
+28. august 2022,14:00,0:1,Aston Villa,West Ham United,{'74': 'away'},2022-2023,4
+28. august 2022,14:00,1:1,Wolverhampton Wanderers,Newcastle United,"{'38': 'home', '90': 'away'}",2022-2023,4
+28. august 2022,16:30,0:2,Nottingham Forest,Tottenham Hotspur,"{'5': 'away', '81': 'away'}",2022-2023,4
+30. august 2022,19:30,2:1,Fulham FC,Brighton & Hove Albion,"{'48': 'home', '55': 'home', '60': 'away'}",2022-2023,5
+30. august 2022,19:30,1:1,Crystal Palace,Brentford FC,"{'59': 'home', '88': 'away'}",2022-2023,5
+30. august 2022,19:45,2:1,Southampton FC,Chelsea FC,"{'23': 'away', '28': 'home', '45': 'home'}",2022-2023,5
+30. august 2022,20:00,1:1,Leeds United,Everton FC,"{'17': 'away', '55': 'home'}",2022-2023,5
+31. august 2022,19:30,0:0,AFC Bournemouth,Wolverhampton Wanderers,,2022-2023,5
+31. august 2022,19:30,2:1,Arsenal FC,Aston Villa,"{'30': 'home', '74': 'away', '77': 'home'}",2022-2023,5
+31. august 2022,19:30,6:0,Manchester City,Nottingham Forest,"{'12': 'home', '23': 'home', '38': 'home', '50': 'home', '65': 'home', '87': 'home'}",2022-2023,5
+31. august 2022,19:45,1:1,West Ham United,Tottenham Hotspur,"{'34': 'away', '55': 'home'}",2022-2023,5
+31. august 2022,20:00,2:1,Liverpool FC,Newcastle United,"{'38': 'away', '61': 'home', '90': 'home'}",2022-2023,5
+1. september 2022,20:00,0:1,Leicester City,Manchester United,{'23': 'away'},2022-2023,5
+3. september 2022,12:30,0:0,Everton FC,Liverpool FC,,2022-2023,6
+3. september 2022,15:00,5:2,Brentford FC,Leeds United,"{'30': 'home', '43': 'home', '45': 'away', '58': 'home', '79': 'away', '80': 'home', '90': 'home'}",2022-2023,6
+3. september 2022,15:00,2:1,Chelsea FC,West Ham United,"{'62': 'away', '76': 'home', '88': 'home'}",2022-2023,6
+3. september 2022,15:00,0:0,Newcastle United,Crystal Palace,,2022-2023,6
+3. september 2022,15:00,2:3,Nottingham Forest,AFC Bournemouth,"{'33': 'home', '45': 'home', '51': 'away', '63': 'away', '87': 'away'}",2022-2023,6
+3. september 2022,15:00,2:1,Tottenham Hotspur,Fulham FC,"{'40': 'home', '75': 'home', '83': 'away'}",2022-2023,6
+3. september 2022,15:00,1:0,Wolverhampton Wanderers,Southampton FC,{'45': 'home'},2022-2023,6
+3. september 2022,17:30,1:1,Aston Villa,Manchester City,"{'50': 'away', '74': 'home'}",2022-2023,6
+4. september 2022,14:00,5:2,Brighton & Hove Albion,Leicester City,"{'1': 'away', '10': 'home', '15': 'home', '33': 'away', '64': 'home', '71': 'home', '90': 'home'}",2022-2023,6
+4. september 2022,16:30,3:1,Manchester United,Arsenal FC,"{'35': 'home', '60': 'away', '66': 'home', '75': 'home'}",2022-2023,6
+12. january 2023,20:00,2:1,Fulham FC,Chelsea FC,"{'25': 'home', '47': 'away', '73': 'home'}",2022-2023,7
+18. january 2023,20:00,1:1,Crystal Palace,Manchester United,"{'43': 'away', '90': 'home'}",2022-2023,7
+19. january 2023,20:00,4:2,Manchester City,Tottenham Hotspur,"{'44': 'away', '45': 'away', '51': 'home', '53': 'home', '63': 'home', '90': 'home'}",2022-2023,7
+1. march 2023,19:45,4:0,Arsenal FC,Everton FC,"{'40': 'home', '45': 'home', '71': 'home', '80': 'home'}",2022-2023,7
+1. march 2023,20:00,2:0,Liverpool FC,Wolverhampton Wanderers,"{'73': 'home', '77': 'home'}",2022-2023,7
+15. march 2023,19:30,0:2,Southampton FC,Brentford FC,"{'32': 'away', '90': 'away'}",2022-2023,7
+4. april 2023,19:45,0:2,AFC Bournemouth,Brighton & Hove Albion,"{'27': 'away', '90': 'away'}",2022-2023,7
+4. april 2023,19:45,2:1,Leeds United,Nottingham Forest,"{'12': 'away', '20': 'home', '45': 'home'}",2022-2023,7
+4. april 2023,19:45,1:2,Leicester City,Aston Villa,"{'24': 'away', '35': 'home', '87': 'away'}",2022-2023,7
+5. april 2023,20:00,1:5,West Ham United,Newcastle United,"{'6': 'away', '13': 'away', '40': 'home', '46': 'away', '82': 'away', '90': 'away'}",2022-2023,7
+16. september 2022,20:00,1:0,Aston Villa,Southampton FC,{'41': 'home'},2022-2023,8
+16. september 2022,20:00,2:3,Nottingham Forest,Fulham FC,"{'11': 'home', '54': 'away', '57': 'away', '60': 'away', '77': 'home'}",2022-2023,8
+17. september 2022,12:30,0:3,Wolverhampton Wanderers,Manchester City,"{'1': 'away', '16': 'away', '69': 'away'}",2022-2023,8
+17. september 2022,15:00,1:1,Newcastle United,AFC Bournemouth,"{'62': 'away', '67': 'home'}",2022-2023,8
+17. september 2022,17:30,6:2,Tottenham Hotspur,Leicester City,"{'6': 'away', '8': 'home', '21': 'home', '41': 'away', '47': 'home', '73': 'home', '84': 'home', '86': 'home'}",2022-2023,8
+18. september 2022,12:00,0:3,Brentford FC,Arsenal FC,"{'17': 'away', '28': 'away', '49': 'away'}",2022-2023,8
+18. september 2022,14:15,1:0,Everton FC,West Ham United,{'53': 'home'},2022-2023,8
+8. february 2023,20:00,2:2,Manchester United,Leeds United,"{'1': 'away', '48': 'away', '62': 'home', '70': 'home'}",2022-2023,8
+15. march 2023,19:30,1:0,Brighton & Hove Albion,Crystal Palace,{'15': 'home'},2022-2023,8
+4. april 2023,20:00,0:0,Chelsea FC,Liverpool FC,,2022-2023,8
+1. october 2022,12:30,3:1,Arsenal FC,Tottenham Hotspur,"{'20': 'home', '31': 'away', '49': 'home', '67': 'home'}",2022-2023,9
+1. october 2022,15:00,0:0,AFC Bournemouth,Brentford FC,,2022-2023,9
+1. october 2022,15:00,1:2,Crystal Palace,Chelsea FC,"{'7': 'home', '38': 'away', '90': 'away'}",2022-2023,9
+1. october 2022,15:00,1:4,Fulham FC,Newcastle United,"{'11': 'away', '33': 'away', '43': 'away', '57': 'away', '88': 'home'}",2022-2023,9
+1. october 2022,15:00,3:3,Liverpool FC,Brighton & Hove Albion,"{'4': 'away', '17': 'away', '35': 'home', '54': 'home', '63': 'home', '83': 'away'}",2022-2023,9
+1. october 2022,15:00,1:2,Southampton FC,Everton FC,"{'49': 'home', '52': 'away', '54': 'away'}",2022-2023,9
+1. october 2022,17:30,2:0,West Ham United,Wolverhampton Wanderers,"{'29': 'home', '54': 'home'}",2022-2023,9
+2. october 2022,14:00,6:3,Manchester City,Manchester United,"{'8': 'home', '34': 'home', '37': 'home', '44': 'home', '56': 'away', '64': 'home', '72': 'home', '84': 'away', '90': 'away'}",2022-2023,9
+2. october 2022,16:30,0:0,Leeds United,Aston Villa,,2022-2023,9
+3. october 2022,20:00,4:0,Leicester City,Nottingham Forest,"{'25': 'home', '27': 'home', '35': 'home', '73': 'home'}",2022-2023,9
+8. october 2022,15:00,2:1,AFC Bournemouth,Leicester City,"{'10': 'away', '67': 'home', '71': 'home'}",2022-2023,10
+8. october 2022,15:00,3:0,Chelsea FC,Wolverhampton Wanderers,"{'45': 'home', '54': 'home', '89': 'home'}",2022-2023,10
+8. october 2022,15:00,4:0,Manchester City,Southampton FC,"{'20': 'home', '32': 'home', '49': 'home', '65': 'home'}",2022-2023,10
+8. october 2022,15:00,5:1,Newcastle United,Brentford FC,"{'21': 'home', '28': 'home', '54': 'away', '56': 'home', '82': 'home', '90': 'home'}",2022-2023,10
+8. october 2022,17:30,0:1,Brighton & Hove Albion,Tottenham Hotspur,{None: 'away'},2022-2023,10
+9. october 2022,14:00,2:1,Crystal Palace,Leeds United,"{'10': 'away', '24': 'home', '76': 'home'}",2022-2023,10
+9. october 2022,14:00,3:1,West Ham United,Fulham FC,"{'5': 'away', '29': 'home', '62': 'home', '90': 'home'}",2022-2023,10
+9. october 2022,16:30,3:2,Arsenal FC,Liverpool FC,"{'1': 'home', '34': 'away', '45': 'home', '53': 'away', '76': 'home'}",2022-2023,10
+9. october 2022,19:00,1:2,Everton FC,Manchester United,"{'5': 'home', '15': 'away', '44': 'away'}",2022-2023,10
+10. october 2022,20:00,1:1,Nottingham Forest,Aston Villa,"{'15': 'home', '22': 'away'}",2022-2023,10
+14. october 2022,20:00,2:0,Brentford FC,Brighton & Hove Albion,"{'27': 'home', '64': 'home'}",2022-2023,11
+15. october 2022,12:30,0:0,Leicester City,Crystal Palace,,2022-2023,11
+15. october 2022,15:00,2:2,Fulham FC,AFC Bournemouth,"{'2': 'away', None: 'home', '29': 'away', '52': 'home'}",2022-2023,11
+15. october 2022,15:00,1:0,Wolverhampton Wanderers,Nottingham Forest,{'56': 'home'},2022-2023,11
+15. october 2022,17:30,2:0,Tottenham Hotspur,Everton FC,"{'59': 'home', '86': 'home'}",2022-2023,11
+16. october 2022,14:00,0:2,Aston Villa,Chelsea FC,"{'6': 'away', '65': 'away'}",2022-2023,11
+16. october 2022,14:00,1:1,Southampton FC,West Ham United,"{'20': 'home', '64': 'away'}",2022-2023,11
+16. october 2022,14:00,0:1,Leeds United,Arsenal FC,{'35': 'away'},2022-2023,11
+16. october 2022,14:00,0:0,Manchester United,Newcastle United,,2022-2023,11
+16. october 2022,16:30,1:0,Liverpool FC,Manchester City,{'76': 'home'},2022-2023,11
+18. october 2022,19:30,0:0,Brighton & Hove Albion,Nottingham Forest,,2022-2023,12
+18. october 2022,20:15,2:1,Crystal Palace,Wolverhampton Wanderers,"{'31': 'away', '47': 'home', '70': 'home'}",2022-2023,12
+19. october 2022,19:30,0:1,AFC Bournemouth,Southampton FC,{'9': 'away'},2022-2023,12
+19. october 2022,19:30,0:0,Brentford FC,Chelsea FC,,2022-2023,12
+19. october 2022,19:30,1:0,Newcastle United,Everton FC,{'31': 'home'},2022-2023,12
+19. october 2022,19:30,1:0,Liverpool FC,West Ham United,{'22': 'home'},2022-2023,12
+19. october 2022,20:15,2:0,Manchester United,Tottenham Hotspur,"{'47': 'home', '69': 'home'}",2022-2023,12
+20. october 2022,19:30,3:0,Fulham FC,Aston Villa,"{'36': 'home', '68': 'home', '84': 'home'}",2022-2023,12
+20. october 2022,20:15,2:0,Leicester City,Leeds United,"{'16': 'home', '35': 'home'}",2022-2023,12
+15. february 2023,19:30,1:3,Arsenal FC,Manchester City,"{'24': 'away', '42': 'home', '72': 'away', '82': 'away'}",2022-2023,12
+22. october 2022,12:30,1:0,Nottingham Forest,Liverpool FC,{'55': 'home'},2022-2023,13
+22. october 2022,15:00,3:0,Everton FC,Crystal Palace,"{'11': 'home', '63': 'home', '84': 'home'}",2022-2023,13
+22. october 2022,15:00,3:1,Manchester City,Brighton & Hove Albion,"{'22': 'home', '43': 'home', '53': 'away', '75': 'home'}",2022-2023,13
+22. october 2022,17:30,1:1,Chelsea FC,Manchester United,"{'87': 'home', '90': 'away'}",2022-2023,13
+23. october 2022,14:00,4:0,Aston Villa,Brentford FC,"{'2': 'home', '7': 'home', '14': 'home', '59': 'home'}",2022-2023,13
+23. october 2022,14:00,1:1,Southampton FC,Arsenal FC,"{'11': 'away', '65': 'home'}",2022-2023,13
+23. october 2022,14:00,2:3,Leeds United,Fulham FC,"{'20': 'home', '26': 'away', '74': 'away', '84': 'away', '90': 'home'}",2022-2023,13
+23. october 2022,14:00,0:4,Wolverhampton Wanderers,Leicester City,"{'8': 'away', '19': 'away', '65': 'away', '79': 'away'}",2022-2023,13
+23. october 2022,16:30,1:2,Tottenham Hotspur,Newcastle United,"{'31': 'away', '40': 'away', '54': 'home'}",2022-2023,13
+24. october 2022,20:00,2:0,West Ham United,AFC Bournemouth,"{'45': 'home', '90': 'home'}",2022-2023,13
+29. october 2022,12:30,0:1,Leicester City,Manchester City,{'49': 'away'},2022-2023,14
+29. october 2022,15:00,2:3,AFC Bournemouth,Tottenham Hotspur,"{'22': 'home', '49': 'home', '57': 'away', '73': 'away', '90': 'away'}",2022-2023,14
+29. october 2022,15:00,4:1,Brighton & Hove Albion,Chelsea FC,"{'5': 'home', '14': 'home', '42': 'home', '48': 'away', '90': 'home'}",2022-2023,14
+29. october 2022,15:00,1:0,Crystal Palace,Southampton FC,{'38': 'home'},2022-2023,14
+29. october 2022,15:00,1:1,Brentford FC,Wolverhampton Wanderers,"{'50': 'home', '52': 'away'}",2022-2023,14
+29. october 2022,15:00,4:0,Newcastle United,Aston Villa,"{'45': 'home', '56': 'home', '59': 'home', '67': 'home'}",2022-2023,14
+29. october 2022,17:30,0:0,Fulham FC,Everton FC,,2022-2023,14
+29. october 2022,19:45,1:2,Liverpool FC,Leeds United,"{'4': 'away', '14': 'home', '89': 'away'}",2022-2023,14
+30. october 2022,14:00,5:0,Arsenal FC,Nottingham Forest,"{'5': 'home', '49': 'home', '52': 'home', '57': 'home', '78': 'home'}",2022-2023,14
+30. october 2022,16:15,1:0,Manchester United,West Ham United,{'38': 'home'},2022-2023,14
+5. november 2022,15:00,4:3,Leeds United,AFC Bournemouth,"{'3': 'home', '7': 'away', '19': 'away', '48': 'away', '60': 'home', '68': 'home', '84': 'home'}",2022-2023,15
+5. november 2022,15:00,2:1,Manchester City,Fulham FC,"{'17': 'home', '28': 'away', '90': 'home'}",2022-2023,15
+5. november 2022,15:00,2:2,Nottingham Forest,Brentford FC,"{'20': 'home', '45': 'away', '75': 'away', '90': 'home'}",2022-2023,15
+5. november 2022,15:00,2:3,Wolverhampton Wanderers,Brighton & Hove Albion,"{'10': 'away', '12': 'home', '35': 'home', '44': 'away', '83': 'away'}",2022-2023,15
+5. november 2022,17:30,0:2,Everton FC,Leicester City,"{'45': 'away', '86': 'away'}",2022-2023,15
+6. november 2022,12:00,0:1,Chelsea FC,Arsenal FC,{'63': 'away'},2022-2023,15
+6. november 2022,14:00,3:1,Aston Villa,Manchester United,"{'7': 'home', '11': 'home', '45': 'away', '49': 'home'}",2022-2023,15
+6. november 2022,14:00,1:4,Southampton FC,Newcastle United,"{'35': 'away', '58': 'away', '62': 'away', '89': 'home', '90': 'away'}",2022-2023,15
+6. november 2022,14:00,1:2,West Ham United,Crystal Palace,"{'20': 'home', '41': 'away', '90': 'away'}",2022-2023,15
+6. november 2022,16:30,1:2,Tottenham Hotspur,Liverpool FC,"{'11': 'away', '40': 'away', '70': 'home'}",2022-2023,15
+12. november 2022,12:30,1:2,Manchester City,Brentford FC,"{'16': 'away', '45': 'home', '90': 'away'}",2022-2023,16
+12. november 2022,15:00,3:0,AFC Bournemouth,Everton FC,"{'18': 'home', '25': 'home', '69': 'home'}",2022-2023,16
+12. november 2022,15:00,3:1,Liverpool FC,Southampton FC,"{'6': 'home', '9': 'away', '21': 'home', '42': 'home'}",2022-2023,16
+12. november 2022,15:00,1:0,Nottingham Forest,Crystal Palace,{'54': 'home'},2022-2023,16
+12. november 2022,15:00,4:3,Tottenham Hotspur,Leeds United,"{'10': 'away', '25': 'home', '43': 'away', '51': 'home', '76': 'away', '81': 'home', '83': 'home'}",2022-2023,16
+12. november 2022,15:00,0:2,West Ham United,Leicester City,"{'8': 'away', '78': 'away'}",2022-2023,16
+12. november 2022,17:30,1:0,Newcastle United,Chelsea FC,{'67': 'home'},2022-2023,16
+12. november 2022,19:45,0:2,Wolverhampton Wanderers,Arsenal FC,"{'54': 'away', '75': 'away'}",2022-2023,16
+13. november 2022,14:00,1:2,Brighton & Hove Albion,Aston Villa,"{'1': 'home', '20': 'away', '54': 'away'}",2022-2023,16
+13. november 2022,16:30,1:2,Fulham FC,Manchester United,"{'14': 'away', '61': 'home', '90': 'away'}",2022-2023,16
+26. december 2022,12:30,2:2,Brentford FC,Tottenham Hotspur,"{'15': 'home', '54': 'home', '65': 'away', '71': 'away'}",2022-2023,17
+26. december 2022,15:00,0:3,Crystal Palace,Fulham FC,"{'31': 'away', '71': 'away', '80': 'away'}",2022-2023,17
+26. december 2022,15:00,1:2,Everton FC,Wolverhampton Wanderers,"{'7': 'home', '22': 'away', '90': 'away'}",2022-2023,17
+26. december 2022,15:00,1:3,Southampton FC,Brighton & Hove Albion,"{'14': 'away', '35': 'away', '56': 'away', '73': 'home'}",2022-2023,17
+26. december 2022,15:00,0:3,Leicester City,Newcastle United,"{'3': 'away', '7': 'away', '32': 'away'}",2022-2023,17
+26. december 2022,17:30,1:3,Aston Villa,Liverpool FC,"{'5': 'away', '37': 'away', '59': 'home', '81': 'away'}",2022-2023,17
+26. december 2022,20:00,3:1,Arsenal FC,West Ham United,"{'27': 'away', '53': 'home', '58': 'home', '69': 'home'}",2022-2023,17
+27. december 2022,17:30,2:0,Chelsea FC,AFC Bournemouth,"{'16': 'home', '24': 'home'}",2022-2023,17
+27. december 2022,20:00,3:0,Manchester United,Nottingham Forest,"{'19': 'home', '23': 'home', '87': 'home'}",2022-2023,17
+28. december 2022,20:00,1:3,Leeds United,Manchester City,"{'45': 'away', '51': 'away', '64': 'away', '73': 'home'}",2022-2023,17
+30. december 2022,19:45,0:2,West Ham United,Brentford FC,"{'18': 'away', '43': 'away'}",2022-2023,18
+30. december 2022,20:00,2:1,Liverpool FC,Leicester City,"{'4': 'away', '38': 'home', '45': 'home'}",2022-2023,18
+31. december 2022,12:30,0:1,Wolverhampton Wanderers,Manchester United,{'76': 'away'},2022-2023,18
+31. december 2022,15:00,0:2,AFC Bournemouth,Crystal Palace,"{'19': 'away', '36': 'away'}",2022-2023,18
+31. december 2022,15:00,2:1,Fulham FC,Southampton FC,"{'32': 'home', '56': 'away', '88': 'home'}",2022-2023,18
+31. december 2022,15:00,1:1,Manchester City,Everton FC,"{'24': 'home', '64': 'away'}",2022-2023,18
+31. december 2022,15:00,0:0,Newcastle United,Leeds United,,2022-2023,18
+31. december 2022,17:30,2:4,Brighton & Hove Albion,Arsenal FC,"{'2': 'away', '39': 'away', '47': 'away', '65': 'home', '71': 'away', '77': 'home'}",2022-2023,18
+1. january 2023,14:00,0:2,Tottenham Hotspur,Aston Villa,"{'50': 'away', '73': 'away'}",2022-2023,18
+1. january 2023,16:30,1:1,Nottingham Forest,Chelsea FC,"{'16': 'away', '63': 'home'}",2022-2023,18
+2. january 2023,17:30,3:1,Brentford FC,Liverpool FC,"{'19': 'home', '42': 'home', '50': 'away', '84': 'home'}",2022-2023,19
+3. january 2023,19:45,0:0,Arsenal FC,Newcastle United,,2022-2023,19
+3. january 2023,19:45,1:4,Everton FC,Brighton & Hove Albion,"{'14': 'away', '51': 'away', '54': 'away', '57': 'away', '90': 'home'}",2022-2023,19
+3. january 2023,19:45,0:1,Leicester City,Fulham FC,{'17': 'away'},2022-2023,19
+3. january 2023,20:00,3:0,Manchester United,AFC Bournemouth,"{'23': 'home', '49': 'home', '86': 'home'}",2022-2023,19
+4. january 2023,19:30,0:1,Southampton FC,Nottingham Forest,{'27': 'away'},2022-2023,19
+4. january 2023,19:45,2:2,Leeds United,West Ham United,"{'27': 'home', '45': 'away', '46': 'away', '70': 'home'}",2022-2023,19
+4. january 2023,20:00,1:1,Aston Villa,Wolverhampton Wanderers,"{'12': 'away', '78': 'home'}",2022-2023,19
+4. january 2023,20:00,0:4,Crystal Palace,Tottenham Hotspur,"{'48': 'away', '53': 'away', '68': 'away', '72': 'away'}",2022-2023,19
+5. january 2023,20:00,0:1,Chelsea FC,Manchester City,{'63': 'away'},2022-2023,19
+13. january 2023,20:00,2:1,Aston Villa,Leeds United,"{'3': 'home', '64': 'home', '83': 'away'}",2022-2023,20
+14. january 2023,12:30,2:1,Manchester United,Manchester City,"{'60': 'away', '78': 'home', '82': 'home'}",2022-2023,20
+14. january 2023,15:00,3:0,Brighton & Hove Albion,Liverpool FC,"{'46': 'home', '53': 'home', '81': 'home'}",2022-2023,20
+14. january 2023,15:00,1:2,Everton FC,Southampton FC,"{'39': 'home', '46': 'away', '78': 'away'}",2022-2023,20
+14. january 2023,15:00,2:0,Nottingham Forest,Leicester City,"{'56': 'home', '84': 'home'}",2022-2023,20
+14. january 2023,15:00,1:0,Wolverhampton Wanderers,West Ham United,{'48': 'home'},2022-2023,20
+14. january 2023,17:30,2:0,Brentford FC,AFC Bournemouth,"{'39': 'home', '75': 'home'}",2022-2023,20
+15. january 2023,14:00,1:0,Chelsea FC,Crystal Palace,{'64': 'home'},2022-2023,20
+15. january 2023,14:00,1:0,Newcastle United,Fulham FC,{'89': 'home'},2022-2023,20
+15. january 2023,16:30,0:2,Tottenham Hotspur,Arsenal FC,"{'14': 'away', '36': 'away'}",2022-2023,20
+21. january 2023,12:30,0:0,Liverpool FC,Chelsea FC,,2022-2023,21
+21. january 2023,15:00,1:1,AFC Bournemouth,Nottingham Forest,"{'28': 'home', '83': 'away'}",2022-2023,21
+21. january 2023,15:00,0:1,Southampton FC,Aston Villa,{'77': 'away'},2022-2023,21
+21. january 2023,15:00,2:2,Leicester City,Brighton & Hove Albion,"{'27': 'away', '38': 'home', '63': 'home', '88': 'away'}",2022-2023,21
+21. january 2023,15:00,2:0,West Ham United,Everton FC,"{'34': 'home', '41': 'home'}",2022-2023,21
+21. january 2023,17:30,0:0,Crystal Palace,Newcastle United,,2022-2023,21
+22. january 2023,14:00,0:0,Leeds United,Brentford FC,,2022-2023,21
+22. january 2023,14:00,3:0,Manchester City,Wolverhampton Wanderers,"{'40': 'home', '50': 'home', '54': 'home'}",2022-2023,21
+22. january 2023,16:30,3:2,Arsenal FC,Manchester United,"{'17': 'away', '24': 'home', '53': 'home', '59': 'away', '90': 'home'}",2022-2023,21
+23. january 2023,20:00,0:1,Fulham FC,Tottenham Hotspur,{'45': 'away'},2022-2023,21
+3. february 2023,20:00,0:0,Chelsea FC,Fulham FC,,2022-2023,22
+4. february 2023,12:30,1:0,Everton FC,Arsenal FC,{'60': 'home'},2022-2023,22
+4. february 2023,15:00,2:4,Aston Villa,Leicester City,"{'9': 'home', '12': 'away', '32': 'home', '41': 'away', '45': 'away', '79': 'away'}",2022-2023,22
+4. february 2023,15:00,1:0,Brighton & Hove Albion,AFC Bournemouth,{'87': 'home'},2022-2023,22
+4. february 2023,15:00,3:0,Brentford FC,Southampton FC,"{'41': 'home', '44': 'home', '80': 'home'}",2022-2023,22
+4. february 2023,15:00,2:1,Manchester United,Crystal Palace,"{'7': 'home', '62': 'home', '76': 'away'}",2022-2023,22
+4. february 2023,15:00,3:0,Wolverhampton Wanderers,Liverpool FC,"{'5': 'home', '12': 'home', '71': 'home'}",2022-2023,22
+4. february 2023,17:30,1:1,Newcastle United,West Ham United,"{'3': 'home', '32': 'away'}",2022-2023,22
+5. february 2023,14:00,1:0,Nottingham Forest,Leeds United,{'14': 'home'},2022-2023,22
+5. february 2023,16:30,1:0,Tottenham Hotspur,Manchester City,{'15': 'home'},2022-2023,22
+11. february 2023,12:30,1:1,West Ham United,Chelsea FC,"{'16': 'away', '28': 'home'}",2022-2023,23
+11. february 2023,15:00,1:1,Crystal Palace,Brighton & Hove Albion,"{'63': 'away', '69': 'home'}",2022-2023,23
+11. february 2023,15:00,1:1,Arsenal FC,Brentford FC,"{'66': 'home', '74': 'away'}",2022-2023,23
+11. february 2023,15:00,2:0,Fulham FC,Nottingham Forest,"{'17': 'home', '88': 'home'}",2022-2023,23
+11. february 2023,15:00,1:2,Southampton FC,Wolverhampton Wanderers,"{'24': 'home', '72': 'away', '87': 'away'}",2022-2023,23
+11. february 2023,15:00,4:1,Leicester City,Tottenham Hotspur,"{'14': 'away', '23': 'home', '25': 'home', '45': 'home', '81': 'home'}",2022-2023,23
+11. february 2023,17:30,1:1,AFC Bournemouth,Newcastle United,"{'30': 'home', '45': 'away'}",2022-2023,23
+12. february 2023,14:00,0:2,Leeds United,Manchester United,"{'80': 'away', '85': 'away'}",2022-2023,23
+12. february 2023,16:30,3:1,Manchester City,Aston Villa,"{'4': 'home', '39': 'home', '45': 'home', '61': 'away'}",2022-2023,23
+13. february 2023,20:00,2:0,Liverpool FC,Everton FC,"{'36': 'home', '49': 'home'}",2022-2023,23
+18. february 2023,12:30,2:4,Aston Villa,Arsenal FC,"{'5': 'home', '16': 'away', '31': 'home', '61': 'away', '90': 'away'}",2022-2023,24
+18. february 2023,15:00,0:1,Brighton & Hove Albion,Fulham FC,{'88': 'away'},2022-2023,24
+18. february 2023,15:00,1:1,Brentford FC,Crystal Palace,"{'69': 'away', '90': 'home'}",2022-2023,24
+18. february 2023,15:00,0:1,Chelsea FC,Southampton FC,{'45': 'away'},2022-2023,24
+18. february 2023,15:00,1:0,Everton FC,Leeds United,{'64': 'home'},2022-2023,24
+18. february 2023,15:00,1:1,Nottingham Forest,Manchester City,"{'41': 'away', '84': 'home'}",2022-2023,24
+18. february 2023,15:00,0:1,Wolverhampton Wanderers,AFC Bournemouth,{'49': 'away'},2022-2023,24
+18. february 2023,17:30,0:2,Newcastle United,Liverpool FC,"{'10': 'away', '17': 'away'}",2022-2023,24
+19. february 2023,14:00,3:0,Manchester United,Leicester City,"{'25': 'home', '56': 'home', '61': 'home'}",2022-2023,24
+19. february 2023,16:30,2:0,Tottenham Hotspur,West Ham United,"{'56': 'home', '72': 'home'}",2022-2023,24
+24. february 2023,20:00,1:1,Fulham FC,Wolverhampton Wanderers,"{'23': 'away', '64': 'home'}",2022-2023,25
+25. february 2023,15:00,0:2,Everton FC,Aston Villa,"{'63': 'away', '81': 'away'}",2022-2023,25
+25. february 2023,15:00,1:0,Leeds United,Southampton FC,{'77': 'home'},2022-2023,25
+25. february 2023,15:00,0:1,Leicester City,Arsenal FC,{'46': 'away'},2022-2023,25
+25. february 2023,15:00,4:0,West Ham United,Nottingham Forest,"{'70': 'home', '73': 'home', '78': 'home', '85': 'home'}",2022-2023,25
+25. february 2023,17:30,1:4,AFC Bournemouth,Manchester City,"{'15': 'away', '29': 'away', '45': 'away', '51': 'away', '83': 'home'}",2022-2023,25
+25. february 2023,19:45,0:0,Crystal Palace,Liverpool FC,,2022-2023,25
+26. february 2023,13:30,2:0,Tottenham Hotspur,Chelsea FC,"{'46': 'home', '82': 'home'}",2022-2023,25
+5. april 2023,20:00,1:0,Manchester United,Brentford FC,{'27': 'home'},2022-2023,25
+18. may 2023,19:30,4:1,Newcastle United,Brighton & Hove Albion,"{'22': 'home', '45': 'home', '51': 'away', '89': 'home', '90': 'home'}",2022-2023,25
+4. march 2023,12:30,2:0,Manchester City,Newcastle United,"{'15': 'home', '67': 'home'}",2022-2023,26
+4. march 2023,15:00,1:0,Aston Villa,Crystal Palace,{'27': 'home'},2022-2023,26
+4. march 2023,15:00,4:0,Brighton & Hove Albion,West Ham United,"{'18': 'home', None: 'home', '69': 'home', '89': 'home'}",2022-2023,26
+4. march 2023,15:00,3:2,Arsenal FC,AFC Bournemouth,"{'1': 'away', '57': 'away', '62': 'home', '70': 'home', '90': 'home'}",2022-2023,26
+4. march 2023,15:00,1:0,Chelsea FC,Leeds United,{'53': 'home'},2022-2023,26
+4. march 2023,15:00,1:0,Wolverhampton Wanderers,Tottenham Hotspur,{'82': 'home'},2022-2023,26
+4. march 2023,17:30,1:0,Southampton FC,Leicester City,{'35': 'home'},2022-2023,26
+5. march 2023,14:00,2:2,Nottingham Forest,Everton FC,"{'10': 'away', '19': 'home', '29': 'away', '77': 'home'}",2022-2023,26
+5. march 2023,16:30,7:0,Liverpool FC,Manchester United,"{'43': 'home', '47': 'home', '50': 'home', '66': 'home', '75': 'home', '83': 'home', '88': 'home'}",2022-2023,26
+6. march 2023,20:00,3:2,Brentford FC,Fulham FC,"{'6': 'home', '39': 'away', '53': 'home', '85': 'home', '90': 'away'}",2022-2023,26
+11. march 2023,12:30,1:0,AFC Bournemouth,Liverpool FC,{'28': 'home'},2022-2023,27
+11. march 2023,15:00,1:0,Everton FC,Brentford FC,{'1': 'home'},2022-2023,27
+11. march 2023,15:00,2:2,Leeds United,Brighton & Hove Albion,"{'33': 'away', '40': 'home', '61': 'away', '78': 'home'}",2022-2023,27
+11. march 2023,15:00,1:3,Leicester City,Chelsea FC,"{'11': 'away', '39': 'home', '45': 'away', '78': 'away'}",2022-2023,27
+11. march 2023,15:00,3:1,Tottenham Hotspur,Nottingham Forest,"{'19': 'home', '35': 'home', '62': 'home', '81': 'away'}",2022-2023,27
+11. march 2023,17:30,0:1,Crystal Palace,Manchester City,{'78': 'away'},2022-2023,27
+12. march 2023,14:00,0:3,Fulham FC,Arsenal FC,"{'21': 'away', '26': 'away', '45': 'away'}",2022-2023,27
+12. march 2023,14:00,0:0,Manchester United,Southampton FC,,2022-2023,27
+12. march 2023,14:00,1:1,West Ham United,Aston Villa,"{'17': 'away', '26': 'home'}",2022-2023,27
+12. march 2023,16:30,2:1,Newcastle United,Wolverhampton Wanderers,"{'26': 'home', '70': 'away', '79': 'home'}",2022-2023,27
+17. march 2023,20:00,1:2,Nottingham Forest,Newcastle United,"{'26': 'home', '45': 'away', '90': 'away'}",2022-2023,28
+18. march 2023,15:00,3:0,Aston Villa,AFC Bournemouth,"{'7': 'home', '80': 'home', '89': 'home'}",2022-2023,28
+18. march 2023,15:00,1:1,Brentford FC,Leicester City,"{'32': 'home', '52': 'away'}",2022-2023,28
+18. march 2023,15:00,3:3,Southampton FC,Tottenham Hotspur,"{'45': 'away', '46': 'home', '65': 'away', '74': 'away', '77': 'home', '90': 'home'}",2022-2023,28
+18. march 2023,15:00,2:4,Wolverhampton Wanderers,Leeds United,"{'6': 'away', '49': 'away', '62': 'away', '65': 'home', '73': 'home', '90': 'away'}",2022-2023,28
+18. march 2023,17:30,2:2,Chelsea FC,Everton FC,"{'52': 'home', '69': 'away', '76': 'home', '89': 'away'}",2022-2023,28
+19. march 2023,14:00,4:1,Arsenal FC,Crystal Palace,"{'28': 'home', '43': 'home', '55': 'home', '63': 'away', '74': 'home'}",2022-2023,28
+3. may 2023,20:00,1:0,Liverpool FC,Fulham FC,{'39': 'home'},2022-2023,28
+3. may 2023,20:00,3:0,Manchester City,West Ham United,"{'50': 'home', '70': 'home', '85': 'home'}",2022-2023,28
+4. may 2023,20:00,1:0,Brighton & Hove Albion,Manchester United,{'90': 'home'},2022-2023,28
+1. april 2023,12:30,4:1,Manchester City,Liverpool FC,"{'17': 'away', '27': 'home', '46': 'home', '53': 'home', '74': 'home'}",2022-2023,29
+1. april 2023,15:00,2:1,AFC Bournemouth,Fulham FC,"{'16': 'away', '50': 'home', '79': 'home'}",2022-2023,29
+1. april 2023,15:00,3:3,Brighton & Hove Albion,Brentford FC,"{'10': 'away', '21': 'home', '22': 'away', '28': 'home', '49': 'away', '90': 'home'}",2022-2023,29
+1. april 2023,15:00,2:1,Crystal Palace,Leicester City,"{'56': 'away', '59': 'home', '90': 'home'}",2022-2023,29
+1. april 2023,15:00,4:1,Arsenal FC,Leeds United,"{'35': 'home', '47': 'home', '55': 'home', '76': 'away', '84': 'home'}",2022-2023,29
+1. april 2023,15:00,1:1,Nottingham Forest,Wolverhampton Wanderers,"{'38': 'home', '83': 'away'}",2022-2023,29
+1. april 2023,17:30,0:2,Chelsea FC,Aston Villa,"{'18': 'away', '56': 'away'}",2022-2023,29
+2. april 2023,14:00,1:0,West Ham United,Southampton FC,{'25': 'home'},2022-2023,29
+2. april 2023,16:30,2:0,Newcastle United,Manchester United,"{'65': 'home', '88': 'home'}",2022-2023,29
+3. april 2023,20:00,1:1,Everton FC,Tottenham Hotspur,"{'68': 'away', '90': 'home'}",2022-2023,29
+8. april 2023,12:30,2:0,Manchester United,Everton FC,"{'36': 'home', '71': 'home'}",2022-2023,30
+8. april 2023,15:00,2:0,Aston Villa,Nottingham Forest,"{'48': 'home', '90': 'home'}",2022-2023,30
+8. april 2023,15:00,1:2,Brentford FC,Newcastle United,"{'45': 'home', '54': 'away', '61': 'away'}",2022-2023,30
+8. april 2023,15:00,0:1,Fulham FC,West Ham United,{'23': 'away'},2022-2023,30
+8. april 2023,15:00,0:1,Leicester City,AFC Bournemouth,{'40': 'away'},2022-2023,30
+8. april 2023,15:00,2:1,Tottenham Hotspur,Brighton & Hove Albion,"{'10': 'home', '34': 'away', '79': 'home'}",2022-2023,30
+8. april 2023,15:00,1:0,Wolverhampton Wanderers,Chelsea FC,{'31': 'home'},2022-2023,30
+8. april 2023,17:30,1:4,Southampton FC,Manchester City,"{'45': 'away', '58': 'away', '68': 'away', '72': 'home', '75': 'away'}",2022-2023,30
+9. april 2023,14:00,1:5,Leeds United,Crystal Palace,"{'21': 'home', '45': 'away', '53': 'away', '55': 'away', '69': 'away', '77': 'away'}",2022-2023,30
+9. april 2023,16:30,2:2,Liverpool FC,Arsenal FC,"{'8': 'away', '28': 'away', '42': 'home', '87': 'home'}",2022-2023,30
+15. april 2023,12:30,3:0,Aston Villa,Newcastle United,"{'11': 'home', '64': 'home', '83': 'home'}",2022-2023,31
+15. april 2023,15:00,1:2,Chelsea FC,Brighton & Hove Albion,"{'13': 'home', '42': 'away', '69': 'away'}",2022-2023,31
+15. april 2023,15:00,1:3,Everton FC,Fulham FC,"{'22': 'away', '35': 'home', '51': 'away', '68': 'away'}",2022-2023,31
+15. april 2023,15:00,0:2,Southampton FC,Crystal Palace,"{'54': 'away', '68': 'away'}",2022-2023,31
+15. april 2023,15:00,2:0,Wolverhampton Wanderers,Brentford FC,"{'27': 'home', '69': 'home'}",2022-2023,31
+15. april 2023,15:15,2:3,Tottenham Hotspur,AFC Bournemouth,"{'14': 'home', '38': 'away', '51': 'away', '88': 'home', '90': 'away'}",2022-2023,31
+15. april 2023,17:30,3:1,Manchester City,Leicester City,"{'5': 'home', '13': 'home', '25': 'home', '75': 'away'}",2022-2023,31
+16. april 2023,14:00,2:2,West Ham United,Arsenal FC,"{'7': 'away', '10': 'away', '33': 'home', '54': 'home'}",2022-2023,31
+16. april 2023,16:30,0:2,Nottingham Forest,Manchester United,"{'32': 'away', '76': 'away'}",2022-2023,31
+17. april 2023,20:00,1:6,Leeds United,Liverpool FC,"{'35': 'away', '39': 'away', '47': 'home', '52': 'away', '64': 'away', '73': 'away', '90': 'away'}",2022-2023,31
+21. april 2023,20:00,3:3,Arsenal FC,Southampton FC,"{'1': 'away', '14': 'away', '20': 'home', '66': 'away', '88': 'home', '90': 'home'}",2022-2023,32
+22. april 2023,12:30,2:1,Fulham FC,Leeds United,"{'58': 'home', '72': 'home', '79': 'away'}",2022-2023,32
+22. april 2023,15:00,0:0,Crystal Palace,Everton FC,,2022-2023,32
+22. april 2023,15:00,1:1,Brentford FC,Aston Villa,"{'65': 'home', '87': 'away'}",2022-2023,32
+22. april 2023,15:00,3:2,Liverpool FC,Nottingham Forest,"{'47': 'home', '51': 'away', '55': 'home', '67': 'away', '70': 'home'}",2022-2023,32
+22. april 2023,15:00,2:1,Leicester City,Wolverhampton Wanderers,"{'13': 'away', '37': 'home', '75': 'home'}",2022-2023,32
+23. april 2023,14:00,0:4,AFC Bournemouth,West Ham United,"{'5': 'away', '12': 'away', '43': 'away', '72': 'away'}",2022-2023,32
+23. april 2023,14:00,6:1,Newcastle United,Tottenham Hotspur,"{'2': 'home', '6': 'home', '9': 'home', '19': 'home', '21': 'home', '49': 'away', '67': 'home'}",2022-2023,32
+24. may 2023,20:00,1:1,Brighton & Hove Albion,Manchester City,"{'25': 'away', '38': 'home'}",2022-2023,32
+25. may 2023,20:00,4:1,Manchester United,Chelsea FC,"{'6': 'home', '45': 'home', '73': 'home', '78': 'home', '89': 'away'}",2022-2023,32
+25. april 2023,19:30,2:0,Wolverhampton Wanderers,Crystal Palace,"{'3': 'home', '90': 'home'}",2022-2023,33
+25. april 2023,19:45,1:0,Aston Villa,Fulham FC,{'21': 'home'},2022-2023,33
+25. april 2023,20:00,1:1,Leeds United,Leicester City,"{'20': 'home', '80': 'away'}",2022-2023,33
+26. april 2023,19:30,3:1,Nottingham Forest,Brighton & Hove Albion,"{'38': 'away', '45': 'home', '68': 'home', '90': 'home'}",2022-2023,33
+26. april 2023,19:45,1:2,West Ham United,Liverpool FC,"{'12': 'home', '18': 'away', '67': 'away'}",2022-2023,33
+26. april 2023,19:45,0:2,Chelsea FC,Brentford FC,"{'37': 'away', '78': 'away'}",2022-2023,33
+26. april 2023,20:00,4:1,Manchester City,Arsenal FC,"{'7': 'home', '45': 'home', '54': 'home', '86': 'away', '90': 'home'}",2022-2023,33
+27. april 2023,19:45,1:4,Everton FC,Newcastle United,"{'28': 'away', '72': 'away', '75': 'away', '80': 'home', '81': 'away'}",2022-2023,33
+27. april 2023,19:45,0:1,Southampton FC,AFC Bournemouth,{'50': 'away'},2022-2023,33
+27. april 2023,20:15,2:2,Tottenham Hotspur,Manchester United,"{'7': 'away', '44': 'away', '56': 'home', '79': 'home'}",2022-2023,33
+29. april 2023,12:30,4:3,Crystal Palace,West Ham United,"{'9': 'away', '15': 'home', '20': 'home', '30': 'home', '35': 'away', '66': 'home', '72': 'away'}",2022-2023,34
+29. april 2023,15:00,6:0,Brighton & Hove Albion,Wolverhampton Wanderers,"{'6': 'home', '13': 'home', '26': 'home', '39': 'home', '48': 'home', '66': 'home'}",2022-2023,34
+29. april 2023,15:00,2:1,Brentford FC,Nottingham Forest,"{'45': 'away', '82': 'home', '90': 'home'}",2022-2023,34
+30. april 2023,14:00,4:1,AFC Bournemouth,Leeds United,"{'20': 'home', '24': 'home', '32': 'away', '63': 'home', '90': 'home'}",2022-2023,34
+30. april 2023,14:00,1:2,Fulham FC,Manchester City,"{'3': 'away', '15': 'home', '36': 'away'}",2022-2023,34
+30. april 2023,14:00,1:0,Manchester United,Aston Villa,{'39': 'home'},2022-2023,34
+30. april 2023,14:00,3:1,Newcastle United,Southampton FC,"{'41': 'away', '54': 'home', '79': 'home', '81': 'home'}",2022-2023,34
+30. april 2023,16:30,4:3,Liverpool FC,Tottenham Hotspur,"{'3': 'home', '5': 'home', '15': 'home', '39': 'away', '77': 'away', '90': 'home'}",2022-2023,34
+1. may 2023,20:00,2:2,Leicester City,Everton FC,"{'15': 'away', '22': 'home', '33': 'home', '54': 'away'}",2022-2023,34
+2. may 2023,20:00,3:1,Arsenal FC,Chelsea FC,"{'18': 'home', '31': 'home', '34': 'home', '64': 'away'}",2022-2023,34
+6. may 2023,15:00,1:3,AFC Bournemouth,Chelsea FC,"{'9': 'away', '21': 'home', '82': 'away', '86': 'away'}",2022-2023,35
+6. may 2023,15:00,2:1,Manchester City,Leeds United,"{'19': 'home', '27': 'home', '85': 'away'}",2022-2023,35
+6. may 2023,15:00,1:0,Tottenham Hotspur,Crystal Palace,{'45': 'home'},2022-2023,35
+6. may 2023,15:00,1:0,Wolverhampton Wanderers,Aston Villa,{'9': 'home'},2022-2023,35
+6. may 2023,17:30,1:0,Liverpool FC,Brentford FC,{'13': 'home'},2022-2023,35
+7. may 2023,16:30,0:2,Newcastle United,Arsenal FC,"{'14': 'away', '71': 'away'}",2022-2023,35
+7. may 2023,19:00,1:0,West Ham United,Manchester United,{'27': 'home'},2022-2023,35
+8. may 2023,15:00,5:3,Fulham FC,Leicester City,"{'10': 'home', '18': 'home', '44': 'home', '51': 'home', '59': 'away', '70': 'home', '81': 'away', '89': 'away'}",2022-2023,35
+8. may 2023,17:30,1:5,Brighton & Hove Albion,Everton FC,"{'1': 'away', '29': 'away', '35': 'away', '76': 'away', None: 'home', '90': 'away'}",2022-2023,35
+8. may 2023,20:00,4:3,Nottingham Forest,Southampton FC,"{'18': 'home', '21': 'home', '25': 'away', '44': 'home', '51': 'away', '73': 'home', '90': 'away'}",2022-2023,35
+13. may 2023,12:30,2:2,Leeds United,Newcastle United,"{'7': 'home', '31': 'away', '69': 'away', '79': 'home'}",2022-2023,36
+13. may 2023,15:00,2:1,Aston Villa,Tottenham Hotspur,"{'8': 'home', '72': 'home', '90': 'away'}",2022-2023,36
+13. may 2023,15:00,2:0,Crystal Palace,AFC Bournemouth,"{'39': 'home', '58': 'home'}",2022-2023,36
+13. may 2023,15:00,2:2,Chelsea FC,Nottingham Forest,"{'13': 'away', '51': 'home', '58': 'home', '62': 'away'}",2022-2023,36
+13. may 2023,15:00,0:2,Southampton FC,Fulham FC,"{'48': 'away', '72': 'away'}",2022-2023,36
+13. may 2023,15:00,2:0,Manchester United,Wolverhampton Wanderers,"{'32': 'home', '90': 'home'}",2022-2023,36
+14. may 2023,14:00,2:0,Brentford FC,West Ham United,"{'20': 'home', '43': 'home'}",2022-2023,36
+14. may 2023,14:00,0:3,Everton FC,Manchester City,"{'37': 'away', '39': 'away', '51': 'away'}",2022-2023,36
+14. may 2023,16:30,0:3,Arsenal FC,Brighton & Hove Albion,"{'51': 'away', '86': 'away', '90': 'away'}",2022-2023,36
+15. may 2023,20:00,0:3,Leicester City,Liverpool FC,"{'33': 'away', '36': 'away', '71': 'away'}",2022-2023,36
+20. may 2023,12:30,1:3,Tottenham Hotspur,Brentford FC,"{'8': 'home', '50': 'away', '62': 'away', '88': 'away'}",2022-2023,37
+20. may 2023,15:00,0:1,AFC Bournemouth,Manchester United,{'9': 'away'},2022-2023,37
+20. may 2023,15:00,2:2,Fulham FC,Crystal Palace,"{'34': 'away', '45': 'home', '61': 'home', '83': 'away'}",2022-2023,37
+20. may 2023,15:00,1:1,Liverpool FC,Aston Villa,"{'27': 'away', '89': 'home'}",2022-2023,37
+20. may 2023,15:00,1:1,Wolverhampton Wanderers,Everton FC,"{'34': 'home', '90': 'away'}",2022-2023,37
+20. may 2023,17:30,1:0,Nottingham Forest,Arsenal FC,{'19': 'home'},2022-2023,37
+21. may 2023,13:30,3:1,West Ham United,Leeds United,"{'17': 'away', '31': 'home', '72': 'home', '90': 'home'}",2022-2023,37
+21. may 2023,14:00,3:1,Brighton & Hove Albion,Southampton FC,"{'29': 'home', '40': 'home', '58': 'away', '69': 'home'}",2022-2023,37
+21. may 2023,16:00,1:0,Manchester City,Chelsea FC,{'12': 'home'},2022-2023,37
+22. may 2023,20:00,0:0,Newcastle United,Leicester City,,2022-2023,37
+28. may 2023,16:30,2:1,Aston Villa,Brighton & Hove Albion,"{'8': 'home', '26': 'home', '38': 'away'}",2022-2023,38
+28. may 2023,16:30,1:1,Crystal Palace,Nottingham Forest,"{'31': 'away', None: 'home'}",2022-2023,38
+28. may 2023,16:30,5:0,Arsenal FC,Wolverhampton Wanderers,"{'11': 'home', '14': 'home', '27': 'home', '58': 'home', '78': 'home'}",2022-2023,38
+28. may 2023,16:30,1:0,Brentford FC,Manchester City,{'85': 'home'},2022-2023,38
+28. may 2023,16:30,1:1,Chelsea FC,Newcastle United,"{'9': 'away', '27': 'home'}",2022-2023,38
+28. may 2023,16:30,1:0,Everton FC,AFC Bournemouth,{'57': 'home'},2022-2023,38
+28. may 2023,16:30,4:4,Southampton FC,Liverpool FC,"{'10': 'away', '14': 'away', '19': 'home', '28': 'home', '47': 'home', '64': 'home', '72': 'away', '73': 'away'}",2022-2023,38
+28. may 2023,16:30,1:4,Leeds United,Tottenham Hotspur,"{'2': 'away', '47': 'away', '67': 'home', '69': 'away', '90': 'away'}",2022-2023,38
+28. may 2023,16:30,2:1,Leicester City,West Ham United,"{'34': 'home', '62': 'home', '79': 'away'}",2022-2023,38
+28. may 2023,16:30,2:1,Manchester United,Fulham FC,"{'19': 'away', '39': 'home', '55': 'home'}",2022-2023,38

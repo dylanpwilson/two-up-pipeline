@@ -1,19 +1,37 @@
-import selenium
+from configs import months_str
+from utility_functions import extract_str
 from bs4 import BeautifulSoup
-from configs import *
+import pandas as pd
 import requests
 import regex
 import time
 
 
-def teams_url_maker(comp, start_year, end_year):
-    url = f'https://www.worldfootball.net/players/{comp}-{start_year}-{end_year}/'
-    return url
+# ----------------------------------------------------- SCRAPING FUNCTIONS ----------------------------------------------------- #
+def football_league_urls(seasons, leagues):
+    from configs import league_urls
+    from configs import league_rounds
 
+    urls = {}
+    for league in leagues:
 
-def match_url_maker(comp, year1, year2, team_pair):
-    url = f'https://www.worldfootball.net/report/{comp}-{year1}-{year2}-{team_pair[0]}-{team_pair[1]}/'
-    return url
+        urls[league] = {}
+        last_round = league_rounds[league]
+        for years in seasons:
+
+            rounds = [el for el in range(1, last_round+1)]
+            output = []
+
+            for r in rounds:
+                old_url = league_urls[league]
+                new_url = old_url.replace('year1', str(years[0])).replace('year2', str(years[1]))
+                new_url = new_url + str(r) + '/'
+                output.append(new_url)
+            
+         
+            urls[league][str(years[0])+'-'+str(years[1])] = output
+
+    return urls
 
 
 def pull_html(url):
@@ -23,12 +41,12 @@ def pull_html(url):
     return soup
 
 
-def extract_teams(soup):
-    css_selector = 'td[align] > a[href^="/teams/"] img'
-    rows = soup.select(css_selector)
-    teams = [row.get('title') for row in rows]
+def extract_match_url(soup):
+    selector = 'a[title^="Match details"]'
+    rows = soup.select(selector)
+    match_urls = ['https://www.worldfootball.net' + row.get('href') for row in rows]
 
-    return teams
+    return match_urls
 
 
 def extract_goal_time(string):
@@ -40,35 +58,14 @@ def extract_goal_time(string):
         return None
 
 
-def format_team_str(string, adj_map,):
-    new_str = string.lower()
-    new_str = new_str.replace('&', '')
-    new_str = new_str.replace('.', '')
-
-    for key in adj_map.keys():
-        new_str = new_str.replace(key, adj_map[key])
-
-    for key in adj_map.keys():
-        new_str = new_str.replace(key, adj_map[key])
-
-    new_str = new_str.replace('  ', ' ')
-    new_str = new_str.strip().replace(' ', '-')
-
-    return new_str
+def extract_teams(soup):
+    selector = 'th a[href]'
+    rows = soup.select(selector)
+    teams = [row.get('title') for row in rows]
+    return teams
 
 
-def matches(teams):
-    teams = [format_team_str(team, url_adjustments_map) for team in teams]
-    team_pairs = []
-    for home in teams:
-        for away in teams:
-            if home != away:
-                team_pairs.append((home, away))
-    
-    return team_pairs
-
-
-def match_data(soup):
+def extract_match_data(soup):
 
     results = {}
     css_selector = '.standard_tabelle'
@@ -79,6 +76,9 @@ def match_data(soup):
     results['match_time'] = extract_str('[0-9]{2}:[0-9]{2} clock', text_list[0]).replace(' clock', '')
     results['final_score'] = extract_str('[0-9]+:[0-9]+(?!.*clock)', text_list[0])
 
+    teams = extract_teams(soup)
+    results['home_team'] = teams[0]
+    results['away_team'] = teams[1]
 
     if results['final_score'] == '0:0':
         return results
@@ -103,59 +103,32 @@ def match_data(soup):
         return results
 
 
-def match_data_scrapping(years, football_leagues):
-    for year_pair in years:
-        year1 = year_pair[0]
-        year2 = year_pair[1]
+# ----------------------------------------------------- SCRAPING PROCESS ----------------------------------------------------- #
+def scraping_process(SEASONS, LEAGUES):
+    
+    urls = football_league_urls(seasons=SEASONS, leagues=LEAGUES)
 
-        results = []
-        fails = []
+    for league in urls.keys():
 
-        for country in football_leagues['team'].keys():
-            for comp in football_leagues['team'][country].keys():
+        for season in urls[league].keys():
 
-                print(f'{year1}-{year2}-{country}-{comp}')
+            scraped_data = []
+            for round_url in urls[league][season]:
+                round_soup = pull_html(round_url)
+                match_urls = extract_match_url(round_soup)
+                for match_url in match_urls:
 
-                team_comp_url = football_leagues['team'][country][comp]
-                teams_url = teams_url_maker(team_comp_url, year1, year2)
-                teams_soup = pull_html(teams_url)
-                teams = extract_teams(teams_soup)
-                matches_strs = matches(teams)
+                    match_soup = pull_html(url=match_url)
+                    match_data = extract_match_data(match_soup)
+                    match_data['season'] = season
+                    match_data['round'] = int(extract_str('/[0-9]+/', round_url).replace('/', ''))
 
-                results = []
-                fails = []
-        
-                for index, match in enumerate(matches_strs):
-                    match_comp_url = football_leagues['match'][country][comp]
-                    match_url = match_url_maker(match_comp_url, year1, year2, match)
-                    match_soup = pull_html(match_url)
 
-                    try:
-                        data = match_data(match_soup)
-                        data['country'] = country
-                        data['league'] = comp
-                        data['season'] = str(year1) + '-' + str(year2)
-                        data['home_team'] = match[0]
-                        data['away_team'] = match[1]
-                        results.append(data)
-                    except:
-                        fails.append({
-                                    'match_date': year1,
-                                    'match_time': year2,
-                                    'country': country,
-                                    'league': comp,
-                                    'url': match_url
-                                    })
+                    scraped_data.append(match_data)
+            
+            df = pd.DataFrame(scraped_data)
+            df.to_csv(f'output/scraped_data/{league.replace(" ", "-")}-{season}.csv', index=False)
 
-                                
-                    time.sleep(1)
-                    
-                    
-                results_df = pd.DataFrame(results)
-                fails_df = pd.DataFrame(fails)
-                results_df.to_csv(f'output/scrapped_data/match_data/{country}-{comp}-{year1}-{year2}-goal-time.csv', index=False)
-                fails_df.to_csv(f'output/scrapping_fails/{country}-{comp}-{year1}-{year2}-fails.csv', index=False)
 
-                time.sleep(60)
 
 
