@@ -1,0 +1,303 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+5. august 2023,15:00,2:0,Blackpool FC,Burton Albion,"{'19': 'home', '25': 'home'}",2023-2024,1
+5. august 2023,15:00,3:0,Bolton Wanderers,Lincoln City,"{'4': 'home', '59': 'home', '74': 'home'}",2023-2024,1
+5. august 2023,15:00,2:0,Cambridge United,Oxford United,"{'15': 'home', '28': 'home'}",2023-2024,1
+5. august 2023,15:00,1:1,Carlisle United,Fleetwood Town,"{'36': 'home', '45': 'away'}",2023-2024,1
+5. august 2023,15:00,1:0,Charlton Athletic,Leyton Orient,{'45': 'home'},2023-2024,1
+5. august 2023,15:00,1:2,Derby County,Wigan Athletic,"{'37': 'away', '57': 'home', '72': 'away'}",2023-2024,1
+5. august 2023,15:00,7:0,Barnsley FC,Port Vale FC,"{'23': 'home', '45': 'home', '47': 'home', '53': 'home', '60': 'home', '64': 'home', '90': 'home'}",2023-2024,1
+5. august 2023,15:00,0:1,Reading FC,Peterborough United,{'43': 'away'},2023-2024,1
+5. august 2023,15:00,0:1,Northampton Town,Stevenage FC,{'80': 'away'},2023-2024,1
+5. august 2023,15:00,1:1,Portsmouth FC,Bristol Rovers,"{'24': 'away', '90': 'home'}",2023-2024,1
+5. august 2023,15:00,1:0,Shrewsbury Town,Cheltenham Town,{'50': 'home'},2023-2024,1
+5. august 2023,15:00,0:3,Wycombe Wanderers,Exeter City,"{'1': 'away', '4': 'away', '83': 'away'}",2023-2024,1
+12. august 2023,15:00,1:1,Bristol Rovers,Barnsley FC,"{'7': 'away', '81': 'home'}",2023-2024,2
+12. august 2023,15:00,0:3,Burton Albion,Derby County,"{'7': 'away', '78': 'away', '84': 'away'}",2023-2024,2
+12. august 2023,15:00,0:3,Cheltenham Town,Bolton Wanderers,"{'15': 'away', '30': 'away', '33': 'away'}",2023-2024,2
+12. august 2023,15:00,0:0,Exeter City,Blackpool FC,,2023-2024,2
+12. august 2023,15:00,2:0,Stevenage FC,Shrewsbury Town,"{'58': 'home', '87': 'home'}",2023-2024,2
+12. august 2023,15:00,0:2,Fleetwood Town,Cambridge United,"{'31': 'away', '59': 'away'}",2023-2024,2
+12. august 2023,15:00,0:4,Leyton Orient,Portsmouth FC,"{'23': 'away', '44': 'away', '51': 'away', '90': 'away'}",2023-2024,2
+12. august 2023,15:00,3:0,Lincoln City,Wycombe Wanderers,"{'68': 'home', '73': 'home', '85': 'home'}",2023-2024,2
+12. august 2023,15:00,1:0,Oxford United,Carlisle United,{'76': 'home'},2023-2024,2
+12. august 2023,15:00,1:0,Peterborough United,Charlton Athletic,{'45': 'home'},2023-2024,2
+12. august 2023,15:00,1:0,Port Vale FC,Reading FC,{'72': 'home'},2023-2024,2
+12. august 2023,15:00,2:1,Wigan Athletic,Northampton Town,"{'24': 'away', '72': 'home', '79': 'home'}",2023-2024,2
+15. august 2023,19:45,0:0,Blackpool FC,Port Vale FC,,2023-2024,3
+15. august 2023,19:45,3:1,Bolton Wanderers,Fleetwood Town,"{'3': 'home', '14': 'home', '37': 'home', '90': 'away'}",2023-2024,3
+15. august 2023,19:45,1:2,Cambridge United,Stevenage FC,"{'27': 'away', '80': 'home', '82': 'away'}",2023-2024,3
+15. august 2023,19:45,1:1,Carlisle United,Wigan Athletic,"{'34': 'away', '56': 'home'}",2023-2024,3
+15. august 2023,19:45,1:2,Charlton Athletic,Bristol Rovers,"{'58': 'away', '73': 'home', '90': 'away'}",2023-2024,3
+15. august 2023,19:45,1:2,Derby County,Oxford United,"{'32': 'away', '72': 'away', '87': 'home'}",2023-2024,3
+15. august 2023,19:45,1:3,Barnsley FC,Peterborough United,"{'51': 'home', '74': 'away', '76': 'away', '85': 'away'}",2023-2024,3
+15. august 2023,19:45,2:2,Northampton Town,Lincoln City,"{'22': 'away', '78': 'away', '86': 'home', '90': 'home'}",2023-2024,3
+15. august 2023,19:45,2:1,Shrewsbury Town,Burton Albion,"{'3': 'home', '45': 'home', '90': 'away'}",2023-2024,3
+15. august 2023,19:45,3:2,Wycombe Wanderers,Leyton Orient,"{'15': 'home', '36': 'away', '68': 'home', '84': 'home', '86': 'away'}",2023-2024,3
+15. august 2023,20:00,1:0,Portsmouth FC,Exeter City,{'70': 'home'},2023-2024,3
+15. august 2023,20:00,1:0,Reading FC,Cheltenham Town,{'33': 'home'},2023-2024,3
+19. august 2023,12:30,0:4,Bolton Wanderers,Wigan Athletic,"{'12': 'away', '24': 'away', '45': 'away', '75': 'away'}",2023-2024,4
+19. august 2023,15:00,0:0,Blackpool FC,Leyton Orient,,2023-2024,4
+19. august 2023,15:00,2:0,Cambridge United,Bristol Rovers,"{'79': 'home', '90': 'home'}",2023-2024,4
+19. august 2023,15:00,0:2,Carlisle United,Exeter City,"{'68': 'away', '81': 'away'}",2023-2024,4
+19. august 2023,15:00,2:3,Charlton Athletic,Port Vale FC,"{'10': 'home', '55': 'away', '56': 'away', '71': 'home', '87': 'away'}",2023-2024,4
+19. august 2023,15:00,1:0,Derby County,Fleetwood Town,{'23': 'home'},2023-2024,4
+19. august 2023,15:00,1:3,Barnsley FC,Oxford United,"{'8': 'away', '54': 'away', '70': 'home', '88': 'away'}",2023-2024,4
+19. august 2023,15:00,2:0,Reading FC,Stevenage FC,"{'45': 'home', '57': 'home'}",2023-2024,4
+19. august 2023,15:00,1:0,Northampton Town,Peterborough United,{'90': 'home'},2023-2024,4
+19. august 2023,15:00,0:0,Portsmouth FC,Cheltenham Town,,2023-2024,4
+19. august 2023,15:00,0:1,Shrewsbury Town,Lincoln City,{None: 'away'},2023-2024,4
+19. august 2023,15:00,0:0,Wycombe Wanderers,Burton Albion,,2023-2024,4
+26. august 2023,15:00,1:2,Bristol Rovers,Wycombe Wanderers,"{'19': 'away', '74': 'away', '83': 'home'}",2023-2024,5
+26. august 2023,15:00,1:1,Burton Albion,Bolton Wanderers,"{'46': 'home', '58': 'away'}",2023-2024,5
+26. august 2023,15:00,0:1,Cheltenham Town,Northampton Town,{'88': 'away'},2023-2024,5
+26. august 2023,15:00,2:1,Exeter City,Reading FC,"{'34': 'home', '45': 'away', '90': 'home'}",2023-2024,5
+26. august 2023,15:00,0:0,Stevenage FC,Portsmouth FC,,2023-2024,5
+26. august 2023,15:00,0:1,Fleetwood Town,Shrewsbury Town,{'41': 'away'},2023-2024,5
+26. august 2023,15:00,2:0,Leyton Orient,Cambridge United,"{'29': 'home', '57': 'home'}",2023-2024,5
+26. august 2023,15:00,3:0,Lincoln City,Blackpool FC,"{'7': 'home', '40': 'home', '73': 'home'}",2023-2024,5
+26. august 2023,15:00,2:1,Oxford United,Charlton Athletic,"{'10': 'home', '63': 'away', '85': 'home'}",2023-2024,5
+26. august 2023,15:00,2:4,Peterborough United,Derby County,"{'23': 'home', '29': 'away', '37': 'away', '40': 'away', '45': 'away', '90': 'home'}",2023-2024,5
+26. august 2023,15:00,1:0,Port Vale FC,Carlisle United,{'50': 'home'},2023-2024,5
+26. august 2023,15:00,0:2,Wigan Athletic,Barnsley FC,"{'26': 'away', '90': 'away'}",2023-2024,5
+2. september 2023,15:00,2:1,Blackpool FC,Wigan Athletic,"{None: 'away', '90': 'home'}",2023-2024,6
+2. september 2023,15:00,2:1,Bolton Wanderers,Derby County,"{'34': 'away', '43': 'home', '65': 'home'}",2023-2024,6
+2. september 2023,15:00,1:1,Bristol Rovers,Lincoln City,"{None: 'away', '90': 'home'}",2023-2024,6
+2. september 2023,15:00,0:1,Burton Albion,Exeter City,{None: 'away'},2023-2024,6
+2. september 2023,15:00,2:0,Carlisle United,Shrewsbury Town,"{'57': 'home', '90': 'home'}",2023-2024,6
+2. september 2023,15:00,2:1,Charlton Athletic,Fleetwood Town,"{None: 'home', '73': 'home'}",2023-2024,6
+2. september 2023,15:00,0:2,Cheltenham Town,Barnsley FC,"{None: 'away', '90': 'away'}",2023-2024,6
+2. september 2023,15:00,0:3,Leyton Orient,Stevenage FC,{None: 'away'},2023-2024,6
+2. september 2023,15:00,0:1,Northampton Town,Wycombe Wanderers,{None: 'away'},2023-2024,6
+2. september 2023,15:00,1:2,Oxford United,Port Vale FC,"{None: 'away', '90': 'away'}",2023-2024,6
+2. september 2023,15:00,3:1,Portsmouth FC,Peterborough United,{None: 'home'},2023-2024,6
+4. september 2023,20:00,1:0,Cambridge United,Reading FC,{'83': 'home'},2023-2024,6
+9. september 2023,15:00,1:2,Exeter City,Leyton Orient,"{'48': 'home', '55': 'away', '90': 'away'}",2023-2024,7
+9. september 2023,15:00,2:2,Stevenage FC,Carlisle United,"{'15': 'home', '20': 'away', '74': 'home', '90': 'away'}",2023-2024,7
+19. september 2023,19:45,2:3,Barnsley FC,Portsmouth FC,"{'8': 'away', '16': 'away', '49': 'home', '77': 'home'}",2023-2024,7
+19. september 2023,19:45,3:0,Peterborough United,Cheltenham Town,"{'54': 'home', '61': 'home', '90': 'home'}",2023-2024,7
+19. september 2023,19:45,2:3,Port Vale FC,Burton Albion,"{'11': 'away', '40': 'home', '51': 'away', '61': 'away', '86': 'home'}",2023-2024,7
+31. october 2023,19:45,4:0,Derby County,Northampton Town,"{'14': 'home', '22': 'home', '32': 'home', '49': 'home'}",2023-2024,7
+31. october 2023,19:45,0:2,Lincoln City,Oxford United,"{'13': 'away', '64': 'away'}",2023-2024,7
+31. october 2023,19:45,2:3,Wigan Athletic,Charlton Athletic,"{None: 'away', '31': 'away', '43': 'away', '84': 'home', '90': 'home'}",2023-2024,7
+31. october 2023,19:45,0:0,Wycombe Wanderers,Cambridge United,,2023-2024,7
+1. november 2023,19:45,3:3,Fleetwood Town,Blackpool FC,"{'13': 'home', '18': 'home', '48': 'away', '51': 'away', '66': 'away', '90': 'home'}",2023-2024,7
+7. november 2023,19:45,0:2,Shrewsbury Town,Bolton Wanderers,"{'65': 'away', '90': 'away'}",2023-2024,7
+7. november 2023,20:00,1:1,Reading FC,Bristol Rovers,"{'40': 'home', '57': 'away'}",2023-2024,7
+16. september 2023,15:00,1:1,Derby County,Portsmouth FC,"{'86': 'home', '90': 'away'}",2023-2024,8
+16. september 2023,15:00,1:0,Exeter City,Cheltenham Town,{'68': 'home'},2023-2024,8
+16. september 2023,15:00,2:0,Barnsley FC,Burton Albion,"{'21': 'home', '68': 'home'}",2023-2024,8
+16. september 2023,15:00,2:1,Reading FC,Bolton Wanderers,"{'20': 'away', '77': 'home', '86': 'home'}",2023-2024,8
+16. september 2023,15:00,1:1,Stevenage FC,Charlton Athletic,"{'34': 'home', '90': 'away'}",2023-2024,8
+16. september 2023,15:00,0:3,Fleetwood Town,Oxford United,"{'16': 'away', '27': 'away', '60': 'away'}",2023-2024,8
+16. september 2023,15:00,1:1,Lincoln City,Carlisle United,"{'19': 'away', '49': 'home'}",2023-2024,8
+16. september 2023,15:00,1:1,Peterborough United,Leyton Orient,"{'21': 'home', '33': 'away'}",2023-2024,8
+16. september 2023,15:00,1:0,Port Vale FC,Northampton Town,{'84': 'home'},2023-2024,8
+16. september 2023,15:00,0:2,Shrewsbury Town,Bristol Rovers,"{'73': 'away', '90': 'away'}",2023-2024,8
+16. september 2023,15:00,2:1,Wigan Athletic,Cambridge United,"{'57': 'home', '62': 'home', '76': 'away'}",2023-2024,8
+16. september 2023,15:00,2:0,Wycombe Wanderers,Blackpool FC,"{'13': 'home', '46': 'home'}",2023-2024,8
+23. september 2023,15:00,4:1,Blackpool FC,Reading FC,"{'20': 'home', '27': 'home', '31': 'home', '51': 'home', '78': 'away'}",2023-2024,9
+23. september 2023,15:00,1:1,Bolton Wanderers,Peterborough United,"{'42': 'away', '43': 'home'}",2023-2024,9
+23. september 2023,15:00,4:1,Bristol Rovers,Wigan Athletic,"{'13': 'home', '21': 'away', '26': 'home', '53': 'home', '68': 'home'}",2023-2024,9
+23. september 2023,15:00,1:1,Burton Albion,Fleetwood Town,"{'17': 'home', '19': 'away'}",2023-2024,9
+23. september 2023,15:00,1:1,Cambridge United,Port Vale FC,"{'20': 'away', '66': 'home'}",2023-2024,9
+23. september 2023,15:00,0:2,Carlisle United,Derby County,"{'18': 'away', '84': 'away'}",2023-2024,9
+23. september 2023,15:00,3:1,Charlton Athletic,Wycombe Wanderers,"{'27': 'home', '54': 'away', '82': 'home', '90': 'home'}",2023-2024,9
+23. september 2023,15:00,0:3,Cheltenham Town,Stevenage FC,"{'7': 'away', '69': 'away', '73': 'away'}",2023-2024,9
+23. september 2023,15:00,1:0,Leyton Orient,Shrewsbury Town,{'20': 'home'},2023-2024,9
+23. september 2023,15:00,1:2,Northampton Town,Barnsley FC,"{'4': 'away', '88': 'away', '90': 'home'}",2023-2024,9
+23. september 2023,15:00,3:0,Oxford United,Exeter City,"{'8': 'home', '83': 'home', '90': 'home'}",2023-2024,9
+23. september 2023,15:00,2:1,Portsmouth FC,Lincoln City,"{'5': 'away', '8': 'home', '45': 'home'}",2023-2024,9
+30. september 2023,15:00,0:0,Derby County,Cambridge United,,2023-2024,10
+30. september 2023,15:00,0:2,Exeter City,Northampton Town,"{'20': 'away', '90': 'away'}",2023-2024,10
+30. september 2023,15:00,0:1,Barnsley FC,Blackpool FC,{'24': 'away'},2023-2024,10
+30. september 2023,15:00,0:0,Reading FC,Burton Albion,,2023-2024,10
+30. september 2023,15:00,1:3,Stevenage FC,Oxford United,"{'15': 'home', '23': 'away', '55': 'away', '82': 'away'}",2023-2024,10
+30. september 2023,15:00,1:0,Fleetwood Town,Leyton Orient,{'56': 'home'},2023-2024,10
+30. september 2023,15:00,2:0,Lincoln City,Cheltenham Town,"{'5': 'home', '21': 'home'}",2023-2024,10
+30. september 2023,15:00,2:0,Peterborough United,Bristol Rovers,"{'26': 'home', '47': 'home'}",2023-2024,10
+30. september 2023,15:00,0:1,Port Vale FC,Bolton Wanderers,{'43': 'away'},2023-2024,10
+30. september 2023,15:00,0:0,Shrewsbury Town,Charlton Athletic,,2023-2024,10
+30. september 2023,15:00,1:2,Wigan Athletic,Portsmouth FC,"{'27': 'home', None: 'away', '37': 'away'}",2023-2024,10
+30. september 2023,15:00,2:0,Wycombe Wanderers,Carlisle United,"{'40': 'home', '74': 'home'}",2023-2024,10
+3. october 2023,19:45,1:3,Blackpool FC,Derby County,"{'54': 'away', '71': 'away', '73': 'home', '89': 'away'}",2023-2024,11
+3. october 2023,19:45,3:2,Bolton Wanderers,Stevenage FC,"{'13': 'home', '20': 'away', '49': 'home', '65': 'away', '70': 'home'}",2023-2024,11
+3. october 2023,19:45,3:0,Bristol Rovers,Port Vale FC,"{'25': 'home', '45': 'home', '85': 'home'}",2023-2024,11
+3. october 2023,19:45,2:1,Burton Albion,Wigan Athletic,"{'44': 'away', '68': 'home', '84': 'home'}",2023-2024,11
+3. october 2023,19:45,0:4,Cambridge United,Barnsley FC,"{'7': 'away', '33': 'away', '59': 'away', '83': 'away'}",2023-2024,11
+3. october 2023,19:45,1:1,Carlisle United,Peterborough United,"{'72': 'away', '90': 'home'}",2023-2024,11
+3. october 2023,19:45,4:1,Charlton Athletic,Exeter City,"{'23': 'away', '45': 'home', '65': 'home', '79': 'home', '86': 'home'}",2023-2024,11
+3. october 2023,19:45,0:2,Cheltenham Town,Fleetwood Town,"{'19': 'away', '80': 'away'}",2023-2024,11
+3. october 2023,19:45,3:1,Northampton Town,Reading FC,"{'10': 'home', '37': 'home', '66': 'away', '90': 'home'}",2023-2024,11
+3. october 2023,19:45,3:0,Oxford United,Shrewsbury Town,"{'17': 'home', '59': 'home', '90': 'home'}",2023-2024,11
+3. october 2023,19:45,2:1,Portsmouth FC,Wycombe Wanderers,"{'22': 'away', '58': 'home', '90': 'home'}",2023-2024,11
+21. november 2023,19:45,0:1,Leyton Orient,Lincoln City,{'89': 'away'},2023-2024,11
+7. october 2023,12:30,2:1,Oxford United,Bristol Rovers,"{'13': 'home', '81': 'home', '89': 'away'}",2023-2024,12
+7. october 2023,15:00,1:3,Bolton Wanderers,Carlisle United,"{'28': 'home', '44': 'away', '70': 'away', '90': 'away'}",2023-2024,12
+7. october 2023,15:00,2:2,Charlton Athletic,Blackpool FC,"{'34': 'away', '70': 'away', '81': 'home', '83': 'home'}",2023-2024,12
+7. october 2023,15:00,1:1,Cheltenham Town,Derby County,"{'39': 'home', '45': 'away'}",2023-2024,12
+7. october 2023,15:00,0:1,Exeter City,Barnsley FC,{'89': 'away'},2023-2024,12
+7. october 2023,15:00,1:0,Stevenage FC,Wigan Athletic,{'9': 'home'},2023-2024,12
+7. october 2023,15:00,1:4,Fleetwood Town,Wycombe Wanderers,"{'20': 'away', '34': 'away', '41': 'away', '61': 'home', '64': 'away'}",2023-2024,12
+7. october 2023,15:00,2:1,Leyton Orient,Reading FC,"{'26': 'home', '35': 'away', '90': 'home'}",2023-2024,12
+7. october 2023,15:00,2:0,Peterborough United,Lincoln City,"{'52': 'home', '83': 'home'}",2023-2024,12
+7. october 2023,15:00,2:0,Portsmouth FC,Port Vale FC,"{'53': 'home', '58': 'home'}",2023-2024,12
+7. october 2023,15:00,1:0,Shrewsbury Town,Northampton Town,{'90': 'home'},2023-2024,12
+9. october 2023,20:00,2:1,Burton Albion,Cambridge United,"{'10': 'home', '31': 'home', '67': 'away'}",2023-2024,12
+14. october 2023,15:00,3:0,Blackpool FC,Stevenage FC,"{None: 'home', '60': 'home', '78': 'home'}",2023-2024,13
+14. october 2023,15:00,1:1,Cambridge United,Shrewsbury Town,"{'69': 'home', '88': 'away'}",2023-2024,13
+14. october 2023,15:00,0:1,Carlisle United,Leyton Orient,{'21': 'away'},2023-2024,13
+14. october 2023,15:00,0:1,Lincoln City,Burton Albion,{'58': 'away'},2023-2024,13
+7. november 2023,19:45,2:1,Wigan Athletic,Peterborough United,"{'7': 'home', '54': 'away', '82': 'home'}",2023-2024,13
+2. december 2023,15:00,0:3,Northampton Town,Portsmouth FC,"{'11': 'away', '26': 'away', '48': 'away'}",2023-2024,13
+12. december 2023,20:00,1:1,Reading FC,Oxford United,"{'39': 'away', '43': 'home'}",2023-2024,13
+21. october 2023,15:00,2:1,Bolton Wanderers,Northampton Town,"{'8': 'home', '16': 'home', '66': 'away'}",2023-2024,14
+21. october 2023,15:00,4:1,Burton Albion,Bristol Rovers,"{'7': 'away', '26': 'home', '43': 'home', '81': 'home', '84': 'home'}",2023-2024,14
+21. october 2023,15:00,4:0,Charlton Athletic,Reading FC,"{'54': 'home', '68': 'home', '74': 'home', '90': 'home'}",2023-2024,14
+21. october 2023,15:00,1:0,Cheltenham Town,Cambridge United,{'5': 'home'},2023-2024,14
+21. october 2023,15:00,0:2,Exeter City,Wigan Athletic,"{'8': 'away', '90': 'away'}",2023-2024,14
+21. october 2023,15:00,0:0,Stevenage FC,Port Vale FC,,2023-2024,14
+21. october 2023,15:00,0:1,Fleetwood Town,Lincoln City,{'6': 'away'},2023-2024,14
+21. october 2023,15:00,1:1,Leyton Orient,Barnsley FC,"{'27': 'home', '69': 'away'}",2023-2024,14
+21. october 2023,15:00,1:1,Oxford United,Blackpool FC,"{'36': 'home', '90': 'away'}",2023-2024,14
+21. october 2023,15:00,2:2,Peterborough United,Wycombe Wanderers,"{'35': 'away', '40': 'home', '45': 'home', '61': 'away'}",2023-2024,14
+21. october 2023,15:00,1:0,Portsmouth FC,Carlisle United,{'90': 'home'},2023-2024,14
+21. october 2023,15:00,1:0,Shrewsbury Town,Derby County,{'56': 'home'},2023-2024,14
+24. october 2023,19:45,3:2,Blackpool FC,Cheltenham Town,"{'18': 'home', '32': 'home', '41': 'home', '44': 'away', '86': 'away'}",2023-2024,15
+24. october 2023,19:45,1:1,Bristol Rovers,Stevenage FC,"{'40': 'away', '83': 'home'}",2023-2024,15
+24. october 2023,19:45,0:0,Cambridge United,Portsmouth FC,,2023-2024,15
+24. october 2023,19:45,2:1,Carlisle United,Burton Albion,"{'28': 'away', '53': 'home', '88': 'home'}",2023-2024,15
+24. october 2023,19:45,2:0,Derby County,Exeter City,"{'30': 'home', '79': 'home'}",2023-2024,15
+24. october 2023,19:45,3:0,Barnsley FC,Shrewsbury Town,"{'19': 'home', '23': 'home', '75': 'home'}",2023-2024,15
+24. october 2023,19:45,3:1,Lincoln City,Charlton Athletic,"{'10': 'away', '33': 'home', '57': 'home', '78': 'home'}",2023-2024,15
+24. october 2023,19:45,2:2,Northampton Town,Leyton Orient,"{'14': 'away', '49': 'home', '52': 'home', '90': 'away'}",2023-2024,15
+24. october 2023,19:45,0:1,Port Vale FC,Peterborough United,{'14': 'away'},2023-2024,15
+24. october 2023,19:45,2:0,Wigan Athletic,Oxford United,"{'17': 'home', '80': 'home'}",2023-2024,15
+24. october 2023,19:45,2:4,Wycombe Wanderers,Bolton Wanderers,"{'14': 'away', '36': 'away', '48': 'home', '82': 'home', '85': 'away', '89': 'away'}",2023-2024,15
+24. october 2023,20:00,1:2,Reading FC,Fleetwood Town,"{'2': 'away', '56': 'home', '90': 'away'}",2023-2024,15
+28. october 2023,15:00,2:4,Blackpool FC,Peterborough United,"{'16': 'away', '47': 'away', '58': 'away', '60': 'home', '64': 'home', '90': 'away'}",2023-2024,16
+28. october 2023,15:00,2:1,Bristol Rovers,Northampton Town,"{'10': 'home', '30': 'home', '57': 'away'}",2023-2024,16
+28. october 2023,15:00,0:0,Burton Albion,Leyton Orient,,2023-2024,16
+28. october 2023,15:00,1:0,Cambridge United,Carlisle United,{'73': 'home'},2023-2024,16
+28. october 2023,15:00,0:2,Charlton Athletic,Bolton Wanderers,"{'16': 'away', '21': 'away'}",2023-2024,16
+28. october 2023,15:00,1:1,Exeter City,Lincoln City,"{'20': 'away', '81': 'home'}",2023-2024,16
+28. october 2023,15:00,2:2,Barnsley FC,Fleetwood Town,"{'3': 'away', '7': 'home', '34': 'away', '88': 'home'}",2023-2024,16
+28. october 2023,15:00,2:3,Reading FC,Portsmouth FC,"{'23': 'home', '27': 'home', '33': 'away', '45': 'away', '58': 'away'}",2023-2024,16
+28. october 2023,15:00,3:1,Stevenage FC,Derby County,"{'32': 'home', '38': 'away', '45': 'home', '84': 'home'}",2023-2024,16
+28. october 2023,15:00,2:2,Oxford United,Wycombe Wanderers,"{'25': 'home', '56': 'away', '81': 'away', '90': 'home'}",2023-2024,16
+28. october 2023,15:00,1:2,Port Vale FC,Cheltenham Town,"{'32': 'home', '42': 'away', '66': 'away'}",2023-2024,16
+28. october 2023,15:00,2:0,Wigan Athletic,Shrewsbury Town,"{'35': 'home', '66': 'home'}",2023-2024,16
+11. november 2023,12:00,5:0,Peterborough United,Cambridge United,"{'34': 'home', '37': 'home', '40': 'home', '54': 'home', '86': 'home'}",2023-2024,17
+11. november 2023,15:00,1:0,Bolton Wanderers,Blackpool FC,{'74': 'home'},2023-2024,17
+11. november 2023,15:00,0:1,Carlisle United,Bristol Rovers,{'38': 'away'},2023-2024,17
+11. november 2023,15:00,1:1,Cheltenham Town,Wigan Athletic,"{'6': 'away', '32': 'home'}",2023-2024,17
+11. november 2023,15:00,3:0,Derby County,Barnsley FC,"{'35': 'home', '48': 'home', None: 'home'}",2023-2024,17
+11. november 2023,15:00,3:0,Fleetwood Town,Exeter City,"{'6': 'home', '32': 'home', '42': 'home'}",2023-2024,17
+11. november 2023,15:00,2:3,Leyton Orient,Oxford United,"{'32': 'away', '45': 'away', '47': 'away', '48': 'home', '64': 'home'}",2023-2024,17
+11. november 2023,15:00,1:1,Lincoln City,Port Vale FC,"{'34': 'away', '90': 'home'}",2023-2024,17
+11. november 2023,15:00,2:0,Northampton Town,Burton Albion,"{'54': 'home', '78': 'home'}",2023-2024,17
+11. november 2023,15:00,2:2,Portsmouth FC,Charlton Athletic,"{'31': 'home', '71': 'away', '75': 'home', '90': 'away'}",2023-2024,17
+11. november 2023,15:00,3:2,Shrewsbury Town,Reading FC,"{'12': 'away', '15': 'away', '33': 'home', '90': 'home'}",2023-2024,17
+11. november 2023,15:00,0:1,Wycombe Wanderers,Stevenage FC,{'45': 'away'},2023-2024,17
+18. november 2023,15:00,4:0,Blackpool FC,Shrewsbury Town,"{'19': 'home', '33': 'home', '74': 'home', '82': 'home'}",2023-2024,18
+18. november 2023,15:00,1:0,Stevenage FC,Lincoln City,{'68': 'home'},2023-2024,18
+25. november 2023,15:00,7:0,Bolton Wanderers,Exeter City,"{'34': 'home', '43': 'home', '55': 'home', '63': 'home', '74': 'home', '87': 'home', '90': 'home'}",2023-2024,19
+25. november 2023,15:00,1:1,Carlisle United,Charlton Athletic,"{'54': 'away', '62': 'home'}",2023-2024,19
+25. november 2023,15:00,2:0,Cheltenham Town,Oxford United,"{'34': 'home', '76': 'home'}",2023-2024,19
+25. november 2023,15:00,2:1,Derby County,Bristol Rovers,"{'66': 'home', '87': 'away', '90': 'home'}",2023-2024,19
+25. november 2023,15:00,0:3,Fleetwood Town,Stevenage FC,"{'8': 'away', '56': 'away', '90': 'away'}",2023-2024,19
+25. november 2023,15:00,1:1,Leyton Orient,Wigan Athletic,"{'18': 'home', '45': 'away'}",2023-2024,19
+25. november 2023,15:00,2:2,Lincoln City,Barnsley FC,"{'5': 'home', '68': 'away', '72': 'away', '88': 'home'}",2023-2024,19
+25. november 2023,15:00,2:1,Northampton Town,Cambridge United,"{'49': 'home', '55': 'home', '77': 'away'}",2023-2024,19
+25. november 2023,15:00,4:0,Peterborough United,Burton Albion,"{'6': 'home', '44': 'home', '61': 'home', None: 'home'}",2023-2024,19
+25. november 2023,15:00,0:4,Portsmouth FC,Blackpool FC,"{'9': 'away', None: 'away', '74': 'away', '87': 'away'}",2023-2024,19
+25. november 2023,15:00,2:1,Shrewsbury Town,Port Vale FC,"{'28': 'home', '48': 'home', '57': 'away'}",2023-2024,19
+25. november 2023,15:00,1:2,Wycombe Wanderers,Reading FC,"{'30': 'away', '32': 'home', '41': 'away'}",2023-2024,19
+28. november 2023,19:45,1:2,Blackpool FC,Northampton Town,"{'31': 'away', '65': 'home', '75': 'away'}",2023-2024,20
+28. november 2023,19:45,1:1,Bristol Rovers,Leyton Orient,"{'45': 'home', '90': 'away'}",2023-2024,20
+28. november 2023,19:45,0:2,Burton Albion,Portsmouth FC,"{'38': 'away', '63': 'away'}",2023-2024,20
+28. november 2023,19:45,0:3,Cambridge United,Lincoln City,"{'16': 'away', '32': 'away', '85': 'away'}",2023-2024,20
+28. november 2023,19:45,2:1,Charlton Athletic,Cheltenham Town,"{'10': 'away', '17': 'home', '86': 'home'}",2023-2024,20
+28. november 2023,19:45,0:0,Exeter City,Shrewsbury Town,,2023-2024,20
+28. november 2023,19:45,1:0,Barnsley FC,Wycombe Wanderers,{'90': 'home'},2023-2024,20
+28. november 2023,19:45,2:2,Stevenage FC,Peterborough United,"{'22': 'home', '30': 'home', '51': 'away', '81': 'away'}",2023-2024,20
+28. november 2023,19:45,0:0,Oxford United,Bolton Wanderers,,2023-2024,20
+28. november 2023,19:45,0:1,Port Vale FC,Derby County,{'77': 'away'},2023-2024,20
+28. november 2023,19:45,3:0,Wigan Athletic,Fleetwood Town,"{'4': 'home', '31': 'home', '61': 'home'}",2023-2024,20
+28. november 2023,20:00,5:1,Reading FC,Carlisle United,"{'26': 'home', '29': 'away', '32': 'home', '39': 'home', '78': 'home', '83': 'home'}",2023-2024,20
+9. december 2023,15:00,3:0,Blackpool FC,Carlisle United,"{'22': 'home', '67': 'home', '90': 'home'}",2023-2024,21
+9. december 2023,15:00,1:1,Bristol Rovers,Cheltenham Town,"{'28': 'away', '50': 'home'}",2023-2024,21
+9. december 2023,15:00,1:2,Burton Albion,Stevenage FC,"{'7': 'home', '45': 'away', '51': 'away'}",2023-2024,21
+9. december 2023,15:00,2:2,Charlton Athletic,Cambridge United,"{'52': 'home', '61': 'home', '87': 'away', '90': 'away'}",2023-2024,21
+9. december 2023,15:00,0:1,Exeter City,Port Vale FC,{'29': 'away'},2023-2024,21
+9. december 2023,15:00,1:3,Reading FC,Barnsley FC,"{'4': 'home', '39': 'away', '80': 'away', '87': 'away'}",2023-2024,21
+9. december 2023,15:00,0:3,Leyton Orient,Derby County,"{'34': 'away', '47': 'away', '79': 'away'}",2023-2024,21
+9. december 2023,15:00,3:0,Northampton Town,Fleetwood Town,"{'27': 'home', '31': 'home', '90': 'home'}",2023-2024,21
+9. december 2023,15:00,3:0,Peterborough United,Oxford United,"{'24': 'home', '34': 'home', '90': 'home'}",2023-2024,21
+9. december 2023,15:00,0:0,Wigan Athletic,Lincoln City,,2023-2024,21
+9. december 2023,15:00,0:1,Wycombe Wanderers,Shrewsbury Town,{'41': 'away'},2023-2024,21
+11. december 2023,20:00,2:0,Portsmouth FC,Bolton Wanderers,"{'45': 'home', '88': 'home'}",2023-2024,21
+16. december 2023,15:00,1:2,Bolton Wanderers,Bristol Rovers,"{'10': 'away', '41': 'away', '84': 'home'}",2023-2024,22
+16. december 2023,15:00,2:1,Cambridge United,Blackpool FC,"{'25': 'away', '32': 'home', '44': 'home'}",2023-2024,22
+16. december 2023,15:00,2:2,Carlisle United,Northampton Town,"{'30': 'away', '67': 'home', '81': 'home', '90': 'away'}",2023-2024,22
+16. december 2023,15:00,1:2,Cheltenham Town,Leyton Orient,"{'68': 'home', '89': 'away', '90': 'away'}",2023-2024,22
+16. december 2023,15:00,1:1,Derby County,Wycombe Wanderers,"{'83': 'home', '90': 'away'}",2023-2024,22
+16. december 2023,15:00,1:1,Barnsley FC,Charlton Athletic,"{'24': 'home', '70': 'away'}",2023-2024,22
+16. december 2023,15:00,1:1,Stevenage FC,Exeter City,"{'45': 'home', '47': 'away'}",2023-2024,22
+16. december 2023,15:00,0:1,Fleetwood Town,Peterborough United,{'42': 'away'},2023-2024,22
+16. december 2023,15:00,1:1,Lincoln City,Reading FC,"{'3': 'home', '56': 'away'}",2023-2024,22
+16. december 2023,15:00,3:0,Oxford United,Burton Albion,"{'25': 'home', '83': 'home', '89': 'home'}",2023-2024,22
+16. december 2023,15:00,3:2,Port Vale FC,Wigan Athletic,"{'21': 'home', '43': 'home', '63': 'away', '77': 'away', '83': 'home'}",2023-2024,22
+16. december 2023,15:00,0:3,Shrewsbury Town,Portsmouth FC,"{'45': 'away', '62': 'away', '84': 'away'}",2023-2024,22
+21. december 2023,19:45,3:1,Derby County,Lincoln City,"{'26': 'home', '45': 'away', '65': 'home', '77': 'home'}",2023-2024,23
+22. december 2023,19:45,2:0,Cambridge United,Exeter City,"{'17': 'home', '84': 'home'}",2023-2024,23
+23. december 2023,15:00,3:1,Blackpool FC,Bristol Rovers,"{'21': 'home', '25': 'away', '46': 'home', '82': 'home'}",2023-2024,23
+23. december 2023,15:00,3:2,Bolton Wanderers,Leyton Orient,"{'3': 'home', '7': 'home', '10': 'home', '55': 'away', '60': 'away'}",2023-2024,23
+23. december 2023,15:00,0:1,Carlisle United,Cheltenham Town,{'27': 'away'},2023-2024,23
+23. december 2023,15:00,1:1,Charlton Athletic,Burton Albion,"{'19': 'home', '90': 'away'}",2023-2024,23
+23. december 2023,15:00,2:1,Barnsley FC,Stevenage FC,"{'4': 'away', '32': 'home', '70': 'home'}",2023-2024,23
+23. december 2023,15:00,2:0,Reading FC,Wigan Athletic,"{'34': 'home', '50': 'home'}",2023-2024,23
+23. december 2023,15:00,2:1,Northampton Town,Oxford United,"{'50': 'home', '62': 'away', '90': 'home'}",2023-2024,23
+23. december 2023,15:00,1:1,Portsmouth FC,Fleetwood Town,"{'45': 'home', '63': 'away'}",2023-2024,23
+23. december 2023,15:00,1:2,Shrewsbury Town,Peterborough United,"{'58': 'home', '64': 'away', '77': 'away'}",2023-2024,23
+23. december 2023,15:00,1:1,Wycombe Wanderers,Port Vale FC,"{'51': 'home', '90': 'away'}",2023-2024,23
+26. december 2023,13:00,1:0,Leyton Orient,Charlton Athletic,{'80': 'home'},2023-2024,24
+26. december 2023,15:00,2:1,Bristol Rovers,Portsmouth FC,"{'66': 'home', '76': 'away', '90': 'home'}",2023-2024,24
+26. december 2023,15:00,1:0,Burton Albion,Blackpool FC,{'10': 'home'},2023-2024,24
+26. december 2023,15:00,2:0,Cheltenham Town,Shrewsbury Town,"{'34': 'home', '85': 'home'}",2023-2024,24
+26. december 2023,15:00,1:0,Exeter City,Wycombe Wanderers,{'65': 'home'},2023-2024,24
+26. december 2023,15:00,3:0,Stevenage FC,Northampton Town,"{'2': 'home', '42': 'home', '67': 'home'}",2023-2024,24
+26. december 2023,15:00,1:1,Fleetwood Town,Carlisle United,"{'27': 'away', '35': 'home'}",2023-2024,24
+26. december 2023,15:00,0:1,Lincoln City,Bolton Wanderers,{'89': 'away'},2023-2024,24
+26. december 2023,15:00,2:1,Oxford United,Cambridge United,"{'30': 'away', '54': 'home', '90': 'home'}",2023-2024,24
+26. december 2023,15:00,2:2,Peterborough United,Reading FC,"{'39': 'home', '63': 'away', '69': 'home', '85': 'away'}",2023-2024,24
+26. december 2023,15:00,2:3,Port Vale FC,Barnsley FC,"{'17': 'away', '32': 'away', '37': 'away', '72': 'home', '90': 'home'}",2023-2024,24
+26. december 2023,15:00,0:1,Wigan Athletic,Derby County,{'19': 'away'},2023-2024,24
+29. december 2023,19:00,2:0,Wigan Athletic,Carlisle United,"{'16': 'home', '36': 'home'}",2023-2024,25
+29. december 2023,19:45,2:1,Bristol Rovers,Charlton Athletic,"{'68': 'home', '85': 'away', '90': 'home'}",2023-2024,25
+29. december 2023,19:45,1:0,Burton Albion,Shrewsbury Town,{'16': 'home'},2023-2024,25
+29. december 2023,19:45,2:2,Cheltenham Town,Reading FC,"{'29': 'home', '37': 'home', '45': 'away'}",2023-2024,25
+29. december 2023,19:45,0:0,Exeter City,Portsmouth FC,,2023-2024,25
+29. december 2023,19:45,0:2,Fleetwood Town,Bolton Wanderers,"{'49': 'away', '83': 'away'}",2023-2024,25
+29. december 2023,19:45,0:0,Leyton Orient,Wycombe Wanderers,,2023-2024,25
+29. december 2023,19:45,1:2,Lincoln City,Northampton Town,"{'30': 'away', '58': 'away', '61': 'home'}",2023-2024,25
+29. december 2023,19:45,2:3,Oxford United,Derby County,"{'2': 'home', '13': 'home', '45': 'away', '81': 'away', '86': 'away'}",2023-2024,25
+29. december 2023,19:45,2:2,Peterborough United,Barnsley FC,"{'10': 'away', '31': 'away', '45': 'home', '48': 'home'}",2023-2024,25
+29. december 2023,19:45,3:0,Port Vale FC,Blackpool FC,"{'39': 'home', '57': 'home', '80': 'home'}",2023-2024,25
+1. january 2024,15:00,2:0,Blackpool FC,Lincoln City,"{'29': 'home', '90': 'home'}",2023-2024,26
+1. january 2024,15:00,1:0,Bolton Wanderers,Burton Albion,{'51': 'home'},2023-2024,26
+1. january 2024,15:00,0:2,Cambridge United,Leyton Orient,"{'54': 'away', '57': 'away'}",2023-2024,26
+1. january 2024,15:00,2:1,Carlisle United,Port Vale FC,"{'49': 'away', '80': 'home', '90': 'home'}",2023-2024,26
+1. january 2024,15:00,1:2,Charlton Athletic,Oxford United,"{'5': 'home', '22': 'away', '85': 'away'}",2023-2024,26
+1. january 2024,15:00,2:3,Derby County,Peterborough United,"{'1': 'home', '9': 'away', '60': 'home', '84': 'away', '90': 'away'}",2023-2024,26
+1. january 2024,15:00,1:1,Barnsley FC,Wigan Athletic,"{'45': 'home', '87': 'away'}",2023-2024,26
+1. january 2024,15:00,3:2,Reading FC,Exeter City,"{'9': 'home', '18': 'away', '45': 'home', '68': 'away', '77': 'home'}",2023-2024,26
+1. january 2024,15:00,1:0,Northampton Town,Cheltenham Town,{'66': 'home'},2023-2024,26
+1. january 2024,15:00,2:1,Portsmouth FC,Stevenage FC,"{'12': 'home', '26': 'away', '33': 'home'}",2023-2024,26
+1. january 2024,15:00,3:1,Shrewsbury Town,Fleetwood Town,"{'9': 'home', '45': 'home', '58': 'home', '65': 'away'}",2023-2024,26
+1. january 2024,15:00,3:2,Wycombe Wanderers,Bristol Rovers,"{'29': 'home', '78': 'home', '80': 'home', '90': 'away'}",2023-2024,26
+6. january 2024,12:30,1:3,Fleetwood Town,Derby County,"{'27': 'away', '45': 'away', '76': 'home', '90': 'away'}",2023-2024,27
+6. january 2024,15:00,,Bristol Rovers,Cambridge United,{},2023-2024,27
+6. january 2024,15:00,,Bristol Rovers,Cambridge United,{},2023-2024,27
+6. january 2024,15:00,1:1,Burton Albion,Wycombe Wanderers,"{'57': 'home', '67': 'away'}",2023-2024,27
+6. january 2024,15:00,2:1,Cheltenham Town,Portsmouth FC,"{'49': 'away', '51': 'home', '54': 'home'}",2023-2024,27
+6. january 2024,15:00,2:1,Exeter City,Carlisle United,"{'57': 'home', '77': 'home', '86': 'away'}",2023-2024,27

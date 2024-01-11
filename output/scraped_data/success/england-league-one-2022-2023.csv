@@ -1,0 +1,553 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+30. july 2022,15:00,2:2,Accrington Stanley,Charlton Athletic,"{'36': 'away', '69': 'home', '90': 'home'}",2022-2023,1
+30. july 2022,15:00,1:2,Bristol Rovers,Forest Green Rovers,"{None: 'away', '71': 'home', '89': 'away'}",2022-2023,1
+30. july 2022,15:00,1:0,Cambridge United,Milton Keynes Dons,{'17': 'home'},2022-2023,1
+30. july 2022,15:00,2:3,Cheltenham Town,Peterborough United,"{'30': 'home', '39': 'home', '59': 'away', '66': 'away', '72': 'away'}",2022-2023,1
+30. july 2022,15:00,1:0,Derby County,Oxford United,{'80': 'home'},2022-2023,1
+30. july 2022,15:00,0:0,Morecambe FC,Shrewsbury Town,,2022-2023,1
+30. july 2022,15:00,1:1,Ipswich Town,Bolton Wanderers,"{'25': 'away', '38': 'home'}",2022-2023,1
+30. july 2022,15:00,1:1,Lincoln City,Exeter City,"{'14': 'away', '49': 'home'}",2022-2023,1
+30. july 2022,15:00,1:0,Plymouth Argyle,Barnsley FC,{'45': 'home'},2022-2023,1
+30. july 2022,15:00,2:1,Port Vale FC,Fleetwood Town,"{'6': 'away', '30': 'home', '32': 'home'}",2022-2023,1
+30. july 2022,15:00,3:3,Sheffield Wednesday,Portsmouth FC,"{'8': 'home', '50': 'away', '52': 'home', '57': 'away', '64': 'away', '81': 'home'}",2022-2023,1
+30. july 2022,15:00,3:0,Wycombe Wanderers,Burton Albion,"{'7': 'home', '16': 'home', '30': 'home'}",2022-2023,1
+6. august 2022,15:00,3:0,Bolton Wanderers,Wycombe Wanderers,"{'15': 'home', '41': 'home', '66': 'home'}",2022-2023,2
+6. august 2022,15:00,0:4,Burton Albion,Bristol Rovers,"{'4': 'away', '12': 'away', '40': 'away', '44': 'away'}",2022-2023,2
+6. august 2022,15:00,1:0,Charlton Athletic,Derby County,{'62': 'home'},2022-2023,2
+6. august 2022,15:00,4:0,Exeter City,Port Vale FC,"{'24': 'home', '38': 'home', '72': 'home', '75': 'home'}",2022-2023,2
+6. august 2022,15:00,1:0,Barnsley FC,Cheltenham Town,{'66': 'home'},2022-2023,2
+6. august 2022,15:00,2:1,Fleetwood Town,Plymouth Argyle,"{'23': 'away', '28': 'home', '88': 'home'}",2022-2023,2
+6. august 2022,15:00,1:2,Forest Green Rovers,Ipswich Town,"{'37': 'away', '45': 'away', '64': 'home'}",2022-2023,2
+6. august 2022,15:00,0:1,Milton Keynes Dons,Sheffield Wednesday,{'22': 'away'},2022-2023,2
+6. august 2022,15:00,1:0,Oxford United,Cambridge United,{'90': 'home'},2022-2023,2
+6. august 2022,15:00,3:0,Peterborough United,Morecambe FC,"{'9': 'home', '43': 'home', '72': 'home'}",2022-2023,2
+6. august 2022,15:00,0:0,Portsmouth FC,Lincoln City,,2022-2023,2
+6. august 2022,15:00,0:1,Shrewsbury Town,Accrington Stanley,{'77': 'away'},2022-2023,2
+13. august 2022,12:30,1:0,Bristol Rovers,Oxford United,{'34': 'home'},2022-2023,3
+13. august 2022,15:00,4:4,Accrington Stanley,Burton Albion,"{'10': 'away', '17': 'away', '50': 'away', '52': 'home', '57': 'home', '81': 'away', '90': 'home'}",2022-2023,3
+13. august 2022,15:00,2:1,Cambridge United,Exeter City,"{'39': 'away', '60': 'home', '88': 'home'}",2022-2023,3
+13. august 2022,15:00,0:2,Cheltenham Town,Portsmouth FC,"{'30': 'away', '56': 'away'}",2022-2023,3
+13. august 2022,15:00,2:1,Derby County,Barnsley FC,"{'8': 'home', '35': 'home', '64': 'away'}",2022-2023,3
+13. august 2022,15:00,1:1,Morecambe FC,Fleetwood Town,"{'32': 'home', '83': 'away'}",2022-2023,3
+13. august 2022,15:00,3:0,Ipswich Town,Milton Keynes Dons,"{'5': 'home', '28': 'home', '60': 'home'}",2022-2023,3
+13. august 2022,15:00,1:1,Lincoln City,Forest Green Rovers,"{'63': 'home', '73': 'away'}",2022-2023,3
+13. august 2022,15:00,2:0,Plymouth Argyle,Peterborough United,"{'30': 'home', '65': 'home'}",2022-2023,3
+13. august 2022,15:00,0:0,Port Vale FC,Bolton Wanderers,,2022-2023,3
+13. august 2022,15:00,1:0,Sheffield Wednesday,Charlton Athletic,{'81': 'home'},2022-2023,3
+13. august 2022,15:00,1:2,Wycombe Wanderers,Shrewsbury Town,"{'51': 'home', '60': 'away', '89': 'away'}",2022-2023,3
+16. august 2022,19:45,1:0,Bolton Wanderers,Morecambe FC,{'39': 'home'},2022-2023,4
+16. august 2022,19:45,0:1,Burton Albion,Ipswich Town,{'60': 'away'},2022-2023,4
+16. august 2022,19:45,5:1,Charlton Athletic,Plymouth Argyle,"{'11': 'home', '41': 'home', '45': 'home', '71': 'away', '76': 'home', '84': 'home'}",2022-2023,4
+16. august 2022,19:45,3:1,Exeter City,Wycombe Wanderers,"{'22': 'home', '38': 'home', '50': 'away', '74': 'home'}",2022-2023,4
+16. august 2022,19:45,3:0,Barnsley FC,Bristol Rovers,"{'3': 'home', '13': 'home', '56': 'home'}",2022-2023,4
+16. august 2022,19:45,0:0,Fleetwood Town,Cheltenham Town,,2022-2023,4
+16. august 2022,19:45,2:1,Milton Keynes Dons,Port Vale FC,"{'34': 'home', '85': 'home', '90': 'away'}",2022-2023,4
+16. august 2022,19:45,1:2,Oxford United,Lincoln City,"{'21': 'away', '45': 'away', '69': 'home'}",2022-2023,4
+16. august 2022,19:45,2:0,Peterborough United,Sheffield Wednesday,"{'65': 'home', '75': 'home'}",2022-2023,4
+16. august 2022,19:45,4:1,Portsmouth FC,Cambridge United,"{'30': 'away', '45': 'home', '60': 'home', '70': 'home', '77': 'home'}",2022-2023,4
+16. august 2022,19:45,0:0,Shrewsbury Town,Derby County,,2022-2023,4
+6. september 2022,19:45,2:1,Forest Green Rovers,Accrington Stanley,"{'37': 'home', '76': 'away', '81': 'home'}",2022-2023,4
+20. august 2022,15:00,0:2,Bolton Wanderers,Sheffield Wednesday,"{'36': 'away', '38': 'away'}",2022-2023,5
+20. august 2022,15:00,0:2,Burton Albion,Port Vale FC,"{'49': 'away', '90': 'away'}",2022-2023,5
+20. august 2022,15:00,1:1,Charlton Athletic,Cambridge United,"{'41': 'home', '60': 'away'}",2022-2023,5
+20. august 2022,15:00,0:1,Exeter City,Cheltenham Town,{'56': 'away'},2022-2023,5
+20. august 2022,15:00,0:3,Barnsley FC,Wycombe Wanderers,"{'37': 'away', '72': 'away', '83': 'away'}",2022-2023,5
+20. august 2022,15:00,0:0,Fleetwood Town,Derby County,,2022-2023,5
+20. august 2022,15:00,0:3,Forest Green Rovers,Plymouth Argyle,"{'18': 'away', '27': 'away', '61': 'away'}",2022-2023,5
+20. august 2022,15:00,1:1,Milton Keynes Dons,Accrington Stanley,"{'30': 'home', '78': 'away'}",2022-2023,5
+20. august 2022,15:00,1:1,Oxford United,Morecambe FC,"{'48': 'away', '56': 'home'}",2022-2023,5
+20. august 2022,15:00,4:0,Peterborough United,Lincoln City,"{'21': 'home', '29': 'home', '43': 'home', '50': 'home'}",2022-2023,5
+20. august 2022,15:00,3:1,Portsmouth FC,Bristol Rovers,"{'32': 'home', '61': 'away', '82': 'home', '90': 'home'}",2022-2023,5
+20. august 2022,15:00,0:3,Shrewsbury Town,Ipswich Town,"{'22': 'away', '52': 'away', '90': 'away'}",2022-2023,5
+27. august 2022,15:00,0:0,Accrington Stanley,Exeter City,,2022-2023,6
+27. august 2022,15:00,1:1,Bristol Rovers,Shrewsbury Town,"{'68': 'home', '80': 'away'}",2022-2023,6
+27. august 2022,15:00,4:3,Cambridge United,Burton Albion,"{'1': 'away', '34': 'home', '41': 'away', '53': 'home', '67': 'away', '69': 'home', '79': 'home'}",2022-2023,6
+27. august 2022,15:00,1:2,Cheltenham Town,Oxford United,"{'63': 'home', '66': 'away', '86': 'away'}",2022-2023,6
+27. august 2022,15:00,2:1,Derby County,Peterborough United,"{'69': 'away', '88': 'home', '90': 'home'}",2022-2023,6
+27. august 2022,15:00,0:4,Morecambe FC,Milton Keynes Dons,"{'16': 'away', '36': 'away', '62': 'away', '67': 'away'}",2022-2023,6
+27. august 2022,15:00,2:2,Ipswich Town,Barnsley FC,"{'27': 'home', '33': 'away', '70': 'home', '75': 'away'}",2022-2023,6
+27. august 2022,15:00,2:2,Lincoln City,Fleetwood Town,"{'6': 'home', '14': 'home', '32': 'away', '90': 'away'}",2022-2023,6
+27. august 2022,15:00,2:0,Plymouth Argyle,Bolton Wanderers,"{'34': 'home', '88': 'home'}",2022-2023,6
+27. august 2022,15:00,0:1,Port Vale FC,Portsmouth FC,{'25': 'away'},2022-2023,6
+27. august 2022,15:00,5:0,Sheffield Wednesday,Forest Green Rovers,"{'12': 'home', '19': 'home', '31': 'home', '45': 'home', '56': 'home'}",2022-2023,6
+27. august 2022,15:00,1:1,Wycombe Wanderers,Charlton Athletic,"{'14': 'home', '15': 'away'}",2022-2023,6
+3. september 2022,15:00,0:2,Accrington Stanley,Ipswich Town,{None: 'away'},2022-2023,7
+3. september 2022,15:00,3:1,Bolton Wanderers,Charlton Athletic,{None: 'home'},2022-2023,7
+3. september 2022,15:00,2:2,Bristol Rovers,Morecambe FC,{None: 'home'},2022-2023,7
+3. september 2022,15:00,2:0,Cambridge United,Lincoln City,{None: 'home'},2022-2023,7
+3. september 2022,15:00,2:3,Derby County,Plymouth Argyle,{None: 'away'},2022-2023,7
+3. september 2022,15:00,1:0,Exeter City,Milton Keynes Dons,{None: 'home'},2022-2023,7
+3. september 2022,15:00,1:1,Fleetwood Town,Wycombe Wanderers,{None: 'home'},2022-2023,7
+3. september 2022,15:00,0:2,Forest Green Rovers,Shrewsbury Town,{None: 'away'},2022-2023,7
+3. september 2022,15:00,2:1,Oxford United,Burton Albion,{None: 'away'},2022-2023,7
+3. september 2022,15:00,2:2,Port Vale FC,Cheltenham Town,"{None: 'home', '40': 'home', '90': 'away'}",2022-2023,7
+3. september 2022,15:00,2:1,Portsmouth FC,Peterborough United,{None: 'home'},2022-2023,7
+3. september 2022,15:00,0:2,Sheffield Wednesday,Barnsley FC,{None: 'away'},2022-2023,7
+4. october 2022,19:45,0:1,Burton Albion,Fleetwood Town,{'34': 'away'},2022-2023,8
+4. october 2022,19:45,1:0,Cheltenham Town,Bolton Wanderers,{'87': 'home'},2022-2023,8
+4. october 2022,19:45,3:0,Ipswich Town,Cambridge United,"{'72': 'home', '75': 'home', '86': 'home'}",2022-2023,8
+4. october 2022,19:45,2:1,Plymouth Argyle,Sheffield Wednesday,"{'3': 'home', '7': 'away', '90': 'home'}",2022-2023,8
+11. october 2022,19:45,4:2,Charlton Athletic,Exeter City,"{'20': 'home', '24': 'home', '37': 'away', '84': 'home', '90': 'home'}",2022-2023,8
+11. october 2022,19:45,0:1,Milton Keynes Dons,Bristol Rovers,{'76': 'away'},2022-2023,8
+11. october 2022,19:45,4:1,Peterborough United,Forest Green Rovers,"{'30': 'home', '35': 'away', '39': 'home', '46': 'home', '58': 'home'}",2022-2023,8
+1. november 2022,19:45,1:1,Morecambe FC,Derby County,"{'45': 'home', '59': 'away'}",2022-2023,8
+1. november 2022,19:45,1:1,Lincoln City,Accrington Stanley,"{'60': 'home', '85': 'away'}",2022-2023,8
+1. november 2022,19:45,2:2,Wycombe Wanderers,Port Vale FC,"{'4': 'home', '45': 'away', '61': 'home', '77': 'away'}",2022-2023,8
+9. november 2022,19:45,1:1,Shrewsbury Town,Oxford United,"{'15': 'away', '65': 'home'}",2022-2023,8
+7. march 2023,19:45,3:1,Barnsley FC,Portsmouth FC,"{'17': 'home', '20': 'home', '49': 'away', '60': 'home'}",2022-2023,8
+13. september 2022,19:45,0:2,Burton Albion,Portsmouth FC,"{'59': 'away', '86': 'away'}",2022-2023,9
+13. september 2022,19:45,1:1,Charlton Athletic,Forest Green Rovers,"{'9': 'home', '45': 'away'}",2022-2023,9
+13. september 2022,19:45,2:1,Cheltenham Town,Cambridge United,"{'28': 'away', '59': 'home', '83': 'home'}",2022-2023,9
+13. september 2022,19:45,1:1,Barnsley FC,Port Vale FC,"{'43': 'home', '83': 'away'}",2022-2023,9
+13. september 2022,19:45,0:3,Morecambe FC,Sheffield Wednesday,"{'70': 'away', '78': 'away', '83': 'away'}",2022-2023,9
+13. september 2022,19:45,2:0,Ipswich Town,Bristol Rovers,"{'24': 'home', '55': 'home'}",2022-2023,9
+13. september 2022,19:45,2:0,Lincoln City,Derby County,"{'12': 'home', '68': 'home'}",2022-2023,9
+13. september 2022,19:45,0:2,Milton Keynes Dons,Bolton Wanderers,"{'31': 'away', '60': 'away'}",2022-2023,9
+13. september 2022,19:45,0:1,Peterborough United,Fleetwood Town,{'23': 'away'},2022-2023,9
+13. september 2022,19:45,1:0,Plymouth Argyle,Oxford United,{'70': 'home'},2022-2023,9
+13. september 2022,19:45,3:2,Shrewsbury Town,Exeter City,"{'17': 'away', '20': 'away', '21': 'home', '34': 'home', '90': 'home'}",2022-2023,9
+13. september 2022,19:45,1:0,Wycombe Wanderers,Accrington Stanley,{'21': 'home'},2022-2023,9
+17. september 2022,15:00,1:0,Accrington Stanley,Cheltenham Town,{'1': 'home'},2022-2023,10
+17. september 2022,15:00,1:0,Bolton Wanderers,Peterborough United,{'86': 'home'},2022-2023,10
+17. september 2022,15:00,3:6,Bristol Rovers,Lincoln City,"{'7': 'away', '14': 'away', '18': 'home', '45': 'away', '51': 'away', '56': 'away', '59': 'home', '61': 'away', '65': 'home'}",2022-2023,10
+17. september 2022,15:00,0:3,Cambridge United,Barnsley FC,"{'24': 'away', '76': 'away', '90': 'away'}",2022-2023,10
+17. september 2022,15:00,2:1,Derby County,Wycombe Wanderers,"{'15': 'away', '72': 'home', '86': 'home'}",2022-2023,10
+17. september 2022,15:00,0:2,Exeter City,Burton Albion,"{'63': 'away', '69': 'away'}",2022-2023,10
+17. september 2022,15:00,1:1,Fleetwood Town,Charlton Athletic,"{'30': 'home', '77': 'away'}",2022-2023,10
+17. september 2022,15:00,1:2,Forest Green Rovers,Morecambe FC,"{'30': 'home', '44': 'away', '90': 'away'}",2022-2023,10
+17. september 2022,15:00,1:2,Oxford United,Milton Keynes Dons,"{'44': 'away', '84': 'away', '89': 'home'}",2022-2023,10
+17. september 2022,15:00,2:1,Port Vale FC,Shrewsbury Town,"{'9': 'home', '19': 'away', '90': 'home'}",2022-2023,10
+17. september 2022,15:00,2:2,Portsmouth FC,Plymouth Argyle,"{'41': 'home', '74': 'away', '79': 'away', '90': 'home'}",2022-2023,10
+17. september 2022,15:00,2:2,Sheffield Wednesday,Ipswich Town,"{'4': 'away', '71': 'away', '75': 'home', '89': 'home'}",2022-2023,10
+24. september 2022,12:30,0:4,Forest Green Rovers,Exeter City,"{'6': 'away', '26': 'away', '41': 'away', '83': 'away'}",2022-2023,11
+24. september 2022,15:00,0:1,Bristol Rovers,Accrington Stanley,{'54': 'away'},2022-2023,11
+24. september 2022,15:00,3:1,Barnsley FC,Charlton Athletic,"{'10': 'home', '54': 'home', '76': 'home', '85': 'away'}",2022-2023,11
+24. september 2022,15:00,1:2,Morecambe FC,Cambridge United,"{'12': 'home', '32': 'away', '87': 'away'}",2022-2023,11
+24. september 2022,15:00,3:0,Peterborough United,Port Vale FC,"{'26': 'home', '36': 'home', '73': 'home'}",2022-2023,11
+24. september 2022,15:00,3:1,Sheffield Wednesday,Wycombe Wanderers,"{'1': 'home', '10': 'away', '32': 'home', '90': 'home'}",2022-2023,11
+24. september 2022,15:00,2:1,Shrewsbury Town,Burton Albion,"{'13': 'home', '57': 'away', '66': 'home'}",2022-2023,11
+25. september 2022,12:30,2:1,Plymouth Argyle,Ipswich Town,"{'39': 'away', '69': 'home', '75': 'home'}",2022-2023,11
+1. november 2022,19:45,1:1,Oxford United,Fleetwood Town,{None: 'home'},2022-2023,11
+28. february 2023,19:45,2:0,Derby County,Cheltenham Town,"{'43': 'home', '67': 'home'}",2022-2023,11
+28. february 2023,19:45,1:1,Lincoln City,Milton Keynes Dons,"{'5': 'home', '89': 'away'}",2022-2023,11
+28. february 2023,19:45,3:1,Portsmouth FC,Bolton Wanderers,"{'48': 'away', '73': 'home', '84': 'home', '87': 'home'}",2022-2023,11
+1. october 2022,15:00,3:1,Accrington Stanley,Morecambe FC,"{'58': 'home', '77': 'away', '81': 'home', '85': 'home'}",2022-2023,12
+1. october 2022,15:00,2:0,Bolton Wanderers,Lincoln City,"{'40': 'home', '84': 'home'}",2022-2023,12
+1. october 2022,15:00,3:2,Burton Albion,Forest Green Rovers,"{'6': 'home', '52': 'away', '69': 'away', '82': 'home', '90': 'home'}",2022-2023,12
+1. october 2022,15:00,0:2,Cambridge United,Derby County,"{'45': 'away', '83': 'away'}",2022-2023,12
+1. october 2022,15:00,1:1,Charlton Athletic,Oxford United,"{'11': 'away', '55': 'home'}",2022-2023,12
+1. october 2022,15:00,2:0,Cheltenham Town,Shrewsbury Town,"{'45': 'home', '46': 'home'}",2022-2023,12
+1. october 2022,15:00,2:2,Exeter City,Bristol Rovers,"{'62': 'away', '72': 'home', '81': 'home', '90': 'away'}",2022-2023,12
+1. october 2022,15:00,0:1,Fleetwood Town,Barnsley FC,{'90': 'away'},2022-2023,12
+1. october 2022,15:00,3:2,Ipswich Town,Portsmouth FC,"{'25': 'home', '32': 'away', '74': 'home', '79': 'away', '80': 'home'}",2022-2023,12
+1. october 2022,15:00,2:3,Milton Keynes Dons,Peterborough United,"{'3': 'away', '36': 'away', '54': 'away', '90': 'home'}",2022-2023,12
+1. october 2022,15:00,0:1,Port Vale FC,Sheffield Wednesday,{'63': 'away'},2022-2023,12
+1. october 2022,15:00,0:1,Wycombe Wanderers,Plymouth Argyle,{'8': 'away'},2022-2023,12
+25. october 2022,19:45,2:1,Bolton Wanderers,Burton Albion,"{'73': 'away', '87': 'home', '90': 'home'}",2022-2023,13
+25. october 2022,19:45,0:2,Charlton Athletic,Milton Keynes Dons,"{'66': 'away', '78': 'away'}",2022-2023,13
+25. october 2022,19:45,1:0,Cheltenham Town,Morecambe FC,{'35': 'home'},2022-2023,13
+25. october 2022,19:45,0:0,Derby County,Exeter City,,2022-2023,13
+25. october 2022,19:45,0:1,Barnsley FC,Lincoln City,{'45': 'away'},2022-2023,13
+25. october 2022,19:45,1:1,Fleetwood Town,Forest Green Rovers,"{'23': 'away', '70': 'home'}",2022-2023,13
+25. october 2022,19:45,3:1,Peterborough United,Accrington Stanley,"{'25': 'away', '33': 'home', '51': 'home', '59': 'home'}",2022-2023,13
+25. october 2022,19:45,2:1,Plymouth Argyle,Shrewsbury Town,"{'30': 'away', '70': 'home', '83': 'home'}",2022-2023,13
+25. october 2022,19:45,2:3,Port Vale FC,Ipswich Town,"{'34': 'away', '38': 'away', '45': 'home', '47': 'home', '51': 'away'}",2022-2023,13
+25. october 2022,19:45,1:1,Portsmouth FC,Oxford United,"{'16': 'away', '78': 'home'}",2022-2023,13
+25. october 2022,19:45,2:3,Wycombe Wanderers,Cambridge United,"{'6': 'away', '35': 'home', '45': 'away', '77': 'away', '90': 'home'}",2022-2023,13
+26. october 2022,20:00,1:1,Sheffield Wednesday,Bristol Rovers,"{'45': 'home', '60': 'away'}",2022-2023,13
+8. october 2022,15:00,2:1,Bristol Rovers,Cambridge United,"{'17': 'home', '35': 'away', '56': 'home'}",2022-2023,14
+8. october 2022,15:00,1:2,Derby County,Port Vale FC,"{'5': 'home', '55': 'away', '66': 'away'}",2022-2023,14
+8. october 2022,15:00,0:2,Barnsley FC,Exeter City,"{'1': 'away', '48': 'away'}",2022-2023,14
+8. october 2022,15:00,1:2,Morecambe FC,Ipswich Town,"{'34': 'home', '54': 'away', '65': 'away'}",2022-2023,14
+8. october 2022,15:00,1:0,Forest Green Rovers,Bolton Wanderers,{'32': 'home'},2022-2023,14
+8. october 2022,15:00,0:0,Lincoln City,Charlton Athletic,,2022-2023,14
+8. october 2022,15:00,0:1,Oxford United,Wycombe Wanderers,{'33': 'away'},2022-2023,14
+8. october 2022,15:00,1:1,Peterborough United,Burton Albion,"{'47': 'home', '75': 'away'}",2022-2023,14
+8. october 2022,15:00,3:0,Plymouth Argyle,Accrington Stanley,"{'24': 'home', '63': 'home', '90': 'home'}",2022-2023,14
+8. october 2022,15:00,1:1,Portsmouth FC,Fleetwood Town,"{'7': 'home', '15': 'away'}",2022-2023,14
+8. october 2022,15:00,3:0,Sheffield Wednesday,Cheltenham Town,"{'3': 'home', '83': 'home', '85': 'home'}",2022-2023,14
+8. october 2022,15:00,2:1,Shrewsbury Town,Milton Keynes Dons,"{'24': 'home', '45': 'home', '54': 'away'}",2022-2023,14
+15. october 2022,15:00,0:3,Accrington Stanley,Derby County,"{'15': 'away', '39': 'away', '90': 'away'}",2022-2023,15
+15. october 2022,15:00,0:0,Bolton Wanderers,Barnsley FC,,2022-2023,15
+15. october 2022,15:00,1:1,Burton Albion,Morecambe FC,"{'30': 'home', '77': 'away'}",2022-2023,15
+15. october 2022,15:00,0:2,Cambridge United,Sheffield Wednesday,"{'6': 'away', '77': 'away'}",2022-2023,15
+15. october 2022,15:00,1:4,Cheltenham Town,Bristol Rovers,"{'15': 'away', '23': 'away', '42': 'away', '45': 'away', '54': 'home'}",2022-2023,15
+15. october 2022,15:00,2:4,Exeter City,Oxford United,"{'12': 'away', '31': 'away', '44': 'away', '54': 'away', '65': 'home', '90': 'home'}",2022-2023,15
+15. october 2022,15:00,0:1,Fleetwood Town,Shrewsbury Town,{'30': 'away'},2022-2023,15
+15. october 2022,15:00,0:1,Ipswich Town,Lincoln City,{'24': 'away'},2022-2023,15
+15. october 2022,15:00,1:4,Milton Keynes Dons,Plymouth Argyle,"{'9': 'away', '25': 'away', '37': 'away', '49': 'home', '59': 'away'}",2022-2023,15
+15. october 2022,15:00,2:2,Port Vale FC,Forest Green Rovers,"{'14': 'away', '37': 'away', '78': 'home', '88': 'home'}",2022-2023,15
+15. october 2022,15:00,3:1,Wycombe Wanderers,Peterborough United,"{'22': 'away', '45': 'home', '74': 'home', '90': 'home'}",2022-2023,15
+17. october 2022,20:00,3:0,Charlton Athletic,Portsmouth FC,"{'17': 'home', '31': 'home', '67': 'home'}",2022-2023,15
+21. october 2022,20:00,1:0,Ipswich Town,Derby County,{'67': 'home'},2022-2023,16
+22. october 2022,13:00,1:1,Lincoln City,Sheffield Wednesday,"{'7': 'away', '46': 'home'}",2022-2023,16
+22. october 2022,15:00,2:3,Accrington Stanley,Bolton Wanderers,"{'8': 'home', '48': 'home', '56': 'away', '71': 'away', '75': 'away'}",2022-2023,16
+22. october 2022,15:00,2:2,Bristol Rovers,Plymouth Argyle,"{'14': 'away', '45': 'away', '47': 'home', '57': 'home'}",2022-2023,16
+22. october 2022,15:00,1:0,Burton Albion,Cheltenham Town,{'77': 'home'},2022-2023,16
+22. october 2022,15:00,0:1,Cambridge United,Port Vale FC,{'79': 'away'},2022-2023,16
+22. october 2022,15:00,2:1,Exeter City,Fleetwood Town,"{'28': 'away', '30': 'home', '90': 'home'}",2022-2023,16
+22. october 2022,15:00,1:0,Morecambe FC,Barnsley FC,{'39': 'home'},2022-2023,16
+22. october 2022,15:00,0:1,Forest Green Rovers,Portsmouth FC,{'17': 'away'},2022-2023,16
+22. october 2022,15:00,0:1,Milton Keynes Dons,Wycombe Wanderers,{'40': 'away'},2022-2023,16
+22. october 2022,15:00,1:2,Oxford United,Peterborough United,"{'7': 'away', '31': 'away', '52': 'home'}",2022-2023,16
+22. october 2022,15:00,0:1,Shrewsbury Town,Charlton Athletic,{'69': 'away'},2022-2023,16
+29. october 2022,15:00,1:3,Bolton Wanderers,Oxford United,"{'25': 'away', '53': 'away', '73': 'home', '79': 'away'}",2022-2023,17
+29. october 2022,15:00,4:4,Charlton Athletic,Ipswich Town,"{'45': 'away', '52': 'away', '63': 'home', '76': 'home', '90': 'home'}",2022-2023,17
+29. october 2022,15:00,0:0,Cheltenham Town,Milton Keynes Dons,,2022-2023,17
+29. october 2022,15:00,4:2,Derby County,Bristol Rovers,"{'5': 'home', '12': 'home', '24': 'home', '35': 'away', '40': 'home', '45': 'away'}",2022-2023,17
+29. october 2022,15:00,2:0,Barnsley FC,Forest Green Rovers,"{'15': 'home', '83': 'home'}",2022-2023,17
+29. october 2022,15:00,3:0,Fleetwood Town,Accrington Stanley,"{'50': 'home', '54': 'home', '59': 'home'}",2022-2023,17
+29. october 2022,15:00,1:0,Peterborough United,Cambridge United,{'18': 'home'},2022-2023,17
+29. october 2022,15:00,1:0,Port Vale FC,Lincoln City,{'68': 'home'},2022-2023,17
+29. october 2022,15:00,1:1,Portsmouth FC,Shrewsbury Town,"{'26': 'away', '29': 'home'}",2022-2023,17
+29. october 2022,15:00,4:2,Sheffield Wednesday,Burton Albion,"{'22': 'home', '26': 'home', '53': 'home', '75': 'home', '76': 'away', '82': 'away'}",2022-2023,17
+29. october 2022,15:00,1:1,Wycombe Wanderers,Morecambe FC,"{'20': 'home', '82': 'away'}",2022-2023,17
+31. october 2022,20:00,4:2,Plymouth Argyle,Exeter City,"{'25': 'away', '27': 'home', '52': 'away', '58': 'home', '70': 'home', '84': 'home'}",2022-2023,17
+12. november 2022,15:00,0:1,Accrington Stanley,Sheffield Wednesday,{'24': 'away'},2022-2023,18
+12. november 2022,15:00,2:2,Bristol Rovers,Fleetwood Town,"{'14': 'away', '57': 'home', '80': 'home', '90': 'away'}",2022-2023,18
+12. november 2022,15:00,3:3,Burton Albion,Charlton Athletic,"{'26': 'away', '36': 'away', '38': 'home', '45': 'home', '58': 'home', '75': 'away'}",2022-2023,18
+12. november 2022,15:00,0:0,Cambridge United,Bolton Wanderers,,2022-2023,18
+12. november 2022,15:00,3:2,Exeter City,Peterborough United,"{'28': 'home', '40': 'away', '81': 'away', '86': 'home', '90': 'home'}",2022-2023,18
+12. november 2022,15:00,1:1,Morecambe FC,Portsmouth FC,"{'36': 'home', '67': 'away'}",2022-2023,18
+12. november 2022,15:00,0:2,Forest Green Rovers,Wycombe Wanderers,"{'14': 'away', '27': 'away'}",2022-2023,18
+12. november 2022,15:00,1:1,Ipswich Town,Cheltenham Town,"{'8': 'home', '34': 'away'}",2022-2023,18
+12. november 2022,15:00,1:1,Lincoln City,Plymouth Argyle,"{'31': 'away', '45': 'home'}",2022-2023,18
+12. november 2022,15:00,1:3,Milton Keynes Dons,Derby County,"{'41': 'home', '43': 'away', '53': 'away', '79': 'away'}",2022-2023,18
+12. november 2022,15:00,4:0,Oxford United,Port Vale FC,"{'10': 'home', '27': 'home', '62': 'home', '66': 'home'}",2022-2023,18
+12. november 2022,15:00,0:1,Shrewsbury Town,Barnsley FC,{'10': 'away'},2022-2023,18
+18. november 2022,20:00,0:0,Portsmouth FC,Derby County,,2022-2023,19
+19. november 2022,12:00,0:2,Exeter City,Ipswich Town,"{'11': 'away', '68': 'away'}",2022-2023,19
+19. november 2022,15:00,1:0,Bristol Rovers,Peterborough United,{'53': 'home'},2022-2023,19
+19. november 2022,15:00,2:2,Burton Albion,Plymouth Argyle,"{'41': 'home', '64': 'away', '73': 'away', '90': 'home'}",2022-2023,19
+19. november 2022,15:00,0:1,Cambridge United,Accrington Stanley,{'45': 'away'},2022-2023,19
+19. november 2022,15:00,1:0,Cheltenham Town,Wycombe Wanderers,{'26': 'home'},2022-2023,19
+19. november 2022,15:00,3:1,Barnsley FC,Milton Keynes Dons,"{'18': 'home', '40': 'away', '50': 'home', '68': 'home'}",2022-2023,19
+19. november 2022,15:00,1:2,Fleetwood Town,Bolton Wanderers,"{'16': 'home', '85': 'away', '90': 'away'}",2022-2023,19
+19. november 2022,15:00,2:1,Lincoln City,Morecambe FC,"{None: 'home', '67': 'home', '81': 'away'}",2022-2023,19
+19. november 2022,15:00,1:1,Oxford United,Forest Green Rovers,"{'19': 'home', '60': 'away'}",2022-2023,19
+19. november 2022,15:00,1:0,Port Vale FC,Charlton Athletic,{'57': 'home'},2022-2023,19
+19. november 2022,15:00,1:0,Sheffield Wednesday,Shrewsbury Town,{'39': 'home'},2022-2023,19
+2. december 2022,19:45,1:1,Bolton Wanderers,Bristol Rovers,"{'2': 'away', '90': 'home'}",2022-2023,20
+2. december 2022,19:45,0:1,Charlton Athletic,Cheltenham Town,{'84': 'away'},2022-2023,20
+2. december 2022,19:45,1:1,Morecambe FC,Exeter City,"{'34': 'home', '36': 'away'}",2022-2023,20
+2. december 2022,19:45,1:1,Ipswich Town,Fleetwood Town,"{'2': 'home', '90': 'away'}",2022-2023,20
+2. december 2022,19:45,1:2,Peterborough United,Barnsley FC,"{'11': 'away', '21': 'home', '61': 'away'}",2022-2023,20
+2. december 2022,19:45,0:2,Plymouth Argyle,Port Vale FC,"{None: 'away', '71': 'away'}",2022-2023,20
+3. december 2022,12:30,0:0,Derby County,Sheffield Wednesday,,2022-2023,20
+3. december 2022,12:30,1:1,Milton Keynes Dons,Burton Albion,"{'29': 'away', '84': 'home'}",2022-2023,20
+3. december 2022,12:30,2:0,Shrewsbury Town,Lincoln City,"{'45': 'home', '60': 'home'}",2022-2023,20
+3. december 2022,13:00,2:1,Forest Green Rovers,Cambridge United,"{None: 'away', '90': 'home'}",2022-2023,20
+3. december 2022,15:00,1:1,Accrington Stanley,Oxford United,"{'58': 'away', '84': 'home'}",2022-2023,20
+4. december 2022,12:30,2:0,Wycombe Wanderers,Portsmouth FC,"{'14': 'home', '88': 'home'}",2022-2023,20
+10. december 2022,12:30,2:1,Ipswich Town,Peterborough United,"{'21': 'home', '31': 'away', '58': 'home'}",2022-2023,21
+10. december 2022,12:30,3:2,Shrewsbury Town,Bolton Wanderers,"{'2': 'home', '13': 'away', '71': 'away', '79': 'home', '90': 'home'}",2022-2023,21
+10. december 2022,14:00,1:1,Burton Albion,Derby County,"{'23': 'away', '79': 'home'}",2022-2023,21
+10. december 2022,14:00,1:0,Forest Green Rovers,Cheltenham Town,{'75': 'home'},2022-2023,21
+10. december 2022,15:00,1:0,Bristol Rovers,Port Vale FC,{'87': 'home'},2022-2023,21
+10. december 2022,15:00,0:0,Cambridge United,Plymouth Argyle,,2022-2023,21
+10. december 2022,15:00,1:1,Exeter City,Sheffield Wednesday,"{'56': 'home', '90': 'away'}",2022-2023,21
+10. december 2022,15:00,0:0,Lincoln City,Wycombe Wanderers,,2022-2023,21
+10. december 2022,15:00,1:2,Milton Keynes Dons,Fleetwood Town,"{'52': 'home', '72': 'away', '90': 'away'}",2022-2023,21
+1. february 2023,19:45,1:2,Oxford United,Barnsley FC,"{'30': 'away', '58': 'away', '71': 'home'}",2022-2023,21
+14. march 2023,19:45,1:3,Accrington Stanley,Portsmouth FC,"{'13': 'away', '57': 'away', '81': 'away', '88': 'home'}",2022-2023,21
+14. march 2023,19:45,1:4,Morecambe FC,Charlton Athletic,"{'17': 'away', '21': 'away', '43': 'away', '61': 'home', '69': 'away'}",2022-2023,21
+17. december 2022,15:00,2:0,Bolton Wanderers,Exeter City,"{'8': 'home', '26': 'home'}",2022-2023,22
+17. december 2022,15:00,1:2,Charlton Athletic,Bristol Rovers,"{'20': 'home', '61': 'away', '72': 'away'}",2022-2023,22
+17. december 2022,15:00,4:0,Derby County,Forest Green Rovers,"{'5': 'home', '21': 'home', '69': 'home', '87': 'home'}",2022-2023,22
+17. december 2022,15:00,2:0,Barnsley FC,Burton Albion,"{'36': 'home', '73': 'home'}",2022-2023,22
+17. december 2022,15:00,2:1,Plymouth Argyle,Morecambe FC,"{'69': 'home', '84': 'home', '90': 'away'}",2022-2023,22
+17. december 2022,15:00,0:2,Portsmouth FC,Milton Keynes Dons,"{'34': 'away', '64': 'away'}",2022-2023,22
+17. december 2022,15:00,0:0,Sheffield Wednesday,Oxford United,,2022-2023,22
+17. december 2022,15:00,1:0,Wycombe Wanderers,Ipswich Town,{'40': 'home'},2022-2023,22
+7. february 2023,19:45,1:1,Port Vale FC,Accrington Stanley,"{'52': 'away', '57': 'home'}",2022-2023,22
+21. february 2023,19:45,1:0,Fleetwood Town,Cambridge United,{'88': 'home'},2022-2023,22
+7. march 2023,19:45,0:0,Cheltenham Town,Lincoln City,,2022-2023,22
+7. march 2023,19:45,2:1,Peterborough United,Shrewsbury Town,"{'17': 'home', '21': 'away', '87': 'home'}",2022-2023,22
+26. december 2022,15:00,1:1,Accrington Stanley,Barnsley FC,"{'8': 'away', '62': 'home'}",2022-2023,23
+26. december 2022,15:00,3:0,Burton Albion,Lincoln City,"{'5': 'home', '14': 'home', '27': 'home'}",2022-2023,23
+26. december 2022,15:00,2:1,Cambridge United,Shrewsbury Town,"{'64': 'away', '67': 'home', '76': 'home'}",2022-2023,23
+26. december 2022,15:00,1:1,Charlton Athletic,Peterborough United,"{'49': 'home', '65': 'away'}",2022-2023,23
+26. december 2022,15:00,0:1,Cheltenham Town,Plymouth Argyle,{'78': 'away'},2022-2023,23
+26. december 2022,15:00,0:0,Exeter City,Portsmouth FC,,2022-2023,23
+26. december 2022,15:00,1:2,Fleetwood Town,Sheffield Wednesday,"{'8': 'home', '16': 'away', '73': 'away'}",2022-2023,23
+26. december 2022,15:00,3:0,Ipswich Town,Oxford United,"{'39': 'home', '45': 'home', '81': 'home'}",2022-2023,23
+26. december 2022,15:00,1:0,Milton Keynes Dons,Forest Green Rovers,{'58': 'home'},2022-2023,23
+26. december 2022,15:00,1:0,Port Vale FC,Morecambe FC,{'40': 'home'},2022-2023,23
+26. december 2022,15:00,2:1,Wycombe Wanderers,Bristol Rovers,"{'4': 'away', '22': 'home', '48': 'home'}",2022-2023,23
+27. december 2022,15:00,0:0,Bolton Wanderers,Derby County,,2022-2023,23
+29. december 2022,19:45,3:4,Bristol Rovers,Exeter City,"{'13': 'away', '45': 'away', '57': 'home', '64': 'home', '74': 'home', '85': 'away', '90': 'away'}",2022-2023,24
+29. december 2022,19:45,2:1,Barnsley FC,Fleetwood Town,"{'64': 'home', '77': 'away', '86': 'home'}",2022-2023,24
+29. december 2022,19:45,2:0,Morecambe FC,Accrington Stanley,"{'34': 'home', '43': 'home'}",2022-2023,24
+29. december 2022,19:45,1:2,Forest Green Rovers,Burton Albion,"{'45': 'away', '89': 'away', '90': 'home'}",2022-2023,24
+29. december 2022,19:45,3:1,Oxford United,Charlton Athletic,"{'20': 'home', None: 'home', '67': 'away', '82': 'home'}",2022-2023,24
+29. december 2022,19:45,2:0,Peterborough United,Milton Keynes Dons,"{'38': 'home', '48': 'home'}",2022-2023,24
+29. december 2022,19:45,1:0,Plymouth Argyle,Wycombe Wanderers,{'33': 'home'},2022-2023,24
+29. december 2022,19:45,2:2,Portsmouth FC,Ipswich Town,"{'4': 'home', '11': 'away', '60': 'home', '87': 'away'}",2022-2023,24
+29. december 2022,19:45,2:0,Sheffield Wednesday,Port Vale FC,"{'30': 'home', '70': 'home'}",2022-2023,24
+29. december 2022,19:45,0:1,Shrewsbury Town,Cheltenham Town,{'38': 'away'},2022-2023,24
+30. december 2022,19:45,1:0,Derby County,Cambridge United,{'57': 'home'},2022-2023,24
+30. december 2022,19:45,1:1,Lincoln City,Bolton Wanderers,"{'10': 'home', '58': 'away'}",2022-2023,24
+1. january 2023,15:00,2:1,Bristol Rovers,Cheltenham Town,"{'25': 'home', '39': 'home', '48': 'away'}",2022-2023,25
+1. january 2023,15:00,5:0,Morecambe FC,Burton Albion,"{'32': 'home', '45': 'home', '51': 'home', '55': 'home', '83': 'home'}",2022-2023,25
+1. january 2023,15:00,1:3,Forest Green Rovers,Port Vale FC,"{'2': 'home', '86': 'away', '90': 'away'}",2022-2023,25
+1. january 2023,15:00,0:1,Oxford United,Exeter City,{'79': 'away'},2022-2023,25
+1. january 2023,15:00,0:3,Peterborough United,Wycombe Wanderers,"{'15': 'away', '67': 'away', '75': 'away'}",2022-2023,25
+1. january 2023,15:00,3:1,Plymouth Argyle,Milton Keynes Dons,"{'4': 'home', '19': 'away', '37': 'home', '53': 'home'}",2022-2023,25
+1. january 2023,15:00,1:3,Portsmouth FC,Charlton Athletic,"{'23': 'away', '45': 'home', '48': 'away', '90': 'away'}",2022-2023,25
+1. january 2023,15:00,0:3,Shrewsbury Town,Fleetwood Town,"{'25': 'away', '28': 'away', '89': 'away'}",2022-2023,25
+2. january 2023,15:00,4:0,Derby County,Accrington Stanley,"{'7': 'home', '16': 'home', '45': 'home', '46': 'home'}",2022-2023,25
+2. january 2023,15:00,0:3,Barnsley FC,Bolton Wanderers,"{'12': 'away', '41': 'away', '76': 'away'}",2022-2023,25
+2. january 2023,15:00,1:1,Lincoln City,Ipswich Town,"{'64': 'home', '81': 'away'}",2022-2023,25
+2. january 2023,15:00,5:0,Sheffield Wednesday,Cambridge United,"{'7': 'home', '21': 'home', '51': 'home', '70': 'home', '80': 'home'}",2022-2023,25
+7. january 2023,15:00,1:2,Cambridge United,Bristol Rovers,"{'5': 'home', '22': 'away', '29': 'away'}",2022-2023,26
+7. january 2023,15:00,2:1,Charlton Athletic,Lincoln City,"{'35': 'home', '42': 'home', '76': 'away'}",2022-2023,26
+24. january 2023,19:45,1:0,Bolton Wanderers,Forest Green Rovers,{'6': 'home'},2022-2023,26
+24. january 2023,19:45,0:2,Fleetwood Town,Portsmouth FC,"{'43': 'away', '83': 'away'}",2022-2023,26
+24. january 2023,19:45,4:0,Ipswich Town,Morecambe FC,"{'1': 'home', '16': 'home', '38': 'home', '45': 'home'}",2022-2023,26
+24. january 2023,19:45,0:1,Milton Keynes Dons,Shrewsbury Town,{'89': 'away'},2022-2023,26
+24. january 2023,19:45,1:2,Port Vale FC,Derby County,"{'56': 'home', '87': 'away', '89': 'away'}",2022-2023,26
+24. january 2023,19:45,2:0,Wycombe Wanderers,Oxford United,"{'19': 'home', '35': 'home'}",2022-2023,26
+14. march 2023,19:45,2:5,Burton Albion,Peterborough United,"{'12': 'away', '19': 'away', '28': 'home', '38': 'away', '51': 'away', '55': 'home', '64': 'away'}",2022-2023,26
+21. march 2023,19:45,0:2,Accrington Stanley,Plymouth Argyle,"{'14': 'away', '78': 'away'}",2022-2023,26
+28. march 2023,19:45,3:1,Exeter City,Barnsley FC,"{'26': 'home', '37': 'away', '49': 'home', '89': 'home'}",2022-2023,26
+29. march 2023,19:45,2:2,Cheltenham Town,Sheffield Wednesday,"{'62': 'home', '69': 'home', '76': 'away', '87': 'away'}",2022-2023,26
+14. january 2023,15:00,2:0,Accrington Stanley,Bristol Rovers,"{'51': 'home', '79': 'home'}",2022-2023,27
+14. january 2023,15:00,3:0,Bolton Wanderers,Portsmouth FC,"{'15': 'home', '48': 'home', '71': 'home'}",2022-2023,27
+14. january 2023,15:00,0:4,Burton Albion,Shrewsbury Town,"{'1': 'away', '43': 'away', '58': 'away', '90': 'away'}",2022-2023,27
+14. january 2023,15:00,2:0,Charlton Athletic,Barnsley FC,"{'19': 'home', '61': 'home'}",2022-2023,27
+14. january 2023,15:00,2:3,Cheltenham Town,Derby County,"{'2': 'home', '8': 'away', '11': 'away', '55': 'away', '77': 'home'}",2022-2023,27
+14. january 2023,15:00,1:1,Exeter City,Forest Green Rovers,"{'54': 'away', '75': 'home'}",2022-2023,27
+14. january 2023,15:00,1:2,Fleetwood Town,Oxford United,"{'44': 'home', '62': 'away', '90': 'away'}",2022-2023,27
+14. january 2023,15:00,1:1,Ipswich Town,Plymouth Argyle,"{'63': 'home', '90': 'away'}",2022-2023,27
+14. january 2023,15:00,0:0,Milton Keynes Dons,Lincoln City,,2022-2023,27
+14. january 2023,15:00,0:1,Wycombe Wanderers,Sheffield Wednesday,{'13': 'away'},2022-2023,27
+16. january 2023,20:00,0:2,Port Vale FC,Peterborough United,"{'56': 'away', '64': 'away'}",2022-2023,27
+7. march 2023,19:45,1:1,Cambridge United,Morecambe FC,"{'14': 'home', '45': 'away'}",2022-2023,27
+21. january 2023,15:00,2:1,Derby County,Bolton Wanderers,"{'16': 'home', '72': 'home', '90': 'away'}",2022-2023,28
+21. january 2023,15:00,3:1,Barnsley FC,Accrington Stanley,"{'5': 'home', '8': 'home', '19': 'home', '90': 'away'}",2022-2023,28
+21. january 2023,15:00,1:2,Forest Green Rovers,Milton Keynes Dons,"{'29': 'home', '43': 'away', '51': 'away'}",2022-2023,28
+21. january 2023,15:00,2:1,Oxford United,Ipswich Town,"{'34': 'home', '38': 'away', '83': 'home'}",2022-2023,28
+21. january 2023,15:00,4:2,Plymouth Argyle,Cheltenham Town,"{'26': 'home', '28': 'home', '40': 'away', '64': 'home', '70': 'away', '83': 'home'}",2022-2023,28
+21. january 2023,15:00,2:0,Portsmouth FC,Exeter City,"{'57': 'home', '74': 'home'}",2022-2023,28
+21. january 2023,15:00,1:0,Sheffield Wednesday,Fleetwood Town,{'17': 'home'},2022-2023,28
+21. january 2023,15:00,5:1,Shrewsbury Town,Cambridge United,"{'33': 'home', '45': 'home', '57': 'home', '69': 'away', '71': 'home', '90': 'home'}",2022-2023,28
+21. february 2023,19:45,1:0,Morecambe FC,Port Vale FC,{'51': 'home'},2022-2023,28
+28. february 2023,19:45,0:0,Peterborough United,Charlton Athletic,,2022-2023,28
+14. march 2023,19:45,0:2,Bristol Rovers,Wycombe Wanderers,"{'16': 'away', '62': 'away'}",2022-2023,28
+25. april 2023,19:45,0:1,Lincoln City,Burton Albion,{'79': 'away'},2022-2023,28
+28. january 2023,12:30,1:2,Charlton Athletic,Bolton Wanderers,"{'4': 'away', '46': 'home', '68': 'away'}",2022-2023,29
+28. january 2023,15:00,2:0,Burton Albion,Oxford United,"{'40': 'home', '49': 'home'}",2022-2023,29
+28. january 2023,15:00,0:0,Cheltenham Town,Port Vale FC,,2022-2023,29
+28. january 2023,15:00,5:1,Morecambe FC,Bristol Rovers,"{'20': 'home', '47': 'home', '49': 'home', '62': 'home', '88': 'home', '90': 'away'}",2022-2023,29
+28. january 2023,15:00,0:0,Lincoln City,Cambridge United,,2022-2023,29
+28. january 2023,15:00,0:2,Milton Keynes Dons,Exeter City,"{'37': 'away', '67': 'away'}",2022-2023,29
+28. january 2023,15:00,2:1,Peterborough United,Portsmouth FC,"{'18': 'home', '44': 'home', '87': 'away'}",2022-2023,29
+28. january 2023,15:00,2:1,Shrewsbury Town,Forest Green Rovers,"{'18': 'away', '90': 'home'}",2022-2023,29
+7. march 2023,19:45,3:0,Ipswich Town,Accrington Stanley,"{'12': 'home', '56': 'home', '90': 'home'}",2022-2023,29
+7. march 2023,19:45,2:0,Wycombe Wanderers,Fleetwood Town,"{None: 'home', '66': 'home'}",2022-2023,29
+7. march 2023,20:00,2:1,Plymouth Argyle,Derby County,"{'17': 'away', '59': 'home', '70': 'home'}",2022-2023,29
+21. march 2023,20:00,4:2,Barnsley FC,Sheffield Wednesday,"{'10': 'home', '12': 'home', '33': 'away', '74': 'away', '83': 'home', '90': 'home'}",2022-2023,29
+4. february 2023,15:00,0:3,Accrington Stanley,Lincoln City,"{'24': 'away', '55': 'away', '58': 'away'}",2022-2023,30
+4. february 2023,15:00,1:0,Bolton Wanderers,Cheltenham Town,{'80': 'home'},2022-2023,30
+4. february 2023,15:00,0:2,Bristol Rovers,Milton Keynes Dons,"{'3': 'away', '90': 'away'}",2022-2023,30
+4. february 2023,15:00,1:1,Cambridge United,Ipswich Town,"{'24': 'home', '54': 'away'}",2022-2023,30
+4. february 2023,15:00,5:0,Derby County,Morecambe FC,"{'45': 'home', '47': 'home', '50': 'home', '66': 'home', '69': 'home'}",2022-2023,30
+4. february 2023,15:00,1:2,Exeter City,Charlton Athletic,"{'8': 'away', '18': 'away', '31': 'home'}",2022-2023,30
+4. february 2023,15:00,2:3,Fleetwood Town,Burton Albion,"{'58': 'home', '60': 'away', '80': 'away', '90': 'away'}",2022-2023,30
+4. february 2023,15:00,0:2,Forest Green Rovers,Peterborough United,"{'72': 'away', '90': 'away'}",2022-2023,30
+4. february 2023,15:00,0:1,Oxford United,Shrewsbury Town,{'74': 'away'},2022-2023,30
+4. february 2023,15:00,0:3,Port Vale FC,Wycombe Wanderers,"{'13': 'away', '79': 'away', '82': 'away'}",2022-2023,30
+4. february 2023,15:00,1:1,Portsmouth FC,Barnsley FC,"{'49': 'home', '89': 'away'}",2022-2023,30
+4. february 2023,15:00,1:0,Sheffield Wednesday,Plymouth Argyle,{'7': 'home'},2022-2023,30
+11. february 2023,15:00,1:0,Burton Albion,Exeter City,{'84': 'home'},2022-2023,31
+11. february 2023,15:00,1:2,Charlton Athletic,Fleetwood Town,"{'28': 'away', '45': 'home', '52': 'away'}",2022-2023,31
+11. february 2023,15:00,0:0,Cheltenham Town,Accrington Stanley,,2022-2023,31
+11. february 2023,15:00,2:0,Barnsley FC,Cambridge United,"{'8': 'home', '64': 'home'}",2022-2023,31
+11. february 2023,15:00,1:1,Morecambe FC,Forest Green Rovers,"{'81': 'away', '89': 'home'}",2022-2023,31
+11. february 2023,15:00,2:2,Ipswich Town,Sheffield Wednesday,"{'27': 'away', '34': 'away', '43': 'home', '51': 'home'}",2022-2023,31
+11. february 2023,15:00,1:0,Lincoln City,Bristol Rovers,{'14': 'home'},2022-2023,31
+11. february 2023,15:00,1:1,Milton Keynes Dons,Oxford United,"{'25': 'home', '71': 'away'}",2022-2023,31
+11. february 2023,15:00,0:5,Peterborough United,Bolton Wanderers,"{'12': 'away', '42': 'away', '47': 'away', '51': 'away', '77': 'away'}",2022-2023,31
+11. february 2023,15:00,3:1,Plymouth Argyle,Portsmouth FC,"{'24': 'home', '70': 'home', '79': 'away', '90': 'home'}",2022-2023,31
+11. february 2023,15:00,3:2,Shrewsbury Town,Port Vale FC,"{'13': 'away', '27': 'home', '33': 'home', '43': 'home', '52': 'away'}",2022-2023,31
+11. february 2023,15:00,3:2,Wycombe Wanderers,Derby County,"{'11': 'home', '66': 'away', '77': 'home', '86': 'home', '89': 'away'}",2022-2023,31
+14. february 2023,19:45,0:2,Accrington Stanley,Wycombe Wanderers,"{'18': 'away', '90': 'away'}",2022-2023,32
+14. february 2023,19:45,5:0,Bolton Wanderers,Milton Keynes Dons,"{'7': 'home', '21': 'home', '28': 'home', '62': 'home', '90': 'home'}",2022-2023,32
+14. february 2023,19:45,0:0,Bristol Rovers,Ipswich Town,,2022-2023,32
+14. february 2023,19:45,1:2,Cambridge United,Cheltenham Town,"{'57': 'away', '61': 'home', '79': 'away'}",2022-2023,32
+14. february 2023,19:45,1:1,Derby County,Lincoln City,"{'43': 'away', '69': 'home'}",2022-2023,32
+14. february 2023,19:45,0:0,Exeter City,Shrewsbury Town,,2022-2023,32
+14. february 2023,19:45,1:0,Fleetwood Town,Peterborough United,{'20': 'home'},2022-2023,32
+14. february 2023,19:45,0:1,Forest Green Rovers,Charlton Athletic,{'12': 'away'},2022-2023,32
+14. february 2023,19:45,1:3,Oxford United,Plymouth Argyle,"{'19': 'away', '44': 'home', '65': 'away', '90': 'away'}",2022-2023,32
+14. february 2023,19:45,1:3,Port Vale FC,Barnsley FC,"{'1': 'away', '14': 'home', '21': 'away', '61': 'away'}",2022-2023,32
+14. february 2023,19:45,1:0,Portsmouth FC,Burton Albion,{'90': 'home'},2022-2023,32
+14. february 2023,19:45,3:0,Sheffield Wednesday,Morecambe FC,"{'1': 'home', '22': 'home', None: 'home'}",2022-2023,32
+18. february 2023,15:00,1:0,Accrington Stanley,Shrewsbury Town,{'13': 'home'},2022-2023,33
+18. february 2023,15:00,1:2,Bristol Rovers,Burton Albion,"{'9': 'home', '44': 'away', '55': 'away'}",2022-2023,33
+18. february 2023,15:00,1:0,Cambridge United,Oxford United,{'8': 'home'},2022-2023,33
+18. february 2023,15:00,0:4,Cheltenham Town,Barnsley FC,"{'8': 'away', '15': 'away', '36': 'away', '74': 'away'}",2022-2023,33
+18. february 2023,15:00,2:0,Derby County,Charlton Athletic,"{'9': 'home', '69': 'home'}",2022-2023,33
+18. february 2023,15:00,0:3,Morecambe FC,Peterborough United,"{'12': 'away', '22': 'away', '29': 'away'}",2022-2023,33
+18. february 2023,15:00,4:0,Ipswich Town,Forest Green Rovers,"{'3': 'home', '41': 'home', '60': 'home', '79': 'home'}",2022-2023,33
+18. february 2023,15:00,0:0,Lincoln City,Portsmouth FC,,2022-2023,33
+18. february 2023,15:00,0:0,Plymouth Argyle,Fleetwood Town,,2022-2023,33
+18. february 2023,15:00,1:0,Port Vale FC,Exeter City,{'60': 'home'},2022-2023,33
+18. february 2023,15:00,5:2,Sheffield Wednesday,Milton Keynes Dons,"{'2': 'away', '9': 'home', '24': 'away', '54': 'home', '64': 'home', '74': 'home', '89': 'home'}",2022-2023,33
+18. february 2023,15:00,1:0,Wycombe Wanderers,Bolton Wanderers,{'45': 'home'},2022-2023,33
+25. february 2023,12:30,0:3,Oxford United,Bristol Rovers,"{'22': 'away', '28': 'away', '75': 'away'}",2022-2023,34
+25. february 2023,15:00,2:1,Bolton Wanderers,Port Vale FC,"{'8': 'away', '18': 'home', '27': 'home'}",2022-2023,34
+25. february 2023,15:00,0:0,Burton Albion,Accrington Stanley,,2022-2023,34
+25. february 2023,15:00,0:1,Charlton Athletic,Sheffield Wednesday,{'9': 'away'},2022-2023,34
+25. february 2023,15:00,2:0,Exeter City,Cambridge United,"{'18': 'home', '53': 'home'}",2022-2023,34
+25. february 2023,15:00,4:1,Barnsley FC,Derby County,"{'21': 'home', '33': 'home', '35': 'away', '45': 'home', '90': 'home'}",2022-2023,34
+25. february 2023,15:00,1:0,Fleetwood Town,Morecambe FC,{'13': 'home'},2022-2023,34
+25. february 2023,15:00,1:1,Forest Green Rovers,Lincoln City,"{'4': 'away', '58': 'home'}",2022-2023,34
+25. february 2023,15:00,0:1,Milton Keynes Dons,Ipswich Town,{'26': 'away'},2022-2023,34
+25. february 2023,15:00,5:2,Peterborough United,Plymouth Argyle,"{'16': 'home', '19': 'home', '36': 'away', '54': 'home', '58': 'away', '64': 'home', '78': 'home'}",2022-2023,34
+25. february 2023,15:00,4:0,Portsmouth FC,Cheltenham Town,"{'5': 'home', '20': 'home', '26': 'home', '90': 'home'}",2022-2023,34
+25. february 2023,15:00,2:0,Shrewsbury Town,Wycombe Wanderers,"{'31': 'home', '86': 'home'}",2022-2023,34
+4. march 2023,12:30,0:0,Morecambe FC,Bolton Wanderers,,2022-2023,35
+4. march 2023,15:00,2:1,Accrington Stanley,Forest Green Rovers,{None: 'home'},2022-2023,35
+4. march 2023,15:00,0:0,Bristol Rovers,Barnsley FC,,2022-2023,35
+4. march 2023,15:00,0:1,Cambridge United,Portsmouth FC,{None: 'away'},2022-2023,35
+4. march 2023,15:00,1:0,Cheltenham Town,Fleetwood Town,{None: 'home'},2022-2023,35
+4. march 2023,15:00,2:2,Derby County,Shrewsbury Town,"{None: 'away', '45': 'home', '72': 'away'}",2022-2023,35
+4. march 2023,15:00,4:0,Ipswich Town,Burton Albion,{None: 'home'},2022-2023,35
+4. march 2023,15:00,1:0,Lincoln City,Oxford United,{'23': 'home'},2022-2023,35
+4. march 2023,15:00,2:0,Plymouth Argyle,Charlton Athletic,{None: 'home'},2022-2023,35
+4. march 2023,15:00,1:0,Port Vale FC,Milton Keynes Dons,{None: 'home'},2022-2023,35
+4. march 2023,15:00,1:0,Sheffield Wednesday,Peterborough United,{'60': 'home'},2022-2023,35
+4. march 2023,15:00,1:1,Wycombe Wanderers,Exeter City,{None: 'away'},2022-2023,35
+11. march 2023,15:00,0:2,Bolton Wanderers,Ipswich Town,"{'44': 'away', '68': 'away'}",2022-2023,36
+11. march 2023,15:00,2:1,Burton Albion,Wycombe Wanderers,"{'10': 'home', '18': 'home', '85': 'away'}",2022-2023,36
+11. march 2023,15:00,1:1,Charlton Athletic,Accrington Stanley,"{'28': 'away', '37': 'home'}",2022-2023,36
+11. march 2023,15:00,2:1,Exeter City,Lincoln City,"{'19': 'away', '33': 'home', '73': 'home'}",2022-2023,36
+11. march 2023,15:00,3:0,Barnsley FC,Plymouth Argyle,"{'60': 'home', '77': 'home', '90': 'home'}",2022-2023,36
+11. march 2023,15:00,1:1,Fleetwood Town,Port Vale FC,"{'57': 'away', '83': 'home'}",2022-2023,36
+11. march 2023,15:00,1:3,Forest Green Rovers,Bristol Rovers,"{'12': 'home', '19': 'away', '26': 'away', '61': 'away'}",2022-2023,36
+11. march 2023,15:00,1:0,Milton Keynes Dons,Cambridge United,{'35': 'home'},2022-2023,36
+11. march 2023,15:00,2:3,Oxford United,Derby County,"{'14': 'home', '23': 'away', '40': 'away', '61': 'away', '90': 'home'}",2022-2023,36
+11. march 2023,15:00,0:3,Peterborough United,Cheltenham Town,"{'15': 'away', '21': 'away', '74': 'away'}",2022-2023,36
+11. march 2023,15:00,0:1,Portsmouth FC,Sheffield Wednesday,{'11': 'away'},2022-2023,36
+11. march 2023,15:00,3:1,Shrewsbury Town,Morecambe FC,"{'33': 'home', '44': 'home', '45': 'away', '84': 'home'}",2022-2023,36
+17. march 2023,19:45,1:1,Sheffield Wednesday,Bolton Wanderers,"{'11': 'home', '36': 'away'}",2022-2023,37
+18. march 2023,13:00,0:3,Lincoln City,Peterborough United,"{'28': 'away', '67': 'away', '83': 'away'}",2022-2023,37
+18. march 2023,15:00,0:1,Accrington Stanley,Milton Keynes Dons,{'8': 'away'},2022-2023,37
+18. march 2023,15:00,0:2,Bristol Rovers,Portsmouth FC,"{'18': 'away', '69': 'away'}",2022-2023,37
+18. march 2023,15:00,1:2,Cambridge United,Charlton Athletic,"{'14': 'away', '28': 'away', '72': 'home'}",2022-2023,37
+18. march 2023,15:00,3:1,Cheltenham Town,Exeter City,"{'17': 'home', '69': 'away', '74': 'home', '79': 'home'}",2022-2023,37
+18. march 2023,15:00,0:2,Derby County,Fleetwood Town,"{'11': 'away', '30': 'away'}",2022-2023,37
+18. march 2023,15:00,1:1,Morecambe FC,Oxford United,"{'41': 'away', '87': 'home'}",2022-2023,37
+18. march 2023,15:00,2:0,Ipswich Town,Shrewsbury Town,"{'15': 'home', '51': 'home'}",2022-2023,37
+18. march 2023,15:00,2:0,Plymouth Argyle,Forest Green Rovers,"{'8': 'home', '47': 'home'}",2022-2023,37
+18. march 2023,15:00,2:3,Port Vale FC,Burton Albion,"{'2': 'home', '8': 'away', '48': 'away', '67': 'away', '80': 'home'}",2022-2023,37
+18. march 2023,15:00,0:1,Wycombe Wanderers,Barnsley FC,{'85': 'away'},2022-2023,37
+7. january 2023,15:00,0:0,Bolton Wanderers,Plymouth Argyle,,2022-2023,38
+25. march 2023,15:00,1:1,Charlton Athletic,Wycombe Wanderers,"{'16': 'home', '82': 'away'}",2022-2023,38
+25. march 2023,15:00,5:0,Exeter City,Accrington Stanley,"{'36': 'home', '49': 'home', '54': 'home', '75': 'home', '81': 'home'}",2022-2023,38
+25. march 2023,15:00,2:1,Fleetwood Town,Lincoln City,"{'16': 'home', '45': 'away', '73': 'home'}",2022-2023,38
+25. march 2023,15:00,1:0,Milton Keynes Dons,Morecambe FC,{'57': 'home'},2022-2023,38
+25. march 2023,15:00,2:0,Peterborough United,Derby County,"{'52': 'home', '83': 'home'}",2022-2023,38
+25. march 2023,15:00,2:2,Portsmouth FC,Port Vale FC,"{'8': 'away', '39': 'away', '67': 'home', '70': 'home'}",2022-2023,38
+26. march 2023,13:00,1:0,Forest Green Rovers,Sheffield Wednesday,{'35': 'home'},2022-2023,38
+25. april 2023,19:45,0:3,Barnsley FC,Ipswich Town,"{'44': 'away', '45': 'away', '81': 'away'}",2022-2023,38
+25. april 2023,19:45,4:0,Oxford United,Cheltenham Town,"{'38': 'home', '52': 'home', '60': 'home', '65': 'home'}",2022-2023,38
+2. may 2023,19:45,2:1,Shrewsbury Town,Bristol Rovers,"{'3': 'home', '53': 'home', '70': 'away'}",2022-2023,38
+3. may 2023,19:45,1:0,Burton Albion,Cambridge United,{'28': 'home'},2022-2023,38
+1. april 2023,15:00,6:0,Charlton Athletic,Shrewsbury Town,"{'27': 'home', '38': 'home', '45': 'home', '61': 'home', '70': 'home', '90': 'home'}",2022-2023,39
+1. april 2023,15:00,0:0,Cheltenham Town,Burton Albion,,2022-2023,39
+1. april 2023,15:00,0:2,Derby County,Ipswich Town,"{'17': 'away', '76': 'away'}",2022-2023,39
+1. april 2023,15:00,5:0,Barnsley FC,Morecambe FC,"{'4': 'home', '21': 'home', '32': 'home', '53': 'home', '90': 'home'}",2022-2023,39
+1. april 2023,15:00,2:2,Fleetwood Town,Exeter City,"{'18': 'home', '28': 'away', '35': 'home', '90': 'away'}",2022-2023,39
+1. april 2023,15:00,0:0,Peterborough United,Oxford United,,2022-2023,39
+1. april 2023,15:00,0:2,Port Vale FC,Cambridge United,"{'48': 'away', '52': 'away'}",2022-2023,39
+1. april 2023,15:00,1:0,Portsmouth FC,Forest Green Rovers,{'51': 'home'},2022-2023,39
+1. april 2023,15:00,1:1,Sheffield Wednesday,Lincoln City,"{'12': 'home', '28': 'away'}",2022-2023,39
+1. april 2023,15:00,2:2,Wycombe Wanderers,Milton Keynes Dons,"{'9': 'away', '22': 'home', '55': 'home', '71': 'away'}",2022-2023,39
+25. april 2023,19:45,0:1,Bolton Wanderers,Accrington Stanley,{'42': 'away'},2022-2023,39
+25. april 2023,19:45,2:0,Plymouth Argyle,Bristol Rovers,"{'51': 'home', '56': 'home'}",2022-2023,39
+7. april 2023,15:00,3:0,Accrington Stanley,Port Vale FC,"{'31': 'home', '40': 'home', '68': 'home'}",2022-2023,40
+7. april 2023,15:00,1:0,Bristol Rovers,Charlton Athletic,{'71': 'home'},2022-2023,40
+7. april 2023,15:00,2:1,Burton Albion,Barnsley FC,"{'50': 'home', '87': 'home', '89': 'away'}",2022-2023,40
+7. april 2023,15:00,2:1,Cambridge United,Fleetwood Town,"{'3': 'home', '57': 'home', '82': 'away'}",2022-2023,40
+7. april 2023,15:00,0:1,Exeter City,Bolton Wanderers,{'27': 'away'},2022-2023,40
+7. april 2023,15:00,1:3,Morecambe FC,Plymouth Argyle,"{'3': 'home', '63': 'away', '86': 'away', '90': 'away'}",2022-2023,40
+7. april 2023,15:00,0:2,Forest Green Rovers,Derby County,"{'2': 'away', '82': 'away'}",2022-2023,40
+7. april 2023,15:00,4:0,Ipswich Town,Wycombe Wanderers,"{'38': 'home', '45': 'home', '57': 'home', '76': 'home'}",2022-2023,40
+7. april 2023,15:00,2:0,Lincoln City,Cheltenham Town,"{'42': 'home', '79': 'home'}",2022-2023,40
+7. april 2023,15:00,1:1,Milton Keynes Dons,Portsmouth FC,"{'14': 'away', '65': 'home'}",2022-2023,40
+7. april 2023,15:00,1:1,Oxford United,Sheffield Wednesday,"{'35': 'away', '70': 'home'}",2022-2023,40
+7. april 2023,15:00,0:3,Shrewsbury Town,Peterborough United,"{'30': 'away', '51': 'away', '83': 'away'}",2022-2023,40
+10. april 2023,15:00,1:1,Bolton Wanderers,Cambridge United,"{'67': 'home', '90': 'away'}",2022-2023,41
+10. april 2023,15:00,3:2,Charlton Athletic,Burton Albion,"{'7': 'home', '17': 'home', '45': 'away', '50': 'home', '76': 'away'}",2022-2023,41
+10. april 2023,15:00,1:1,Cheltenham Town,Ipswich Town,"{'64': 'away', '84': 'home'}",2022-2023,41
+10. april 2023,15:00,1:1,Derby County,Milton Keynes Dons,"{'17': 'home', '68': 'away'}",2022-2023,41
+10. april 2023,15:00,2:1,Barnsley FC,Shrewsbury Town,"{'40': 'home', '45': 'home', '90': 'away'}",2022-2023,41
+10. april 2023,15:00,1:2,Fleetwood Town,Bristol Rovers,"{'22': 'home', '56': 'away', '66': 'away'}",2022-2023,41
+10. april 2023,15:00,3:1,Peterborough United,Exeter City,"{'8': 'home', '41': 'home', '46': 'away', '70': 'home'}",2022-2023,41
+10. april 2023,15:00,0:2,Plymouth Argyle,Lincoln City,"{'28': 'away', '47': 'away'}",2022-2023,41
+10. april 2023,15:00,0:0,Port Vale FC,Oxford United,,2022-2023,41
+10. april 2023,15:00,0:0,Portsmouth FC,Morecambe FC,,2022-2023,41
+10. april 2023,15:00,3:0,Sheffield Wednesday,Accrington Stanley,"{'11': 'home', '46': 'home', '72': 'home'}",2022-2023,41
+10. april 2023,15:00,2:0,Wycombe Wanderers,Forest Green Rovers,"{'9': 'home', '52': 'home'}",2022-2023,41
+15. april 2023,12:00,0:1,Exeter City,Plymouth Argyle,{'70': 'away'},2022-2023,42
+15. april 2023,12:30,2:0,Cambridge United,Peterborough United,"{'45': 'home', '66': 'home'}",2022-2023,42
+15. april 2023,15:00,2:5,Accrington Stanley,Fleetwood Town,"{'9': 'away', '35': 'away', '57': 'away', '65': 'home', '81': 'home', '90': 'away'}",2022-2023,42
+15. april 2023,15:00,1:1,Bristol Rovers,Derby County,"{'4': 'away', '90': 'home'}",2022-2023,42
+15. april 2023,15:00,3:2,Burton Albion,Sheffield Wednesday,"{'21': 'home', '28': 'away', '34': 'home', '37': 'home', '85': 'away'}",2022-2023,42
+15. april 2023,15:00,1:0,Morecambe FC,Wycombe Wanderers,{'89': 'home'},2022-2023,42
+15. april 2023,15:00,1:5,Forest Green Rovers,Barnsley FC,"{'8': 'away', '29': 'away', '37': 'away', '53': 'away', '74': 'home', '90': 'away'}",2022-2023,42
+15. april 2023,15:00,6:0,Ipswich Town,Charlton Athletic,"{'7': 'home', '14': 'home', '70': 'home', '75': 'home', '84': 'home', '90': 'home'}",2022-2023,42
+15. april 2023,15:00,3:2,Lincoln City,Port Vale FC,"{'11': 'home', '30': 'away', '33': 'away', '42': 'home', '87': 'home'}",2022-2023,42
+15. april 2023,15:00,2:2,Milton Keynes Dons,Cheltenham Town,"{'12': 'away', '45': 'home', '59': 'home', '90': 'away'}",2022-2023,42
+15. april 2023,15:00,0:1,Oxford United,Bolton Wanderers,{'7': 'away'},2022-2023,42
+15. april 2023,15:00,1:1,Shrewsbury Town,Portsmouth FC,"{'53': 'home', '82': 'away'}",2022-2023,42
+7. january 2023,15:00,2:1,Morecambe FC,Cheltenham Town,"{'20': 'home', '39': 'away', '47': 'home'}",2022-2023,43
+18. april 2023,19:45,1:2,Accrington Stanley,Peterborough United,"{'23': 'away', '43': 'away', '87': 'home'}",2022-2023,43
+18. april 2023,19:45,1:2,Bristol Rovers,Sheffield Wednesday,"{'28': 'away', '41': 'away', '46': 'home'}",2022-2023,43
+18. april 2023,19:45,1:1,Burton Albion,Bolton Wanderers,"{'5': 'away', '59': 'home'}",2022-2023,43
+18. april 2023,19:45,1:2,Cambridge United,Wycombe Wanderers,"{'33': 'away', '44': 'away', '62': 'home'}",2022-2023,43
+18. april 2023,19:45,1:2,Exeter City,Derby County,"{'52': 'away', '76': 'away', None: 'home'}",2022-2023,43
+18. april 2023,19:45,0:0,Forest Green Rovers,Fleetwood Town,,2022-2023,43
+18. april 2023,19:45,2:1,Ipswich Town,Port Vale FC,"{'45': 'away', '53': 'home', '84': 'home'}",2022-2023,43
+18. april 2023,19:45,0:0,Lincoln City,Barnsley FC,,2022-2023,43
+18. april 2023,19:45,0:1,Milton Keynes Dons,Charlton Athletic,{'61': 'away'},2022-2023,43
+18. april 2023,19:45,1:1,Oxford United,Portsmouth FC,"{'26': 'away', '37': 'home'}",2022-2023,43
+18. april 2023,19:45,1:2,Shrewsbury Town,Plymouth Argyle,"{'53': 'home', '68': 'away', '90': 'away'}",2022-2023,43
+22. april 2023,15:00,1:0,Bolton Wanderers,Shrewsbury Town,{'63': 'home'},2022-2023,44
+22. april 2023,15:00,2:3,Charlton Athletic,Morecambe FC,"{'8': 'away', '45': 'home', '57': 'away', '64': 'away', '79': 'home'}",2022-2023,44
+22. april 2023,15:00,3:1,Cheltenham Town,Forest Green Rovers,"{'14': 'home', '32': 'home', '38': 'home', None: 'away'}",2022-2023,44
+22. april 2023,15:00,1:0,Derby County,Burton Albion,{'63': 'home'},2022-2023,44
+22. april 2023,15:00,2:0,Barnsley FC,Oxford United,"{'45': 'home', '51': 'home'}",2022-2023,44
+22. april 2023,15:00,1:0,Fleetwood Town,Milton Keynes Dons,{'44': 'home'},2022-2023,44
+22. april 2023,15:00,0:3,Peterborough United,Ipswich Town,"{'17': 'away', '57': 'away', '82': 'away'}",2022-2023,44
+22. april 2023,15:00,3:1,Plymouth Argyle,Cambridge United,"{'15': 'home', '31': 'away', '56': 'home', '73': 'home'}",2022-2023,44
+22. april 2023,15:00,2:0,Port Vale FC,Bristol Rovers,"{'22': 'home', '29': 'home'}",2022-2023,44
+22. april 2023,15:00,1:0,Portsmouth FC,Accrington Stanley,{'75': 'home'},2022-2023,44
+22. april 2023,15:00,2:1,Sheffield Wednesday,Exeter City,"{'47': 'away', '59': 'home', '74': 'home'}",2022-2023,44
+22. april 2023,15:00,0:2,Wycombe Wanderers,Lincoln City,"{'7': 'away', '71': 'away'}",2022-2023,44
+29. april 2023,15:00,1:2,Accrington Stanley,Cambridge United,"{'42': 'away', '65': 'away', '83': 'home'}",2022-2023,45
+29. april 2023,15:00,2:0,Bolton Wanderers,Fleetwood Town,"{'18': 'home', '78': 'home'}",2022-2023,45
+29. april 2023,15:00,3:2,Charlton Athletic,Port Vale FC,"{'14': 'home', '58': 'home', '62': 'away', '77': 'home', '90': 'away'}",2022-2023,45
+29. april 2023,15:00,1:1,Derby County,Portsmouth FC,"{'24': 'away', '71': 'home'}",2022-2023,45
+29. april 2023,15:00,3:2,Morecambe FC,Lincoln City,"{'30': 'away', '48': 'away', '50': 'home', '66': 'home', '86': 'home'}",2022-2023,45
+29. april 2023,15:00,0:3,Forest Green Rovers,Oxford United,"{'11': 'away', '46': 'away', '68': 'away'}",2022-2023,45
+29. april 2023,15:00,6:0,Ipswich Town,Exeter City,"{'8': 'home', '16': 'home', '22': 'home', '28': 'home', '32': 'home', '47': 'home'}",2022-2023,45
+29. april 2023,15:00,4:4,Milton Keynes Dons,Barnsley FC,"{'30': 'away', '48': 'home', '52': 'home', '61': 'home', '69': 'home', '73': 'away', '75': 'away', '86': 'away'}",2022-2023,45
+29. april 2023,15:00,0:0,Peterborough United,Bristol Rovers,,2022-2023,45
+29. april 2023,15:00,1:0,Plymouth Argyle,Burton Albion,{'45': 'home'},2022-2023,45
+29. april 2023,15:00,0:3,Shrewsbury Town,Sheffield Wednesday,"{'8': 'away', '48': 'away', '81': 'away'}",2022-2023,45
+29. april 2023,15:00,0:3,Wycombe Wanderers,Cheltenham Town,"{'37': 'away', '68': 'away', '88': 'away'}",2022-2023,45
+7. may 2023,12:00,2:3,Bristol Rovers,Bolton Wanderers,"{'24': 'away', '28': 'home', '70': 'away', '77': 'away', '85': 'home'}",2022-2023,46
+7. may 2023,12:00,0:0,Burton Albion,Milton Keynes Dons,,2022-2023,46
+7. may 2023,12:00,2:0,Cambridge United,Forest Green Rovers,"{None: 'home', '37': 'home'}",2022-2023,46
+7. may 2023,12:00,2:2,Cheltenham Town,Charlton Athletic,"{'34': 'away', '50': 'home', '83': 'away', '88': 'home'}",2022-2023,46
+7. may 2023,12:00,3:2,Exeter City,Morecambe FC,"{'49': 'home', '53': 'away', '57': 'home', '70': 'home', '90': 'away'}",2022-2023,46
+7. may 2023,12:00,0:2,Barnsley FC,Peterborough United,"{'6': 'away', '76': 'away'}",2022-2023,46
+7. may 2023,12:00,2:2,Fleetwood Town,Ipswich Town,"{'50': 'away', '57': 'home', '69': 'home', '73': 'away'}",2022-2023,46
+7. may 2023,12:00,1:0,Lincoln City,Shrewsbury Town,{'73': 'home'},2022-2023,46
+7. may 2023,12:00,1:2,Oxford United,Accrington Stanley,"{'8': 'home', '64': 'away', '85': 'away'}",2022-2023,46
+7. may 2023,12:00,1:3,Port Vale FC,Plymouth Argyle,"{'3': 'home', '34': 'away', '38': 'away', '61': 'away'}",2022-2023,46
+7. may 2023,12:00,2:2,Portsmouth FC,Wycombe Wanderers,"{'31': 'away', '44': 'home', '54': 'away', '72': 'home'}",2022-2023,46
+7. may 2023,12:00,1:0,Sheffield Wednesday,Derby County,{'43': 'home'},2022-2023,46

@@ -1,0 +1,1401 @@
+league,date,home_team,away_team,bookie,market,bet,odds
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,888sport,h2h,home wins,1.95
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,888sport,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,888sport,h2h,draw,3.5
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Sky Bet,h2h,home wins,1.95
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Sky Bet,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Sky Bet,h2h,draw,3.5
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betfair,h2h,home wins,2.02
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betfair,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betfair,h2h,draw,3.75
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Paddy Power,h2h,home wins,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Paddy Power,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Paddy Power,h2h,draw,3.6
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betway,h2h,home wins,1.95
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betway,h2h,away wins,3.75
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betway,h2h,draw,3.5
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,William Hill,h2h,home wins,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,William Hill,h2h,away wins,3.7
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,William Hill,h2h,draw,3.6
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,BoyleSports,h2h,home wins,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,BoyleSports,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,BoyleSports,h2h,draw,3.5
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Matchbook,h2h,home wins,2.02
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Matchbook,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Matchbook,h2h,draw,3.75
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Coral,h2h,home wins,1.95
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Coral,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Coral,h2h,draw,3.4
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Ladbrokes,h2h,home wins,1.95
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Ladbrokes,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Ladbrokes,h2h,draw,3.4
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Bet Victor,h2h,home wins,1.93
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Bet Victor,h2h,away wins,3.9
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Bet Victor,h2h,draw,3.4
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LiveScore Bet,h2h,home wins,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LiveScore Bet,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LiveScore Bet,h2h,draw,3.4
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Virgin Bet,h2h,home wins,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Virgin Bet,h2h,away wins,3.8
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Virgin Bet,h2h,draw,3.4
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Unibet,h2h,home wins,1.87
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Unibet,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Unibet,h2h,draw,3.65
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Casumo,h2h,home wins,1.88
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Casumo,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Casumo,h2h,draw,3.7
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Mr Green,h2h,home wins,1.88
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Mr Green,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Mr Green,h2h,draw,3.7
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LeoVegas,h2h,home wins,1.87
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LeoVegas,h2h,away wins,4.1
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,LeoVegas,h2h,draw,3.65
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Grosvenor,h2h,home wins,1.83
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Grosvenor,h2h,away wins,4.0
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Grosvenor,h2h,draw,3.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betway,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betway,h2h,away wins,5.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betway,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,888sport,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,888sport,h2h,away wins,5.5
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,888sport,h2h,draw,4.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Paddy Power,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Paddy Power,h2h,away wins,5.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Paddy Power,h2h,draw,4.33
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betfair,h2h,home wins,1.63
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betfair,h2h,away wins,5.7
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betfair,h2h,draw,4.6
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Sky Bet,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Sky Bet,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Sky Bet,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,William Hill,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,William Hill,h2h,away wins,5.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,William Hill,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LiveScore Bet,h2h,home wins,1.55
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LiveScore Bet,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LiveScore Bet,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Virgin Bet,h2h,home wins,1.55
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Virgin Bet,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Virgin Bet,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Ladbrokes,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Ladbrokes,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Ladbrokes,h2h,draw,4.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Coral,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Coral,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Coral,h2h,draw,4.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Bet Victor,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Bet Victor,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Bet Victor,h2h,draw,4.1
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LeoVegas,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LeoVegas,h2h,away wins,5.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,LeoVegas,h2h,draw,4.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Grosvenor,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Grosvenor,h2h,away wins,5.1
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Grosvenor,h2h,draw,4.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Mr Green,h2h,home wins,1.61
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Mr Green,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Mr Green,h2h,draw,4.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Casumo,h2h,home wins,1.62
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Casumo,h2h,away wins,5.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Casumo,h2h,draw,4.3
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Unibet,h2h,home wins,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Unibet,h2h,away wins,5.2
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Unibet,h2h,draw,4.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,BoyleSports,h2h,home wins,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,BoyleSports,h2h,away wins,5.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,BoyleSports,h2h,draw,4.0
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Matchbook,h2h,home wins,1.63
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Matchbook,h2h,away wins,5.7
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Matchbook,h2h,draw,4.6
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betway,h2h,away wins,1.55
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betway,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betway,h2h,draw,4.2
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,888sport,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,888sport,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,888sport,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Paddy Power,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Paddy Power,h2h,home wins,5.0
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Paddy Power,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betfair,h2h,away wins,1.61
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betfair,h2h,home wins,5.9
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betfair,h2h,draw,4.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,William Hill,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,William Hill,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,William Hill,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Sky Bet,h2h,away wins,1.55
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Sky Bet,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Sky Bet,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LiveScore Bet,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LiveScore Bet,h2h,home wins,5.25
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LiveScore Bet,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Virgin Bet,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Virgin Bet,h2h,home wins,5.25
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Virgin Bet,h2h,draw,4.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Ladbrokes,h2h,away wins,1.57
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Ladbrokes,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Ladbrokes,h2h,draw,4.2
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Coral,h2h,away wins,1.57
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Coral,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Coral,h2h,draw,4.2
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Bet Victor,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Bet Victor,h2h,home wins,5.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Bet Victor,h2h,draw,4.1
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LeoVegas,h2h,away wins,1.51
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LeoVegas,h2h,home wins,5.75
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,LeoVegas,h2h,draw,4.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Grosvenor,h2h,away wins,1.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Grosvenor,h2h,home wins,5.6
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Grosvenor,h2h,draw,4.4
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Mr Green,h2h,away wins,1.54
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Mr Green,h2h,home wins,5.8
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Mr Green,h2h,draw,4.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Casumo,h2h,away wins,1.54
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Casumo,h2h,home wins,5.8
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Casumo,h2h,draw,4.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Unibet,h2h,away wins,1.53
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Unibet,h2h,home wins,5.75
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Unibet,h2h,draw,4.5
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,BoyleSports,h2h,away wins,1.55
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,BoyleSports,h2h,home wins,5.0
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,BoyleSports,h2h,draw,4.2
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Matchbook,h2h,away wins,1.61
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Matchbook,h2h,home wins,5.9
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Matchbook,h2h,draw,4.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Paddy Power,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Paddy Power,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Paddy Power,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,888sport,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,888sport,h2h,home wins,2.8
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,888sport,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betway,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betway,h2h,home wins,2.7
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betway,h2h,draw,3.6
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betfair,h2h,away wins,2.52
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betfair,h2h,home wins,2.96
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betfair,h2h,draw,3.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Sky Bet,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Sky Bet,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Sky Bet,h2h,draw,3.6
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,William Hill,h2h,away wins,2.38
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,William Hill,h2h,home wins,2.7
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,William Hill,h2h,draw,3.6
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LiveScore Bet,h2h,away wins,2.38
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LiveScore Bet,h2h,home wins,2.7
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LiveScore Bet,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Virgin Bet,h2h,away wins,2.38
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Virgin Bet,h2h,home wins,2.7
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Virgin Bet,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Ladbrokes,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Ladbrokes,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Ladbrokes,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Coral,h2h,away wins,2.45
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Coral,h2h,home wins,2.8
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Coral,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Bet Victor,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Bet Victor,h2h,home wins,2.7
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Bet Victor,h2h,draw,3.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Grosvenor,h2h,away wins,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Grosvenor,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Grosvenor,h2h,draw,3.45
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Mr Green,h2h,away wins,2.48
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Mr Green,h2h,home wins,2.8
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Mr Green,h2h,draw,3.55
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Casumo,h2h,away wins,2.48
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Casumo,h2h,home wins,2.8
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Casumo,h2h,draw,3.55
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Unibet,h2h,away wins,2.45
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Unibet,h2h,home wins,2.8
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Unibet,h2h,draw,3.55
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LeoVegas,h2h,away wins,2.45
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LeoVegas,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,LeoVegas,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,BoyleSports,h2h,away wins,2.38
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,BoyleSports,h2h,home wins,2.75
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,BoyleSports,h2h,draw,3.5
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Matchbook,h2h,away wins,2.54
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Matchbook,h2h,home wins,2.96
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Matchbook,h2h,draw,3.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Paddy Power,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Paddy Power,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Paddy Power,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betfair,h2h,home wins,2.3
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betfair,h2h,away wins,3.1
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betfair,h2h,draw,4.0
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betway,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betway,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betway,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,888sport,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,888sport,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,888sport,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Sky Bet,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Sky Bet,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Sky Bet,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,William Hill,h2h,home wins,2.1
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,William Hill,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,William Hill,h2h,draw,3.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LiveScore Bet,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LiveScore Bet,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LiveScore Bet,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Virgin Bet,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Virgin Bet,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Virgin Bet,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Ladbrokes,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Ladbrokes,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Ladbrokes,h2h,draw,3.7
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Coral,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Coral,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Coral,h2h,draw,3.75
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Bet Victor,h2h,home wins,2.15
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Bet Victor,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Bet Victor,h2h,draw,3.7
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LeoVegas,h2h,home wins,2.17
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LeoVegas,h2h,away wins,2.95
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,LeoVegas,h2h,draw,3.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Grosvenor,h2h,home wins,2.14
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Grosvenor,h2h,away wins,2.95
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Grosvenor,h2h,draw,3.85
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Mr Green,h2h,home wins,2.18
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Mr Green,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Mr Green,h2h,draw,3.95
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Casumo,h2h,home wins,2.2
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Casumo,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Casumo,h2h,draw,3.95
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Unibet,h2h,home wins,2.17
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Unibet,h2h,away wins,3.0
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Unibet,h2h,draw,3.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,BoyleSports,h2h,home wins,2.1
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,BoyleSports,h2h,away wins,2.9
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,BoyleSports,h2h,draw,3.8
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Matchbook,h2h,home wins,2.3
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Matchbook,h2h,away wins,3.1
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Matchbook,h2h,draw,4.0
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betway,h2h,home wins,1.33
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betway,h2h,away wins,8.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betway,h2h,draw,4.75
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Paddy Power,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Paddy Power,h2h,away wins,9.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Paddy Power,h2h,draw,5.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,888sport,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,888sport,h2h,away wins,9.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,888sport,h2h,draw,4.75
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betfair,h2h,home wins,1.35
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betfair,h2h,away wins,10.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betfair,h2h,draw,5.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,William Hill,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,William Hill,h2h,away wins,9.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,William Hill,h2h,draw,5.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Sky Bet,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Sky Bet,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Sky Bet,h2h,draw,5.25
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LiveScore Bet,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LiveScore Bet,h2h,away wins,8.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LiveScore Bet,h2h,draw,5.25
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Virgin Bet,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Virgin Bet,h2h,away wins,8.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Virgin Bet,h2h,draw,5.25
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Ladbrokes,h2h,home wins,1.33
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Ladbrokes,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Ladbrokes,h2h,draw,4.8
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Coral,h2h,home wins,1.33
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Coral,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Coral,h2h,draw,4.8
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Bet Victor,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Bet Victor,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Bet Victor,h2h,draw,4.8
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Grosvenor,h2h,home wins,1.27
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Grosvenor,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Grosvenor,h2h,draw,5.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Mr Green,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Mr Green,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Mr Green,h2h,draw,5.6
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Casumo,h2h,home wins,1.3
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Casumo,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Casumo,h2h,draw,5.6
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Unibet,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Unibet,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Unibet,h2h,draw,5.6
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LeoVegas,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LeoVegas,h2h,away wins,10.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,LeoVegas,h2h,draw,5.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,BoyleSports,h2h,home wins,1.29
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,BoyleSports,h2h,away wins,9.5
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,BoyleSports,h2h,draw,5.0
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Paddy Power,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Paddy Power,h2h,away wins,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Paddy Power,h2h,draw,3.5
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betway,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betway,h2h,away wins,3.5
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betway,h2h,draw,3.5
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,888sport,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,888sport,h2h,away wins,3.45
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,888sport,h2h,draw,3.38
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Sky Bet,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Sky Bet,h2h,away wins,3.75
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Sky Bet,h2h,draw,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betfair,h2h,home wins,2.04
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betfair,h2h,away wins,3.9
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betfair,h2h,draw,3.75
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,William Hill,h2h,home wins,1.91
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,William Hill,h2h,away wins,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,William Hill,h2h,draw,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LiveScore Bet,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LiveScore Bet,h2h,away wins,3.4
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LiveScore Bet,h2h,draw,3.5
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Virgin Bet,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Virgin Bet,h2h,away wins,3.4
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Virgin Bet,h2h,draw,3.5
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Ladbrokes,h2h,home wins,2.0
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Ladbrokes,h2h,away wins,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Ladbrokes,h2h,draw,3.4
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Coral,h2h,home wins,2.0
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Coral,h2h,away wins,3.7
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Coral,h2h,draw,3.4
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Bet Victor,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Bet Victor,h2h,away wins,3.7
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Bet Victor,h2h,draw,3.4
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Casumo,h2h,home wins,2.0
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Casumo,h2h,away wins,3.75
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Casumo,h2h,draw,3.65
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Mr Green,h2h,home wins,1.97
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Mr Green,h2h,away wins,3.75
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Mr Green,h2h,draw,3.65
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LeoVegas,h2h,home wins,1.95
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LeoVegas,h2h,away wins,3.7
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,LeoVegas,h2h,draw,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Grosvenor,h2h,home wins,1.93
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Grosvenor,h2h,away wins,3.65
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Grosvenor,h2h,draw,3.55
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Unibet,h2h,home wins,1.96
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Unibet,h2h,away wins,3.7
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Unibet,h2h,draw,3.65
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,BoyleSports,h2h,home wins,1.91
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,BoyleSports,h2h,away wins,3.6
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,BoyleSports,h2h,draw,3.6
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Paddy Power,h2h,home wins,3.4
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Paddy Power,h2h,away wins,2.1
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Paddy Power,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,888sport,h2h,home wins,3.38
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,888sport,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,888sport,h2h,draw,3.25
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betway,h2h,home wins,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betway,h2h,away wins,2.1
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betway,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betfair,h2h,home wins,3.6
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betfair,h2h,away wins,2.24
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betfair,h2h,draw,3.45
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,William Hill,h2h,home wins,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,William Hill,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,William Hill,h2h,draw,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Sky Bet,h2h,home wins,3.4
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Sky Bet,h2h,away wins,2.1
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Sky Bet,h2h,draw,3.4
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LiveScore Bet,h2h,home wins,3.25
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LiveScore Bet,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LiveScore Bet,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Virgin Bet,h2h,home wins,3.25
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Virgin Bet,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Virgin Bet,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Ladbrokes,h2h,home wins,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Ladbrokes,h2h,away wins,2.1
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Ladbrokes,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Coral,h2h,home wins,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Coral,h2h,away wins,2.15
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Coral,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Bet Victor,h2h,home wins,3.4
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Bet Victor,h2h,away wins,2.1
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Bet Victor,h2h,draw,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Grosvenor,h2h,home wins,3.45
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Grosvenor,h2h,away wins,2.02
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Grosvenor,h2h,draw,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Unibet,h2h,home wins,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Unibet,h2h,away wins,2.06
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Unibet,h2h,draw,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Casumo,h2h,home wins,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Casumo,h2h,away wins,2.08
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Casumo,h2h,draw,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Mr Green,h2h,home wins,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Mr Green,h2h,away wins,2.07
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Mr Green,h2h,draw,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LeoVegas,h2h,home wins,3.5
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LeoVegas,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,LeoVegas,h2h,draw,3.55
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,BoyleSports,h2h,home wins,3.3
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,BoyleSports,h2h,away wins,2.05
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,BoyleSports,h2h,draw,3.4
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Paddy Power,h2h,home wins,4.33
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Paddy Power,h2h,away wins,1.7
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Paddy Power,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betway,h2h,home wins,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betway,h2h,away wins,1.67
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betway,h2h,draw,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,888sport,h2h,home wins,4.3
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,888sport,h2h,away wins,1.63
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,888sport,h2h,draw,4.1
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betfair,h2h,home wins,4.6
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betfair,h2h,away wins,1.78
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betfair,h2h,draw,4.3
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,William Hill,h2h,home wins,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,William Hill,h2h,away wins,1.65
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,William Hill,h2h,draw,4.33
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Sky Bet,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Sky Bet,h2h,away wins,1.67
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Sky Bet,h2h,draw,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LiveScore Bet,h2h,home wins,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LiveScore Bet,h2h,away wins,1.62
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LiveScore Bet,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Virgin Bet,h2h,home wins,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Virgin Bet,h2h,away wins,1.62
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Virgin Bet,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Ladbrokes,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Ladbrokes,h2h,away wins,1.67
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Ladbrokes,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Coral,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Coral,h2h,away wins,1.7
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Coral,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Bet Victor,h2h,home wins,4.33
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Bet Victor,h2h,away wins,1.67
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Bet Victor,h2h,draw,4.0
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Grosvenor,h2h,home wins,4.4
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Grosvenor,h2h,away wins,1.65
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Grosvenor,h2h,draw,4.25
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Unibet,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Unibet,h2h,away wins,1.68
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Unibet,h2h,draw,4.3
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Casumo,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Casumo,h2h,away wins,1.7
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Casumo,h2h,draw,4.35
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Mr Green,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Mr Green,h2h,away wins,1.7
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Mr Green,h2h,draw,4.35
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LeoVegas,h2h,home wins,4.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LeoVegas,h2h,away wins,1.67
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,LeoVegas,h2h,draw,4.3
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,BoyleSports,h2h,home wins,4.2
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,BoyleSports,h2h,away wins,1.7
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,BoyleSports,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betway,h2h,home wins,1.61
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betway,h2h,away wins,4.5
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betway,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Paddy Power,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Paddy Power,h2h,away wins,5.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Paddy Power,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,888sport,h2h,home wins,1.62
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,888sport,h2h,away wins,4.75
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,888sport,h2h,draw,3.85
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betfair,h2h,home wins,1.68
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betfair,h2h,away wins,5.3
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betfair,h2h,draw,4.4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,William Hill,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,William Hill,h2h,away wins,4.75
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,William Hill,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Sky Bet,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Sky Bet,h2h,away wins,5.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Sky Bet,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LiveScore Bet,h2h,home wins,1.57
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LiveScore Bet,h2h,away wins,4.75
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LiveScore Bet,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Virgin Bet,h2h,home wins,1.57
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Virgin Bet,h2h,away wins,4.75
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Virgin Bet,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Ladbrokes,h2h,home wins,1.61
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Ladbrokes,h2h,away wins,5.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Ladbrokes,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Coral,h2h,home wins,1.61
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Coral,h2h,away wins,5.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Coral,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Bet Victor,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Bet Victor,h2h,away wins,5.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Bet Victor,h2h,draw,4.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Grosvenor,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Grosvenor,h2h,away wins,5.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Grosvenor,h2h,draw,4.1
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Unibet,h2h,home wins,1.62
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Unibet,h2h,away wins,5.1
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Unibet,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Casumo,h2h,home wins,1.64
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Casumo,h2h,away wins,5.1
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Casumo,h2h,draw,4.25
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Mr Green,h2h,home wins,1.64
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Mr Green,h2h,away wins,5.1
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Mr Green,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LeoVegas,h2h,home wins,1.62
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LeoVegas,h2h,away wins,5.1
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,LeoVegas,h2h,draw,4.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,BoyleSports,h2h,home wins,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,BoyleSports,h2h,away wins,5.0
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,BoyleSports,h2h,draw,4.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,888sport,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,888sport,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,888sport,h2h,draw,4.1
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Paddy Power,h2h,away wins,1.44
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Paddy Power,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Paddy Power,h2h,draw,4.2
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betway,h2h,away wins,1.45
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betway,h2h,home wins,6.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betway,h2h,draw,4.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,William Hill,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,William Hill,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,William Hill,h2h,draw,4.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Sky Bet,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Sky Bet,h2h,home wins,7.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Sky Bet,h2h,draw,4.6
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Bet Victor,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Bet Victor,h2h,home wins,7.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Bet Victor,h2h,draw,4.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Ladbrokes,h2h,away wins,1.44
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Ladbrokes,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Ladbrokes,h2h,draw,4.33
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Coral,h2h,away wins,1.44
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Coral,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Coral,h2h,draw,4.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LiveScore Bet,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LiveScore Bet,h2h,home wins,6.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LiveScore Bet,h2h,draw,4.33
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Virgin Bet,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Virgin Bet,h2h,home wins,6.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Virgin Bet,h2h,draw,4.33
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betfair,h2h,away wins,1.47
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betfair,h2h,home wins,6.8
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betfair,h2h,draw,4.8
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,BoyleSports,h2h,away wins,1.4
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,BoyleSports,h2h,home wins,6.5
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,BoyleSports,h2h,draw,4.33
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Grosvenor,h2h,away wins,1.42
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Grosvenor,h2h,home wins,6.75
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Grosvenor,h2h,draw,4.6
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Casumo,h2h,away wins,1.45
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Casumo,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Casumo,h2h,draw,4.7
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LeoVegas,h2h,away wins,1.43
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LeoVegas,h2h,home wins,6.75
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,LeoVegas,h2h,draw,4.6
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Unibet,h2h,away wins,1.44
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Unibet,h2h,home wins,6.75
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Unibet,h2h,draw,4.6
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Mr Green,h2h,away wins,1.45
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Mr Green,h2h,home wins,7.0
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Mr Green,h2h,draw,4.7
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Paddy Power,h2h,away wins,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Paddy Power,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Paddy Power,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,888sport,h2h,away wins,1.57
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,888sport,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,888sport,h2h,draw,4.1
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betway,h2h,away wins,1.61
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betway,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betway,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,William Hill,h2h,away wins,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,William Hill,h2h,home wins,4.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,William Hill,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Sky Bet,h2h,away wins,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Sky Bet,h2h,home wins,5.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Sky Bet,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Bet Victor,h2h,away wins,1.61
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Bet Victor,h2h,home wins,4.8
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Bet Victor,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Ladbrokes,h2h,away wins,1.67
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Ladbrokes,h2h,home wins,4.8
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Ladbrokes,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Coral,h2h,away wins,1.67
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Coral,h2h,home wins,5.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Coral,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LiveScore Bet,h2h,away wins,1.57
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LiveScore Bet,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LiveScore Bet,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Virgin Bet,h2h,away wins,1.57
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Virgin Bet,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Virgin Bet,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betfair,h2h,away wins,1.67
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betfair,h2h,home wins,4.5
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betfair,h2h,draw,3.75
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,BoyleSports,h2h,away wins,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,BoyleSports,h2h,home wins,4.75
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,BoyleSports,h2h,draw,4.0
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Mr Green,h2h,away wins,1.61
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Mr Green,h2h,home wins,5.3
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Mr Green,h2h,draw,4.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Casumo,h2h,away wins,1.61
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Casumo,h2h,home wins,5.3
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Casumo,h2h,draw,4.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Grosvenor,h2h,away wins,1.56
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Grosvenor,h2h,home wins,5.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Grosvenor,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Unibet,h2h,away wins,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Unibet,h2h,home wins,5.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Unibet,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LeoVegas,h2h,away wins,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LeoVegas,h2h,home wins,5.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,LeoVegas,h2h,draw,4.2
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,888sport,h2h,away wins,2.65
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,888sport,h2h,home wins,2.4
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,888sport,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Paddy Power,h2h,away wins,2.75
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Paddy Power,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Paddy Power,h2h,draw,3.3
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betway,h2h,away wins,2.75
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betway,h2h,home wins,2.4
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betway,h2h,draw,3.3
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Sky Bet,h2h,away wins,2.75
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Sky Bet,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Sky Bet,h2h,draw,3.4
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Bet Victor,h2h,away wins,2.7
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Bet Victor,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Bet Victor,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,William Hill,h2h,away wins,2.6
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,William Hill,h2h,home wins,2.45
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,William Hill,h2h,draw,3.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Ladbrokes,h2h,away wins,2.8
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Ladbrokes,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Ladbrokes,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Coral,h2h,away wins,2.8
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Coral,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Coral,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LiveScore Bet,h2h,away wins,2.62
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LiveScore Bet,h2h,home wins,2.45
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LiveScore Bet,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Virgin Bet,h2h,away wins,2.62
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Virgin Bet,h2h,home wins,2.45
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Virgin Bet,h2h,draw,3.25
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betfair,h2h,away wins,2.82
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betfair,h2h,home wins,1.38
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betfair,h2h,draw,3.5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,BoyleSports,h2h,away wins,2.62
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,BoyleSports,h2h,home wins,2.6
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,BoyleSports,h2h,draw,3.3
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Mr Green,h2h,away wins,2.75
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Mr Green,h2h,home wins,2.55
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Mr Green,h2h,draw,3.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Casumo,h2h,away wins,2.75
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Casumo,h2h,home wins,2.55
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Casumo,h2h,draw,3.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Grosvenor,h2h,away wins,2.7
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Grosvenor,h2h,home wins,2.48
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Grosvenor,h2h,draw,3.45
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Unibet,h2h,away wins,2.7
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Unibet,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Unibet,h2h,draw,3.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LeoVegas,h2h,away wins,2.7
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LeoVegas,h2h,home wins,2.5
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,LeoVegas,h2h,draw,3.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,888sport,h2h,home wins,1.4
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,888sport,h2h,away wins,7.0
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,888sport,h2h,draw,4.1
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Paddy Power,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Paddy Power,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Paddy Power,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,William Hill,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,William Hill,h2h,away wins,6.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,William Hill,h2h,draw,4.33
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Sky Bet,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Sky Bet,h2h,away wins,7.0
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Sky Bet,h2h,draw,4.33
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Bet Victor,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Bet Victor,h2h,away wins,7.0
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Bet Victor,h2h,draw,4.1
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Ladbrokes,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Ladbrokes,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Ladbrokes,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Coral,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Coral,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Coral,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betway,h2h,home wins,1.45
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betway,h2h,away wins,6.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betway,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LiveScore Bet,h2h,home wins,1.42
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LiveScore Bet,h2h,away wins,6.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LiveScore Bet,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Virgin Bet,h2h,home wins,1.42
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Virgin Bet,h2h,away wins,6.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Virgin Bet,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betfair,h2h,home wins,1.46
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betfair,h2h,away wins,7.8
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betfair,h2h,draw,4.3
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,BoyleSports,h2h,home wins,1.4
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,BoyleSports,h2h,away wins,7.0
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,BoyleSports,h2h,draw,4.2
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Casumo,h2h,home wins,1.47
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Casumo,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Casumo,h2h,draw,4.4
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Unibet,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Unibet,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Unibet,h2h,draw,4.35
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Grosvenor,h2h,home wins,1.43
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Grosvenor,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Grosvenor,h2h,draw,4.25
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LeoVegas,h2h,home wins,1.44
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LeoVegas,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,LeoVegas,h2h,draw,4.35
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Mr Green,h2h,home wins,1.45
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Mr Green,h2h,away wins,7.5
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Mr Green,h2h,draw,4.4
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,888sport,h2h,home wins,1.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,888sport,h2h,away wins,3.45
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,888sport,h2h,draw,3.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Paddy Power,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Paddy Power,h2h,away wins,3.6
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Paddy Power,h2h,draw,3.8
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betway,h2h,home wins,1.88
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betway,h2h,away wins,3.5
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betway,h2h,draw,3.8
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,William Hill,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,William Hill,h2h,away wins,3.5
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,William Hill,h2h,draw,3.8
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Sky Bet,h2h,home wins,1.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Sky Bet,h2h,away wins,3.9
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Sky Bet,h2h,draw,3.8
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Bet Victor,h2h,home wins,1.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Bet Victor,h2h,away wins,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Bet Victor,h2h,draw,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Ladbrokes,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Ladbrokes,h2h,away wins,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Ladbrokes,h2h,draw,3.7
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Coral,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Coral,h2h,away wins,3.8
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Coral,h2h,draw,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LiveScore Bet,h2h,home wins,1.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LiveScore Bet,h2h,away wins,3.5
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LiveScore Bet,h2h,draw,3.7
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Virgin Bet,h2h,home wins,1.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Virgin Bet,h2h,away wins,3.5
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Virgin Bet,h2h,draw,3.7
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betfair,h2h,home wins,1.82
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betfair,h2h,away wins,3.65
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betfair,h2h,draw,3.9
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,BoyleSports,h2h,home wins,1.87
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,BoyleSports,h2h,away wins,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,BoyleSports,h2h,draw,3.75
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Mr Green,h2h,home wins,1.93
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Mr Green,h2h,away wins,3.7
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Mr Green,h2h,draw,3.95
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Casumo,h2h,home wins,1.93
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Casumo,h2h,away wins,3.7
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Casumo,h2h,draw,3.95
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Unibet,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Unibet,h2h,away wins,3.65
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Unibet,h2h,draw,3.9
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Grosvenor,h2h,home wins,1.88
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Grosvenor,h2h,away wins,3.6
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Grosvenor,h2h,draw,3.85
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LeoVegas,h2h,home wins,1.91
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LeoVegas,h2h,away wins,3.65
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,LeoVegas,h2h,draw,3.9
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,888sport,h2h,away wins,4.75
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,888sport,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,888sport,h2h,draw,3.85
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Paddy Power,h2h,away wins,4.75
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Paddy Power,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Paddy Power,h2h,draw,4.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betway,h2h,away wins,4.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betway,h2h,home wins,1.61
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betway,h2h,draw,4.2
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,William Hill,h2h,away wins,4.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,William Hill,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,William Hill,h2h,draw,4.2
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Sky Bet,h2h,away wins,4.8
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Sky Bet,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Sky Bet,h2h,draw,4.2
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Bet Victor,h2h,away wins,4.75
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Bet Victor,h2h,home wins,1.61
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Bet Victor,h2h,draw,4.1
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Ladbrokes,h2h,away wins,4.8
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Ladbrokes,h2h,home wins,1.61
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Ladbrokes,h2h,draw,4.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Coral,h2h,away wins,5.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Coral,h2h,home wins,1.61
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Coral,h2h,draw,4.2
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LiveScore Bet,h2h,away wins,4.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LiveScore Bet,h2h,home wins,1.57
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LiveScore Bet,h2h,draw,4.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Virgin Bet,h2h,away wins,4.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Virgin Bet,h2h,home wins,1.57
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Virgin Bet,h2h,draw,4.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betfair,h2h,away wins,4.7
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betfair,h2h,home wins,1.68
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betfair,h2h,draw,4.4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,BoyleSports,h2h,away wins,4.75
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,BoyleSports,h2h,home wins,1.6
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,BoyleSports,h2h,draw,4.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Casumo,h2h,away wins,5.1
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Casumo,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Casumo,h2h,draw,4.4
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LeoVegas,h2h,away wins,5.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LeoVegas,h2h,home wins,1.6
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,LeoVegas,h2h,draw,4.35
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Grosvenor,h2h,away wins,4.9
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Grosvenor,h2h,home wins,1.57
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Grosvenor,h2h,draw,4.25
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Unibet,h2h,away wins,5.0
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Unibet,h2h,home wins,1.6
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Unibet,h2h,draw,4.35
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Mr Green,h2h,away wins,5.1
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Mr Green,h2h,home wins,1.62
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Mr Green,h2h,draw,4.35
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,888sport,h2h,away wins,18.5
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,888sport,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,888sport,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Paddy Power,h2h,away wins,26.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Paddy Power,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Paddy Power,h2h,draw,10.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betway,h2h,away wins,19.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betway,h2h,home wins,1.1
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betway,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,William Hill,h2h,away wins,23.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,William Hill,h2h,home wins,1.07
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,William Hill,h2h,draw,10.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Ladbrokes,h2h,away wins,29.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Ladbrokes,h2h,home wins,1.11
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Ladbrokes,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Coral,h2h,away wins,29.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Coral,h2h,home wins,1.11
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Coral,h2h,draw,9.5
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Sky Bet,h2h,away wins,23.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Sky Bet,h2h,home wins,1.09
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Sky Bet,h2h,draw,10.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Bet Victor,h2h,away wins,23.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Bet Victor,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Bet Victor,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LiveScore Bet,h2h,away wins,16.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LiveScore Bet,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LiveScore Bet,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Virgin Bet,h2h,away wins,16.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Virgin Bet,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Virgin Bet,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betfair,h2h,away wins,21.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betfair,h2h,home wins,1.12
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betfair,h2h,draw,1.01
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,BoyleSports,h2h,away wins,26.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,BoyleSports,h2h,home wins,1.1
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,BoyleSports,h2h,draw,9.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Mr Green,h2h,away wins,34.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Mr Green,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Mr Green,h2h,draw,11.5
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Casumo,h2h,away wins,34.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Casumo,h2h,home wins,1.08
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Casumo,h2h,draw,11.5
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Grosvenor,h2h,away wins,31.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Grosvenor,h2h,home wins,1.06
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Grosvenor,h2h,draw,11.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Unibet,h2h,away wins,34.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Unibet,h2h,home wins,1.07
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Unibet,h2h,draw,11.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LeoVegas,h2h,away wins,31.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LeoVegas,h2h,home wins,1.07
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,LeoVegas,h2h,draw,11.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,888sport,h2h,away wins,5.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,888sport,h2h,home wins,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,888sport,h2h,draw,4.3
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Paddy Power,h2h,away wins,5.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Paddy Power,h2h,home wins,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Paddy Power,h2h,draw,4.4
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betway,h2h,away wins,5.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betway,h2h,home wins,1.55
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betway,h2h,draw,4.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,William Hill,h2h,away wins,5.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,William Hill,h2h,home wins,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,William Hill,h2h,draw,4.4
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Sky Bet,h2h,away wins,5.25
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Sky Bet,h2h,home wins,1.57
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Sky Bet,h2h,draw,4.33
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Bet Victor,h2h,away wins,5.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Bet Victor,h2h,home wins,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Bet Victor,h2h,draw,4.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Ladbrokes,h2h,away wins,5.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Ladbrokes,h2h,home wins,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Ladbrokes,h2h,draw,4.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Coral,h2h,away wins,5.75
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Coral,h2h,home wins,1.57
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Coral,h2h,draw,4.25
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LiveScore Bet,h2h,away wins,5.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LiveScore Bet,h2h,home wins,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LiveScore Bet,h2h,draw,4.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Virgin Bet,h2h,away wins,5.0
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Virgin Bet,h2h,home wins,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Virgin Bet,h2h,draw,4.2
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betfair,h2h,away wins,1.09
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betfair,h2h,home wins,1.58
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betfair,h2h,draw,1.2
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,BoyleSports,h2h,away wins,5.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,BoyleSports,h2h,home wins,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,BoyleSports,h2h,draw,4.33
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Casumo,h2h,away wins,5.8
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Casumo,h2h,home wins,1.51
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Casumo,h2h,draw,4.7
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Unibet,h2h,away wins,5.8
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Unibet,h2h,home wins,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Unibet,h2h,draw,4.7
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Grosvenor,h2h,away wins,5.75
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Grosvenor,h2h,home wins,1.48
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Grosvenor,h2h,draw,4.6
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LeoVegas,h2h,away wins,5.8
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LeoVegas,h2h,home wins,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,LeoVegas,h2h,draw,4.7
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Mr Green,h2h,away wins,5.8
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Mr Green,h2h,home wins,1.51
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Mr Green,h2h,draw,4.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,888sport,h2h,away wins,2.65
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,888sport,h2h,home wins,2.3
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,888sport,h2h,draw,3.45
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Paddy Power,h2h,away wins,2.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Paddy Power,h2h,home wins,2.38
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Paddy Power,h2h,draw,3.6
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betway,h2h,away wins,2.75
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betway,h2h,home wins,2.3
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betway,h2h,draw,3.5
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,William Hill,h2h,away wins,2.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,William Hill,h2h,home wins,2.3
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,William Hill,h2h,draw,3.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Sky Bet,h2h,away wins,2.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Sky Bet,h2h,home wins,2.45
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Sky Bet,h2h,draw,3.6
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Bet Victor,h2h,away wins,2.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Bet Victor,h2h,home wins,2.45
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Bet Victor,h2h,draw,3.4
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Ladbrokes,h2h,away wins,2.7
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Ladbrokes,h2h,home wins,2.45
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Ladbrokes,h2h,draw,3.5
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Coral,h2h,away wins,2.75
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Coral,h2h,home wins,2.45
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Coral,h2h,draw,3.5
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LiveScore Bet,h2h,away wins,2.62
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LiveScore Bet,h2h,home wins,2.38
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LiveScore Bet,h2h,draw,3.4
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Virgin Bet,h2h,away wins,2.62
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Virgin Bet,h2h,home wins,2.38
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Virgin Bet,h2h,draw,3.4
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betfair,h2h,away wins,2.66
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betfair,h2h,home wins,2.44
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betfair,h2h,draw,3.4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,BoyleSports,h2h,away wins,2.75
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,BoyleSports,h2h,home wins,2.38
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,BoyleSports,h2h,draw,3.4
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Casumo,h2h,away wins,2.9
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Casumo,h2h,home wins,2.35
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Casumo,h2h,draw,3.65
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Unibet,h2h,away wins,2.88
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Unibet,h2h,home wins,2.33
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Unibet,h2h,draw,3.6
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LeoVegas,h2h,away wins,2.88
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LeoVegas,h2h,home wins,2.32
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,LeoVegas,h2h,draw,3.6
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Grosvenor,h2h,away wins,2.85
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Grosvenor,h2h,home wins,2.3
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Grosvenor,h2h,draw,3.55
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Mr Green,h2h,away wins,2.9
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Mr Green,h2h,home wins,2.35
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Mr Green,h2h,draw,3.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,888sport,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,888sport,h2h,home wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,888sport,h2h,draw,3.38
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Paddy Power,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Paddy Power,h2h,home wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Paddy Power,h2h,draw,3.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Sky Bet,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Sky Bet,h2h,home wins,2.7
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Sky Bet,h2h,draw,3.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Bet Victor,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Bet Victor,h2h,home wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Bet Victor,h2h,draw,3.4
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betway,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betway,h2h,home wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betway,h2h,draw,3.4
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,William Hill,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,William Hill,h2h,home wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,William Hill,h2h,draw,3.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Ladbrokes,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Ladbrokes,h2h,home wins,2.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Ladbrokes,h2h,draw,3.4
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Coral,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Coral,h2h,home wins,2.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Coral,h2h,draw,3.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LiveScore Bet,h2h,away wins,2.45
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LiveScore Bet,h2h,home wins,2.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LiveScore Bet,h2h,draw,3.3
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Virgin Bet,h2h,away wins,2.45
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Virgin Bet,h2h,home wins,2.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Virgin Bet,h2h,draw,3.3
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betfair,h2h,away wins,2.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betfair,h2h,home wins,2.68
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betfair,h2h,draw,3.7
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,BoyleSports,h2h,away wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,BoyleSports,h2h,home wins,2.62
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,BoyleSports,h2h,draw,3.4
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Casumo,h2h,away wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Casumo,h2h,home wins,2.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Casumo,h2h,draw,3.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Grosvenor,h2h,away wins,2.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Grosvenor,h2h,home wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Grosvenor,h2h,draw,3.5
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Unibet,h2h,away wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Unibet,h2h,home wins,2.63
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Unibet,h2h,draw,3.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LeoVegas,h2h,away wins,2.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LeoVegas,h2h,home wins,2.63
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,LeoVegas,h2h,draw,3.55
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Mr Green,h2h,away wins,2.6
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Mr Green,h2h,home wins,2.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Mr Green,h2h,draw,3.55
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betfair Sportsbook,totals,over2.5,1.91
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Betfair Sportsbook,totals,under2.5,1.83
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,William Hill,totals,over2.5,1.85
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,William Hill,totals,under2.5,1.85
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Matchbook,totals,over2.5,1.98
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Matchbook,totals,under2.5,1.99
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Coral,totals,over2.5,1.87
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Coral,totals,under2.5,1.85
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Unibet,totals,over2.5,1.88
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Unibet,totals,under2.5,1.92
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Casumo,totals,over2.5,1.88
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Casumo,totals,under2.5,1.92
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Mr Green,totals,over2.5,1.85
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Mr Green,totals,under2.5,1.88
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Grosvenor,totals,over2.5,1.85
+EPL,2024-01-12T19:45:00Z,Burnley,Luton,Grosvenor,totals,under2.5,1.89
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betfair Sportsbook,totals,over2.5,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Betfair Sportsbook,totals,under2.5,2.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,William Hill,totals,over2.5,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,William Hill,totals,under2.5,2.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Coral,totals,over2.5,1.6
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Coral,totals,under2.5,2.25
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Grosvenor,totals,over2.5,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Grosvenor,totals,under2.5,2.32
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Mr Green,totals,over2.5,1.55
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Mr Green,totals,under2.5,2.28
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Casumo,totals,over2.5,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Casumo,totals,under2.5,2.35
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Unibet,totals,over2.5,1.57
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Unibet,totals,under2.5,2.35
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Matchbook,totals,over2.5,1.62
+EPL,2024-01-13T12:30:00Z,Chelsea,Fulham,Matchbook,totals,under2.5,2.42
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betfair Sportsbook,totals,over2.5,1.6
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Betfair Sportsbook,totals,under2.5,2.25
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,William Hill,totals,over2.5,1.6
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,William Hill,totals,under2.5,2.25
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Coral,totals,over2.5,1.6
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Coral,totals,under2.5,2.25
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Grosvenor,totals,over2.5,1.57
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Grosvenor,totals,under2.5,2.3
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Mr Green,totals,over2.5,1.57
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Mr Green,totals,under2.5,2.28
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Casumo,totals,over2.5,1.61
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Casumo,totals,under2.5,2.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Unibet,totals,over2.5,1.61
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Unibet,totals,under2.5,2.33
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Matchbook,totals,over2.5,1.65
+EPL,2024-01-13T17:30:00Z,Newcastle United,Manchester City,Matchbook,totals,under2.5,2.4
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betfair Sportsbook,totals,over2.5,1.65
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Betfair Sportsbook,totals,under2.5,2.1
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,William Hill,totals,over2.5,1.62
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,William Hill,totals,under2.5,2.2
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Coral,totals,over2.5,1.67
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Coral,totals,under2.5,2.15
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Grosvenor,totals,over2.5,1.72
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Grosvenor,totals,under2.5,2.07
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Mr Green,totals,over2.5,1.71
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Mr Green,totals,under2.5,2.06
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Casumo,totals,over2.5,1.74
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Casumo,totals,under2.5,2.1
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Unibet,totals,over2.5,1.74
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Unibet,totals,under2.5,2.1
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Matchbook,totals,over2.5,1.73
+EPL,2024-01-14T14:00:00Z,Everton,Aston Villa,Matchbook,totals,under2.5,2.24
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betfair Sportsbook,totals,over2.5,1.44
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Betfair Sportsbook,totals,under2.5,2.6
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,William Hill,totals,over2.5,1.44
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,William Hill,totals,under2.5,2.62
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Coral,totals,over2.5,1.44
+EPL,2024-01-14T16:30:00Z,Manchester United,Tottenham Hotspur,Coral,totals,under2.5,2.55
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betfair Sportsbook,totals,over2.5,1.75
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Betfair Sportsbook,totals,under2.5,1.95
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,William Hill,totals,over2.5,1.73
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,William Hill,totals,under2.5,2.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Coral,totals,over2.5,1.73
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Coral,totals,under2.5,2.0
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Grosvenor,totals,over2.5,1.72
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Grosvenor,totals,under2.5,2.07
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Mr Green,totals,over2.5,1.72
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Mr Green,totals,under2.5,2.06
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Casumo,totals,over2.5,1.74
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Casumo,totals,under2.5,2.08
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Unibet,totals,over2.5,1.74
+EPL,2024-01-20T12:30:00Z,Arsenal,Crystal Palace,Unibet,totals,under2.5,2.08
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betfair Sportsbook,totals,over2.5,1.8
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Betfair Sportsbook,totals,under2.5,1.91
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,William Hill,totals,over2.5,1.8
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,William Hill,totals,under2.5,1.91
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Coral,totals,over2.5,1.85
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Coral,totals,under2.5,1.87
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Casumo,totals,over2.5,1.89
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Casumo,totals,under2.5,1.89
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Mr Green,totals,over2.5,1.88
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Mr Green,totals,under2.5,1.88
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Grosvenor,totals,over2.5,1.88
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Grosvenor,totals,under2.5,1.88
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Unibet,totals,over2.5,1.89
+EPL,2024-01-20T17:30:00Z,Brentford,Nottingham Forest,Unibet,totals,under2.5,1.89
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betfair Sportsbook,totals,over2.5,2.0
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Betfair Sportsbook,totals,under2.5,1.73
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,William Hill,totals,over2.5,1.91
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,William Hill,totals,under2.5,1.8
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Coral,totals,over2.5,1.95
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Coral,totals,under2.5,1.75
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Grosvenor,totals,over2.5,1.92
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Grosvenor,totals,under2.5,1.85
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Unibet,totals,over2.5,1.93
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Unibet,totals,under2.5,1.85
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Casumo,totals,over2.5,1.93
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Casumo,totals,under2.5,1.85
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Mr Green,totals,over2.5,1.91
+EPL,2024-01-21T14:00:00Z,Sheffield United,West Ham United,Mr Green,totals,under2.5,1.83
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betfair Sportsbook,totals,over2.5,1.4
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Betfair Sportsbook,totals,under2.5,2.75
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,William Hill,totals,over2.5,1.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,William Hill,totals,under2.5,2.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Coral,totals,over2.5,1.5
+EPL,2024-01-21T16:30:00Z,Bournemouth,Liverpool,Coral,totals,under2.5,2.5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betfair Sportsbook,totals,over2.5,1.57
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Betfair Sportsbook,totals,under2.5,2.25
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,William Hill,totals,over2.5,1.62
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,William Hill,totals,under2.5,2.2
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Coral,totals,over2.5,1.6
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Coral,totals,under2.5,2.25
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Grosvenor,totals,over2.5,1.62
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Grosvenor,totals,under2.5,2.23
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Unibet,totals,over2.5,1.63
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Unibet,totals,under2.5,2.25
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Casumo,totals,over2.5,1.63
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Casumo,totals,under2.5,2.25
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Mr Green,totals,over2.5,1.61
+EPL,2024-01-22T19:45:00Z,Brighton and Hove Albion,Wolverhampton Wanderers,Mr Green,totals,under2.5,2.23
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betfair Sportsbook,totals,over2.5,1.65
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Betfair Sportsbook,totals,under2.5,2.1
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,William Hill,totals,over2.5,1.67
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,William Hill,totals,under2.5,2.1
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Coral,totals,over2.5,1.7
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Coral,totals,under2.5,2.05
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Grosvenor,totals,over2.5,1.65
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Grosvenor,totals,under2.5,2.2
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Casumo,totals,over2.5,1.66
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Casumo,totals,under2.5,2.23
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Unibet,totals,over2.5,1.66
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Unibet,totals,under2.5,2.23
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Mr Green,totals,over2.5,1.64
+EPL,2024-01-30T19:30:00Z,Nottingham Forest,Arsenal,Mr Green,totals,under2.5,2.18
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betfair Sportsbook,totals,over2.5,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Betfair Sportsbook,totals,under2.5,2.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,William Hill,totals,over2.5,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,William Hill,totals,under2.5,2.2
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Coral,totals,over2.5,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Coral,totals,under2.5,2.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Mr Green,totals,over2.5,1.57
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Mr Green,totals,under2.5,2.25
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Casumo,totals,over2.5,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Casumo,totals,under2.5,2.3
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Grosvenor,totals,over2.5,1.6
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Grosvenor,totals,under2.5,2.28
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Unibet,totals,over2.5,1.62
+EPL,2024-01-30T19:45:00Z,Luton,Brighton and Hove Albion,Unibet,totals,under2.5,2.3
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betfair Sportsbook,totals,over2.5,1.85
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Betfair Sportsbook,totals,under2.5,1.85
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,William Hill,totals,over2.5,1.91
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,William Hill,totals,under2.5,1.8
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Coral,totals,over2.5,1.91
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Coral,totals,under2.5,1.8
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Mr Green,totals,over2.5,1.87
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Mr Green,totals,under2.5,1.88
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Casumo,totals,over2.5,1.89
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Casumo,totals,under2.5,1.89
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Grosvenor,totals,over2.5,1.88
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Grosvenor,totals,under2.5,1.88
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Unibet,totals,over2.5,1.89
+EPL,2024-01-30T19:45:00Z,Fulham,Everton,Unibet,totals,under2.5,1.89
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betfair Sportsbook,totals,over2.5,1.85
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Betfair Sportsbook,totals,under2.5,1.85
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,William Hill,totals,over2.5,1.8
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,William Hill,totals,under2.5,1.91
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Coral,totals,over2.5,1.91
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Coral,totals,under2.5,1.83
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Casumo,totals,over2.5,1.91
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Casumo,totals,under2.5,1.88
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Unibet,totals,over2.5,1.91
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Unibet,totals,under2.5,1.88
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Grosvenor,totals,over2.5,1.88
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Grosvenor,totals,under2.5,1.87
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Mr Green,totals,over2.5,1.88
+EPL,2024-01-30T20:00:00Z,Crystal Palace,Sheffield United,Mr Green,totals,under2.5,1.87
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betfair Sportsbook,totals,over2.5,1.57
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Betfair Sportsbook,totals,under2.5,2.25
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,William Hill,totals,over2.5,1.62
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,William Hill,totals,under2.5,2.2
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Coral,totals,over2.5,1.57
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Coral,totals,under2.5,2.3
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Mr Green,totals,over2.5,1.54
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Mr Green,totals,under2.5,2.35
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Casumo,totals,over2.5,1.56
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Casumo,totals,under2.5,2.4
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Unibet,totals,over2.5,1.56
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Unibet,totals,under2.5,2.4
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Grosvenor,totals,over2.5,1.55
+EPL,2024-01-30T20:15:00Z,Aston Villa,Newcastle United,Grosvenor,totals,under2.5,2.38
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betfair Sportsbook,totals,over2.5,1.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Betfair Sportsbook,totals,under2.5,2.4
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,William Hill,totals,over2.5,1.53
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,William Hill,totals,under2.5,2.38
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Coral,totals,over2.5,1.5
+EPL,2024-01-31T19:30:00Z,Tottenham Hotspur,Brentford,Coral,totals,under2.5,2.45
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betfair Sportsbook,totals,over2.5,1.29
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Betfair Sportsbook,totals,under2.5,3.3
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,William Hill,totals,over2.5,1.36
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,William Hill,totals,under2.5,3.0
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Coral,totals,over2.5,1.33
+EPL,2024-01-31T19:30:00Z,Manchester City,Burnley,Coral,totals,under2.5,3.1
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betfair Sportsbook,totals,over2.5,1.5
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Betfair Sportsbook,totals,under2.5,2.4
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,William Hill,totals,over2.5,1.57
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,William Hill,totals,under2.5,2.3
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Coral,totals,over2.5,1.53
+EPL,2024-01-31T20:15:00Z,Liverpool,Chelsea,Coral,totals,under2.5,2.4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betfair Sportsbook,totals,over2.5,1.6
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Betfair Sportsbook,totals,under2.5,2.2
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,William Hill,totals,over2.5,1.67
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,William Hill,totals,under2.5,2.1
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Coral,totals,over2.5,1.61
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Coral,totals,under2.5,2.15
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Casumo,totals,over2.5,1.68
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Casumo,totals,under2.5,2.2
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Unibet,totals,over2.5,1.68
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Unibet,totals,under2.5,2.2
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Grosvenor,totals,over2.5,1.66
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Grosvenor,totals,under2.5,2.17
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Mr Green,totals,over2.5,1.65
+EPL,2024-02-01T19:30:00Z,West Ham United,Bournemouth,Mr Green,totals,under2.5,2.15
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betfair Sportsbook,totals,over2.5,1.65
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Betfair Sportsbook,totals,under2.5,2.1
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,William Hill,totals,over2.5,1.73
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,William Hill,totals,under2.5,2.0
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Coral,totals,over2.5,1.67
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Coral,totals,under2.5,2.1
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Casumo,totals,over2.5,1.73
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Casumo,totals,under2.5,2.12
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Grosvenor,totals,over2.5,1.71
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Grosvenor,totals,under2.5,2.1
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Unibet,totals,over2.5,1.73
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Unibet,totals,under2.5,2.12
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Mr Green,totals,over2.5,1.7
+EPL,2024-02-01T20:15:00Z,Wolverhampton Wanderers,Manchester United,Mr Green,totals,under2.5,2.08

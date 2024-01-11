@@ -1,0 +1,3537 @@
+[
+    {
+        "id": "97abcf57b1a4662b45e1de5dbe524be1",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-12T19:45:00Z",
+        "home_team": "Burnley",
+        "away_team": "Luton",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.83,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2024-01-10T21:15:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.98,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.99,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.92,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.92,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb73291d9fdc5c82d50fac59c9b4d1b4",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-13T12:30:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Fulham",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.32,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.35,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.35,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2024-01-10T21:15:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.42,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fe5339c61bd42ab6f3398a8ffc9b9fe7",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-13T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Manchester City",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.33,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.33,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2024-01-10T21:15:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0d2a71d0a577e5a6293cee400b5b3c14",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-14T14:00:00Z",
+        "home_team": "Everton",
+        "away_team": "Aston Villa",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.15,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.07,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.06,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2024-01-10T21:15:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.26,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e3588a175ef971d5d784210b2fec6be",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-14T16:30:00Z",
+        "home_team": "Manchester United",
+        "away_team": "Tottenham Hotspur",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.44,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.6,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.44,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.62,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.44,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.55,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.64,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.63,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.66,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.23,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.66,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2024-01-10T21:15:09Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.22,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.74,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1d64074bf49af99acf49f8aef1f63b72",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-20T12:30:00Z",
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.75,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.07,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.72,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.06,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.08,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.74,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.08,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "31cd3f01febe28e5bb94c658c423c2ea",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-20T17:30:00Z",
+        "home_team": "Brentford",
+        "away_team": "Nottingham Forest",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.87,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7e425428814dce04fc6b8241ec50b424",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-21T14:00:00Z",
+        "home_team": "Sheffield United",
+        "away_team": "West Ham United",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.0,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.73,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.8,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.95,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.75,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.92,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.93,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.83,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "42e3014c8042b8d34d4347338a695d4f",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-21T16:30:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Liverpool",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.4,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.75,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.5,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.5,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.15,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.67,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.68,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.18,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.68,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.12,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.65,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0ca6ed6a9722a4833512d2503c5432ba",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-22T19:45:00Z",
+        "home_team": "Brighton and Hove Albion",
+        "away_team": "Wolverhampton Wanderers",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.23,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.63,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.23,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6b42aaa26bb8a754ca45b50437b60c68",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-30T19:30:00Z",
+        "home_team": "Nottingham Forest",
+        "away_team": "Arsenal",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.05,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.66,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.23,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.66,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.23,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.64,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.18,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b0068c9e9615f2a7e110b5a84da76eb6",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-30T19:45:00Z",
+        "home_team": "Luton",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.28,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ab623abc911b1ebd34e6f2608fbd4769",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-30T19:45:00Z",
+        "home_team": "Fulham",
+        "away_team": "Everton",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.8,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.8,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.87,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.89,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.89,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "634182b023f514378a3d0a745282309a",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-30T20:00:00Z",
+        "home_team": "Crystal Palace",
+        "away_team": "Sheffield United",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.85,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.85,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.8,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.83,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.91,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.87,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.87,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "51da79a6fce2914b546f7c4923821e0f",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-30T20:15:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Newcastle United",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.25,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.62,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.54,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.35,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.56,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.55,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.38,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "38114fddda1c87093a2309cf16af4011",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-31T19:30:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Brentford",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.38,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.45,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.57,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.35,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.6,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.3,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.56,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0c2662c6791685237d6d631ccfe077d0",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-31T19:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Burnley",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.29,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 3.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.36,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 3.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.33,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 3.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.88,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.88,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ca67d4a4fc8e44f2e7b25187091f22de",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-01-31T20:15:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.5,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.57,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.3,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.53,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.4,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.65,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.25,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.65,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.63,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 2.2,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 1.62,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7cecd4a9afb2d25c3e3567421631163b",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-02-01T19:30:00Z",
+        "home_team": "West Ham United",
+        "away_team": "Bournemouth",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.6,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.61,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.15,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.68,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.2,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.66,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.17,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.15,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9f4f001dc58bafb310fbb76738560171",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2024-02-01T20:15:00Z",
+        "home_team": "Wolverhampton Wanderers",
+        "away_team": "Manchester United",
+        "bookmakers": [
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2024-01-10T21:13:33Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.65,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2024-01-10T21:14:34Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:34Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.0,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2024-01-10T21:14:05Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:14:05Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.67,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "casumo",
+                "title": "Casumo",
+                "last_update": "2024-01-10T21:13:56Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:56Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "grosvenor",
+                "title": "Grosvenor",
+                "last_update": "2024-01-10T21:13:55Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:55Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.71,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.1,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet",
+                "last_update": "2024-01-10T21:15:24Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:15:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.73,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.12,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mrgreen",
+                "title": "Mr Green",
+                "last_update": "2024-01-10T21:13:32Z",
+                "markets": [
+                    {
+                        "key": "totals",
+                        "last_update": "2024-01-10T21:13:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Over",
+                                "price": 1.7,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Under",
+                                "price": 2.08,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

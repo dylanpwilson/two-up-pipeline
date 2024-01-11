@@ -1,0 +1,553 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+7. august 2021,15:00,2:1,Sunderland AFC,Wigan Athletic,"{'15': 'away', '17': 'home', '53': 'home'}",2021-2022,1
+7. august 2021,15:00,3:3,Bolton Wanderers,Milton Keynes Dons,"{'22': 'away', '30': 'home', '67': 'home', '71': 'away', '83': 'away', '90': 'home'}",2021-2022,1
+7. august 2021,15:00,1:1,Cambridge United,Oxford United,"{'42': 'away', '78': 'home'}",2021-2022,1
+7. august 2021,15:00,1:1,Crewe Alexandra,Cheltenham Town,"{'28': 'home', '40': 'away'}",2021-2022,1
+7. august 2021,15:00,1:2,Doncaster Rovers,AFC Wimbledon,"{'46': 'home', '58': 'away', '74': 'away'}",2021-2022,1
+7. august 2021,15:00,1:1,Gillingham FC,Lincoln City,"{'4': 'away', '44': 'home'}",2021-2022,1
+7. august 2021,15:00,0:1,Fleetwood Town,Portsmouth FC,{'60': 'away'},2021-2022,1
+7. august 2021,15:00,2:2,Ipswich Town,Morecambe FC,"{'22': 'away', '61': 'home', '72': 'away', '90': 'home'}",2021-2022,1
+7. august 2021,15:00,2:0,Rotherham United,Plymouth Argyle,"{'10': 'home', '38': 'home'}",2021-2022,1
+7. august 2021,15:00,0:1,Shrewsbury Town,Burton Albion,{'31': 'away'},2021-2022,1
+7. august 2021,15:00,2:1,Wycombe Wanderers,Accrington Stanley,"{'9': 'home', '15': 'home', '86': 'away'}",2021-2022,1
+7. august 2021,17:30,0:0,Charlton Athletic,Sheffield Wednesday,,2021-2022,1
+14. august 2021,15:00,2:1,Accrington Stanley,Cambridge United,"{'14': 'home', '30': 'home', '79': 'away'}",2021-2022,2
+14. august 2021,15:00,2:1,Burton Albion,Ipswich Town,"{'19': 'home', '23': 'away', '86': 'home'}",2021-2022,2
+14. august 2021,15:00,1:3,Cheltenham Town,Wycombe Wanderers,"{'14': 'away', '45': 'home', '74': 'away', '79': 'away'}",2021-2022,2
+14. august 2021,15:00,2:0,Morecambe FC,Shrewsbury Town,"{'34': 'home', '44': 'home'}",2021-2022,2
+14. august 2021,15:00,2:1,Lincoln City,Fleetwood Town,"{'32': 'away', '69': 'home', '87': 'home'}",2021-2022,2
+14. august 2021,15:00,1:2,Milton Keynes Dons,Sunderland AFC,"{'42': 'away', '52': 'away', '56': 'home'}",2021-2022,2
+14. august 2021,15:00,2:1,Oxford United,Charlton Athletic,"{'23': 'home', '31': 'home', '36': 'away'}",2021-2022,2
+14. august 2021,15:00,1:0,Plymouth Argyle,Gillingham FC,{'88': 'home'},2021-2022,2
+14. august 2021,15:00,2:0,Portsmouth FC,Crewe Alexandra,"{'48': 'home', '64': 'home'}",2021-2022,2
+14. august 2021,15:00,2:0,Sheffield Wednesday,Doncaster Rovers,"{'72': 'home', '75': 'home'}",2021-2022,2
+14. august 2021,15:00,3:3,AFC Wimbledon,Bolton Wanderers,"{'20': 'home', '23': 'away', '27': 'away', '48': 'away', '74': 'home', '75': 'home'}",2021-2022,2
+14. august 2021,15:10,1:0,Wigan Athletic,Rotherham United,{'90': 'home'},2021-2022,2
+17. august 2021,19:45,1:0,Accrington Stanley,Doncaster Rovers,{'3': 'home'},2021-2022,3
+17. august 2021,19:45,1:0,Burton Albion,Sunderland AFC,{'66': 'home'},2021-2022,3
+17. august 2021,19:45,2:1,Cheltenham Town,Ipswich Town,"{'9': 'away', '62': 'home', '81': 'home'}",2021-2022,3
+17. august 2021,19:45,0:1,Morecambe FC,Rotherham United,{'60': 'away'},2021-2022,3
+17. august 2021,19:45,0:1,Lincoln City,Bolton Wanderers,{'77': 'away'},2021-2022,3
+17. august 2021,19:45,2:1,Milton Keynes Dons,Charlton Athletic,"{'15': 'away', '18': 'home', '64': 'home'}",2021-2022,3
+17. august 2021,19:45,1:0,Oxford United,Crewe Alexandra,{'33': 'home'},2021-2022,3
+17. august 2021,19:45,1:1,Plymouth Argyle,Cambridge United,"{'68': 'home', '76': 'away'}",2021-2022,3
+17. august 2021,19:45,1:0,Portsmouth FC,Shrewsbury Town,{'3': 'home'},2021-2022,3
+17. august 2021,19:45,1:0,Sheffield Wednesday,Fleetwood Town,{'15': 'home'},2021-2022,3
+17. august 2021,19:45,1:1,Wigan Athletic,Wycombe Wanderers,"{'47': 'home', '90': 'away'}",2021-2022,3
+17. august 2021,19:45,1:1,AFC Wimbledon,Gillingham FC,"{'85': 'home', '90': 'away'}",2021-2022,3
+21. august 2021,13:00,0:2,Rotherham United,Sheffield Wednesday,"{'50': 'away', '77': 'away'}",2021-2022,4
+21. august 2021,15:00,1:0,Sunderland AFC,AFC Wimbledon,{'64': 'home'},2021-2022,4
+21. august 2021,15:00,2:1,Bolton Wanderers,Oxford United,"{'11': 'away', '45': 'home', '63': 'home'}",2021-2022,4
+21. august 2021,15:00,3:0,Cambridge United,Burton Albion,"{'53': 'home', '73': 'home', '79': 'home'}",2021-2022,4
+21. august 2021,15:00,0:2,Charlton Athletic,Wigan Athletic,"{'88': 'away', '90': 'away'}",2021-2022,4
+21. august 2021,15:00,0:1,Crewe Alexandra,Accrington Stanley,{'17': 'away'},2021-2022,4
+21. august 2021,15:00,0:0,Doncaster Rovers,Portsmouth FC,,2021-2022,4
+21. august 2021,15:00,2:1,Gillingham FC,Morecambe FC,"{'4': 'home', '25': 'away', '79': 'home'}",2021-2022,4
+21. august 2021,15:00,3:2,Fleetwood Town,Cheltenham Town,"{'8': 'away', '33': 'home', '81': 'home', '87': 'away', '90': 'home'}",2021-2022,4
+21. august 2021,15:00,2:2,Ipswich Town,Milton Keynes Dons,"{'16': 'home', '58': 'away', '72': 'home', '75': 'away'}",2021-2022,4
+21. august 2021,15:00,0:3,Shrewsbury Town,Plymouth Argyle,"{'24': 'away', '50': 'away', '65': 'away'}",2021-2022,4
+21. august 2021,15:00,1:0,Wycombe Wanderers,Lincoln City,{'3': 'home'},2021-2022,4
+27. august 2021,19:45,1:1,Burton Albion,Cheltenham Town,"{'28': 'away', '67': 'home'}",2021-2022,5
+28. august 2021,13:00,2:0,Rotherham United,Doncaster Rovers,"{'27': 'home', '45': 'home'}",2021-2022,5
+28. august 2021,15:00,3:1,Sunderland AFC,Wycombe Wanderers,"{'14': 'home', '18': 'home', '83': 'home', '90': 'away'}",2021-2022,5
+28. august 2021,15:00,1:0,Cambridge United,Bolton Wanderers,{'16': 'home'},2021-2022,5
+28. august 2021,15:00,2:0,Charlton Athletic,Crewe Alexandra,"{'36': 'home', '41': 'home'}",2021-2022,5
+28. august 2021,15:00,1:0,Morecambe FC,Sheffield Wednesday,{'63': 'home'},2021-2022,5
+28. august 2021,15:00,2:2,Ipswich Town,AFC Wimbledon,"{'52': 'home', '54': 'home', '58': 'away', '90': 'away'}",2021-2022,5
+28. august 2021,15:00,2:0,Milton Keynes Dons,Accrington Stanley,"{'45': 'home', '85': 'home'}",2021-2022,5
+28. august 2021,15:00,3:1,Oxford United,Lincoln City,"{'12': 'home', '24': 'home', '73': 'home', '87': 'away'}",2021-2022,5
+28. august 2021,15:00,1:1,Plymouth Argyle,Fleetwood Town,"{'21': 'home', '35': 'away'}",2021-2022,5
+28. august 2021,15:00,2:1,Shrewsbury Town,Gillingham FC,"{'12': 'away', '59': 'home', '68': 'home'}",2021-2022,5
+28. august 2021,15:00,1:0,Wigan Athletic,Portsmouth FC,{'78': 'home'},2021-2022,5
+4. september 2021,15:00,1:0,Accrington Stanley,Shrewsbury Town,{'15': 'home'},2021-2022,6
+4. september 2021,15:00,1:1,Cheltenham Town,Milton Keynes Dons,"{'14': 'home', '87': 'away'}",2021-2022,6
+4. september 2021,15:00,3:1,AFC Wimbledon,Oxford United,"{'45': 'away', '55': 'home', '78': 'home', '81': 'home'}",2021-2022,6
+6. september 2021,20:00,0:0,Bolton Wanderers,Burton Albion,,2021-2022,6
+14. september 2021,19:45,1:1,Lincoln City,Rotherham United,"{'22': 'away', '55': 'home'}",2021-2022,6
+21. september 2021,19:45,1:3,Crewe Alexandra,Morecambe FC,"{'8': 'away', '28': 'away', '49': 'home', '85': 'away'}",2021-2022,6
+21. september 2021,19:45,1:1,Gillingham FC,Charlton Athletic,"{'18': 'away', '56': 'home'}",2021-2022,6
+21. september 2021,19:45,2:2,Portsmouth FC,Plymouth Argyle,"{'6': 'home', '48': 'away', '80': 'away', '90': 'home'}",2021-2022,6
+26. october 2021,19:45,1:1,Doncaster Rovers,Cambridge United,"{'7': 'away', '68': 'home'}",2021-2022,6
+2. november 2021,19:45,2:3,Fleetwood Town,Wigan Athletic,"{'8': 'home', '52': 'home', '62': 'away', '68': 'away', '72': 'away'}",2021-2022,6
+2. november 2021,19:45,3:0,Sheffield Wednesday,Sunderland AFC,"{'11': 'home', '39': 'home', '53': 'home'}",2021-2022,6
+2. november 2021,19:45,1:4,Wycombe Wanderers,Ipswich Town,"{'17': 'home', '27': 'away', '51': 'away', '60': 'away', '90': 'away'}",2021-2022,6
+11. september 2021,15:00,2:1,Sunderland AFC,Accrington Stanley,"{'15': 'home', '30': 'away', '58': 'home'}",2021-2022,7
+11. september 2021,15:00,1:1,Burton Albion,Gillingham FC,"{'18': 'away', '46': 'home'}",2021-2022,7
+11. september 2021,15:00,1:5,Cambridge United,Lincoln City,"{'1': 'away', '16': 'away', '24': 'away', '57': 'away', '59': 'home', '72': 'away'}",2021-2022,7
+11. september 2021,15:00,1:2,Charlton Athletic,Cheltenham Town,"{'6': 'away', '33': 'away', '59': 'home'}",2021-2022,7
+11. september 2021,15:00,3:4,Morecambe FC,AFC Wimbledon,"{'5': 'away', '49': 'home', '54': 'home', '61': 'away', '65': 'home', '72': 'away', '90': 'away'}",2021-2022,7
+11. september 2021,15:00,2:5,Ipswich Town,Bolton Wanderers,"{'5': 'home', '10': 'away', '18': 'away', '30': 'home', '45': 'away', '47': 'away', '57': 'away'}",2021-2022,7
+11. september 2021,15:00,1:0,Milton Keynes Dons,Portsmouth FC,{'72': 'home'},2021-2022,7
+11. september 2021,15:00,0:0,Oxford United,Wycombe Wanderers,,2021-2022,7
+11. september 2021,15:00,3:0,Plymouth Argyle,Sheffield Wednesday,"{'7': 'home', '40': 'home', '90': 'home'}",2021-2022,7
+11. september 2021,15:00,2:4,Rotherham United,Fleetwood Town,"{'24': 'away', '38': 'home', '45': 'home', '54': 'away', '61': 'away', '69': 'away'}",2021-2022,7
+11. september 2021,15:00,1:1,Shrewsbury Town,Crewe Alexandra,"{'19': 'home', '44': 'away'}",2021-2022,7
+11. september 2021,15:00,2:1,Wigan Athletic,Doncaster Rovers,"{'22': 'away', '24': 'home', '52': 'home'}",2021-2022,7
+18. september 2021,15:00,1:4,Accrington Stanley,Wigan Athletic,"{'6': 'away', '18': 'away', '52': 'home', '58': 'away', '90': 'away'}",2021-2022,8
+18. september 2021,15:00,0:2,Bolton Wanderers,Rotherham United,"{'18': 'away', '21': 'away'}",2021-2022,8
+18. september 2021,15:00,1:0,Cheltenham Town,Oxford United,{'68': 'home'},2021-2022,8
+18. september 2021,15:00,2:0,Crewe Alexandra,Burton Albion,"{'10': 'home', '87': 'home'}",2021-2022,8
+18. september 2021,15:00,1:0,Doncaster Rovers,Morecambe FC,{'81': 'home'},2021-2022,8
+18. september 2021,15:00,1:4,Gillingham FC,Milton Keynes Dons,"{'20': 'home', '28': 'away', '39': 'away', '82': 'away', '88': 'away'}",2021-2022,8
+18. september 2021,15:00,2:2,Fleetwood Town,Sunderland AFC,"{'19': 'away', '76': 'away', '81': 'home', '90': 'home'}",2021-2022,8
+18. september 2021,15:00,0:1,Lincoln City,Ipswich Town,{'30': 'away'},2021-2022,8
+18. september 2021,15:00,1:2,Portsmouth FC,Cambridge United,"{'38': 'away', '69': 'away', '76': 'home'}",2021-2022,8
+18. september 2021,15:00,1:1,Sheffield Wednesday,Shrewsbury Town,"{'6': 'home', '37': 'away'}",2021-2022,8
+18. september 2021,15:00,0:1,AFC Wimbledon,Plymouth Argyle,{'47': 'away'},2021-2022,8
+18. september 2021,15:00,2:1,Wycombe Wanderers,Charlton Athletic,"{'43': 'home', '72': 'home', '90': 'away'}",2021-2022,8
+25. september 2021,15:00,1:0,Sunderland AFC,Bolton Wanderers,{'17': 'home'},2021-2022,9
+25. september 2021,15:00,1:2,Burton Albion,Lincoln City,"{'10': 'away', '50': 'away', '86': 'home'}",2021-2022,9
+25. september 2021,15:00,2:2,Cambridge United,Fleetwood Town,"{'2': 'away', '35': 'home', '51': 'home', '76': 'away'}",2021-2022,9
+25. september 2021,15:00,2:2,Charlton Athletic,Portsmouth FC,"{'6': 'away', '47': 'home', '72': 'away', '87': 'home'}",2021-2022,9
+25. september 2021,15:00,3:3,Morecambe FC,Accrington Stanley,"{'15': 'home', '19': 'away', '21': 'away', '27': 'home', '68': 'away', '81': 'home'}",2021-2022,9
+25. september 2021,15:00,1:1,Ipswich Town,Sheffield Wednesday,"{'26': 'away', '90': 'home'}",2021-2022,9
+25. september 2021,15:00,1:0,Milton Keynes Dons,Wycombe Wanderers,{'40': 'home'},2021-2022,9
+25. september 2021,15:00,1:1,Oxford United,Gillingham FC,"{'5': 'home', '30': 'away'}",2021-2022,9
+25. september 2021,15:00,2:1,Plymouth Argyle,Doncaster Rovers,"{'54': 'away', '68': 'home', '90': 'home'}",2021-2022,9
+25. september 2021,15:00,1:1,Rotherham United,Crewe Alexandra,"{'54': 'home', '90': 'away'}",2021-2022,9
+25. september 2021,15:00,2:1,Shrewsbury Town,AFC Wimbledon,"{'32': 'away', '41': 'home', '67': 'home'}",2021-2022,9
+25. september 2021,15:00,2:0,Wigan Athletic,Cheltenham Town,"{'8': 'home', '46': 'home'}",2021-2022,9
+28. september 2021,19:45,5:0,Sunderland AFC,Cheltenham Town,"{'11': 'home', '28': 'home', '38': 'home', '65': 'home', '66': 'home'}",2021-2022,10
+28. september 2021,19:45,2:1,Burton Albion,Portsmouth FC,"{'32': 'home', '60': 'home', '64': 'away'}",2021-2022,10
+28. september 2021,19:45,0:2,Cambridge United,Gillingham FC,"{'26': 'away', '60': 'away'}",2021-2022,10
+28. september 2021,19:45,1:4,Charlton Athletic,Bolton Wanderers,"{'12': 'home', '43': 'away', '73': 'away', '81': 'away', '90': 'away'}",2021-2022,10
+28. september 2021,19:45,2:0,Morecambe FC,Lincoln City,"{'53': 'home', '79': 'home'}",2021-2022,10
+28. september 2021,19:45,6:0,Ipswich Town,Doncaster Rovers,"{'13': 'home', '31': 'home', '70': 'home', '73': 'home', '76': 'home', '80': 'home'}",2021-2022,10
+28. september 2021,19:45,3:3,Milton Keynes Dons,Fleetwood Town,"{'12': 'away', '27': 'home', '32': 'away', '39': 'home', '73': 'home', '88': 'away'}",2021-2022,10
+28. september 2021,19:45,5:1,Oxford United,Accrington Stanley,"{'18': 'home', '24': 'home', '50': 'home', '61': 'away', '71': 'home', '90': 'home'}",2021-2022,10
+28. september 2021,19:45,1:1,Plymouth Argyle,Crewe Alexandra,"{'3': 'away', '72': 'home'}",2021-2022,10
+28. september 2021,19:45,3:0,Rotherham United,AFC Wimbledon,"{'36': 'home', '45': 'home', '89': 'home'}",2021-2022,10
+28. september 2021,19:45,1:2,Shrewsbury Town,Wycombe Wanderers,"{'52': 'away', '66': 'away', '78': 'home'}",2021-2022,10
+28. september 2021,19:45,1:2,Wigan Athletic,Sheffield Wednesday,"{'23': 'away', '60': 'away', '82': 'home'}",2021-2022,10
+2. october 2021,15:00,2:1,Accrington Stanley,Ipswich Town,"{'38': 'away', '50': 'home', '79': 'home'}",2021-2022,11
+2. october 2021,15:00,2:1,Bolton Wanderers,Shrewsbury Town,"{'18': 'home', '23': 'home', '89': 'away'}",2021-2022,11
+2. october 2021,15:00,0:2,Cheltenham Town,Rotherham United,"{'51': 'away', '75': 'away'}",2021-2022,11
+2. october 2021,15:00,2:2,Crewe Alexandra,Cambridge United,"{'10': 'home', '26': 'home', '79': 'away', '90': 'away'}",2021-2022,11
+2. october 2021,15:00,2:1,Doncaster Rovers,Milton Keynes Dons,"{'6': 'home', '24': 'away', '79': 'home'}",2021-2022,11
+2. october 2021,15:00,0:2,Gillingham FC,Wigan Athletic,"{'64': 'away', '82': 'away'}",2021-2022,11
+2. october 2021,15:00,1:2,Fleetwood Town,Charlton Athletic,"{'41': 'away', '51': 'home', '69': 'away'}",2021-2022,11
+2. october 2021,15:00,2:2,Lincoln City,Plymouth Argyle,"{'25': 'away', '66': 'home', '74': 'away', '90': 'home'}",2021-2022,11
+2. october 2021,15:00,4:0,Portsmouth FC,Sunderland AFC,"{'19': 'home', '33': 'home', '45': 'home', '61': 'home'}",2021-2022,11
+2. october 2021,15:00,1:2,Sheffield Wednesday,Oxford United,"{'12': 'away', '73': 'home', '90': 'away'}",2021-2022,11
+2. october 2021,15:00,1:1,AFC Wimbledon,Burton Albion,"{'66': 'away', '90': 'home'}",2021-2022,11
+2. october 2021,15:00,4:3,Wycombe Wanderers,Morecambe FC,"{'4': 'away', '26': 'away', '50': 'home', '53': 'home', '74': 'home', '80': 'away', '90': 'home'}",2021-2022,11
+9. october 2021,15:00,2:1,Ipswich Town,Shrewsbury Town,"{'23': 'home', '28': 'away', '54': 'home'}",2021-2022,12
+9. october 2021,15:00,2:1,Plymouth Argyle,Burton Albion,"{'15': 'home', '43': 'home', '59': 'away'}",2021-2022,12
+9. october 2021,15:00,1:0,Sheffield Wednesday,Bolton Wanderers,{'66': 'home'},2021-2022,12
+9. october 2021,15:00,2:0,Wycombe Wanderers,Gillingham FC,"{'2': 'home', '7': 'home'}",2021-2022,12
+26. october 2021,19:45,1:2,Wigan Athletic,Lincoln City,"{'14': 'away', '57': 'away', '90': 'home'}",2021-2022,12
+2. november 2021,19:45,1:1,Charlton Athletic,Rotherham United,"{'45': 'away', '83': 'home'}",2021-2022,12
+2. november 2021,19:45,1:1,Crewe Alexandra,Doncaster Rovers,"{'33': 'home', '45': 'away'}",2021-2022,12
+2. november 2021,19:45,0:2,Morecambe FC,Cambridge United,"{'28': 'away', '72': 'away'}",2021-2022,12
+2. november 2021,19:45,1:1,Portsmouth FC,Cheltenham Town,"{'6': 'away', '32': 'home'}",2021-2022,12
+4. december 2021,15:00,5:1,Accrington Stanley,Fleetwood Town,"{'29': 'home', '46': 'home', '57': 'away', '72': 'home', '78': 'home', '90': 'home'}",2021-2022,12
+4. december 2021,15:00,1:1,Sunderland AFC,Oxford United,"{'7': 'home', '36': 'away'}",2021-2022,12
+11. january 2022,19:45,1:0,Milton Keynes Dons,AFC Wimbledon,{'29': 'home'},2021-2022,12
+15. october 2021,19:45,3:2,Burton Albion,Morecambe FC,"{'3': 'away', '5': 'home', '14': 'home', '49': 'home', '90': 'away'}",2021-2022,13
+16. october 2021,15:00,0:4,Bolton Wanderers,Wigan Athletic,"{'6': 'away', '50': 'away', '65': 'away', '81': 'away'}",2021-2022,13
+16. october 2021,15:00,2:2,Cambridge United,Ipswich Town,"{'10': 'away', '36': 'away', '40': 'home', '88': 'home'}",2021-2022,13
+16. october 2021,15:00,1:0,Cheltenham Town,Accrington Stanley,{'79': 'home'},2021-2022,13
+16. october 2021,15:00,0:2,Doncaster Rovers,Wycombe Wanderers,"{'2': 'away', '17': 'away'}",2021-2022,13
+16. october 2021,15:00,1:2,Gillingham FC,Sunderland AFC,"{'25': 'home', '45': 'away', '54': 'away'}",2021-2022,13
+16. october 2021,15:00,3:0,Fleetwood Town,Crewe Alexandra,"{'60': 'home', '72': 'home', '90': 'home'}",2021-2022,13
+16. october 2021,15:00,2:1,Lincoln City,Charlton Athletic,"{'58': 'home', '63': 'away', '90': 'home'}",2021-2022,13
+16. october 2021,15:00,1:3,Oxford United,Plymouth Argyle,"{'5': 'home', '11': 'away', '39': 'away', '84': 'away'}",2021-2022,13
+16. october 2021,15:00,4:1,Rotherham United,Portsmouth FC,"{'29': 'home', '49': 'away', '55': 'home', '60': 'home', '62': 'home'}",2021-2022,13
+16. october 2021,15:00,1:0,Shrewsbury Town,Milton Keynes Dons,{'56': 'home'},2021-2022,13
+16. october 2021,15:00,2:2,AFC Wimbledon,Sheffield Wednesday,"{'13': 'away', '61': 'away', '67': 'home', '85': 'home'}",2021-2022,13
+19. october 2021,19:45,1:1,Cambridge United,Sheffield Wednesday,"{'20': 'home', '80': 'away'}",2021-2022,14
+19. october 2021,19:45,2:3,Charlton Athletic,Accrington Stanley,"{'9': 'away', '31': 'home', '57': 'away', '66': 'away', '78': 'home'}",2021-2022,14
+19. october 2021,19:45,3:1,Cheltenham Town,Morecambe FC,"{'26': 'home', '38': 'away', '65': 'home', '68': 'home'}",2021-2022,14
+19. october 2021,19:45,0:4,Crewe Alexandra,Sunderland AFC,"{'25': 'away', '32': 'away', '55': 'away', '73': 'away'}",2021-2022,14
+19. october 2021,19:45,1:0,Gillingham FC,Doncaster Rovers,{'79': 'home'},2021-2022,14
+19. october 2021,19:45,0:1,Fleetwood Town,Burton Albion,{'36': 'away'},2021-2022,14
+19. october 2021,19:45,0:1,Lincoln City,AFC Wimbledon,{'5': 'away'},2021-2022,14
+19. october 2021,19:45,2:0,Oxford United,Shrewsbury Town,"{'46': 'home', '87': 'home'}",2021-2022,14
+19. october 2021,19:45,3:0,Plymouth Argyle,Bolton Wanderers,"{'6': 'home', '15': 'home', '90': 'home'}",2021-2022,14
+19. october 2021,19:45,0:4,Portsmouth FC,Ipswich Town,"{'41': 'away', '54': 'away', '58': 'away', '75': 'away'}",2021-2022,14
+19. october 2021,19:45,0:0,Rotherham United,Wycombe Wanderers,,2021-2022,14
+19. october 2021,19:45,1:2,Wigan Athletic,Milton Keynes Dons,"{'20': 'home', '30': 'away', '37': 'away'}",2021-2022,14
+23. october 2021,15:00,2:2,Accrington Stanley,Portsmouth FC,"{'18': 'away', '50': 'home', '77': 'home', '86': 'away'}",2021-2022,15
+23. october 2021,15:00,0:1,Sunderland AFC,Charlton Athletic,{'66': 'away'},2021-2022,15
+23. october 2021,15:00,2:2,Bolton Wanderers,Gillingham FC,"{'11': 'away', '14': 'away', '86': 'home', '90': 'home'}",2021-2022,15
+23. october 2021,15:00,1:3,Burton Albion,Oxford United,"{'1': 'away', '43': 'away', '80': 'home', '84': 'away'}",2021-2022,15
+23. october 2021,15:00,3:2,Doncaster Rovers,Cheltenham Town,"{'23': 'home', '45': 'home', '54': 'home', '68': 'away', '90': 'away'}",2021-2022,15
+23. october 2021,15:00,1:1,Morecambe FC,Plymouth Argyle,"{'6': 'home', '12': 'away'}",2021-2022,15
+23. october 2021,15:00,2:1,Ipswich Town,Fleetwood Town,"{'49': 'home', '82': 'away', '90': 'home'}",2021-2022,15
+23. october 2021,15:00,0:3,Milton Keynes Dons,Rotherham United,"{'27': 'away', '65': 'away', '72': 'away'}",2021-2022,15
+23. october 2021,15:00,1:1,Sheffield Wednesday,Lincoln City,"{'55': 'home', '80': 'away'}",2021-2022,15
+23. october 2021,15:00,4:1,Shrewsbury Town,Cambridge United,"{'6': 'home', '58': 'away', '73': 'home', '83': 'home', '90': 'home'}",2021-2022,15
+23. october 2021,15:00,0:2,AFC Wimbledon,Wigan Athletic,"{'50': 'away', '54': 'away'}",2021-2022,15
+23. october 2021,15:00,2:1,Wycombe Wanderers,Crewe Alexandra,"{None: 'home', '77': 'away', '90': 'home'}",2021-2022,15
+30. october 2021,15:00,1:0,Cambridge United,AFC Wimbledon,{'47': 'home'},2021-2022,16
+30. october 2021,15:00,4:0,Charlton Athletic,Doncaster Rovers,"{'21': 'home', '34': 'home', '62': 'home', '71': 'home'}",2021-2022,16
+30. october 2021,15:00,2:2,Cheltenham Town,Sheffield Wednesday,"{'14': 'home', '65': 'away', '82': 'away', '90': 'home'}",2021-2022,16
+30. october 2021,15:00,1:4,Crewe Alexandra,Milton Keynes Dons,"{'12': 'away', '52': 'home', '64': 'away', '82': 'away', '90': 'away'}",2021-2022,16
+30. october 2021,15:00,0:0,Gillingham FC,Accrington Stanley,,2021-2022,16
+30. october 2021,15:00,3:3,Fleetwood Town,Wycombe Wanderers,"{'5': 'home', '24': 'away', '30': 'away', '50': 'away', '60': 'home', '64': 'home'}",2021-2022,16
+30. october 2021,15:00,1:1,Lincoln City,Shrewsbury Town,"{'43': 'home', '50': 'away'}",2021-2022,16
+30. october 2021,15:00,3:1,Oxford United,Morecambe FC,"{'29': 'home', '64': 'away', '73': 'home', '87': 'home'}",2021-2022,16
+30. october 2021,15:00,2:1,Plymouth Argyle,Ipswich Town,"{'14': 'away', '44': 'home', '50': 'home'}",2021-2022,16
+30. october 2021,15:00,1:0,Portsmouth FC,Bolton Wanderers,{'51': 'home'},2021-2022,16
+30. october 2021,15:00,5:1,Rotherham United,Sunderland AFC,"{'10': 'home', '24': 'away', '41': 'home', '53': 'home', '73': 'home', '88': 'home'}",2021-2022,16
+30. october 2021,15:00,2:0,Wigan Athletic,Burton Albion,"{'9': 'home', '51': 'home'}",2021-2022,16
+12. november 2021,20:00,2:0,Bolton Wanderers,Crewe Alexandra,"{'50': 'home', '54': 'home'}",2021-2022,17
+13. november 2021,15:00,1:4,Accrington Stanley,Plymouth Argyle,"{'23': 'away', '44': 'away', '50': 'home', '63': 'away', '76': 'away'}",2021-2022,17
+13. november 2021,15:00,0:1,Burton Albion,Charlton Athletic,{'20': 'away'},2021-2022,17
+13. november 2021,15:00,0:0,Ipswich Town,Oxford United,,2021-2022,17
+13. november 2021,15:00,4:1,Milton Keynes Dons,Cambridge United,"{'13': 'home', '25': 'home', '36': 'home', '76': 'home', '82': 'away'}",2021-2022,17
+13. november 2021,15:00,1:1,Sheffield Wednesday,Gillingham FC,"{'22': 'away', '75': 'home'}",2021-2022,17
+13. november 2021,15:00,0:1,Wycombe Wanderers,Portsmouth FC,{'73': 'away'},2021-2022,17
+8. january 2022,15:00,0:1,Doncaster Rovers,Fleetwood Town,{'50': 'away'},2021-2022,17
+11. january 2022,19:45,1:3,Sunderland AFC,Lincoln City,"{'31': 'away', '57': 'away', '68': 'home', '75': 'away'}",2021-2022,17
+18. january 2022,19:45,1:2,Morecambe FC,Wigan Athletic,"{'7': 'home', '45': 'away', '73': 'away'}",2021-2022,17
+1. february 2022,19:45,2:2,AFC Wimbledon,Cheltenham Town,"{'8': 'home', '31': 'away', '34': 'away', '80': 'home'}",2021-2022,17
+1. march 2022,19:45,0:0,Shrewsbury Town,Rotherham United,,2021-2022,17
+20. november 2021,15:00,2:3,Accrington Stanley,Sheffield Wednesday,"{'13': 'away', '20': 'away', '22': 'away', '33': 'home', '53': 'home'}",2021-2022,18
+20. november 2021,15:00,2:0,Sunderland AFC,Ipswich Town,"{'85': 'home', '90': 'home'}",2021-2022,18
+20. november 2021,15:00,2:0,Charlton Athletic,Plymouth Argyle,"{'61': 'home', '84': 'home'}",2021-2022,18
+20. november 2021,15:00,2:1,Cheltenham Town,Shrewsbury Town,"{'4': 'away', '24': 'home', '66': 'home'}",2021-2022,18
+20. november 2021,15:00,2:0,Crewe Alexandra,Gillingham FC,"{'11': 'home', '90': 'home'}",2021-2022,18
+20. november 2021,15:00,0:0,Doncaster Rovers,Lincoln City,,2021-2022,18
+20. november 2021,15:00,1:2,Fleetwood Town,Morecambe FC,"{'11': 'away', '82': 'home', '90': 'away'}",2021-2022,18
+20. november 2021,15:00,1:0,Milton Keynes Dons,Burton Albion,{'65': 'home'},2021-2022,18
+20. november 2021,15:00,2:1,Portsmouth FC,AFC Wimbledon,"{'24': 'away', '63': 'home', '89': 'home'}",2021-2022,18
+20. november 2021,15:00,3:1,Rotherham United,Cambridge United,"{'34': 'home', '45': 'home', '51': 'away', '81': 'home'}",2021-2022,18
+20. november 2021,15:00,1:0,Wycombe Wanderers,Bolton Wanderers,{'72': 'home'},2021-2022,18
+1. february 2022,19:45,1:1,Wigan Athletic,Oxford United,"{'23': 'away', '36': 'home'}",2021-2022,18
+23. november 2021,19:45,4:0,Burton Albion,Accrington Stanley,"{'28': 'home', '45': 'home', '49': 'home', '50': 'home'}",2021-2022,19
+23. november 2021,19:45,2:2,Cambridge United,Wigan Athletic,"{'44': 'home', '53': 'home', '84': 'away', '87': 'away'}",2021-2022,19
+23. november 2021,19:45,0:2,Gillingham FC,Cheltenham Town,"{'30': 'away', '60': 'away'}",2021-2022,19
+23. november 2021,19:45,2:2,Morecambe FC,Charlton Athletic,"{'2': 'away', '27': 'away', '29': 'home', '72': 'home'}",2021-2022,19
+23. november 2021,19:45,0:2,Ipswich Town,Rotherham United,"{'24': 'away', '59': 'away'}",2021-2022,19
+23. november 2021,19:45,0:3,Lincoln City,Portsmouth FC,"{'45': 'away', '66': 'away', '89': 'away'}",2021-2022,19
+23. november 2021,19:45,3:1,Oxford United,Fleetwood Town,"{'5': 'home', '13': 'home', '40': 'away', '69': 'home'}",2021-2022,19
+23. november 2021,19:45,0:3,Plymouth Argyle,Wycombe Wanderers,"{'62': 'away', '84': 'away', '90': 'away'}",2021-2022,19
+23. november 2021,19:45,2:1,Sheffield Wednesday,Milton Keynes Dons,"{'47': 'away', '83': 'home', '90': 'home'}",2021-2022,19
+23. november 2021,19:45,1:1,Shrewsbury Town,Sunderland AFC,"{'16': 'away', '64': 'home'}",2021-2022,19
+23. november 2021,19:45,3:2,AFC Wimbledon,Crewe Alexandra,"{'11': 'away', '24': 'home', '35': 'home', '44': 'home', '89': 'away'}",2021-2022,19
+23. november 2021,20:00,3:0,Bolton Wanderers,Doncaster Rovers,"{'37': 'home', '45': 'home', '57': 'home'}",2021-2022,19
+27. november 2021,15:00,2:2,Bolton Wanderers,Cheltenham Town,"{'14': 'away', '26': 'home', '45': 'away', '58': 'home'}",2021-2022,20
+27. november 2021,15:00,2:0,Burton Albion,Doncaster Rovers,"{'55': 'home', '76': 'home'}",2021-2022,20
+27. november 2021,15:00,1:2,Cambridge United,Sunderland AFC,"{'15': 'away', '27': 'home', '36': 'away'}",2021-2022,20
+27. november 2021,15:00,0:1,Gillingham FC,Portsmouth FC,{'90': 'away'},2021-2022,20
+27. november 2021,15:00,0:4,Morecambe FC,Milton Keynes Dons,"{'23': 'away', '40': 'away', '64': 'away', '82': 'away'}",2021-2022,20
+27. november 2021,15:00,0:1,Lincoln City,Accrington Stanley,{'55': 'away'},2021-2022,20
+27. november 2021,15:00,0:0,Oxford United,Rotherham United,,2021-2022,20
+27. november 2021,15:00,1:2,Plymouth Argyle,Wigan Athletic,"{'35': 'away', '43': 'home', '90': 'away'}",2021-2022,20
+27. november 2021,15:00,2:2,Sheffield Wednesday,Wycombe Wanderers,"{'23': 'away', '45': 'home', '50': 'home', '65': 'away'}",2021-2022,20
+27. november 2021,15:00,1:0,Shrewsbury Town,Charlton Athletic,{'90': 'home'},2021-2022,20
+27. november 2021,15:00,2:2,AFC Wimbledon,Fleetwood Town,"{'35': 'away', '53': 'home', '79': 'home', '84': 'away'}",2021-2022,20
+28. november 2021,15:00,2:1,Ipswich Town,Crewe Alexandra,"{'3': 'home', '45': 'home', '73': 'away'}",2021-2022,20
+7. december 2021,19:45,0:2,Accrington Stanley,AFC Wimbledon,"{'59': 'away', '76': 'away'}",2021-2022,21
+7. december 2021,19:45,5:0,Sunderland AFC,Morecambe FC,"{'13': 'home', '17': 'home', '56': 'home', '68': 'home', '87': 'home'}",2021-2022,21
+7. december 2021,19:45,2:0,Charlton Athletic,Ipswich Town,"{'26': 'home', '88': 'home'}",2021-2022,21
+7. december 2021,19:45,0:5,Cheltenham Town,Cambridge United,"{'37': 'away', '52': 'away', '63': 'away', '73': 'away', '88': 'away'}",2021-2022,21
+7. december 2021,19:45,2:0,Crewe Alexandra,Lincoln City,"{'48': 'home', '52': 'home'}",2021-2022,21
+7. december 2021,19:45,1:2,Doncaster Rovers,Oxford United,"{'16': 'away', '74': 'home', '87': 'away'}",2021-2022,21
+7. december 2021,19:45,3:0,Fleetwood Town,Bolton Wanderers,"{'6': 'home', '77': 'home', '79': 'home'}",2021-2022,21
+7. december 2021,19:45,0:0,Portsmouth FC,Sheffield Wednesday,,2021-2022,21
+7. december 2021,19:45,5:1,Rotherham United,Gillingham FC,"{'5': 'away', '39': 'home', '45': 'home', '59': 'home', '81': 'home', '89': 'home'}",2021-2022,21
+7. december 2021,19:45,2:1,Wycombe Wanderers,Burton Albion,"{'16': 'home', '45': 'home', '54': 'away'}",2021-2022,21
+8. december 2021,19:45,1:1,Milton Keynes Dons,Plymouth Argyle,"{'21': 'home', '66': 'away'}",2021-2022,21
+8. december 2021,19:45,2:1,Wigan Athletic,Shrewsbury Town,"{'2': 'home', '39': 'away', '90': 'home'}",2021-2022,21
+11. december 2021,15:00,1:0,Accrington Stanley,Bolton Wanderers,{'20': 'home'},2021-2022,22
+11. december 2021,15:00,2:1,Sunderland AFC,Plymouth Argyle,"{'4': 'home', '13': 'home', '64': 'away'}",2021-2022,22
+11. december 2021,15:00,2:0,Charlton Athletic,Cambridge United,"{'30': 'home', '89': 'home'}",2021-2022,22
+11. december 2021,15:00,2:2,Cheltenham Town,Lincoln City,"{'17': 'home', '69': 'away', '90': 'home'}",2021-2022,22
+11. december 2021,15:00,0:2,Crewe Alexandra,Sheffield Wednesday,"{'27': 'away', '47': 'away'}",2021-2022,22
+11. december 2021,15:00,1:0,Doncaster Rovers,Shrewsbury Town,{'79': 'home'},2021-2022,22
+11. december 2021,15:00,2:1,Fleetwood Town,Gillingham FC,"{'38': 'home', '65': 'home', '74': 'away'}",2021-2022,22
+11. december 2021,15:00,1:2,Milton Keynes Dons,Oxford United,"{'11': 'home', '65': 'away', '79': 'away'}",2021-2022,22
+11. december 2021,15:00,2:0,Portsmouth FC,Morecambe FC,"{'11': 'home', '77': 'home'}",2021-2022,22
+11. december 2021,15:00,3:1,Rotherham United,Burton Albion,"{'24': 'home', '44': 'away', '48': 'home', '84': 'home'}",2021-2022,22
+11. december 2021,15:00,1:1,Wigan Athletic,Ipswich Town,"{'22': 'home', '77': 'away'}",2021-2022,22
+11. december 2021,15:00,2:2,Wycombe Wanderers,AFC Wimbledon,"{'4': 'away', '74': 'home', '90': 'home'}",2021-2022,22
+18. december 2021,15:00,0:1,Cambridge United,Rotherham United,{'66': 'away'},2021-2022,23
+18. december 2021,15:00,0:0,Morecambe FC,Fleetwood Town,,2021-2022,23
+18. december 2021,15:00,1:1,Ipswich Town,Sunderland AFC,"{'45': 'home', '50': 'away'}",2021-2022,23
+18. december 2021,15:00,2:3,Oxford United,Wigan Athletic,"{'8': 'away', '32': 'away', '33': 'home', '59': 'home', '86': 'away'}",2021-2022,23
+18. december 2021,15:00,1:0,Plymouth Argyle,Charlton Athletic,{'45': 'home'},2021-2022,23
+18. december 2021,15:00,3:1,Shrewsbury Town,Cheltenham Town,"{'10': 'home', '16': 'away', '48': 'home', '78': 'home'}",2021-2022,23
+11. january 2022,20:00,0:2,Bolton Wanderers,Wycombe Wanderers,"{'35': 'away', '52': 'away'}",2021-2022,23
+18. january 2022,19:45,0:0,AFC Wimbledon,Portsmouth FC,,2021-2022,23
+25. january 2022,19:45,0:1,Burton Albion,Milton Keynes Dons,{'90': 'away'},2021-2022,23
+1. february 2022,19:45,1:0,Gillingham FC,Crewe Alexandra,{'16': 'home'},2021-2022,23
+15. february 2022,19:45,0:1,Lincoln City,Doncaster Rovers,{},2021-2022,23
+15. march 2022,19:45,1:1,Sheffield Wednesday,Accrington Stanley,"{'66': 'home', '83': 'away'}",2021-2022,23
+26. december 2021,15:00,1:0,Accrington Stanley,Rotherham United,{'75': 'home'},2021-2022,24
+26. december 2021,15:00,0:2,Cheltenham Town,Plymouth Argyle,"{'42': 'away', '75': 'away'}",2021-2022,24
+26. december 2021,15:00,0:3,Fleetwood Town,Shrewsbury Town,"{'49': 'away', '72': 'away', '80': 'away'}",2021-2022,24
+26. december 2021,15:00,2:3,Lincoln City,Milton Keynes Dons,"{'4': 'home', '8': 'home', '59': 'away', '75': 'away', '90': 'away'}",2021-2022,24
+27. december 2021,12:30,0:3,Doncaster Rovers,Sunderland AFC,"{'7': 'away', '41': 'away', '50': 'away'}",2021-2022,24
+8. january 2022,15:00,0:4,Gillingham FC,Ipswich Town,"{'9': 'away', '13': 'away', '23': 'away', '85': 'away'}",2021-2022,24
+1. march 2022,19:45,3:2,Portsmouth FC,Oxford United,"{'3': 'away', '42': 'home', '45': 'home', '58': 'home', '81': 'away'}",2021-2022,24
+1. march 2022,19:45,5:2,Sheffield Wednesday,Burton Albion,"{'13': 'home', '28': 'home', '30': 'away', '53': 'away', '67': 'home', '75': 'home', '87': 'home'}",2021-2022,24
+1. march 2022,19:45,3:0,Wycombe Wanderers,Cambridge United,"{'11': 'home', '15': 'home', '85': 'home'}",2021-2022,24
+8. march 2022,20:00,1:1,Bolton Wanderers,Morecambe FC,"{'41': 'away', '90': 'home'}",2021-2022,24
+15. march 2022,19:45,0:2,Crewe Alexandra,Wigan Athletic,"{'43': 'away', '53': 'away'}",2021-2022,24
+5. april 2022,19:45,1:1,AFC Wimbledon,Charlton Athletic,"{'69': 'away', '87': 'home'}",2021-2022,24
+29. december 2021,19:45,1:2,Morecambe FC,Crewe Alexandra,"{'36': 'home', '52': 'away', '58': 'away'}",2021-2022,25
+29. december 2021,19:45,1:0,Ipswich Town,Wycombe Wanderers,{'44': 'home'},2021-2022,25
+29. december 2021,19:45,3:0,Oxford United,AFC Wimbledon,"{'27': 'home', '38': 'home', '60': 'home'}",2021-2022,25
+29. december 2021,19:45,0:0,Shrewsbury Town,Accrington Stanley,,2021-2022,25
+30. december 2021,19:45,5:0,Sunderland AFC,Sheffield Wednesday,"{'12': 'home', '36': 'home', '40': 'home', '58': 'home', '75': 'home'}",2021-2022,25
+18. january 2022,19:45,3:1,Cambridge United,Doncaster Rovers,"{'45': 'home', '62': 'home', '71': 'away', '90': 'home'}",2021-2022,25
+15. february 2022,19:45,3:1,Burton Albion,Bolton Wanderers,{},2021-2022,25
+1. march 2022,19:45,2:0,Wigan Athletic,Fleetwood Town,"{'37': 'home', '42': 'home'}",2021-2022,25
+8. march 2022,19:45,3:1,Milton Keynes Dons,Cheltenham Town,"{'26': 'home', '28': 'home', '85': 'home', '89': 'away'}",2021-2022,25
+15. march 2022,19:45,1:0,Charlton Athletic,Gillingham FC,{'40': 'home'},2021-2022,25
+15. march 2022,19:45,1:0,Plymouth Argyle,Portsmouth FC,{'65': 'home'},2021-2022,25
+15. march 2022,19:45,2:1,Rotherham United,Lincoln City,"{'11': 'home', '13': 'home', '81': 'away'}",2021-2022,25
+1. january 2022,15:00,4:1,Burton Albion,Crewe Alexandra,"{'6': 'home', '19': 'away', '25': 'home', '34': 'home', '90': 'home'}",2021-2022,26
+1. january 2022,15:00,0:1,Charlton Athletic,Wycombe Wanderers,{'35': 'away'},2021-2022,26
+1. january 2022,15:00,0:0,Milton Keynes Dons,Gillingham FC,,2021-2022,26
+1. january 2022,15:00,1:1,Oxford United,Cheltenham Town,"{'48': 'away', '82': 'home'}",2021-2022,26
+1. january 2022,15:00,2:1,Rotherham United,Bolton Wanderers,"{'40': 'home', '42': 'away', '74': 'home'}",2021-2022,26
+2. january 2022,15:00,4:3,Morecambe FC,Doncaster Rovers,"{'7': 'away', '26': 'away', '29': 'away', '52': 'home', '74': 'home', '83': 'home', '85': 'home'}",2021-2022,26
+2. january 2022,15:00,1:0,Shrewsbury Town,Sheffield Wednesday,{'45': 'home'},2021-2022,26
+3. january 2022,15:00,0:0,Cambridge United,Portsmouth FC,,2021-2022,26
+8. march 2022,19:45,3:1,Sunderland AFC,Fleetwood Town,"{'28': 'away', '55': 'home', '82': 'home', '90': 'home'}",2021-2022,26
+8. march 2022,19:45,2:0,Ipswich Town,Lincoln City,"{'22': 'home', '32': 'home'}",2021-2022,26
+8. march 2022,19:45,2:0,Plymouth Argyle,AFC Wimbledon,"{'29': 'home', '61': 'home'}",2021-2022,26
+5. april 2022,19:45,3:0,Wigan Athletic,Accrington Stanley,"{'37': 'home', '42': 'home', '57': 'home'}",2021-2022,26
+8. january 2022,12:30,3:3,Wycombe Wanderers,Sunderland AFC,"{'3': 'away', '13': 'home', '36': 'home', '39': 'away', '90': 'home'}",2021-2022,27
+8. january 2022,15:00,1:1,Accrington Stanley,Milton Keynes Dons,"{'9': 'home', '25': 'away'}",2021-2022,27
+8. january 2022,15:00,1:1,Cheltenham Town,Burton Albion,"{'21': 'home', '51': 'away'}",2021-2022,27
+8. january 2022,15:00,2:0,Lincoln City,Oxford United,"{'40': 'home', '56': 'home'}",2021-2022,27
+12. january 2022,19:45,2:1,Crewe Alexandra,Charlton Athletic,"{'38': 'home', '45': 'home', '80': 'away'}",2021-2022,27
+25. january 2022,19:45,0:0,Gillingham FC,Shrewsbury Town,,2021-2022,27
+25. january 2022,19:45,3:3,Fleetwood Town,Plymouth Argyle,"{'20': 'away', '24': 'home', '49': 'away', '75': 'away', '89': 'home', '90': 'home'}",2021-2022,27
+25. january 2022,19:45,0:2,AFC Wimbledon,Ipswich Town,"{'61': 'away', '86': 'away'}",2021-2022,27
+1. february 2022,19:45,0:5,Doncaster Rovers,Rotherham United,"{'8': 'away', '16': 'away', '72': 'away', '76': 'away', '89': 'away'}",2021-2022,27
+1. february 2022,19:45,2:0,Sheffield Wednesday,Morecambe FC,"{'55': 'home', '90': 'home'}",2021-2022,27
+1. february 2022,20:00,2:0,Bolton Wanderers,Cambridge United,"{'39': 'home', '70': 'home'}",2021-2022,27
+26. april 2022,19:45,3:2,Portsmouth FC,Wigan Athletic,"{'38': 'away', '45': 'away', '62': 'home', '64': 'home', '87': 'home'}",2021-2022,27
+15. january 2022,15:00,1:1,Accrington Stanley,Sunderland AFC,"{'48': 'away', '84': 'home'}",2021-2022,28
+15. january 2022,15:00,2:0,Bolton Wanderers,Ipswich Town,"{'74': 'home', '81': 'home'}",2021-2022,28
+15. january 2022,15:00,1:1,Cheltenham Town,Charlton Athletic,"{'43': 'home', '90': 'away'}",2021-2022,28
+15. january 2022,15:00,0:0,Crewe Alexandra,Shrewsbury Town,,2021-2022,28
+15. january 2022,15:00,1:2,Doncaster Rovers,Wigan Athletic,"{'11': 'away', '54': 'away', '60': 'home'}",2021-2022,28
+15. january 2022,15:00,1:3,Gillingham FC,Burton Albion,"{'3': 'home', '50': 'away', '79': 'away', '87': 'away'}",2021-2022,28
+15. january 2022,15:00,1:0,Fleetwood Town,Rotherham United,{'90': 'home'},2021-2022,28
+15. january 2022,15:00,0:1,Lincoln City,Cambridge United,{'90': 'away'},2021-2022,28
+15. january 2022,15:00,1:2,Portsmouth FC,Milton Keynes Dons,"{'20': 'away', '45': 'away', '60': 'home'}",2021-2022,28
+15. january 2022,15:00,4:2,Sheffield Wednesday,Plymouth Argyle,"{'19': 'home', '40': 'home', '46': 'away', '79': 'home', '84': 'home'}",2021-2022,28
+15. january 2022,15:00,0:0,AFC Wimbledon,Morecambe FC,,2021-2022,28
+15. january 2022,15:00,2:0,Wycombe Wanderers,Oxford United,"{'33': 'home', '60': 'home'}",2021-2022,28
+22. january 2022,15:00,1:0,Sunderland AFC,Portsmouth FC,{'40': 'home'},2021-2022,29
+22. january 2022,15:00,1:1,Burton Albion,AFC Wimbledon,"{'70': 'away', '77': 'home'}",2021-2022,29
+22. january 2022,15:00,1:0,Cambridge United,Crewe Alexandra,{'42': 'home'},2021-2022,29
+22. january 2022,15:00,2:0,Charlton Athletic,Fleetwood Town,"{'53': 'home', '90': 'home'}",2021-2022,29
+22. january 2022,15:00,3:2,Morecambe FC,Wycombe Wanderers,"{'2': 'away', '39': 'home', '54': 'away', '60': 'home', '67': 'home'}",2021-2022,29
+22. january 2022,15:00,2:1,Ipswich Town,Accrington Stanley,"{'15': 'away', '23': 'home', '65': 'home'}",2021-2022,29
+22. january 2022,15:00,0:1,Milton Keynes Dons,Doncaster Rovers,{'41': 'away'},2021-2022,29
+22. january 2022,15:00,3:2,Oxford United,Sheffield Wednesday,"{'7': 'away', '45': 'home', '60': 'away', '62': 'home', '84': 'home'}",2021-2022,29
+22. january 2022,15:00,1:2,Plymouth Argyle,Lincoln City,"{'34': 'home', '51': 'away', '90': 'away'}",2021-2022,29
+22. january 2022,15:00,1:0,Rotherham United,Cheltenham Town,{'24': 'home'},2021-2022,29
+22. january 2022,15:00,0:1,Shrewsbury Town,Bolton Wanderers,{'89': 'away'},2021-2022,29
+22. january 2022,15:00,3:2,Wigan Athletic,Gillingham FC,"{'8': 'home', '21': 'home', '53': 'away', '70': 'away', '77': 'home'}",2021-2022,29
+29. january 2022,15:00,2:2,Accrington Stanley,Morecambe FC,"{'14': 'away', '26': 'away', '35': 'home', '45': 'home'}",2021-2022,30
+29. january 2022,15:00,6:0,Bolton Wanderers,Sunderland AFC,"{'19': 'home', '42': 'home', '51': 'home', '59': 'home', '85': 'home', '88': 'home'}",2021-2022,30
+29. january 2022,15:00,0:0,Cheltenham Town,Wigan Athletic,,2021-2022,30
+29. january 2022,15:00,0:2,Crewe Alexandra,Rotherham United,"{'7': 'away', '74': 'away'}",2021-2022,30
+29. january 2022,15:00,1:3,Doncaster Rovers,Plymouth Argyle,"{'10': 'home', '23': 'away', '63': 'away', '79': 'away'}",2021-2022,30
+29. january 2022,15:00,2:7,Gillingham FC,Oxford United,"{'8': 'away', '12': 'away', '19': 'away', '48': 'away', '55': 'away', '62': 'home', '83': 'away', '85': 'home', '89': 'away'}",2021-2022,30
+29. january 2022,15:00,1:1,Fleetwood Town,Cambridge United,"{'65': 'away', '72': 'home'}",2021-2022,30
+29. january 2022,15:00,1:2,Lincoln City,Burton Albion,"{'49': 'home', '56': 'away', '80': 'away'}",2021-2022,30
+29. january 2022,15:00,1:0,Sheffield Wednesday,Ipswich Town,{'6': 'home'},2021-2022,30
+29. january 2022,15:00,1:1,AFC Wimbledon,Shrewsbury Town,"{'13': 'home', '58': 'away'}",2021-2022,30
+29. january 2022,15:00,0:1,Wycombe Wanderers,Milton Keynes Dons,{'13': 'away'},2021-2022,30
+31. january 2022,19:45,1:2,Portsmouth FC,Charlton Athletic,"{'31': 'away', '64': 'away', '79': 'home'}",2021-2022,30
+5. february 2022,15:00,1:2,Sunderland AFC,Doncaster Rovers,"{'22': 'away', '45': 'away', '89': 'home'}",2021-2022,31
+5. february 2022,15:00,0:2,Burton Albion,Sheffield Wednesday,"{'33': 'away', '81': 'away'}",2021-2022,31
+5. february 2022,15:00,3:2,Charlton Athletic,AFC Wimbledon,"{'3': 'away', '18': 'home', '31': 'home', '36': 'away', '60': 'home'}",2021-2022,31
+5. february 2022,15:00,1:1,Morecambe FC,Bolton Wanderers,"{'73': 'home', '90': 'away'}",2021-2022,31
+5. february 2022,15:00,1:0,Ipswich Town,Gillingham FC,{'74': 'home'},2021-2022,31
+5. february 2022,15:00,2:1,Milton Keynes Dons,Lincoln City,"{'8': 'away', '39': 'home', '47': 'home'}",2021-2022,31
+5. february 2022,15:00,3:2,Oxford United,Portsmouth FC,"{'6': 'home', '10': 'away', '51': 'away', '82': 'home', '90': 'home'}",2021-2022,31
+5. february 2022,15:00,1:0,Rotherham United,Accrington Stanley,{'57': 'home'},2021-2022,31
+5. february 2022,15:00,1:1,Shrewsbury Town,Fleetwood Town,"{'21': 'away', '48': 'home'}",2021-2022,31
+15. february 2022,19:45,2:0,Wigan Athletic,Crewe Alexandra,{},2021-2022,31
+22. march 2022,19:45,2:0,Plymouth Argyle,Cheltenham Town,"{'14': 'home', '42': 'home'}",2021-2022,31
+5. april 2022,19:45,1:4,Cambridge United,Wycombe Wanderers,"{'7': 'away', '54': 'away', '56': 'away', '79': 'home', '89': 'away'}",2021-2022,31
+8. february 2022,19:45,2:0,Accrington Stanley,Oxford United,"{'28': 'home', '90': 'home'}",2021-2022,32
+8. february 2022,19:45,2:1,Cheltenham Town,Sunderland AFC,"{'32': 'away', '64': 'home', '78': 'home'}",2021-2022,32
+8. february 2022,19:45,1:4,Crewe Alexandra,Plymouth Argyle,"{'19': 'home', '48': 'away', '55': 'away', '56': 'away', '85': 'away'}",2021-2022,32
+8. february 2022,19:45,0:1,Doncaster Rovers,Ipswich Town,{'39': 'away'},2021-2022,32
+8. february 2022,19:45,1:0,Gillingham FC,Cambridge United,{'86': 'home'},2021-2022,32
+8. february 2022,19:45,1:1,Fleetwood Town,Milton Keynes Dons,"{'12': 'away', '51': 'home'}",2021-2022,32
+8. february 2022,19:45,2:1,Lincoln City,Morecambe FC,"{'10': 'home', '19': 'home', '56': 'away'}",2021-2022,32
+8. february 2022,19:45,2:1,Portsmouth FC,Burton Albion,"{'33': 'home', '41': 'home', '50': 'away'}",2021-2022,32
+8. february 2022,19:45,1:0,Sheffield Wednesday,Wigan Athletic,{'53': 'home'},2021-2022,32
+8. february 2022,19:45,0:1,AFC Wimbledon,Rotherham United,{'60': 'away'},2021-2022,32
+8. february 2022,19:45,0:0,Wycombe Wanderers,Shrewsbury Town,,2021-2022,32
+8. february 2022,20:00,2:1,Bolton Wanderers,Charlton Athletic,"{'10': 'home', '76': 'away', '83': 'home'}",2021-2022,32
+12. february 2022,15:00,4:1,Accrington Stanley,Crewe Alexandra,{None: 'away'},2021-2022,33
+12. february 2022,15:00,2:2,Burton Albion,Cambridge United,"{'2': 'home', None: 'away'}",2021-2022,33
+12. february 2022,15:00,2:0,Cheltenham Town,Fleetwood Town,{None: 'home'},2021-2022,33
+12. february 2022,15:00,1:1,Morecambe FC,Gillingham FC,{None: 'home'},2021-2022,33
+12. february 2022,15:00,1:1,Lincoln City,Wycombe Wanderers,{None: 'away'},2021-2022,33
+12. february 2022,15:00,0:0,Milton Keynes Dons,Ipswich Town,,2021-2022,33
+12. february 2022,15:00,2:3,Oxford United,Bolton Wanderers,{None: 'away'},2021-2022,33
+12. february 2022,15:00,1:0,Plymouth Argyle,Shrewsbury Town,{None: 'home'},2021-2022,33
+12. february 2022,15:00,4:0,Portsmouth FC,Doncaster Rovers,{None: 'home'},2021-2022,33
+12. february 2022,15:00,2:1,Wigan Athletic,Charlton Athletic,"{None: 'home', '26': 'home'}",2021-2022,33
+12. february 2022,15:00,1:1,AFC Wimbledon,Sunderland AFC,"{'20': 'home', None: 'away'}",2021-2022,33
+13. february 2022,12:00,0:2,Sheffield Wednesday,Rotherham United,{None: 'away'},2021-2022,33
+18. february 2022,19:45,1:1,Rotherham United,Wigan Athletic,"{'28': 'away', '75': 'home'}",2021-2022,34
+19. february 2022,15:00,1:2,Sunderland AFC,Milton Keynes Dons,"{'48': 'away', '59': 'home', '76': 'away'}",2021-2022,34
+19. february 2022,15:00,4:0,Bolton Wanderers,AFC Wimbledon,"{'36': 'home', '56': 'home', '67': 'home', '87': 'home'}",2021-2022,34
+19. february 2022,15:00,2:0,Cambridge United,Accrington Stanley,"{'66': 'home', '90': 'home'}",2021-2022,34
+19. february 2022,15:00,0:4,Charlton Athletic,Oxford United,"{'21': 'away', '28': 'away', '54': 'away', '83': 'away'}",2021-2022,34
+19. february 2022,15:00,1:3,Doncaster Rovers,Sheffield Wednesday,"{'45': 'home', '70': 'away', '80': 'away', '83': 'away'}",2021-2022,34
+19. february 2022,15:00,0:2,Gillingham FC,Plymouth Argyle,"{'46': 'away', '76': 'away'}",2021-2022,34
+19. february 2022,15:00,3:0,Ipswich Town,Burton Albion,"{'1': 'home', '62': 'home', '78': 'home'}",2021-2022,34
+19. february 2022,15:00,5:5,Wycombe Wanderers,Cheltenham Town,"{'3': 'away', '26': 'home', '31': 'home', '33': 'home', '52': 'away', '66': 'away', '68': 'home', '69': 'home', '71': 'away', '81': 'away'}",2021-2022,34
+8. march 2022,19:45,1:3,Crewe Alexandra,Portsmouth FC,"{'3': 'away', '31': 'away', '66': 'away', '90': 'home'}",2021-2022,34
+15. march 2022,19:45,5:0,Shrewsbury Town,Morecambe FC,"{'44': 'home', '47': 'home', '51': 'home', '65': 'home', '70': 'home'}",2021-2022,34
+5. april 2022,19:45,1:1,Fleetwood Town,Lincoln City,"{'31': 'home', '64': 'away'}",2021-2022,34
+22. february 2022,19:45,1:1,Sunderland AFC,Burton Albion,"{'53': 'away', '90': 'home'}",2021-2022,35
+22. february 2022,19:45,2:0,Cambridge United,Plymouth Argyle,"{'7': 'home', '43': 'home'}",2021-2022,35
+22. february 2022,19:45,0:2,Charlton Athletic,Milton Keynes Dons,"{'41': 'away', '59': 'away'}",2021-2022,35
+22. february 2022,19:45,0:1,Crewe Alexandra,Oxford United,{'65': 'away'},2021-2022,35
+22. february 2022,19:45,2:0,Doncaster Rovers,Accrington Stanley,"{'67': 'home', '87': 'home'}",2021-2022,35
+22. february 2022,19:45,0:0,Gillingham FC,AFC Wimbledon,,2021-2022,35
+22. february 2022,19:45,0:0,Ipswich Town,Cheltenham Town,,2021-2022,35
+22. february 2022,19:45,2:0,Rotherham United,Morecambe FC,"{'4': 'home', '30': 'home'}",2021-2022,35
+22. february 2022,19:45,1:2,Shrewsbury Town,Portsmouth FC,"{'14': 'home', '29': 'away', '84': 'away'}",2021-2022,35
+22. february 2022,19:45,1:3,Wycombe Wanderers,Wigan Athletic,"{'22': 'home', '70': 'away', '78': 'away', '82': 'away'}",2021-2022,35
+22. february 2022,20:00,3:1,Bolton Wanderers,Lincoln City,"{'53': 'home', '65': 'away', '76': 'home', '83': 'home'}",2021-2022,35
+26. april 2022,19:45,2:3,Fleetwood Town,Sheffield Wednesday,"{'4': 'away', '18': 'home', '34': 'home', '73': 'away', '74': 'away'}",2021-2022,35
+26. february 2022,15:00,3:2,Accrington Stanley,Wycombe Wanderers,"{'13': 'away', '20': 'home', '22': 'away', '48': 'home', '64': 'home'}",2021-2022,36
+26. february 2022,15:00,0:2,Burton Albion,Shrewsbury Town,"{'35': 'away', '59': 'away'}",2021-2022,36
+26. february 2022,15:00,1:2,Cheltenham Town,Crewe Alexandra,"{'18': 'away', '48': 'home', '83': 'away'}",2021-2022,36
+26. february 2022,15:00,1:1,Morecambe FC,Ipswich Town,"{'59': 'home', '86': 'away'}",2021-2022,36
+26. february 2022,15:00,0:2,Lincoln City,Gillingham FC,"{'75': 'away', '90': 'away'}",2021-2022,36
+26. february 2022,15:00,2:0,Milton Keynes Dons,Bolton Wanderers,"{'17': 'home', '74': 'home'}",2021-2022,36
+26. february 2022,15:00,4:2,Oxford United,Cambridge United,"{'6': 'away', '36': 'home', '56': 'away', '64': 'home', '72': 'home', '90': 'home'}",2021-2022,36
+26. february 2022,15:00,0:1,Plymouth Argyle,Rotherham United,{'63': 'away'},2021-2022,36
+26. february 2022,15:00,3:3,Portsmouth FC,Fleetwood Town,"{'7': 'away', '15': 'away', '41': 'away', '45': 'home', '80': 'home', '90': 'home'}",2021-2022,36
+26. february 2022,15:00,2:0,Sheffield Wednesday,Charlton Athletic,"{'5': 'home', '45': 'home'}",2021-2022,36
+26. february 2022,15:00,0:3,Wigan Athletic,Sunderland AFC,"{'2': 'away', '38': 'away', '87': 'away'}",2021-2022,36
+26. february 2022,15:00,2:2,AFC Wimbledon,Doncaster Rovers,"{'23': 'home', '49': 'home', '63': 'away', '66': 'away'}",2021-2022,36
+5. march 2022,15:00,0:0,Cambridge United,Shrewsbury Town,,2021-2022,37
+5. march 2022,15:00,0:0,Charlton Athletic,Sunderland AFC,,2021-2022,37
+5. march 2022,15:00,4:0,Cheltenham Town,Doncaster Rovers,"{'16': 'home', '38': 'home', '75': 'home', '84': 'home'}",2021-2022,37
+5. march 2022,15:00,1:3,Crewe Alexandra,Wycombe Wanderers,"{None: 'away', '55': 'away', '58': 'home', '90': 'away'}",2021-2022,37
+5. march 2022,15:00,0:3,Gillingham FC,Bolton Wanderers,"{'31': 'away', '65': 'away', '86': 'away'}",2021-2022,37
+5. march 2022,15:00,0:2,Fleetwood Town,Ipswich Town,"{'72': 'away', '81': 'away'}",2021-2022,37
+5. march 2022,15:00,3:1,Lincoln City,Sheffield Wednesday,"{'3': 'home', '33': 'away', '62': 'home', '76': 'home'}",2021-2022,37
+5. march 2022,15:00,4:1,Oxford United,Burton Albion,"{'7': 'home', '35': 'home', '40': 'home', '45': 'away'}",2021-2022,37
+5. march 2022,15:00,2:0,Plymouth Argyle,Morecambe FC,"{'14': 'home', '43': 'home'}",2021-2022,37
+5. march 2022,15:00,4:0,Portsmouth FC,Accrington Stanley,"{'16': 'home', '28': 'home', '56': 'home', '69': 'home'}",2021-2022,37
+5. march 2022,15:00,1:2,Rotherham United,Milton Keynes Dons,"{'25': 'home', '57': 'away', '59': 'away'}",2021-2022,37
+5. march 2022,15:00,1:0,Wigan Athletic,AFC Wimbledon,{'21': 'home'},2021-2022,37
+12. march 2022,15:00,2:1,Accrington Stanley,Charlton Athletic,"{'18': 'away', '28': 'home', '32': 'home'}",2021-2022,38
+12. march 2022,15:00,2:0,Sunderland AFC,Crewe Alexandra,"{'84': 'home', '89': 'home'}",2021-2022,38
+12. march 2022,15:00,0:1,Bolton Wanderers,Plymouth Argyle,{'43': 'away'},2021-2022,38
+12. march 2022,15:00,3:2,Burton Albion,Fleetwood Town,"{'18': 'away', '57': 'away', '61': 'home', '84': 'home', '90': 'home'}",2021-2022,38
+12. march 2022,15:00,0:1,Doncaster Rovers,Gillingham FC,{'2': 'away'},2021-2022,38
+12. march 2022,15:00,1:3,Morecambe FC,Cheltenham Town,"{'44': 'away', '46': 'away', '52': 'home', '80': 'away'}",2021-2022,38
+12. march 2022,15:00,0:0,Ipswich Town,Portsmouth FC,,2021-2022,38
+12. march 2022,15:00,1:1,Milton Keynes Dons,Wigan Athletic,"{'58': 'away', '88': 'home'}",2021-2022,38
+12. march 2022,15:00,6:0,Sheffield Wednesday,Cambridge United,"{'6': 'home', '10': 'home', '37': 'home', '41': 'home', '48': 'home', '54': 'home'}",2021-2022,38
+12. march 2022,15:00,1:2,Shrewsbury Town,Oxford United,"{'11': 'away', '60': 'home', '82': 'away'}",2021-2022,38
+12. march 2022,15:00,0:2,AFC Wimbledon,Lincoln City,"{'38': 'away', '84': 'away'}",2021-2022,38
+12. march 2022,15:00,0:0,Wycombe Wanderers,Rotherham United,,2021-2022,38
+19. march 2022,15:00,0:1,Cambridge United,Milton Keynes Dons,{'60': 'away'},2021-2022,39
+19. march 2022,15:00,2:0,Charlton Athletic,Burton Albion,"{'12': 'home', '42': 'home'}",2021-2022,39
+19. march 2022,15:00,3:1,Cheltenham Town,AFC Wimbledon,"{'26': 'away', '81': 'home', '83': 'home', '90': 'home'}",2021-2022,39
+19. march 2022,15:00,0:1,Crewe Alexandra,Bolton Wanderers,{'90': 'away'},2021-2022,39
+19. march 2022,15:00,0:0,Gillingham FC,Sheffield Wednesday,,2021-2022,39
+19. march 2022,15:00,0:0,Fleetwood Town,Doncaster Rovers,,2021-2022,39
+19. march 2022,15:00,0:0,Lincoln City,Sunderland AFC,,2021-2022,39
+19. march 2022,15:00,1:1,Oxford United,Ipswich Town,"{'70': 'away', '90': 'home'}",2021-2022,39
+19. march 2022,15:00,4:0,Plymouth Argyle,Accrington Stanley,"{'12': 'home', '37': 'home', '64': 'home', '79': 'home'}",2021-2022,39
+19. march 2022,15:00,0:0,Portsmouth FC,Wycombe Wanderers,,2021-2022,39
+19. march 2022,15:00,0:3,Rotherham United,Shrewsbury Town,"{'36': 'away', '78': 'away', '90': 'away'}",2021-2022,39
+19. march 2022,15:00,4:1,Wigan Athletic,Morecambe FC,"{'19': 'home', '44': 'home', '49': 'away', '67': 'home', '68': 'home'}",2021-2022,39
+15. march 2022,19:45,1:0,Wycombe Wanderers,Fleetwood Town,{'90': 'home'},2021-2022,40
+26. march 2022,15:00,1:2,Accrington Stanley,Gillingham FC,"{'64': 'away', '73': 'away', '90': 'home'}",2021-2022,40
+26. march 2022,15:00,0:1,Doncaster Rovers,Charlton Athletic,{'66': 'away'},2021-2022,40
+26. march 2022,15:00,1:0,Ipswich Town,Plymouth Argyle,{'37': 'home'},2021-2022,40
+26. march 2022,15:00,4:1,Sheffield Wednesday,Cheltenham Town,"{'4': 'away', '7': 'home', '58': 'home', '83': 'home', '87': 'home'}",2021-2022,40
+26. march 2022,15:00,1:0,Shrewsbury Town,Lincoln City,{'84': 'home'},2021-2022,40
+26. march 2022,15:00,0:1,AFC Wimbledon,Cambridge United,{'46': 'away'},2021-2022,40
+5. april 2022,19:45,2:1,Morecambe FC,Oxford United,"{'3': 'away', '14': 'home', '25': 'home'}",2021-2022,40
+5. april 2022,19:45,2:1,Milton Keynes Dons,Crewe Alexandra,"{'24': 'home', '40': 'home', '90': 'away'}",2021-2022,40
+5. april 2022,20:00,1:1,Bolton Wanderers,Portsmouth FC,"{'50': 'away', '76': 'home'}",2021-2022,40
+12. april 2022,19:45,0:0,Burton Albion,Wigan Athletic,,2021-2022,40
+26. april 2022,19:45,1:1,Sunderland AFC,Rotherham United,"{'17': 'away', '88': 'home'}",2021-2022,40
+2. april 2022,12:30,1:1,Wigan Athletic,Bolton Wanderers,"{'7': 'home', '83': 'away'}",2021-2022,41
+2. april 2022,15:00,4:4,Accrington Stanley,Cheltenham Town,"{'33': 'away', '45': 'home', '48': 'home', '66': 'away', '87': 'home', '90': 'away'}",2021-2022,41
+2. april 2022,15:00,1:0,Sunderland AFC,Gillingham FC,{'90': 'home'},2021-2022,41
+2. april 2022,15:00,1:2,Charlton Athletic,Lincoln City,"{'33': 'away', '76': 'away', '88': 'home'}",2021-2022,41
+2. april 2022,15:00,1:3,Crewe Alexandra,Fleetwood Town,"{'18': 'away', '45': 'home', '64': 'away', '73': 'away'}",2021-2022,41
+2. april 2022,15:00,3:0,Morecambe FC,Burton Albion,"{'41': 'home', '45': 'home', '46': 'home'}",2021-2022,41
+2. april 2022,15:00,0:1,Ipswich Town,Cambridge United,{'56': 'away'},2021-2022,41
+2. april 2022,15:00,2:0,Milton Keynes Dons,Shrewsbury Town,"{'17': 'home', '54': 'home'}",2021-2022,41
+2. april 2022,15:00,1:0,Plymouth Argyle,Oxford United,{'56': 'home'},2021-2022,41
+2. april 2022,15:00,2:1,Sheffield Wednesday,AFC Wimbledon,"{'11': 'home', '22': 'away', '90': 'home'}",2021-2022,41
+2. april 2022,15:00,2:0,Wycombe Wanderers,Doncaster Rovers,"{'18': 'home', '75': 'home'}",2021-2022,41
+12. april 2022,19:45,3:0,Portsmouth FC,Rotherham United,"{'35': 'home', '59': 'home', '65': 'home'}",2021-2022,41
+9. april 2022,15:00,1:1,Bolton Wanderers,Sheffield Wednesday,"{'66': 'away', '90': 'home'}",2021-2022,42
+9. april 2022,15:00,0:0,Burton Albion,Plymouth Argyle,,2021-2022,42
+9. april 2022,15:00,2:1,Cambridge United,Morecambe FC,"{'42': 'home', '68': 'away', '71': 'home'}",2021-2022,42
+9. april 2022,15:00,1:0,Cheltenham Town,Portsmouth FC,{'76': 'home'},2021-2022,42
+9. april 2022,15:00,2:0,Doncaster Rovers,Crewe Alexandra,"{'10': 'home', '47': 'home'}",2021-2022,42
+9. april 2022,15:00,1:1,Gillingham FC,Wycombe Wanderers,"{'20': 'away', '75': 'home'}",2021-2022,42
+9. april 2022,15:00,1:2,Fleetwood Town,Accrington Stanley,"{'45': 'home', '62': 'away', '90': 'away'}",2021-2022,42
+9. april 2022,15:00,1:3,Lincoln City,Wigan Athletic,"{'8': 'away', '14': 'home', '21': 'away', '72': 'away'}",2021-2022,42
+9. april 2022,15:00,1:2,Oxford United,Sunderland AFC,"{'16': 'away', '35': 'home', '89': 'away'}",2021-2022,42
+9. april 2022,15:00,0:1,Rotherham United,Charlton Athletic,{'55': 'away'},2021-2022,42
+9. april 2022,15:00,1:1,Shrewsbury Town,Ipswich Town,"{'6': 'away', '84': 'home'}",2021-2022,42
+9. april 2022,15:00,1:1,AFC Wimbledon,Milton Keynes Dons,"{'19': 'home', '80': 'away'}",2021-2022,42
+15. april 2022,15:00,0:0,Accrington Stanley,Burton Albion,,2021-2022,43
+15. april 2022,15:00,3:2,Sunderland AFC,Shrewsbury Town,"{'4': 'home', '13': 'home', '50': 'away', '58': 'away', '90': 'home'}",2021-2022,43
+15. april 2022,15:00,2:3,Charlton Athletic,Morecambe FC,"{'26': 'away', '43': 'away', '53': 'home', '59': 'away', '81': 'home'}",2021-2022,43
+15. april 2022,15:00,2:2,Cheltenham Town,Gillingham FC,"{'14': 'away', '40': 'home', '59': 'away', '78': 'home'}",2021-2022,43
+15. april 2022,15:00,3:1,Crewe Alexandra,AFC Wimbledon,"{'19': 'away', '60': 'home', '62': 'home', '90': 'home'}",2021-2022,43
+15. april 2022,15:00,1:2,Doncaster Rovers,Bolton Wanderers,"{'47': 'away', '77': 'home', '78': 'away'}",2021-2022,43
+15. april 2022,15:00,2:3,Fleetwood Town,Oxford United,"{'2': 'away', '7': 'away', '16': 'away', '39': 'home', '53': 'home'}",2021-2022,43
+15. april 2022,15:00,3:2,Portsmouth FC,Lincoln City,"{'50': 'home', '68': 'home', '70': 'away', '78': 'away', '82': 'home'}",2021-2022,43
+15. april 2022,15:00,2:0,Wycombe Wanderers,Plymouth Argyle,"{'14': 'home', '31': 'home'}",2021-2022,43
+16. april 2022,12:30,1:0,Rotherham United,Ipswich Town,{'78': 'home'},2021-2022,43
+16. april 2022,17:15,1:2,Wigan Athletic,Cambridge United,"{'33': 'away', '43': 'away', '77': 'home'}",2021-2022,43
+16. april 2022,19:45,2:3,Milton Keynes Dons,Sheffield Wednesday,"{'10': 'away', '20': 'away', '30': 'away', '40': 'home', '90': 'home'}",2021-2022,43
+18. april 2022,15:00,3:1,Bolton Wanderers,Accrington Stanley,"{'42': 'home', '50': 'away', '69': 'home', '89': 'home'}",2021-2022,44
+18. april 2022,15:00,0:0,Gillingham FC,Fleetwood Town,,2021-2022,44
+18. april 2022,15:00,1:1,Morecambe FC,Portsmouth FC,"{'41': 'away', '90': 'home'}",2021-2022,44
+18. april 2022,15:00,3:0,Lincoln City,Cheltenham Town,"{'4': 'home', '17': 'home', '19': 'home'}",2021-2022,44
+18. april 2022,15:00,0:0,Plymouth Argyle,Sunderland AFC,,2021-2022,44
+18. april 2022,15:00,3:3,Shrewsbury Town,Doncaster Rovers,"{'19': 'home', '34': 'home', '42': 'home', '54': 'away', '77': 'away', '90': 'away'}",2021-2022,44
+18. april 2022,15:00,1:1,AFC Wimbledon,Wycombe Wanderers,"{'21': 'home', '80': 'away'}",2021-2022,44
+19. april 2022,19:45,2:0,Burton Albion,Rotherham United,"{'3': 'home', '69': 'home'}",2021-2022,44
+19. april 2022,19:45,0:2,Cambridge United,Charlton Athletic,"{'73': 'away', None: 'away'}",2021-2022,44
+19. april 2022,19:45,2:2,Ipswich Town,Wigan Athletic,"{'45': 'away', '61': 'home', '73': 'home', '86': 'away'}",2021-2022,44
+19. april 2022,19:45,1:0,Oxford United,Milton Keynes Dons,{'86': 'home'},2021-2022,44
+19. april 2022,19:45,1:0,Sheffield Wednesday,Crewe Alexandra,{'54': 'home'},2021-2022,44
+23. april 2022,15:00,2:1,Accrington Stanley,Lincoln City,"{'34': 'home', '59': 'home', '90': 'away'}",2021-2022,45
+23. april 2022,15:00,5:1,Sunderland AFC,Cambridge United,"{'13': 'home', '29': 'home', '30': 'away', '36': 'home', '53': 'home', '72': 'home'}",2021-2022,45
+23. april 2022,15:00,2:0,Charlton Athletic,Shrewsbury Town,"{'64': 'home', '86': 'home'}",2021-2022,45
+23. april 2022,15:00,1:2,Cheltenham Town,Bolton Wanderers,"{'57': 'away', '76': 'away', '89': 'home'}",2021-2022,45
+23. april 2022,15:00,1:1,Crewe Alexandra,Ipswich Town,"{'45': 'away', '86': 'home'}",2021-2022,45
+23. april 2022,15:00,2:0,Doncaster Rovers,Burton Albion,"{'36': 'home', '75': 'home'}",2021-2022,45
+23. april 2022,15:00,1:1,Fleetwood Town,AFC Wimbledon,"{'22': 'away', '88': 'home'}",2021-2022,45
+23. april 2022,15:00,2:0,Milton Keynes Dons,Morecambe FC,"{'20': 'home', '79': 'home'}",2021-2022,45
+23. april 2022,15:00,3:1,Portsmouth FC,Gillingham FC,"{'4': 'home', '30': 'away', '45': 'home', '54': 'home'}",2021-2022,45
+23. april 2022,15:00,2:1,Rotherham United,Oxford United,"{'10': 'away', '45': 'home', '66': 'home'}",2021-2022,45
+23. april 2022,15:00,1:1,Wigan Athletic,Plymouth Argyle,"{'63': 'away', '74': 'home'}",2021-2022,45
+23. april 2022,15:00,1:0,Wycombe Wanderers,Sheffield Wednesday,{'62': 'home'},2021-2022,45
+30. april 2022,12:30,4:2,Bolton Wanderers,Fleetwood Town,"{'17': 'away', '37': 'home', '53': 'home', '79': 'away', '86': 'home', '90': 'home'}",2021-2022,46
+30. april 2022,12:30,1:2,Burton Albion,Wycombe Wanderers,"{'43': 'away', '72': 'home', '85': 'away'}",2021-2022,46
+30. april 2022,12:30,2:2,Cambridge United,Cheltenham Town,"{'22': 'home', '23': 'away', '50': 'home', '90': 'away'}",2021-2022,46
+30. april 2022,12:30,0:2,Gillingham FC,Rotherham United,"{'34': 'away', '89': 'away'}",2021-2022,46
+30. april 2022,12:30,0:1,Morecambe FC,Sunderland AFC,{'10': 'away'},2021-2022,46
+30. april 2022,12:30,4:0,Ipswich Town,Charlton Athletic,"{'7': 'home', '11': 'home', '50': 'home', '88': 'home'}",2021-2022,46
+30. april 2022,12:30,2:1,Lincoln City,Crewe Alexandra,"{'21': 'away', '79': 'home', '90': 'home'}",2021-2022,46
+30. april 2022,12:30,1:1,Oxford United,Doncaster Rovers,"{None: 'home', '67': 'away'}",2021-2022,46
+30. april 2022,12:30,0:5,Plymouth Argyle,Milton Keynes Dons,"{'17': 'away', '40': 'away', '43': 'away', '60': 'away', '77': 'away'}",2021-2022,46
+30. april 2022,12:30,4:1,Sheffield Wednesday,Portsmouth FC,"{'4': 'away', '17': 'home', '36': 'home', '40': 'home', '86': 'home'}",2021-2022,46
+30. april 2022,12:30,0:3,Shrewsbury Town,Wigan Athletic,"{'43': 'away', '50': 'away', '65': 'away'}",2021-2022,46
+30. april 2022,12:30,3:4,AFC Wimbledon,Accrington Stanley,"{'18': 'away', '35': 'away', '45': 'away', '56': 'home', '58': 'home', '63': 'away', '66': 'home'}",2021-2022,46

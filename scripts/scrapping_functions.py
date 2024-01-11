@@ -1,13 +1,14 @@
 from configs import months_str
 from utility_functions import extract_str
 from bs4 import BeautifulSoup
+from selenium import webdriver
 import pandas as pd
 import requests
 import regex
 import time
 
 
-# ----------------------------------------------------- SCRAPING FUNCTIONS ----------------------------------------------------- #
+# ----------------------------------------------------- MATCH SCRAPING FUNCTIONS ----------------------------------------------------- #
 def football_league_urls(seasons, leagues):
     from configs import league_urls
     from configs import league_rounds
@@ -103,8 +104,8 @@ def extract_match_data(soup):
         return results
 
 
-# ----------------------------------------------------- SCRAPING PROCESS ----------------------------------------------------- #
-def scraping_process(SEASONS, LEAGUES):
+# ----------------------------------------------------- MATCH SCRAPING PROCESS ----------------------------------------------------- #
+def match_scraping_process(SEASONS, LEAGUES):
     
     urls = football_league_urls(seasons=SEASONS, leagues=LEAGUES)
 
@@ -113,22 +114,33 @@ def scraping_process(SEASONS, LEAGUES):
         for season in urls[league].keys():
 
             scraped_data = []
+            scraped_data_fails = []
             for round_url in urls[league][season]:
                 round_soup = pull_html(round_url)
                 match_urls = extract_match_url(round_soup)
+
                 for match_url in match_urls:
-
+                    round_number = extract_str('/[0-9]+/', round_url).replace('/', '')
+                    print('round: ' + round_number + ' url: ' + match_url)
                     match_soup = pull_html(url=match_url)
-                    match_data = extract_match_data(match_soup)
-                    match_data['season'] = season
-                    match_data['round'] = int(extract_str('/[0-9]+/', round_url).replace('/', ''))
+                    try:
+                        match_data = extract_match_data(match_soup)
+                        match_data['season'] = season
+                        match_data['round'] = int(round_number)
+                        scraped_data.append(match_data)
+                    except:
+                        fails = {}
+                        fails['round'] = int(round_number)
+                        fails['season'] = season
+                        fails['match_url'] = match_url
+                        scraped_data_fails.append(fails)
 
-
-                    scraped_data.append(match_data)
-            
             df = pd.DataFrame(scraped_data)
-            df.to_csv(f'output/scraped_data/{league.replace(" ", "-")}-{season}.csv', index=False)
+            df.dropna(inplace=True)
+            df_fails = pd.DataFrame(scraped_data_fails)
+            df_fails.dropna(inplace=True)
+            df.to_csv(f'output/scraped_data/success/{league.replace(" ", "-")}-{season}.csv', index=False)
+            df_fails.to_csv(f'output/scraped_data/fail/{league.replace(" ", "-")}-{season}-scraping-fails.csv', index=False)
 
 
-
-
+# ----------------------------------------------------- UPCOMING ODDS SCRAPING FUNCTIONS ----------------------------------------------------- #

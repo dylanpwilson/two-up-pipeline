@@ -1,0 +1,401 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+3. august 2019,15:00,1:2,AFC Wimbledon,Rotherham United,"{'29': 'away', '50': 'home', '84': 'away'}",2019-2020,1
+3. august 2019,15:00,2:0,Blackpool FC,Bristol Rovers,"{'28': 'home', '46': 'home'}",2019-2020,1
+3. august 2019,15:00,0:1,Burton Albion,Ipswich Town,{'11': 'away'},2019-2020,1
+3. august 2019,15:00,1:0,Coventry City,Southend United,{'51': 'home'},2019-2020,1
+3. august 2019,15:00,1:1,Doncaster Rovers,Gillingham FC,"{'30': 'away', '45': 'home'}",2019-2020,1
+3. august 2019,15:00,2:0,Lincoln City,Accrington Stanley,"{'35': 'home', '81': 'home'}",2019-2020,1
+3. august 2019,15:00,1:3,Peterborough United,Fleetwood Town,"{'4': 'away', '13': 'away', '67': 'home', '81': 'away'}",2019-2020,1
+3. august 2019,15:00,1:0,Shrewsbury Town,Portsmouth FC,{'68': 'home'},2019-2020,1
+3. august 2019,15:00,1:1,Sunderland AFC,Oxford United,"{'14': 'away', '49': 'home'}",2019-2020,1
+3. august 2019,15:00,2:3,Tranmere Rovers,Rochdale AFC,"{'12': 'away', '48': 'away', '69': 'away', '89': 'home', '90': 'home'}",2019-2020,1
+3. august 2019,15:00,2:0,Wycombe Wanderers,Bolton Wanderers,"{'56': 'home', '81': 'home'}",2019-2020,1
+10. august 2019,15:00,0:0,Bolton Wanderers,Coventry City,,2019-2020,2
+10. august 2019,15:00,0:0,Bristol Rovers,Wycombe Wanderers,,2019-2020,2
+10. august 2019,15:00,2:1,Fleetwood Town,AFC Wimbledon,"{'26': 'away', '56': 'home', '65': 'home'}",2019-2020,2
+10. august 2019,15:00,1:2,Gillingham FC,Burton Albion,"{'7': 'home', '42': 'away', '45': 'away'}",2019-2020,2
+10. august 2019,15:00,1:1,Ipswich Town,Sunderland AFC,"{'15': 'home', '64': 'away'}",2019-2020,2
+10. august 2019,15:00,1:0,Milton Keynes Dons,Shrewsbury Town,{'90': 'home'},2019-2020,2
+10. august 2019,15:00,1:0,Oxford United,Peterborough United,{'12': 'home'},2019-2020,2
+10. august 2019,15:00,2:0,Portsmouth FC,Tranmere Rovers,"{'27': 'home', '75': 'home'}",2019-2020,2
+10. august 2019,15:00,1:1,Rochdale AFC,Doncaster Rovers,"{'66': 'home', '90': 'away'}",2019-2020,2
+10. august 2019,15:00,0:2,Rotherham United,Lincoln City,"{'42': 'away', '48': 'away'}",2019-2020,2
+10. august 2019,15:00,1:3,Southend United,Blackpool FC,"{'9': 'away', '12': 'away', '37': 'away', '75': 'home'}",2019-2020,2
+17. august 2019,12:30,2:1,Sunderland AFC,Portsmouth FC,"{'22': 'away', '27': 'home', '39': 'home'}",2019-2020,3
+17. august 2019,15:00,1:1,AFC Wimbledon,Accrington Stanley,"{'42': 'home', '64': 'away'}",2019-2020,3
+17. august 2019,15:00,2:1,Blackpool FC,Oxford United,"{'5': 'home', '45': 'away'}",2019-2020,3
+17. august 2019,15:00,0:1,Burton Albion,Rotherham United,{'24': 'away'},2019-2020,3
+17. august 2019,15:00,2:0,Coventry City,Bristol Rovers,"{'45': 'home', '82': 'home'}",2019-2020,3
+17. august 2019,15:00,3:2,Doncaster Rovers,Fleetwood Town,"{'10': 'away', '19': 'home', '39': 'home', '56': 'away', '90': 'home'}",2019-2020,3
+17. august 2019,15:00,4:0,Lincoln City,Southend United,"{'31': 'home', '40': 'home', '48': 'home', '81': 'home'}",2019-2020,3
+17. august 2019,15:00,2:2,Peterborough United,Ipswich Town,"{'4': 'away', '29': 'home', '62': 'home', '90': 'away'}",2019-2020,3
+17. august 2019,15:00,0:0,Shrewsbury Town,Rochdale AFC,,2019-2020,3
+17. august 2019,15:00,5:0,Tranmere Rovers,Bolton Wanderers,"{'38': 'home', '40': 'home', '46': 'home', '63': 'home', None: 'home'}",2019-2020,3
+17. august 2019,15:00,3:2,Wycombe Wanderers,Milton Keynes Dons,"{'12': 'home', '32': 'away', '37': 'home', '51': 'away', '90': 'home'}",2019-2020,3
+20. august 2019,19:45,2:3,Accrington Stanley,Shrewsbury Town,"{'67': 'home', '72': 'home', '77': 'away', '85': 'away', '89': 'away'}",2019-2020,4
+20. august 2019,19:45,2:0,Bristol Rovers,Tranmere Rovers,"{'38': 'home', '88': 'home'}",2019-2020,4
+20. august 2019,19:45,1:1,Fleetwood Town,Wycombe Wanderers,"{'57': 'away', '90': 'home'}",2019-2020,4
+20. august 2019,19:45,2:2,Gillingham FC,Blackpool FC,"{'9': 'home', '37': 'home', '41': 'away', '45': 'away'}",2019-2020,4
+20. august 2019,19:45,2:1,Ipswich Town,AFC Wimbledon,"{'41': 'away', '81': 'home', '90': 'home'}",2019-2020,4
+20. august 2019,19:45,2:1,Milton Keynes Dons,Lincoln City,"{'2': 'home', '11': 'away', '23': 'home'}",2019-2020,4
+20. august 2019,19:45,2:4,Oxford United,Burton Albion,"{'30': 'away', '47': 'home', '56': 'home', '61': 'away', '70': 'away', '84': 'away'}",2019-2020,4
+20. august 2019,19:45,3:3,Portsmouth FC,Coventry City,"{'3': 'away', '10': 'home', '43': 'home', '56': 'home', '75': 'away', '86': 'away'}",2019-2020,4
+20. august 2019,19:45,1:2,Rochdale AFC,Sunderland AFC,"{'28': 'away', '33': 'home', '56': 'away'}",2019-2020,4
+20. august 2019,19:45,0:2,Southend United,Peterborough United,"{'55': 'away', '57': 'away'}",2019-2020,4
+24. august 2019,12:30,2:1,Doncaster Rovers,Lincoln City,"{'13': 'home', '57': 'away', '83': 'home'}",2019-2020,5
+24. august 2019,15:00,0:5,Bolton Wanderers,Ipswich Town,"{'19': 'away', '50': 'away', '60': 'away', '64': 'away', '72': 'away'}",2019-2020,5
+24. august 2019,15:00,3:1,Bristol Rovers,Oxford United,"{'27': 'away', '37': 'home', '45': 'home', '77': 'home'}",2019-2020,5
+24. august 2019,15:00,1:0,Coventry City,Gillingham FC,{'26': 'home'},2019-2020,5
+24. august 2019,15:00,2:0,Fleetwood Town,Accrington Stanley,"{'28': 'home', '71': 'home'}",2019-2020,5
+24. august 2019,15:00,0:4,Milton Keynes Dons,Peterborough United,"{'21': 'away', '28': 'away', '40': 'away', '72': 'away'}",2019-2020,5
+24. august 2019,15:00,0:0,Rochdale AFC,Blackpool FC,,2019-2020,5
+24. august 2019,15:00,0:0,Shrewsbury Town,Burton Albion,,2019-2020,5
+24. august 2019,15:00,3:1,Sunderland AFC,AFC Wimbledon,"{'8': 'home', '34': 'away', '53': 'home', '79': 'home'}",2019-2020,5
+24. august 2019,15:00,4:3,Wycombe Wanderers,Southend United,"{'11': 'away', '30': 'away', '36': 'home', '47': 'away', '55': 'home', '89': 'home', '90': 'home'}",2019-2020,5
+26. november 2019,19:45,3:2,Portsmouth FC,Rotherham United,"{'1': 'home', '15': 'away', '37': 'home', '62': 'away', '66': 'home'}",2019-2020,5
+31. august 2019,15:00,0:0,AFC Wimbledon,Wycombe Wanderers,,2019-2020,6
+31. august 2019,15:00,2:1,Accrington Stanley,Milton Keynes Dons,"{'18': 'away', '52': 'home', '59': 'home'}",2019-2020,6
+31. august 2019,15:00,1:1,Blackpool FC,Portsmouth FC,"{'17': 'away', '58': 'home'}",2019-2020,6
+31. august 2019,15:00,2:0,Burton Albion,Bristol Rovers,"{'87': 'home', '90': 'home'}",2019-2020,6
+31. august 2019,15:00,5:0,Gillingham FC,Bolton Wanderers,"{'27': 'home', '39': 'home', '54': 'home', '57': 'home', '76': 'home'}",2019-2020,6
+31. august 2019,15:00,3:0,Ipswich Town,Shrewsbury Town,"{'2': 'home', '10': 'home', '69': 'home'}",2019-2020,6
+31. august 2019,15:00,2:0,Lincoln City,Fleetwood Town,"{'34': 'home', '35': 'home'}",2019-2020,6
+31. august 2019,15:00,3:3,Oxford United,Coventry City,"{'35': 'away', '56': 'away', '64': 'home', '85': 'home', '90': 'home'}",2019-2020,6
+31. august 2019,15:00,3:0,Peterborough United,Sunderland AFC,"{'36': 'home', '52': 'home', '64': 'home'}",2019-2020,6
+31. august 2019,15:00,1:1,Rotherham United,Tranmere Rovers,"{'73': 'home', '90': 'away'}",2019-2020,6
+31. august 2019,15:00,0:3,Southend United,Rochdale AFC,"{'35': 'away', '37': 'away', '77': 'away'}",2019-2020,6
+7. september 2019,12:00,2:1,Milton Keynes Dons,AFC Wimbledon,"{'10': 'home', '26': 'home', '83': 'away'}",2019-2020,7
+7. september 2019,12:30,2:1,Doncaster Rovers,Rotherham United,"{'37': 'away', '66': 'home', '88': 'home'}",2019-2020,7
+7. september 2019,15:00,3:3,Bristol Rovers,Accrington Stanley,"{'4': 'home', '18': 'away', '20': 'away', '41': 'home', '63': 'home', '77': 'away'}",2019-2020,7
+7. september 2019,15:00,3:2,Coventry City,Blackpool FC,"{'2': 'away', '38': 'away', '41': 'home', '45': 'home', '90': 'home'}",2019-2020,7
+7. september 2019,15:00,2:1,Fleetwood Town,Oxford United,"{'15': 'home', '33': 'away', '79': 'home'}",2019-2020,7
+7. september 2019,15:00,2:2,Tranmere Rovers,Gillingham FC,"{'16': 'away', '36': 'away', '67': 'home', '70': 'home'}",2019-2020,7
+7. september 2019,15:00,3:1,Wycombe Wanderers,Lincoln City,"{'5': 'home', '36': 'home', '50': 'away', '75': 'home'}",2019-2020,7
+5. november 2019,19:45,4:1,Portsmouth FC,Southend United,"{'45': 'home', '50': 'home', '69': 'away', '80': 'home', '84': 'home'}",2019-2020,7
+5. november 2019,19:45,0:1,Rochdale AFC,Ipswich Town,{'53': 'away'},2019-2020,7
+5. november 2019,19:45,1:0,Shrewsbury Town,Peterborough United,{'45': 'home'},2019-2020,7
+26. november 2019,19:45,1:2,Sunderland AFC,Burton Albion,"{'19': 'home', '20': 'away', '68': 'away'}",2019-2020,7
+14. september 2019,15:00,1:1,AFC Wimbledon,Shrewsbury Town,"{'31': 'home', '73': 'away'}",2019-2020,8
+14. september 2019,15:00,1:3,Accrington Stanley,Sunderland AFC,"{'5': 'home', '7': 'away', '26': 'away', '36': 'away'}",2019-2020,8
+14. september 2019,15:00,0:3,Blackpool FC,Milton Keynes Dons,"{'5': 'away', '62': 'away', '75': 'away'}",2019-2020,8
+14. september 2019,15:00,0:0,Burton Albion,Coventry City,,2019-2020,8
+14. september 2019,15:00,2:0,Gillingham FC,Wycombe Wanderers,"{'59': 'home', '73': 'home'}",2019-2020,8
+14. september 2019,15:00,0:0,Ipswich Town,Doncaster Rovers,,2019-2020,8
+14. september 2019,15:00,0:1,Lincoln City,Bristol Rovers,{'66': 'away'},2019-2020,8
+14. september 2019,15:00,3:0,Oxford United,Tranmere Rovers,"{'23': 'home', '70': 'home', '90': 'home'}",2019-2020,8
+14. september 2019,15:00,6:0,Peterborough United,Rochdale AFC,"{'18': 'home', '34': 'home', '45': 'home', '51': 'home', '58': 'home', '62': 'home'}",2019-2020,8
+14. september 2019,15:00,6:1,Rotherham United,Bolton Wanderers,"{'4': 'away', '14': 'home', '28': 'home', '40': 'home', '53': 'home', '55': 'home', '65': 'home'}",2019-2020,8
+14. september 2019,15:00,3:3,Southend United,Fleetwood Town,"{'17': 'home', '34': 'away', '45': 'away', '48': 'home', '52': 'away', '87': 'home'}",2019-2020,8
+17. september 2019,19:45,1:1,Bristol Rovers,Gillingham FC,"{'38': 'home', '83': 'away'}",2019-2020,9
+17. september 2019,19:45,2:1,Coventry City,AFC Wimbledon,"{'8': 'away', '27': 'home', '90': 'home'}",2019-2020,9
+17. september 2019,19:45,0:1,Doncaster Rovers,Blackpool FC,{'90': 'away'},2019-2020,9
+17. september 2019,19:45,0:1,Milton Keynes Dons,Ipswich Town,{'12': 'away'},2019-2020,9
+17. september 2019,19:45,2:2,Portsmouth FC,Burton Albion,"{'3': 'away', '6': 'away', '39': 'home', '90': 'home'}",2019-2020,9
+17. september 2019,19:45,1:1,Rochdale AFC,Lincoln City,"{'13': 'home', '86': 'away'}",2019-2020,9
+17. september 2019,19:45,4:3,Shrewsbury Town,Southend United,"{'19': 'home', '27': 'home', '29': 'away', '61': 'home', '77': 'away', '83': 'home', '90': 'away'}",2019-2020,9
+17. september 2019,19:45,1:1,Sunderland AFC,Rotherham United,"{'1': 'home', '66': 'away'}",2019-2020,9
+17. september 2019,19:45,2:2,Tranmere Rovers,Peterborough United,"{'54': 'away', '56': 'away', '65': 'home', '70': 'home'}",2019-2020,9
+17. september 2019,19:45,1:1,Wycombe Wanderers,Accrington Stanley,"{'40': 'away', '72': 'home'}",2019-2020,9
+17. september 2019,20:00,0:0,Bolton Wanderers,Oxford United,,2019-2020,9
+21. september 2019,15:00,1:3,AFC Wimbledon,Bristol Rovers,"{'20': 'home', '29': 'away', '75': 'away', '87': 'away'}",2019-2020,10
+21. september 2019,15:00,1:1,Accrington Stanley,Blackpool FC,"{'16': 'home', '90': 'away'}",2019-2020,10
+21. september 2019,15:00,1:1,Bolton Wanderers,Sunderland AFC,"{'50': 'home', '90': 'away'}",2019-2020,10
+21. september 2019,15:00,2:0,Doncaster Rovers,Peterborough United,"{'30': 'home', '39': 'home'}",2019-2020,10
+21. september 2019,15:00,2:1,Fleetwood Town,Rochdale AFC,"{'8': 'away', '22': 'home', '87': 'home'}",2019-2020,10
+21. september 2019,15:00,0:1,Gillingham FC,Ipswich Town,{'32': 'away'},2019-2020,10
+21. september 2019,15:00,0:6,Lincoln City,Oxford United,"{'5': 'away', '40': 'away', '48': 'away', '54': 'away', '70': 'away', '79': 'away'}",2019-2020,10
+21. september 2019,15:00,0:1,Milton Keynes Dons,Southend United,{'4': 'away'},2019-2020,10
+21. september 2019,15:00,0:0,Rotherham United,Shrewsbury Town,,2019-2020,10
+21. september 2019,15:00,2:1,Tranmere Rovers,Burton Albion,"{'66': 'away', '90': 'home'}",2019-2020,10
+21. september 2019,15:00,1:0,Wycombe Wanderers,Portsmouth FC,{'82': 'home'},2019-2020,10
+27. september 2019,19:45,2:1,Blackpool FC,Lincoln City,"{'11': 'home', '21': 'home', '24': 'away'}",2019-2020,11
+28. september 2019,15:00,1:0,Bristol Rovers,Rotherham United,{'48': 'home'},2019-2020,11
+28. september 2019,15:00,1:1,Coventry City,Doncaster Rovers,"{'41': 'away', '89': 'home'}",2019-2020,11
+28. september 2019,15:00,4:1,Ipswich Town,Tranmere Rovers,"{'35': 'home', '39': 'away', '48': 'home', '62': 'home', '70': 'home'}",2019-2020,11
+28. september 2019,15:00,3:0,Oxford United,Gillingham FC,"{'10': 'home', '30': 'home', '34': 'home'}",2019-2020,11
+28. september 2019,15:00,3:2,Peterborough United,AFC Wimbledon,"{'29': 'home', '41': 'home', '52': 'away', '66': 'home', '78': 'away'}",2019-2020,11
+28. september 2019,15:00,1:0,Portsmouth FC,Bolton Wanderers,{'66': 'home'},2019-2020,11
+28. september 2019,15:00,0:3,Rochdale AFC,Wycombe Wanderers,"{'16': 'away', '26': 'away', '77': 'away'}",2019-2020,11
+28. september 2019,15:00,0:3,Shrewsbury Town,Fleetwood Town,"{'36': 'away', '56': 'away', '81': 'away'}",2019-2020,11
+28. september 2019,15:00,0:1,Southend United,Accrington Stanley,{'52': 'away'},2019-2020,11
+28. september 2019,15:00,2:1,Sunderland AFC,Milton Keynes Dons,"{'24': 'home', '28': 'home', '55': 'away'}",2019-2020,11
+5. october 2019,15:00,3:2,AFC Wimbledon,Rochdale AFC,"{None: 'home', '16': 'home', '28': 'home', '66': 'away', '90': 'away'}",2019-2020,12
+5. october 2019,15:00,2:2,Accrington Stanley,Oxford United,"{'28': 'away', '59': 'home', '70': 'away', '73': 'home'}",2019-2020,12
+5. october 2019,15:00,1:2,Doncaster Rovers,Portsmouth FC,"{'60': 'away', '82': 'home', '90': 'away'}",2019-2020,12
+5. october 2019,15:00,0:1,Fleetwood Town,Ipswich Town,{'58': 'away'},2019-2020,12
+5. october 2019,15:00,3:1,Gillingham FC,Southend United,"{'43': 'home', '46': 'home', '58': 'away', '87': 'home'}",2019-2020,12
+5. october 2019,15:00,2:0,Lincoln City,Sunderland AFC,"{None: 'home', '59': 'home'}",2019-2020,12
+5. october 2019,15:00,0:3,Milton Keynes Dons,Burton Albion,"{'32': 'away', '54': 'away', '90': 'away'}",2019-2020,12
+5. october 2019,15:00,4:0,Rotherham United,Coventry City,"{'13': 'home', '19': 'home', '58': 'home', '75': 'home'}",2019-2020,12
+5. october 2019,15:00,0:1,Tranmere Rovers,Shrewsbury Town,{'20': 'away'},2019-2020,12
+5. october 2019,15:00,3:3,Wycombe Wanderers,Peterborough United,"{'10': 'away', '38': 'away', '56': 'home', '63': 'home', '70': 'away', '90': 'home'}",2019-2020,12
+7. october 2019,20:00,0:0,Bolton Wanderers,Blackpool FC,,2019-2020,12
+12. october 2019,15:00,1:2,Blackpool FC,Rotherham United,"{None: 'away', '87': 'away', '90': 'home'}",2019-2020,13
+12. october 2019,15:00,1:0,Bristol Rovers,Milton Keynes Dons,{'49': 'home'},2019-2020,13
+12. october 2019,15:00,3:0,Oxford United,Doncaster Rovers,"{'45': 'home', '47': 'home', '78': 'home'}",2019-2020,13
+12. october 2019,15:00,2:0,Peterborough United,Lincoln City,"{'82': 'home', '88': 'home'}",2019-2020,13
+12. october 2019,15:00,0:0,Portsmouth FC,Gillingham FC,,2019-2020,13
+12. october 2019,15:00,2:1,Rochdale AFC,Accrington Stanley,"{'40': 'home', '49': 'home', '53': 'away'}",2019-2020,13
+12. october 2019,15:00,1:4,Southend United,AFC Wimbledon,"{'5': 'away', '11': 'away', '13': 'home', '52': 'away', '72': 'away'}",2019-2020,13
+13. october 2019,12:00,0:1,Coventry City,Tranmere Rovers,{'83': 'away'},2019-2020,13
+26. november 2019,19:45,0:0,Ipswich Town,Wycombe Wanderers,,2019-2020,13
+25. february 2020,19:45,1:1,Sunderland AFC,Fleetwood Town,"{'5': 'away', '90': 'home'}",2019-2020,13
+10. march 2020,19:45,2:2,Burton Albion,Bolton Wanderers,"{'20': 'away', '28': 'home', '38': 'away', '65': 'home'}",2019-2020,13
+18. october 2019,19:45,0:0,Lincoln City,Shrewsbury Town,,2019-2020,14
+18. october 2019,19:45,1:1,Tranmere Rovers,Southend United,"{None: 'away', '85': 'home'}",2019-2020,14
+19. october 2019,15:00,1:0,AFC Wimbledon,Portsmouth FC,{None: 'home'},2019-2020,14
+19. october 2019,15:00,1:3,Bolton Wanderers,Rochdale AFC,{None: 'away'},2019-2020,14
+19. october 2019,15:00,2:0,Doncaster Rovers,Bristol Rovers,{None: 'home'},2019-2020,14
+19. october 2019,15:00,4:1,Fleetwood Town,Burton Albion,{None: 'home'},2019-2020,14
+19. october 2019,15:00,1:2,Gillingham FC,Peterborough United,"{None: 'home', '51': 'away'}",2019-2020,14
+19. october 2019,15:00,0:0,Milton Keynes Dons,Coventry City,,2019-2020,14
+19. october 2019,15:00,1:2,Rotherham United,Oxford United,{None: 'away'},2019-2020,14
+19. october 2019,15:00,1:0,Wycombe Wanderers,Sunderland AFC,{None: 'home'},2019-2020,14
+20. october 2019,12:00,2:0,Accrington Stanley,Ipswich Town,"{None: 'home', '41': 'home'}",2019-2020,14
+22. october 2019,19:45,1:1,Blackpool FC,Wycombe Wanderers,"{'8': 'away', '51': 'home'}",2019-2020,15
+22. october 2019,19:45,0:2,Bristol Rovers,Bolton Wanderers,"{'15': 'away', '68': 'away'}",2019-2020,15
+22. october 2019,19:45,1:0,Burton Albion,AFC Wimbledon,{'31': 'home'},2019-2020,15
+22. october 2019,19:45,1:0,Portsmouth FC,Lincoln City,{'28': 'home'},2019-2020,15
+22. october 2019,19:45,2:0,Rochdale AFC,Milton Keynes Dons,"{'3': 'home', '60': 'home'}",2019-2020,15
+22. october 2019,19:45,1:1,Shrewsbury Town,Gillingham FC,"{'43': 'away', '64': 'home'}",2019-2020,15
+22. october 2019,19:45,1:7,Southend United,Doncaster Rovers,"{'11': 'home', '23': 'away', '26': 'away', '52': 'away', '70': 'away', '82': 'away', '89': 'away', '90': 'away'}",2019-2020,15
+22. october 2019,19:45,5:0,Sunderland AFC,Tranmere Rovers,"{'24': 'home', '26': 'home', '39': 'home', '83': 'home', '90': 'home'}",2019-2020,15
+23. october 2019,19:45,0:2,Ipswich Town,Rotherham United,"{'11': 'away', '48': 'away'}",2019-2020,15
+23. october 2019,19:45,4:0,Peterborough United,Accrington Stanley,"{'56': 'home', '69': 'home', '85': 'home', '90': 'home'}",2019-2020,15
+23. october 2019,19:45,2:1,Coventry City,Fleetwood Town,"{'9': 'away', '59': 'home', '68': 'home'}",2019-2020,15
+26. october 2019,15:00,0:1,Accrington Stanley,Gillingham FC,{'59': 'away'},2019-2020,16
+26. october 2019,15:00,2:2,Bristol Rovers,Portsmouth FC,"{'9': 'away', '70': 'away', '78': 'home', '90': 'home'}",2019-2020,16
+26. october 2019,15:00,0:0,Burton Albion,Blackpool FC,,2019-2020,16
+26. october 2019,15:00,1:0,Fleetwood Town,Milton Keynes Dons,{'85': 'home'},2019-2020,16
+26. october 2019,15:00,3:0,Oxford United,Rochdale AFC,"{'20': 'home', '27': 'home', '86': 'home'}",2019-2020,16
+26. october 2019,15:00,2:2,Peterborough United,Coventry City,"{'12': 'away', '52': 'home', '85': 'away', '90': 'home'}",2019-2020,16
+26. october 2019,15:00,0:1,Rotherham United,Wycombe Wanderers,{'5': 'away'},2019-2020,16
+26. october 2019,15:00,1:0,Shrewsbury Town,Sunderland AFC,{'22': 'home'},2019-2020,16
+26. october 2019,15:00,1:3,Southend United,Ipswich Town,"{'8': 'away', '70': 'away', '76': 'away', '83': 'home'}",2019-2020,16
+14. january 2020,19:45,5:1,Lincoln City,Bolton Wanderers,"{'7': 'home', '47': 'away', '61': 'home', '85': 'home', '86': 'home', '90': 'home'}",2019-2020,16
+4. february 2020,19:45,0:3,Tranmere Rovers,Doncaster Rovers,{},2019-2020,16
+2. november 2019,15:00,1:1,AFC Wimbledon,Lincoln City,"{'31': 'away', '90': 'home'}",2019-2020,17
+2. november 2019,15:00,4:3,Blackpool FC,Peterborough United,"{'13': 'away', '27': 'home', '41': 'home', '45': 'away', '48': 'home', '71': 'away', '74': 'home'}",2019-2020,17
+2. november 2019,15:00,2:1,Bolton Wanderers,Fleetwood Town,"{'28': 'home', '33': 'home', '85': 'away'}",2019-2020,17
+2. november 2019,15:00,0:0,Coventry City,Accrington Stanley,,2019-2020,17
+2. november 2019,15:00,2:2,Doncaster Rovers,Burton Albion,"{'36': 'away', '39': 'home', '53': 'away', None: 'home'}",2019-2020,17
+2. november 2019,15:00,0:3,Gillingham FC,Rotherham United,"{'19': 'away', '43': 'away', '88': 'away'}",2019-2020,17
+2. november 2019,15:00,1:3,Milton Keynes Dons,Tranmere Rovers,"{'19': 'away', '42': 'home', '53': 'away', '69': 'away'}",2019-2020,17
+2. november 2019,15:00,1:1,Portsmouth FC,Oxford United,"{'58': 'home', '90': 'away'}",2019-2020,17
+2. november 2019,15:00,1:0,Sunderland AFC,Southend United,{'20': 'home'},2019-2020,17
+2. november 2019,15:00,1:0,Wycombe Wanderers,Shrewsbury Town,{'57': 'home'},2019-2020,17
+2. november 2019,15:00,1:2,Rochdale AFC,Bristol Rovers,"{'8': 'away', '11': 'away', '44': 'home'}",2019-2020,17
+16. november 2019,15:00,2:0,Blackpool FC,AFC Wimbledon,"{'51': 'home', '81': 'home'}",2019-2020,18
+16. november 2019,15:00,1:0,Bolton Wanderers,Milton Keynes Dons,{'90': 'home'},2019-2020,18
+16. november 2019,15:00,2:1,Coventry City,Rochdale AFC,"{'28': 'away', '42': 'home', '72': 'home'}",2019-2020,18
+16. november 2019,15:00,1:0,Gillingham FC,Lincoln City,{'24': 'home'},2019-2020,18
+16. november 2019,15:00,1:0,Rotherham United,Accrington Stanley,{'30': 'home'},2019-2020,18
+17. november 2019,12:00,0:2,Tranmere Rovers,Wycombe Wanderers,"{'43': 'away', '45': 'away'}",2019-2020,18
+3. december 2019,19:45,1:1,Burton Albion,Southend United,{None: 'home'},2019-2020,18
+7. january 2020,19:45,2:0,Doncaster Rovers,Shrewsbury Town,"{'4': 'home', '75': 'home'}",2019-2020,18
+14. january 2020,19:45,0:0,Oxford United,Ipswich Town,,2019-2020,18
+10. march 2020,19:45,2:0,Bristol Rovers,Sunderland AFC,"{'39': 'home', '75': 'home'}",2019-2020,18
+10. march 2020,19:45,2:2,Portsmouth FC,Fleetwood Town,"{'19': 'away', '36': 'home', '48': 'home', '55': 'away'}",2019-2020,18
+23. november 2019,15:00,1:0,AFC Wimbledon,Gillingham FC,{'19': 'home'},2019-2020,19
+23. november 2019,15:00,7:1,Accrington Stanley,Bolton Wanderers,"{'5': 'away', '15': 'home', '27': 'home', '33': 'home', '53': 'home', '75': 'home', '80': 'home', '90': 'home'}",2019-2020,19
+23. november 2019,15:00,2:1,Fleetwood Town,Tranmere Rovers,"{'15': 'home', '82': 'home', '87': 'away'}",2019-2020,19
+23. november 2019,15:00,2:2,Ipswich Town,Blackpool FC,"{'8': 'home', '22': 'away', '53': 'away', '58': 'home'}",2019-2020,19
+23. november 2019,15:00,2:3,Milton Keynes Dons,Rotherham United,"{'4': 'home', '13': 'home', '66': 'away', '71': 'away', '86': 'away'}",2019-2020,19
+23. november 2019,15:00,1:0,Peterborough United,Burton Albion,{'90': 'home'},2019-2020,19
+23. november 2019,15:00,0:3,Rochdale AFC,Portsmouth FC,"{'15': 'away', '47': 'away', '88': 'away'}",2019-2020,19
+23. november 2019,15:00,3:4,Shrewsbury Town,Bristol Rovers,"{'11': 'away', '28': 'away', '37': 'home', '47': 'away', '62': 'home', '67': 'home', '87': 'away'}",2019-2020,19
+23. november 2019,15:00,0:4,Southend United,Oxford United,"{'1': 'away', '33': 'away', '84': 'away', '86': 'away'}",2019-2020,19
+23. november 2019,15:00,1:1,Sunderland AFC,Coventry City,"{'26': 'away', '90': 'home'}",2019-2020,19
+23. november 2019,15:00,1:0,Wycombe Wanderers,Doncaster Rovers,{'90': 'home'},2019-2020,19
+7. december 2019,15:00,3:1,Blackpool FC,Fleetwood Town,{None: 'away'},2019-2020,20
+7. december 2019,15:00,2:2,Bolton Wanderers,AFC Wimbledon,{None: 'home'},2019-2020,20
+7. december 2019,15:00,4:2,Bristol Rovers,Southend United,"{None: 'home', '48': 'home'}",2019-2020,20
+7. december 2019,15:00,0:2,Burton Albion,Lincoln City,{None: 'away'},2019-2020,20
+7. december 2019,15:00,1:1,Coventry City,Ipswich Town,{None: 'home'},2019-2020,20
+7. december 2019,15:00,1:1,Doncaster Rovers,Milton Keynes Dons,{None: 'home'},2019-2020,20
+7. december 2019,15:00,1:0,Gillingham FC,Sunderland AFC,{None: 'home'},2019-2020,20
+7. december 2019,15:00,0:0,Oxford United,Shrewsbury Town,,2019-2020,20
+7. december 2019,15:00,2:2,Portsmouth FC,Peterborough United,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:1,Rotherham United,Rochdale AFC,{None: 'away'},2019-2020,20
+7. december 2019,15:00,1:1,Tranmere Rovers,Accrington Stanley,{None: 'home'},2019-2020,20
+14. december 2019,15:00,2:1,AFC Wimbledon,Doncaster Rovers,"{'12': 'away', '56': 'home', '70': 'home'}",2019-2020,21
+14. december 2019,15:00,4:1,Accrington Stanley,Portsmouth FC,"{'35': 'away', '44': 'home', '62': 'home', '69': 'home', '77': 'home'}",2019-2020,21
+14. december 2019,15:00,1:1,Fleetwood Town,Gillingham FC,"{'56': 'home', '82': 'away'}",2019-2020,21
+14. december 2019,15:00,1:2,Ipswich Town,Bristol Rovers,"{'4': 'away', '23': 'away', '37': 'home'}",2019-2020,21
+14. december 2019,15:00,1:0,Lincoln City,Tranmere Rovers,{'77': 'home'},2019-2020,21
+14. december 2019,15:00,1:0,Milton Keynes Dons,Oxford United,{'59': 'home'},2019-2020,21
+14. december 2019,15:00,1:0,Peterborough United,Bolton Wanderers,{'23': 'home'},2019-2020,21
+14. december 2019,15:00,2:1,Shrewsbury Town,Coventry City,"{'26': 'away', '68': 'home', '90': 'home'}",2019-2020,21
+14. december 2019,15:00,2:2,Southend United,Rotherham United,"{'30': 'away', '49': 'home', '52': 'home', '60': 'away'}",2019-2020,21
+14. december 2019,15:00,1:1,Sunderland AFC,Blackpool FC,"{'4': 'away', '37': 'home'}",2019-2020,21
+14. december 2019,15:00,2:0,Wycombe Wanderers,Burton Albion,"{'24': 'home', '90': 'home'}",2019-2020,21
+21. december 2019,13:00,3:1,Gillingham FC,Milton Keynes Dons,"{'31': 'home', '33': 'home', '52': 'away', '57': 'home'}",2019-2020,22
+21. december 2019,15:00,0:1,Blackpool FC,Shrewsbury Town,{'56': 'away'},2019-2020,22
+21. december 2019,15:00,3:2,Bolton Wanderers,Southend United,"{'10': 'away', '36': 'home', '45': 'home', '64': 'home', '81': 'away'}",2019-2020,22
+21. december 2019,15:00,0:0,Bristol Rovers,Peterborough United,,2019-2020,22
+21. december 2019,15:00,3:1,Burton Albion,Rochdale AFC,"{'2': 'away', '11': 'home', '18': 'home', '82': 'home'}",2019-2020,22
+21. december 2019,15:00,1:0,Coventry City,Lincoln City,{'32': 'home'},2019-2020,22
+21. december 2019,15:00,1:1,Doncaster Rovers,Accrington Stanley,"{'57': 'home', '82': 'away'}",2019-2020,22
+21. december 2019,15:00,1:0,Oxford United,Wycombe Wanderers,{'23': 'home'},2019-2020,22
+21. december 2019,15:00,1:0,Portsmouth FC,Ipswich Town,{'50': 'home'},2019-2020,22
+21. december 2019,15:00,2:2,Rotherham United,Fleetwood Town,"{'26': 'away', '62': 'home', '63': 'away', '80': 'home'}",2019-2020,22
+21. december 2019,15:00,1:0,Tranmere Rovers,AFC Wimbledon,{'27': 'home'},2019-2020,22
+26. december 2019,15:00,0:1,Blackpool FC,Accrington Stanley,{'90': 'away'},2019-2020,23
+26. december 2019,15:00,1:2,Bristol Rovers,AFC Wimbledon,"{'43': 'home', '70': 'away', '84': 'away'}",2019-2020,23
+26. december 2019,15:00,4:2,Burton Albion,Tranmere Rovers,"{'12': 'home', '26': 'away', '50': 'home', '60': 'home', '64': 'away', '86': 'home'}",2019-2020,23
+26. december 2019,15:00,0:0,Ipswich Town,Gillingham FC,,2019-2020,23
+26. december 2019,15:00,1:0,Oxford United,Lincoln City,{'36': 'home'},2019-2020,23
+26. december 2019,15:00,0:3,Peterborough United,Doncaster Rovers,"{'17': 'away', '61': 'away', '82': 'away'}",2019-2020,23
+26. december 2019,15:00,2:0,Portsmouth FC,Wycombe Wanderers,"{'66': 'home', '73': 'home'}",2019-2020,23
+26. december 2019,15:00,2:3,Rochdale AFC,Fleetwood Town,"{'41': 'home', '53': 'away', '60': 'home', '65': 'away', '89': 'away'}",2019-2020,23
+26. december 2019,15:00,1:2,Shrewsbury Town,Rotherham United,"{'60': 'away', '66': 'home', '90': 'away'}",2019-2020,23
+26. december 2019,15:00,2:2,Southend United,Milton Keynes Dons,"{'13': 'away', '32': 'home', None: 'away', '66': 'home'}",2019-2020,23
+26. december 2019,15:00,0:0,Sunderland AFC,Bolton Wanderers,,2019-2020,23
+29. december 2019,13:00,1:0,Gillingham FC,Rochdale AFC,{'86': 'home'},2019-2020,24
+29. december 2019,15:00,1:2,AFC Wimbledon,Oxford United,"{'26': 'away', '47': 'home', '61': 'away'}",2019-2020,24
+29. december 2019,15:00,2:0,Accrington Stanley,Burton Albion,"{'39': 'home', '65': 'home'}",2019-2020,24
+29. december 2019,15:00,1:1,Bolton Wanderers,Shrewsbury Town,"{'34': 'home', '53': 'away'}",2019-2020,24
+29. december 2019,15:00,1:2,Doncaster Rovers,Sunderland AFC,"{'6': 'away', '40': 'home', '61': 'away'}",2019-2020,24
+29. december 2019,15:00,0:0,Fleetwood Town,Bristol Rovers,,2019-2020,24
+29. december 2019,15:00,5:3,Lincoln City,Ipswich Town,"{'6': 'home', '32': 'away', '45': 'home', '59': 'away', '72': 'home', '79': 'home', '83': 'away', '90': 'home'}",2019-2020,24
+29. december 2019,15:00,3:1,Milton Keynes Dons,Portsmouth FC,"{'35': 'home', '42': 'home', '84': 'home', '90': 'away'}",2019-2020,24
+29. december 2019,15:00,4:0,Rotherham United,Peterborough United,"{'50': 'home', '68': 'home', '77': 'home', '90': 'home'}",2019-2020,24
+29. december 2019,15:00,1:1,Tranmere Rovers,Blackpool FC,"{'10': 'away', '43': 'home'}",2019-2020,24
+29. december 2019,15:00,1:4,Wycombe Wanderers,Coventry City,"{'3': 'away', '14': 'home', '16': 'away', '44': 'away', '50': 'away'}",2019-2020,24
+1. january 2020,15:00,1:1,AFC Wimbledon,Southend United,"{'23': 'home', '90': 'away'}",2019-2020,25
+1. january 2020,15:00,1:2,Accrington Stanley,Rochdale AFC,"{'45': 'away', '64': 'away', '90': 'home'}",2019-2020,25
+1. january 2020,15:00,3:4,Bolton Wanderers,Burton Albion,"{'5': 'home', '11': 'home', '13': 'away', '26': 'away', '45': 'away', '81': 'away', '84': 'home'}",2019-2020,25
+1. january 2020,15:00,1:0,Doncaster Rovers,Oxford United,{'34': 'home'},2019-2020,25
+1. january 2020,15:00,1:1,Fleetwood Town,Sunderland AFC,"{'13': 'home', '86': 'away'}",2019-2020,25
+1. january 2020,15:00,1:1,Gillingham FC,Portsmouth FC,"{'36': 'away', '80': 'home'}",2019-2020,25
+1. january 2020,15:00,2:1,Lincoln City,Peterborough United,"{'28': 'away', '67': 'home', '90': 'home'}",2019-2020,25
+1. january 2020,15:00,3:0,Milton Keynes Dons,Bristol Rovers,"{'16': 'home', '60': 'home', '84': 'home'}",2019-2020,25
+1. january 2020,15:00,2:1,Rotherham United,Blackpool FC,"{'21': 'home', '34': 'away', '85': 'home'}",2019-2020,25
+1. january 2020,15:00,1:4,Tranmere Rovers,Coventry City,"{'3': 'away', '17': 'away', '35': 'home', '67': 'away', '90': 'away'}",2019-2020,25
+1. january 2020,15:00,1:1,Wycombe Wanderers,Ipswich Town,"{'54': 'away', '66': 'home'}",2019-2020,25
+4. january 2020,15:00,3:1,Sunderland AFC,Lincoln City,"{'19': 'home', '23': 'home', '29': 'home', '66': 'away'}",2019-2020,26
+14. january 2020,19:45,1:0,Burton Albion,Milton Keynes Dons,{'20': 'home'},2019-2020,26
+21. january 2020,19:45,4:0,Peterborough United,Wycombe Wanderers,"{'23': 'home', '44': 'home', '56': 'home', '73': 'home'}",2019-2020,26
+18. february 2020,19:45,0:1,Southend United,Gillingham FC,{'67': 'away'},2019-2020,26
+25. february 2020,19:45,2:1,Blackpool FC,Bolton Wanderers,"{'13': 'home', '88': 'away', '90': 'home'}",2019-2020,26
+25. february 2020,19:45,1:1,Coventry City,Rotherham United,"{'23': 'away', '47': 'home'}",2019-2020,26
+25. february 2020,19:45,3:0,Oxford United,Accrington Stanley,"{'13': 'home', '50': 'home', '72': 'home'}",2019-2020,26
+25. february 2020,19:45,2:3,Shrewsbury Town,Tranmere Rovers,"{'9': 'away', '14': 'away', '56': 'home', '61': 'home', '90': 'away'}",2019-2020,26
+3. march 2020,19:45,0:1,Ipswich Town,Fleetwood Town,{'40': 'away'},2019-2020,26
+11. january 2020,15:00,0:2,Bristol Rovers,Doncaster Rovers,"{'86': 'away', '90': 'away'}",2019-2020,27
+11. january 2020,15:00,1:0,Burton Albion,Fleetwood Town,{'89': 'home'},2019-2020,27
+11. january 2020,15:00,1:1,Coventry City,Milton Keynes Dons,"{'1': 'home', '75': 'away'}",2019-2020,27
+11. january 2020,15:00,4:1,Ipswich Town,Accrington Stanley,"{'12': 'home', '29': 'home', '44': 'home', '86': 'away', '90': 'home'}",2019-2020,27
+11. january 2020,15:00,1:3,Oxford United,Rotherham United,"{'16': 'away', '33': 'away', '45': 'away', '71': 'home'}",2019-2020,27
+11. january 2020,15:00,0:0,Peterborough United,Gillingham FC,,2019-2020,27
+11. january 2020,15:00,2:1,Portsmouth FC,AFC Wimbledon,"{'20': 'home', '62': 'away', '79': 'home'}",2019-2020,27
+11. january 2020,15:00,2:0,Rochdale AFC,Bolton Wanderers,"{'44': 'home', '80': 'home'}",2019-2020,27
+11. january 2020,15:00,1:1,Shrewsbury Town,Lincoln City,"{'36': 'home', '48': 'away'}",2019-2020,27
+11. january 2020,15:00,0:0,Southend United,Tranmere Rovers,,2019-2020,27
+11. january 2020,15:00,4:0,Sunderland AFC,Wycombe Wanderers,"{'6': 'home', '16': 'home', '21': 'home', '78': 'home'}",2019-2020,27
+18. january 2020,15:00,1:0,AFC Wimbledon,Peterborough United,{'58': 'home'},2019-2020,28
+18. january 2020,15:00,1:2,Accrington Stanley,Southend United,"{'11': 'away', '17': 'home', '51': 'away'}",2019-2020,28
+18. january 2020,15:00,0:1,Bolton Wanderers,Portsmouth FC,{'42': 'away'},2019-2020,28
+18. january 2020,15:00,0:1,Doncaster Rovers,Coventry City,{'26': 'away'},2019-2020,28
+18. january 2020,15:00,2:2,Fleetwood Town,Shrewsbury Town,"{'39': 'away', '49': 'home', '81': 'away', '87': 'home'}",2019-2020,28
+18. january 2020,15:00,1:1,Gillingham FC,Oxford United,"{'16': 'away', '61': 'home'}",2019-2020,28
+18. january 2020,15:00,1:0,Lincoln City,Blackpool FC,{'63': 'home'},2019-2020,28
+18. january 2020,15:00,0:1,Milton Keynes Dons,Sunderland AFC,{'79': 'away'},2019-2020,28
+18. january 2020,15:00,3:0,Rotherham United,Bristol Rovers,"{'51': 'home', '53': 'home', '88': 'home'}",2019-2020,28
+18. january 2020,15:00,1:2,Tranmere Rovers,Ipswich Town,"{'32': 'home', '55': 'away', '79': 'away'}",2019-2020,28
+18. january 2020,15:00,2:1,Wycombe Wanderers,Rochdale AFC,"{'18': 'away', '31': 'home', '90': 'home'}",2019-2020,28
+24. january 2020,19:45,0:0,Sunderland AFC,Doncaster Rovers,,2019-2020,29
+25. january 2020,15:00,0:0,Bristol Rovers,Fleetwood Town,,2019-2020,29
+25. january 2020,15:00,1:1,Burton Albion,Accrington Stanley,"{'15': 'away', '30': 'home'}",2019-2020,29
+25. january 2020,15:00,1:0,Ipswich Town,Lincoln City,{'44': 'home'},2019-2020,29
+25. january 2020,15:00,2:1,Peterborough United,Rotherham United,"{'2': 'home', '22': 'home', '35': 'away'}",2019-2020,29
+25. january 2020,15:00,2:2,Rochdale AFC,Gillingham FC,"{'28': 'home', '32': 'away', '59': 'away', '68': 'home'}",2019-2020,29
+18. february 2020,19:45,5:0,Oxford United,AFC Wimbledon,"{'32': 'home', '34': 'home', '50': 'home', '55': 'home', '90': 'home'}",2019-2020,29
+25. february 2020,19:45,3:1,Portsmouth FC,Milton Keynes Dons,"{'4': 'home', '45': 'away', '49': 'home', '90': 'home'}",2019-2020,29
+10. march 2020,19:45,1:2,Blackpool FC,Tranmere Rovers,"{'37': 'away', '45': 'away', '58': 'home'}",2019-2020,29
+28. january 2020,19:45,2:2,AFC Wimbledon,Burton Albion,"{'7': 'away', '16': 'home', '41': 'away', '60': 'home'}",2019-2020,30
+28. january 2020,19:45,0:2,Accrington Stanley,Peterborough United,"{'11': 'away', '51': 'away'}",2019-2020,30
+28. january 2020,19:45,3:1,Doncaster Rovers,Southend United,"{'24': 'home', '41': 'home', '55': 'home', '70': 'away'}",2019-2020,30
+28. january 2020,19:45,0:0,Fleetwood Town,Coventry City,,2019-2020,30
+28. january 2020,19:45,0:2,Lincoln City,Portsmouth FC,"{'45': 'away', '86': 'away'}",2019-2020,30
+28. january 2020,19:45,2:1,Milton Keynes Dons,Rochdale AFC,"{'16': 'away', '49': 'home', '90': 'home'}",2019-2020,30
+28. january 2020,19:45,1:0,Rotherham United,Ipswich Town,{'42': 'home'},2019-2020,30
+28. january 2020,20:00,1:1,Bolton Wanderers,Bristol Rovers,"{'63': 'away', '82': 'home'}",2019-2020,30
+28. january 2020,20:50,2:1,Wycombe Wanderers,Blackpool FC,"{'5': 'home', '9': 'home', '86': 'away'}",2019-2020,30
+29. january 2020,19:45,2:0,Gillingham FC,Shrewsbury Town,"{'26': 'home', '40': 'home'}",2019-2020,30
+29. january 2020,19:45,0:1,Tranmere Rovers,Sunderland AFC,{'60': 'away'},2019-2020,30
+1. february 2020,15:00,2:1,Accrington Stanley,AFC Wimbledon,"{'14': 'home', '21': 'home', '73': 'away'}",2019-2020,31
+1. february 2020,15:00,2:0,Bolton Wanderers,Tranmere Rovers,"{'2': 'home', '64': 'home'}",2019-2020,31
+1. february 2020,15:00,1:2,Bristol Rovers,Coventry City,"{'23': 'home', '38': 'away', '45': 'away'}",2019-2020,31
+1. february 2020,15:00,2:1,Fleetwood Town,Doncaster Rovers,"{'35': 'home', '49': 'home', '55': 'away'}",2019-2020,31
+1. february 2020,15:00,1:4,Ipswich Town,Peterborough United,"{'23': 'away', '33': 'away', '50': 'away', '74': 'away', '79': 'home'}",2019-2020,31
+1. february 2020,15:00,2:0,Milton Keynes Dons,Wycombe Wanderers,"{'68': 'home', '86': 'home'}",2019-2020,31
+1. february 2020,15:00,2:1,Oxford United,Blackpool FC,"{'10': 'away', '18': 'home', '40': 'home'}",2019-2020,31
+1. february 2020,15:00,2:0,Portsmouth FC,Sunderland AFC,"{'25': 'home', '52': 'home'}",2019-2020,31
+1. february 2020,15:00,1:0,Rochdale AFC,Shrewsbury Town,{'88': 'home'},2019-2020,31
+1. february 2020,15:00,3:2,Rotherham United,Burton Albion,"{'7': 'away', '9': 'home', '46': 'home', '47': 'away', '71': 'home'}",2019-2020,31
+1. february 2020,15:00,2:1,Southend United,Lincoln City,"{'63': 'home', '89': 'away', '90': 'home'}",2019-2020,31
+7. february 2020,19:45,0:1,Lincoln City,Rotherham United,{'47': 'away'},2019-2020,32
+8. february 2020,15:00,1:2,AFC Wimbledon,Fleetwood Town,"{'22': 'away', '34': 'home', '81': 'away'}",2019-2020,32
+8. february 2020,15:00,2:1,Blackpool FC,Southend United,"{'37': 'home', '64': 'home', '72': 'away'}",2019-2020,32
+8. february 2020,15:00,0:0,Burton Albion,Gillingham FC,,2019-2020,32
+8. february 2020,15:00,2:1,Coventry City,Bolton Wanderers,"{'3': 'home', '77': 'away', '90': 'home'}",2019-2020,32
+8. february 2020,15:00,1:1,Doncaster Rovers,Rochdale AFC,"{None: 'home', '81': 'away'}",2019-2020,32
+8. february 2020,15:00,4:0,Peterborough United,Oxford United,"{'36': 'home', '56': 'home', '77': 'home', '90': 'home'}",2019-2020,32
+8. february 2020,15:00,1:1,Shrewsbury Town,Milton Keynes Dons,"{'62': 'home', '77': 'away'}",2019-2020,32
+8. february 2020,15:00,1:0,Sunderland AFC,Ipswich Town,{'81': 'home'},2019-2020,32
+8. february 2020,15:00,0:2,Tranmere Rovers,Portsmouth FC,"{'13': 'away', '51': 'away'}",2019-2020,32
+8. february 2020,15:00,3:1,Wycombe Wanderers,Bristol Rovers,"{'9': 'home', '27': 'away', '39': 'home', '41': 'home'}",2019-2020,32
+11. february 2020,19:45,0:0,AFC Wimbledon,Ipswich Town,,2019-2020,33
+11. february 2020,19:45,2:3,Blackpool FC,Gillingham FC,"{'7': 'home', '73': 'away', '76': 'away', '90': 'away'}",2019-2020,33
+11. february 2020,19:45,2:2,Burton Albion,Oxford United,"{'20': 'home', '63': 'away', '71': 'home', '90': 'away'}",2019-2020,33
+11. february 2020,19:45,1:0,Coventry City,Portsmouth FC,{'84': 'home'},2019-2020,33
+11. february 2020,19:45,2:1,Doncaster Rovers,Bolton Wanderers,"{'40': 'home', '48': 'home', '57': 'away'}",2019-2020,33
+11. february 2020,19:45,1:1,Lincoln City,Milton Keynes Dons,"{'3': 'away', '22': 'home'}",2019-2020,33
+11. february 2020,19:45,4:0,Peterborough United,Southend United,"{'50': 'home', '57': 'home', '70': 'home', '74': 'home'}",2019-2020,33
+11. february 2020,19:45,0:2,Shrewsbury Town,Accrington Stanley,"{'13': 'away', '71': 'away'}",2019-2020,33
+11. february 2020,19:45,3:0,Sunderland AFC,Rochdale AFC,"{'11': 'home', '15': 'home', '32': 'home'}",2019-2020,33
+11. february 2020,19:45,0:0,Tranmere Rovers,Bristol Rovers,,2019-2020,33
+11. february 2020,19:45,0:1,Wycombe Wanderers,Fleetwood Town,{'75': 'away'},2019-2020,33
+15. february 2020,15:00,4:3,Accrington Stanley,Lincoln City,"{'30': 'away', '36': 'home', '53': 'away', '70': 'home', '76': 'away', '78': 'home', '90': 'home'}",2019-2020,34
+15. february 2020,15:00,0:2,Bolton Wanderers,Wycombe Wanderers,"{'44': 'away', '62': 'away'}",2019-2020,34
+15. february 2020,15:00,2:1,Bristol Rovers,Blackpool FC,"{'2': 'away', '73': 'home', '84': 'home'}",2019-2020,34
+15. february 2020,15:00,2:1,Fleetwood Town,Peterborough United,"{'15': 'home', '54': 'away', '76': 'home'}",2019-2020,34
+15. february 2020,15:00,2:1,Gillingham FC,Doncaster Rovers,"{'13': 'away', '44': 'home', '67': 'home'}",2019-2020,34
+15. february 2020,15:00,4:1,Ipswich Town,Burton Albion,"{'6': 'away', '29': 'home', '45': 'home', '52': 'home', '63': 'home'}",2019-2020,34
+15. february 2020,15:00,0:1,Oxford United,Sunderland AFC,{'3': 'away'},2019-2020,34
+15. february 2020,15:00,2:0,Portsmouth FC,Shrewsbury Town,"{'64': 'home', '82': 'home'}",2019-2020,34
+15. february 2020,15:00,2:2,Rotherham United,AFC Wimbledon,"{'30': 'away', '60': 'home', '81': 'home', '90': 'away'}",2019-2020,34
+15. february 2020,15:00,0:2,Southend United,Coventry City,"{'60': 'away', '79': 'away'}",2019-2020,34
+22. february 2020,15:00,0:0,AFC Wimbledon,Blackpool FC,,2019-2020,35
+22. february 2020,15:00,1:2,Accrington Stanley,Rotherham United,"{'64': 'away', '65': 'home', '90': 'away'}",2019-2020,35
+22. february 2020,15:00,1:0,Fleetwood Town,Portsmouth FC,{'12': 'home'},2019-2020,35
+22. february 2020,15:00,0:1,Ipswich Town,Oxford United,{'44': 'away'},2019-2020,35
+22. february 2020,15:00,0:0,Lincoln City,Gillingham FC,,2019-2020,35
+22. february 2020,15:00,1:0,Milton Keynes Dons,Bolton Wanderers,{'68': 'home'},2019-2020,35
+22. february 2020,15:00,1:2,Rochdale AFC,Coventry City,"{'4': 'away', '71': 'away', '72': 'home'}",2019-2020,35
+22. february 2020,15:00,1:0,Shrewsbury Town,Doncaster Rovers,{'76': 'home'},2019-2020,35
+22. february 2020,15:00,2:3,Southend United,Burton Albion,"{'5': 'away', '29': 'home', '49': 'away', '74': 'away', '90': 'home'}",2019-2020,35
+22. february 2020,15:00,3:0,Sunderland AFC,Bristol Rovers,"{'71': 'home', '73': 'home', '82': 'home'}",2019-2020,35
+22. february 2020,15:00,3:1,Wycombe Wanderers,Tranmere Rovers,"{'45': 'home', '63': 'away', '71': 'home', '90': 'home'}",2019-2020,35
+28. february 2020,19:45,3:0,Portsmouth FC,Rochdale AFC,"{'45': 'home', '78': 'home', '84': 'home'}",2019-2020,36
+29. february 2020,15:00,2:1,Blackpool FC,Ipswich Town,"{'26': 'home', '54': 'away', '90': 'home'}",2019-2020,36
+29. february 2020,15:00,0:0,Bolton Wanderers,Accrington Stanley,,2019-2020,36
+29. february 2020,15:00,0:1,Bristol Rovers,Shrewsbury Town,{'69': 'away'},2019-2020,36
+29. february 2020,15:00,1:1,Burton Albion,Peterborough United,"{'52': 'away', '65': 'home'}",2019-2020,36
+29. february 2020,15:00,3:1,Doncaster Rovers,Wycombe Wanderers,"{'45': 'home', '67': 'away', '71': 'home', '83': 'home'}",2019-2020,36
+29. february 2020,15:00,1:2,Gillingham FC,AFC Wimbledon,"{'49': 'away', '87': 'home', '90': 'away'}",2019-2020,36
+29. february 2020,15:00,2:1,Oxford United,Southend United,"{'17': 'home', '45': 'away', '84': 'home'}",2019-2020,36
+29. february 2020,15:00,1:1,Rotherham United,Milton Keynes Dons,"{'10': 'home', '22': 'away'}",2019-2020,36
+1. march 2020,12:00,1:0,Coventry City,Sunderland AFC,{'2': 'home'},2019-2020,36
+7. march 2020,15:00,0:0,AFC Wimbledon,Bolton Wanderers,,2019-2020,37
+7. march 2020,15:00,1:2,Accrington Stanley,Tranmere Rovers,"{'8': 'away', '77': 'away', '82': 'home'}",2019-2020,37
+7. march 2020,15:00,0:0,Fleetwood Town,Blackpool FC,,2019-2020,37
+7. march 2020,15:00,0:1,Ipswich Town,Coventry City,{'16': 'away'},2019-2020,37
+7. march 2020,15:00,3:2,Lincoln City,Burton Albion,"{'6': 'away', '21': 'home', '30': 'away', '38': 'home', '62': 'home'}",2019-2020,37
+7. march 2020,15:00,0:1,Milton Keynes Dons,Doncaster Rovers,{'67': 'away'},2019-2020,37
+7. march 2020,15:00,2:0,Peterborough United,Portsmouth FC,"{'32': 'home', '86': 'home'}",2019-2020,37
+7. march 2020,15:00,3:1,Rochdale AFC,Rotherham United,"{'28': 'home', '70': 'home', '75': 'home', '90': 'away'}",2019-2020,37
+7. march 2020,15:00,2:3,Shrewsbury Town,Oxford United,"{'12': 'home', '34': 'home', '45': 'away', '59': 'away', '88': 'away'}",2019-2020,37
+7. march 2020,15:00,3:1,Southend United,Bristol Rovers,"{'18': 'home', '46': 'away', '55': 'home', '79': 'home'}",2019-2020,37
+7. march 2020,15:00,2:2,Sunderland AFC,Gillingham FC,"{'64': 'home', '74': 'away', '83': 'home', '90': 'away'}",2019-2020,37

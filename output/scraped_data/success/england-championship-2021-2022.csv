@@ -1,0 +1,553 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+6. august 2021,19:45,2:2,AFC Bournemouth,West Bromwich Albion,"{'12': 'home', '33': 'away', '52': 'home', '67': 'away'}",2021-2022,1
+7. august 2021,15:00,2:1,Blackburn Rovers,Swansea City,"{'36': 'home', '48': 'home', '52': 'away'}",2021-2022,1
+7. august 2021,15:00,1:1,Bristol City,Blackpool FC,"{'44': 'home', '90': 'away'}",2021-2022,1
+7. august 2021,15:00,1:1,Cardiff City,Barnsley FC,"{'54': 'home', '69': 'away'}",2021-2022,1
+7. august 2021,15:00,1:1,Derby County,Huddersfield Town,"{'39': 'home', '45': 'away'}",2021-2022,1
+7. august 2021,15:00,3:0,Luton Town,Peterborough United,"{'30': 'home', '68': 'home', '71': 'home'}",2021-2022,1
+7. august 2021,15:00,1:4,Preston North End,Hull City,"{'8': 'home', '35': 'away', '62': 'away', '85': 'away', '90': 'away'}",2021-2022,1
+7. august 2021,15:00,1:1,Queens Park Rangers,Millwall FC,"{'11': 'away', '31': 'home'}",2021-2022,1
+7. august 2021,15:00,3:2,Stoke City,Reading FC,"{'25': 'home', '26': 'away', '28': 'home', '60': 'away', '85': 'home'}",2021-2022,1
+7. august 2021,20:00,0:1,Sheffield United,Birmingham City,{'19': 'away'},2021-2022,1
+8. august 2021,13:30,1:1,Fulham FC,Middlesbrough FC,"{'29': 'home', '77': 'away'}",2021-2022,1
+8. august 2021,16:30,2:1,Coventry City,Nottingham Forest,"{'36': 'away', '81': 'home', '90': 'home'}",2021-2022,1
+14. august 2021,12:30,2:1,Peterborough United,Derby County,"{'77': 'away', '90': 'home'}",2021-2022,2
+14. august 2021,15:00,0:0,Birmingham City,Stoke City,,2021-2022,2
+14. august 2021,15:00,0:2,Blackpool FC,Cardiff City,"{'52': 'away', '86': 'away'}",2021-2022,2
+14. august 2021,15:00,1:0,Barnsley FC,Coventry City,{'39': 'home'},2021-2022,2
+14. august 2021,15:00,2:1,Middlesbrough FC,Bristol City,"{'38': 'home', '60': 'away', '70': 'home'}",2021-2022,2
+14. august 2021,15:00,1:1,Millwall FC,Blackburn Rovers,"{'64': 'home', '76': 'away'}",2021-2022,2
+14. august 2021,15:00,2:1,Reading FC,Preston North End,"{'28': 'home', '61': 'away', '69': 'home'}",2021-2022,2
+14. august 2021,15:00,1:5,Huddersfield Town,Fulham FC,"{'9': 'away', '37': 'away', '41': 'home', '43': 'away', '78': 'away', '90': 'away'}",2021-2022,2
+14. august 2021,15:00,0:3,Hull City,Queens Park Rangers,"{'16': 'away', '68': 'away', '74': 'away'}",2021-2022,2
+14. august 2021,15:00,1:2,Nottingham Forest,AFC Bournemouth,"{'28': 'away', '48': 'home', '58': 'away'}",2021-2022,2
+14. august 2021,15:00,3:2,West Bromwich Albion,Luton Town,"{'5': 'home', '36': 'home', '66': 'home', '70': 'away', '90': 'away'}",2021-2022,2
+14. august 2021,20:00,0:0,Swansea City,Sheffield United,,2021-2022,2
+17. august 2021,19:45,0:1,Blackpool FC,Coventry City,{'45': 'away'},2021-2022,3
+17. august 2021,19:45,0:1,Barnsley FC,Luton Town,{'4': 'away'},2021-2022,3
+17. august 2021,19:45,1:2,Millwall FC,Fulham FC,"{'3': 'away', '8': 'away', '87': 'home'}",2021-2022,3
+17. august 2021,19:45,1:0,Huddersfield Town,Preston North End,{'74': 'home'},2021-2022,3
+17. august 2021,19:45,2:2,Peterborough United,Cardiff City,"{'49': 'home', '51': 'home', '83': 'away', '90': 'away'}",2021-2022,3
+17. august 2021,19:45,1:3,Swansea City,Stoke City,"{'15': 'away', '53': 'away', '60': 'away', '73': 'home'}",2021-2022,3
+17. august 2021,20:00,2:3,Reading FC,Bristol City,"{'5': 'away', '14': 'away', '19': 'home', '52': 'away', '81': 'home'}",2021-2022,3
+18. august 2021,19:45,0:2,Birmingham City,AFC Bournemouth,"{'77': 'away', '87': 'away'}",2021-2022,3
+18. august 2021,19:45,2:3,Middlesbrough FC,Queens Park Rangers,"{'7': 'home', '48': 'away', '56': 'away', '72': 'home', '76': 'away'}",2021-2022,3
+18. august 2021,19:45,0:1,Hull City,Derby County,{'57': 'away'},2021-2022,3
+18. august 2021,19:45,1:2,Nottingham Forest,Blackburn Rovers,"{'47': 'away', '69': 'home', '86': 'away'}",2021-2022,3
+18. august 2021,20:00,4:0,West Bromwich Albion,Sheffield United,"{'26': 'home', '47': 'home', '53': 'home', '59': 'home'}",2021-2022,3
+20. august 2021,19:45,0:1,Bristol City,Swansea City,{'19': 'away'},2021-2022,4
+21. august 2021,12:30,2:2,Queens Park Rangers,Barnsley FC,"{'14': 'away', '27': 'away', '76': 'home', '90': 'home'}",2021-2022,4
+21. august 2021,15:00,2:2,AFC Bournemouth,Blackpool FC,"{'6': 'home', '19': 'home', '57': 'away', '60': 'away'}",2021-2022,4
+21. august 2021,15:00,1:2,Blackburn Rovers,West Bromwich Albion,"{'1': 'away', '45': 'away', '51': 'home'}",2021-2022,4
+21. august 2021,15:00,3:1,Cardiff City,Millwall FC,"{'66': 'home', '70': 'home', '76': 'away', '83': 'home'}",2021-2022,4
+21. august 2021,15:00,2:1,Coventry City,Reading FC,"{'40': 'away', '62': 'home', '90': 'home'}",2021-2022,4
+21. august 2021,15:00,0:0,Derby County,Middlesbrough FC,,2021-2022,4
+21. august 2021,15:00,2:0,Fulham FC,Hull City,"{'22': 'home', '34': 'home'}",2021-2022,4
+21. august 2021,15:00,0:5,Luton Town,Birmingham City,"{'7': 'away', '26': 'away', '47': 'away', '84': 'away', '88': 'away'}",2021-2022,4
+21. august 2021,15:00,1:0,Preston North End,Peterborough United,{'14': 'home'},2021-2022,4
+21. august 2021,15:00,1:2,Sheffield United,Huddersfield Town,"{'75': 'away', '90': 'away'}",2021-2022,4
+21. august 2021,15:00,1:0,Stoke City,Nottingham Forest,{'66': 'home'},2021-2022,4
+28. august 2021,12:30,1:2,Cardiff City,Bristol City,"{'21': 'away', '59': 'home', '70': 'away'}",2021-2022,5
+28. august 2021,12:30,1:1,Derby County,Nottingham Forest,"{'11': 'home', '82': 'away'}",2021-2022,5
+28. august 2021,15:00,1:1,Barnsley FC,Birmingham City,"{'6': 'home', '33': 'away'}",2021-2022,5
+28. august 2021,15:00,3:0,Fulham FC,Stoke City,"{'5': 'home', '53': 'home', '72': 'home'}",2021-2022,5
+28. august 2021,15:00,1:1,Middlesbrough FC,Blackburn Rovers,"{'17': 'away', '36': 'home'}",2021-2022,5
+28. august 2021,15:00,2:1,Millwall FC,Blackpool FC,"{'56': 'away', '63': 'home', '90': 'home'}",2021-2022,5
+28. august 2021,15:00,4:0,Huddersfield Town,Reading FC,"{'39': 'home', '51': 'home', '66': 'home', '68': 'home'}",2021-2022,5
+28. august 2021,15:00,0:0,Hull City,AFC Bournemouth,,2021-2022,5
+28. august 2021,15:00,0:0,Luton Town,Sheffield United,,2021-2022,5
+28. august 2021,15:00,3:1,Preston North End,Swansea City,"{'19': 'away', '21': 'home', '45': 'home', '52': 'home'}",2021-2022,5
+28. august 2021,15:00,2:0,Queens Park Rangers,Coventry City,"{'68': 'home', '76': 'home'}",2021-2022,5
+28. august 2021,20:00,0:1,Peterborough United,West Bromwich Albion,{'90': 'away'},2021-2022,5
+10. september 2021,20:00,2:0,Birmingham City,Derby County,"{'31': 'home', '81': 'home'}",2021-2022,6
+11. september 2021,15:00,3:0,AFC Bournemouth,Barnsley FC,"{'8': 'home', '46': 'home', '82': 'home'}",2021-2022,6
+11. september 2021,15:00,2:2,Blackburn Rovers,Luton Town,"{'27': 'home', '31': 'home', '73': 'away', '90': 'away'}",2021-2022,6
+11. september 2021,15:00,1:0,Blackpool FC,Fulham FC,{'49': 'home'},2021-2022,6
+11. september 2021,15:00,0:0,Bristol City,Preston North End,,2021-2022,6
+11. september 2021,15:00,2:0,Coventry City,Middlesbrough FC,"{'71': 'home', '90': 'home'}",2021-2022,6
+11. september 2021,15:00,3:3,Reading FC,Queens Park Rangers,"{'11': 'away', '35': 'home', '64': 'home', '77': 'home', '79': 'away', '90': 'away'}",2021-2022,6
+11. september 2021,15:00,6:2,Sheffield United,Peterborough United,"{'14': 'home', '40': 'away', '51': 'home', '53': 'home', '68': 'home', '70': 'home', '79': 'away', '90': 'home'}",2021-2022,6
+11. september 2021,15:00,2:1,Stoke City,Huddersfield Town,"{'47': 'away', '50': 'home', '63': 'home'}",2021-2022,6
+11. september 2021,15:00,0:0,Swansea City,Hull City,,2021-2022,6
+11. september 2021,15:00,1:1,West Bromwich Albion,Millwall FC,"{'49': 'home', '55': 'away'}",2021-2022,6
+12. september 2021,14:30,1:2,Nottingham Forest,Cardiff City,"{'23': 'home', '58': 'away', '73': 'away'}",2021-2022,6
+14. september 2021,19:45,2:1,AFC Bournemouth,Queens Park Rangers,"{'12': 'home', '37': 'home', '57': 'away'}",2021-2022,7
+14. september 2021,19:45,2:0,Blackburn Rovers,Hull City,"{'61': 'home', '65': 'home'}",2021-2022,7
+14. september 2021,19:45,0:3,Blackpool FC,Huddersfield Town,"{'48': 'away', '54': 'away', '62': 'away'}",2021-2022,7
+14. september 2021,19:45,2:2,Sheffield United,Preston North End,"{'7': 'home', '19': 'away', '84': 'home', '90': 'away'}",2021-2022,7
+14. september 2021,20:00,3:1,Reading FC,Peterborough United,"{'64': 'home', '67': 'home', '74': 'away', '88': 'home'}",2021-2022,7
+14. september 2021,20:00,0:0,West Bromwich Albion,Derby County,,2021-2022,7
+15. september 2021,19:45,1:4,Birmingham City,Fulham FC,"{'10': 'away', '44': 'away', '54': 'away', '83': 'away', '87': 'home'}",2021-2022,7
+15. september 2021,19:45,1:1,Bristol City,Luton Town,"{'57': 'home', '90': 'away'}",2021-2022,7
+15. september 2021,19:45,1:0,Coventry City,Cardiff City,{'15': 'home'},2021-2022,7
+15. september 2021,19:45,0:2,Nottingham Forest,Middlesbrough FC,"{'24': 'away', '72': 'away'}",2021-2022,7
+15. september 2021,19:45,0:0,Swansea City,Millwall FC,,2021-2022,7
+15. september 2021,19:45,1:1,Stoke City,Barnsley FC,"{'17': 'home', '38': 'away'}",2021-2022,7
+18. september 2021,12:30,1:3,Hull City,Sheffield United,"{'17': 'away', '50': 'away', '61': 'away', '74': 'home'}",2021-2022,8
+18. september 2021,15:00,0:1,Cardiff City,AFC Bournemouth,{'54': 'away'},2021-2022,8
+18. september 2021,15:00,2:1,Derby County,Stoke City,"{'31': 'home', '34': 'home', '58': 'away'}",2021-2022,8
+18. september 2021,15:00,0:0,Barnsley FC,Blackburn Rovers,,2021-2022,8
+18. september 2021,15:00,1:2,Fulham FC,Reading FC,"{'19': 'away', '53': 'away', '86': 'home'}",2021-2022,8
+18. september 2021,15:00,1:2,Middlesbrough FC,Blackpool FC,"{'8': 'home', '62': 'away', '78': 'away'}",2021-2022,8
+18. september 2021,15:00,1:1,Millwall FC,Coventry City,"{'9': 'away', '21': 'home'}",2021-2022,8
+18. september 2021,15:00,0:2,Huddersfield Town,Nottingham Forest,"{'22': 'away', '48': 'away'}",2021-2022,8
+18. september 2021,15:00,3:3,Luton Town,Swansea City,"{'7': 'home', '15': 'home', '23': 'home', '63': 'away', '86': 'away', '90': 'away'}",2021-2022,8
+18. september 2021,15:00,3:0,Peterborough United,Birmingham City,"{'1': 'home', '35': 'home', '50': 'home'}",2021-2022,8
+18. september 2021,15:00,1:1,Preston North End,West Bromwich Albion,"{'26': 'home', '45': 'away'}",2021-2022,8
+18. september 2021,15:00,1:2,Queens Park Rangers,Bristol City,"{'45': 'away', '54': 'home', '90': 'away'}",2021-2022,8
+24. september 2021,19:45,3:0,Coventry City,Peterborough United,"{'57': 'home', '61': 'home', '64': 'home'}",2021-2022,9
+24. september 2021,20:00,2:1,West Bromwich Albion,Queens Park Rangers,"{'1': 'away', '75': 'home', '88': 'home'}",2021-2022,9
+25. september 2021,12:30,1:0,Reading FC,Middlesbrough FC,{'55': 'home'},2021-2022,9
+25. september 2021,15:00,2:1,AFC Bournemouth,Luton Town,"{'17': 'home', '31': 'home', '64': 'away'}",2021-2022,9
+25. september 2021,15:00,0:0,Birmingham City,Preston North End,,2021-2022,9
+25. september 2021,15:00,5:1,Blackburn Rovers,Cardiff City,"{'24': 'home', '32': 'home', '45': 'home', '53': 'home', '58': 'away', '90': 'home'}",2021-2022,9
+25. september 2021,15:00,1:0,Blackpool FC,Barnsley FC,{'32': 'home'},2021-2022,9
+25. september 2021,15:00,1:1,Bristol City,Fulham FC,"{'50': 'away', '79': 'home'}",2021-2022,9
+25. september 2021,15:00,1:1,Nottingham Forest,Millwall FC,"{'32': 'away', '52': 'home'}",2021-2022,9
+25. september 2021,15:00,1:0,Sheffield United,Derby County,{'90': 'home'},2021-2022,9
+25. september 2021,15:00,2:0,Stoke City,Hull City,"{'35': 'home', '58': 'home'}",2021-2022,9
+25. september 2021,15:00,1:0,Swansea City,Huddersfield Town,{'17': 'home'},2021-2022,9
+28. september 2021,19:45,0:4,Cardiff City,West Bromwich Albion,"{'5': 'away', '56': 'away', '75': 'away', '82': 'away'}",2021-2022,10
+28. september 2021,19:45,2:0,Middlesbrough FC,Sheffield United,"{'9': 'home', '37': 'home'}",2021-2022,10
+28. september 2021,19:45,3:2,Huddersfield Town,Blackburn Rovers,"{'36': 'home', '57': 'away', '60': 'home', '65': 'away', '84': 'home'}",2021-2022,10
+28. september 2021,19:45,1:1,Hull City,Blackpool FC,"{'42': 'away', '84': 'home'}",2021-2022,10
+28. september 2021,19:45,1:1,Preston North End,Stoke City,"{'6': 'away', '38': 'home'}",2021-2022,10
+28. september 2021,19:45,2:0,Queens Park Rangers,Birmingham City,"{'34': 'home', '64': 'home'}",2021-2022,10
+29. september 2021,19:45,1:0,Derby County,Reading FC,{'33': 'home'},2021-2022,10
+29. september 2021,19:45,1:3,Barnsley FC,Nottingham Forest,"{'20': 'home', '61': 'away', '68': 'away', '82': 'away'}",2021-2022,10
+29. september 2021,19:45,3:1,Fulham FC,Swansea City,"{'12': 'home', '32': 'home', '38': 'away', '45': 'home'}",2021-2022,10
+29. september 2021,19:45,1:0,Millwall FC,Bristol City,{'64': 'home'},2021-2022,10
+29. september 2021,19:45,5:0,Luton Town,Coventry City,"{'3': 'home', '18': 'home', '30': 'home', '45': 'home', '58': 'home'}",2021-2022,10
+29. september 2021,19:45,0:0,Peterborough United,AFC Bournemouth,,2021-2022,10
+1. october 2021,19:45,1:0,Stoke City,West Bromwich Albion,{'79': 'home'},2021-2022,11
+2. october 2021,12:30,4:1,Coventry City,Fulham FC,"{'18': 'away', '47': 'home', '51': 'home', '61': 'home', '70': 'home'}",2021-2022,11
+2. october 2021,15:00,2:1,AFC Bournemouth,Sheffield United,"{'56': 'away', '62': 'home', '65': 'home'}",2021-2022,11
+2. october 2021,15:00,0:3,Birmingham City,Nottingham Forest,"{'11': 'away', '29': 'away', '53': 'away'}",2021-2022,11
+2. october 2021,15:00,2:1,Blackpool FC,Blackburn Rovers,"{'4': 'home', '24': 'home', '50': 'away'}",2021-2022,11
+2. october 2021,15:00,0:1,Cardiff City,Reading FC,{'38': 'away'},2021-2022,11
+2. october 2021,15:00,0:0,Derby County,Swansea City,,2021-2022,11
+2. october 2021,15:00,0:1,Barnsley FC,Millwall FC,{'89': 'away'},2021-2022,11
+2. october 2021,15:00,2:0,Hull City,Middlesbrough FC,"{'81': 'home', '90': 'home'}",2021-2022,11
+2. october 2021,15:00,0:0,Luton Town,Huddersfield Town,,2021-2022,11
+2. october 2021,15:00,2:3,Peterborough United,Bristol City,"{'22': 'home', '34': 'away', '40': 'away', '43': 'home', '84': 'away'}",2021-2022,11
+2. october 2021,15:00,3:2,Queens Park Rangers,Preston North End,"{'17': 'home', '27': 'away', '46': 'away', '71': 'home', '74': 'home'}",2021-2022,11
+15. october 2021,20:00,1:0,West Bromwich Albion,Birmingham City,{'75': 'home'},2021-2022,12
+16. october 2021,12:30,4:1,Fulham FC,Queens Park Rangers,"{'10': 'home', '55': 'away', '67': 'home', '71': 'home', '90': 'home'}",2021-2022,12
+16. october 2021,15:00,2:2,Blackburn Rovers,Coventry City,"{'39': 'home', '45': 'home', '62': 'away', '68': 'away'}",2021-2022,12
+16. october 2021,15:00,0:2,Bristol City,AFC Bournemouth,"{'21': 'away', '45': 'away'}",2021-2022,12
+16. october 2021,15:00,2:0,Middlesbrough FC,Peterborough United,"{'85': 'home', '90': 'home'}",2021-2022,12
+16. october 2021,15:00,0:2,Millwall FC,Luton Town,"{'11': 'away', '53': 'away'}",2021-2022,12
+16. october 2021,15:00,1:0,Reading FC,Barnsley FC,{'77': 'home'},2021-2022,12
+16. october 2021,15:00,2:0,Huddersfield Town,Hull City,"{'9': 'home', '73': 'home'}",2021-2022,12
+16. october 2021,15:00,2:1,Nottingham Forest,Blackpool FC,"{'22': 'home', '53': 'away', '61': 'home'}",2021-2022,12
+16. october 2021,15:00,0:0,Preston North End,Derby County,,2021-2022,12
+16. october 2021,15:00,2:1,Sheffield United,Stoke City,"{'55': 'away', '80': 'home', '83': 'home'}",2021-2022,12
+17. october 2021,12:00,3:0,Swansea City,Cardiff City,"{'29': 'home', '60': 'home', '74': 'home'}",2021-2022,12
+19. october 2021,19:45,1:2,Bristol City,Nottingham Forest,"{'39': 'home', '90': 'away'}",2021-2022,13
+19. october 2021,19:45,2:2,Derby County,Luton Town,"{'20': 'home', None: 'away', '60': 'home', '83': 'away'}",2021-2022,13
+19. october 2021,19:45,1:0,Queens Park Rangers,Blackburn Rovers,{'83': 'home'},2021-2022,13
+19. october 2021,19:45,1:2,Sheffield United,Millwall FC,"{'11': 'away', '45': 'home', '90': 'away'}",2021-2022,13
+19. october 2021,19:45,0:1,Stoke City,AFC Bournemouth,{'51': 'away'},2021-2022,13
+20. october 2021,19:45,2:0,Fulham FC,Cardiff City,"{'57': 'home', '63': 'home'}",2021-2022,13
+20. october 2021,19:45,2:0,Middlesbrough FC,Barnsley FC,"{'20': 'home', '87': 'home'}",2021-2022,13
+20. october 2021,19:45,0:0,Huddersfield Town,Birmingham City,,2021-2022,13
+20. october 2021,19:45,1:2,Hull City,Peterborough United,"{'43': 'away', '45': 'home', '72': 'away'}",2021-2022,13
+20. october 2021,19:45,2:1,Preston North End,Coventry City,"{'45': 'away', '61': 'home', '69': 'home'}",2021-2022,13
+20. october 2021,19:45,2:1,Swansea City,West Bromwich Albion,"{'1': 'away', '61': 'home', '83': 'home'}",2021-2022,13
+20. october 2021,20:00,2:3,Reading FC,Blackpool FC,"{'11': 'home', '21': 'home', '69': 'away', '73': 'away', '85': 'away'}",2021-2022,13
+23. october 2021,12:30,0:2,Cardiff City,Middlesbrough FC,"{'35': 'away', '74': 'away'}",2021-2022,14
+23. october 2021,15:00,3:0,AFC Bournemouth,Huddersfield Town,"{'10': 'home', '21': 'home', '64': 'home'}",2021-2022,14
+23. october 2021,15:00,2:1,Birmingham City,Swansea City,"{'47': 'home', '77': 'away', '82': 'home'}",2021-2022,14
+23. october 2021,15:00,2:0,Blackburn Rovers,Reading FC,"{'61': 'home', '64': 'home'}",2021-2022,14
+23. october 2021,15:00,2:0,Blackpool FC,Preston North End,"{'27': 'home', '68': 'home'}",2021-2022,14
+23. october 2021,15:00,1:1,Coventry City,Derby County,"{'20': 'home', '78': 'away'}",2021-2022,14
+23. october 2021,15:00,2:1,Millwall FC,Stoke City,"{'20': 'away', '51': 'home', '61': 'home'}",2021-2022,14
+23. october 2021,15:00,1:0,Luton Town,Hull City,{'17': 'home'},2021-2022,14
+23. october 2021,15:00,2:1,Peterborough United,Queens Park Rangers,"{'50': 'away', '56': 'home', '90': 'home'}",2021-2022,14
+23. october 2021,15:00,3:0,West Bromwich Albion,Bristol City,"{'7': 'home', '42': 'home', '52': 'home'}",2021-2022,14
+24. october 2021,12:30,2:3,Barnsley FC,Sheffield United,"{'51': 'away', '53': 'away', '72': 'away', '78': 'home', '82': 'home'}",2021-2022,14
+24. october 2021,15:00,0:4,Nottingham Forest,Fulham FC,"{'7': 'away', '58': 'away', '61': 'away', '67': 'away'}",2021-2022,14
+29. october 2021,19:45,1:1,Queens Park Rangers,Nottingham Forest,"{'45': 'home', '90': 'away'}",2021-2022,15
+30. october 2021,12:30,3:0,Fulham FC,West Bromwich Albion,"{'20': 'home', '40': 'home', '82': 'home'}",2021-2022,15
+30. october 2021,15:00,2:1,Bristol City,Barnsley FC,"{'28': 'away', '42': 'home', '45': 'home'}",2021-2022,15
+30. october 2021,15:00,1:2,Derby County,Blackburn Rovers,"{'8': 'away', '20': 'away', '89': 'home'}",2021-2022,15
+30. october 2021,15:00,0:2,Middlesbrough FC,Birmingham City,"{'53': 'away', '56': 'away'}",2021-2022,15
+30. october 2021,15:00,1:0,Huddersfield Town,Millwall FC,{'82': 'home'},2021-2022,15
+30. october 2021,15:00,0:1,Hull City,Coventry City,{'9': 'away'},2021-2022,15
+30. october 2021,15:00,2:0,Preston North End,Luton Town,"{'27': 'home', '45': 'home'}",2021-2022,15
+30. october 2021,15:00,0:1,Sheffield United,Blackpool FC,{'76': 'away'},2021-2022,15
+30. october 2021,15:00,3:3,Stoke City,Cardiff City,"{'9': 'home', '16': 'home', '46': 'home', '66': 'away', '70': 'away', '71': 'away'}",2021-2022,15
+30. october 2021,15:00,3:0,Swansea City,Peterborough United,"{'2': 'home', '13': 'home', '45': 'home'}",2021-2022,15
+30. october 2021,20:00,0:2,Reading FC,AFC Bournemouth,"{'43': 'away', '59': 'away'}",2021-2022,15
+2. november 2021,19:45,3:0,Birmingham City,Bristol City,"{'14': 'home', '67': 'home', '76': 'home'}",2021-2022,16
+2. november 2021,19:45,1:2,Coventry City,Swansea City,"{'5': 'away', '12': 'away', '27': 'home'}",2021-2022,16
+2. november 2021,19:45,1:0,Millwall FC,Reading FC,{'71': 'home'},2021-2022,16
+2. november 2021,19:45,3:1,Luton Town,Middlesbrough FC,"{'15': 'away', '57': 'home', '60': 'home', '62': 'home'}",2021-2022,16
+2. november 2021,19:45,1:1,Nottingham Forest,Sheffield United,"{'78': 'away', '83': 'home'}",2021-2022,16
+2. november 2021,19:45,1:1,Peterborough United,Huddersfield Town,"{'74': 'away', '84': 'home'}",2021-2022,16
+3. november 2021,19:45,1:2,AFC Bournemouth,Preston North End,"{'52': 'away', '60': 'home', '78': 'away'}",2021-2022,16
+3. november 2021,19:45,0:7,Blackburn Rovers,Fulham FC,"{'6': 'away', '19': 'away', '54': 'away', '58': 'away', '79': 'away', '81': 'away', '90': 'away'}",2021-2022,16
+3. november 2021,19:45,0:1,Blackpool FC,Stoke City,{'79': 'away'},2021-2022,16
+3. november 2021,19:45,0:1,Cardiff City,Queens Park Rangers,{'37': 'away'},2021-2022,16
+3. november 2021,19:45,2:1,Barnsley FC,Derby County,"{'24': 'away', '39': 'home', '50': 'home'}",2021-2022,16
+3. november 2021,20:00,1:0,West Bromwich Albion,Hull City,{'69': 'home'},2021-2022,16
+6. november 2021,15:00,4:0,AFC Bournemouth,Swansea City,"{'26': 'home', '49': 'home', '64': 'home', '90': 'home'}",2021-2022,17
+6. november 2021,15:00,3:1,Blackburn Rovers,Sheffield United,"{'2': 'away', '37': 'home', '59': 'home', '70': 'home'}",2021-2022,17
+6. november 2021,15:00,2:1,Cardiff City,Huddersfield Town,"{'12': 'away', '74': 'home', '90': 'home'}",2021-2022,17
+6. november 2021,15:00,3:2,Coventry City,Bristol City,"{'45': 'away', '51': 'home', '68': 'away', '74': 'home', '90': 'home'}",2021-2022,17
+6. november 2021,15:00,0:2,Barnsley FC,Hull City,"{'33': 'away', '75': 'away'}",2021-2022,17
+6. november 2021,15:00,1:1,Millwall FC,Derby County,"{'44': 'away', '45': 'home'}",2021-2022,17
+6. november 2021,15:00,0:1,Luton Town,Stoke City,{'34': 'away'},2021-2022,17
+6. november 2021,15:00,3:0,Nottingham Forest,Preston North End,"{'32': 'home', '41': 'home', '70': 'home'}",2021-2022,17
+6. november 2021,15:00,0:1,Peterborough United,Fulham FC,{'74': 'away'},2021-2022,17
+6. november 2021,15:00,1:1,West Bromwich Albion,Middlesbrough FC,"{'38': 'away', '65': 'home'}",2021-2022,17
+6. november 2021,15:30,1:2,Birmingham City,Reading FC,"{'3': 'home', '70': 'away', '82': 'away'}",2021-2022,17
+6. november 2021,17:30,1:1,Blackpool FC,Queens Park Rangers,"{'26': 'away', '54': 'home'}",2021-2022,17
+19. november 2021,19:45,2:0,Queens Park Rangers,Luton Town,"{'10': 'home', '55': 'home'}",2021-2022,18
+20. november 2021,12:30,0:0,Sheffield United,Coventry City,,2021-2022,18
+20. november 2021,15:00,1:1,Bristol City,Blackburn Rovers,"{'34': 'home', '75': 'away'}",2021-2022,18
+20. november 2021,15:00,4:1,Fulham FC,Barnsley FC,"{'24': 'home', '34': 'home', '72': 'home', '78': 'away', '81': 'home'}",2021-2022,18
+20. november 2021,15:00,1:1,Middlesbrough FC,Millwall FC,"{'15': 'home', '27': 'away'}",2021-2022,18
+20. november 2021,15:00,1:1,Reading FC,Nottingham Forest,"{'4': 'away', '64': 'home'}",2021-2022,18
+20. november 2021,15:00,1:0,Huddersfield Town,West Bromwich Albion,{'6': 'home'},2021-2022,18
+20. november 2021,15:00,2:0,Hull City,Birmingham City,"{'17': 'home', '57': 'home'}",2021-2022,18
+20. november 2021,15:00,1:2,Preston North End,Cardiff City,"{'2': 'home', '51': 'away', '66': 'away'}",2021-2022,18
+20. november 2021,15:00,2:0,Stoke City,Peterborough United,"{'3': 'home', '90': 'home'}",2021-2022,18
+20. november 2021,15:00,1:1,Swansea City,Blackpool FC,"{'35': 'home', '86': 'away'}",2021-2022,18
+21. november 2021,12:00,3:2,Derby County,AFC Bournemouth,"{'13': 'home', '19': 'away', '38': 'away', '62': 'home', '69': 'home'}",2021-2022,18
+23. november 2021,19:45,0:0,Blackpool FC,West Bromwich Albion,,2021-2022,19
+23. november 2021,19:45,0:0,Coventry City,Birmingham City,,2021-2022,19
+23. november 2021,19:45,1:2,Middlesbrough FC,Preston North End,"{'33': 'home', '77': 'away', '81': 'away'}",2021-2022,19
+23. november 2021,19:45,0:0,Nottingham Forest,Luton Town,,2021-2022,19
+23. november 2021,20:00,0:1,Reading FC,Sheffield United,{'56': 'away'},2021-2022,19
+24. november 2021,19:45,0:0,Fulham FC,Derby County,,2021-2022,19
+24. november 2021,19:45,4:0,Blackburn Rovers,Peterborough United,"{'16': 'home', '35': 'home', '45': 'home', '60': 'home'}",2021-2022,19
+24. november 2021,19:45,1:0,Bristol City,Stoke City,{'38': 'home'},2021-2022,19
+24. november 2021,19:45,0:1,Cardiff City,Hull City,{'15': 'away'},2021-2022,19
+24. november 2021,19:45,0:2,Barnsley FC,Swansea City,"{'74': 'away', '79': 'away'}",2021-2022,19
+24. november 2021,19:45,1:1,Millwall FC,AFC Bournemouth,"{'44': 'away', '67': 'home'}",2021-2022,19
+24. november 2021,19:45,1:0,Queens Park Rangers,Huddersfield Town,{'81': 'home'},2021-2022,19
+26. november 2021,20:00,0:0,West Bromwich Albion,Nottingham Forest,,2021-2022,20
+27. november 2021,12:30,1:1,Preston North End,Fulham FC,"{'15': 'away', None: 'home'}",2021-2022,20
+27. november 2021,15:00,2:2,AFC Bournemouth,Coventry City,"{'45': 'home', '66': 'home', '85': 'away', '90': 'away'}",2021-2022,20
+27. november 2021,15:00,1:0,Birmingham City,Blackpool FC,{'81': 'home'},2021-2022,20
+27. november 2021,15:00,1:2,Huddersfield Town,Middlesbrough FC,"{'16': 'away', '23': 'away', '90': 'home'}",2021-2022,20
+27. november 2021,15:00,2:1,Hull City,Millwall FC,"{'29': 'home', '45': 'away', '53': 'home'}",2021-2022,20
+27. november 2021,15:00,1:2,Luton Town,Cardiff City,"{'10': 'away', '64': 'home', '77': 'away'}",2021-2022,20
+27. november 2021,15:00,0:0,Peterborough United,Barnsley FC,,2021-2022,20
+27. november 2021,15:00,0:1,Stoke City,Blackburn Rovers,{'52': 'away'},2021-2022,20
+27. november 2021,15:00,2:3,Swansea City,Reading FC,"{'3': 'home', '4': 'away', '30': 'away', '49': 'home', '50': 'away'}",2021-2022,20
+28. november 2021,12:30,2:0,Sheffield United,Bristol City,"{'40': 'home', '89': 'home'}",2021-2022,20
+29. november 2021,19:45,1:2,Derby County,Queens Park Rangers,"{'10': 'home', '50': 'away', '90': 'away'}",2021-2022,20
+3. december 2021,19:45,1:1,Fulham FC,AFC Bournemouth,"{'46': 'away', '84': 'home'}",2021-2022,21
+4. december 2021,12:30,1:2,Coventry City,West Bromwich Albion,"{'20': 'away', '43': 'away', '83': 'home'}",2021-2022,21
+4. december 2021,15:00,1:0,Blackburn Rovers,Preston North End,{'53': 'home'},2021-2022,21
+4. december 2021,15:00,0:3,Blackpool FC,Luton Town,"{'42': 'away', '54': 'away', '90': 'away'}",2021-2022,21
+4. december 2021,15:00,1:0,Bristol City,Derby County,{'16': 'home'},2021-2022,21
+4. december 2021,15:00,2:3,Cardiff City,Sheffield United,"{'32': 'home', '61': 'away', '73': 'away', '75': 'away', None: 'home'}",2021-2022,21
+4. december 2021,15:00,1:1,Barnsley FC,Huddersfield Town,"{'33': 'away', '45': 'home'}",2021-2022,21
+4. december 2021,15:00,1:0,Middlesbrough FC,Swansea City,{'26': 'home'},2021-2022,21
+4. december 2021,15:00,3:1,Millwall FC,Birmingham City,"{'10': 'home', '41': 'home', '56': 'away', '73': 'home'}",2021-2022,21
+4. december 2021,15:00,1:1,Reading FC,Hull City,"{'45': 'home', '55': 'away'}",2021-2022,21
+4. december 2021,15:00,2:0,Nottingham Forest,Peterborough United,"{'72': 'home', None: 'home'}",2021-2022,21
+5. december 2021,14:30,0:2,Queens Park Rangers,Stoke City,"{'14': 'away', '78': 'away'}",2021-2022,21
+11. december 2021,12:30,1:1,Huddersfield Town,Coventry City,"{'18': 'home', '90': 'away'}",2021-2022,22
+11. december 2021,15:00,0:2,AFC Bournemouth,Blackburn Rovers,"{'21': 'away', '65': 'away'}",2021-2022,22
+11. december 2021,15:00,2:2,Birmingham City,Cardiff City,"{'29': 'home', '45': 'home', '66': 'away', '90': 'away'}",2021-2022,22
+11. december 2021,15:00,1:0,Derby County,Blackpool FC,{'51': 'home'},2021-2022,22
+11. december 2021,15:00,2:2,Hull City,Bristol City,"{'3': 'home', '54': 'away', '79': 'home', '90': 'away'}",2021-2022,22
+11. december 2021,15:00,1:1,Luton Town,Fulham FC,"{'19': 'away', '62': 'home'}",2021-2022,22
+11. december 2021,15:00,2:1,Peterborough United,Millwall FC,"{'16': 'away', '64': 'home', '68': 'home'}",2021-2022,22
+11. december 2021,15:00,2:1,Preston North End,Barnsley FC,"{'57': 'home', '65': 'away', '78': 'home'}",2021-2022,22
+11. december 2021,15:00,0:0,Stoke City,Middlesbrough FC,,2021-2022,22
+11. december 2021,15:00,1:4,Swansea City,Nottingham Forest,"{'48': 'away', '50': 'away', '62': 'home', '68': 'away', '90': 'away'}",2021-2022,22
+11. december 2021,15:00,1:0,West Bromwich Albion,Reading FC,{'62': 'home'},2021-2022,22
+5. april 2022,19:45,1:0,Sheffield United,Queens Park Rangers,{'9': 'home'},2021-2022,22
+17. december 2021,19:45,0:0,Barnsley FC,West Bromwich Albion,,2021-2022,23
+18. december 2021,12:30,1:0,Middlesbrough FC,AFC Bournemouth,{'53': 'home'},2021-2022,23
+18. december 2021,15:00,4:0,Blackburn Rovers,Birmingham City,"{'6': 'home', '52': 'home', '60': 'home', '79': 'home'}",2021-2022,23
+18. december 2021,15:00,3:1,Blackpool FC,Peterborough United,"{'11': 'away', '27': 'home', '86': 'home', '90': 'home'}",2021-2022,23
+18. december 2021,15:00,2:3,Bristol City,Huddersfield Town,"{'2': 'home', '41': 'away', '46': 'away', '55': 'away', '90': 'home'}",2021-2022,23
+18. december 2021,15:00,2:1,Nottingham Forest,Hull City,"{'43': 'away', '55': 'home', '72': 'home'}",2021-2022,23
+20. december 2021,19:45,0:1,Fulham FC,Sheffield United,{'3': 'away'},2021-2022,23
+19. january 2022,20:00,0:2,Reading FC,Luton Town,"{'33': 'away', '58': 'away'}",2021-2022,23
+25. january 2022,19:45,1:0,Coventry City,Stoke City,{'68': 'home'},2021-2022,23
+25. january 2022,19:45,0:0,Queens Park Rangers,Swansea City,,2021-2022,23
+1. february 2022,19:45,0:0,Millwall FC,Preston North End,,2021-2022,23
+1. march 2022,19:45,1:0,Cardiff City,Derby County,{'85': 'home'},2021-2022,23
+26. december 2021,15:00,2:0,Middlesbrough FC,Nottingham Forest,"{'17': 'home', '69': 'home'}",2021-2022,24
+26. december 2021,15:00,3:2,Huddersfield Town,Blackpool FC,"{'1': 'away', '3': 'home', '18': 'away', '80': 'home', '84': 'home'}",2021-2022,24
+27. december 2021,15:00,1:0,Derby County,West Bromwich Albion,{'58': 'home'},2021-2022,24
+27. december 2021,17:30,0:1,Queens Park Rangers,AFC Bournemouth,{'41': 'away'},2021-2022,24
+18. january 2022,19:45,6:2,Fulham FC,Birmingham City,"{'10': 'home', '35': 'home', '38': 'home', '43': 'home', '45': 'away', '74': 'away', '75': 'home', '90': 'home'}",2021-2022,24
+18. january 2022,19:45,2:2,Preston North End,Sheffield United,"{'17': 'away', '39': 'away', '71': 'home', '89': 'home'}",2021-2022,24
+19. january 2022,19:45,2:0,Hull City,Blackburn Rovers,"{'7': 'home', '67': 'home'}",2021-2022,24
+25. january 2022,19:45,2:1,Luton Town,Bristol City,"{'42': 'home', '56': 'away', '68': 'home'}",2021-2022,24
+15. february 2022,19:45,2:0,Cardiff City,Coventry City,"{'72': 'home', '87': 'home'}",2021-2022,24
+16. february 2022,19:45,0:0,Peterborough United,Reading FC,,2021-2022,24
+8. march 2022,19:45,1:1,Barnsley FC,Stoke City,"{'70': 'home', '90': 'away'}",2021-2022,24
+5. april 2022,19:45,0:1,Millwall FC,Swansea City,{'46': 'away'},2021-2022,24
+29. december 2021,19:45,2:1,Blackburn Rovers,Barnsley FC,"{'24': 'home', '45': 'away', '65': 'home'}",2021-2022,25
+29. december 2021,19:45,1:2,Blackpool FC,Middlesbrough FC,"{'60': 'away', '90': 'away'}",2021-2022,25
+29. december 2021,19:45,0:1,Coventry City,Millwall FC,{'79': 'away'},2021-2022,25
+30. december 2021,19:45,3:0,AFC Bournemouth,Cardiff City,"{'25': 'home', '68': 'home', '83': 'home'}",2021-2022,25
+30. december 2021,19:45,1:2,Bristol City,Queens Park Rangers,"{'3': 'home', '45': 'away', '90': 'away'}",2021-2022,25
+30. december 2021,19:45,0:1,Nottingham Forest,Huddersfield Town,{'30': 'away'},2021-2022,25
+30. december 2021,19:45,1:2,Stoke City,Derby County,"{'16': 'away', '78': 'home', '85': 'away'}",2021-2022,25
+11. january 2022,20:00,0:7,Reading FC,Fulham FC,"{'13': 'away', '45': 'away', '60': 'away', '68': 'away', '70': 'away', '75': 'away', '89': 'away'}",2021-2022,25
+25. january 2022,19:45,2:2,Birmingham City,Peterborough United,"{'16': 'away', '67': 'away', '85': 'home', '88': 'home'}",2021-2022,25
+26. january 2022,20:00,0:2,West Bromwich Albion,Preston North End,"{'41': 'away', '76': 'away'}",2021-2022,25
+1. february 2022,19:45,0:1,Swansea City,Luton Town,{'72': 'away'},2021-2022,25
+15. february 2022,19:45,0:0,Sheffield United,Hull City,,2021-2022,25
+1. january 2022,15:00,1:0,Blackpool FC,Hull City,{'31': 'home'},2021-2022,26
+2. january 2022,13:00,3:2,Bristol City,Millwall FC,"{'7': 'home', None: 'away', '29': 'away', '73': 'home', '85': 'home'}",2021-2022,26
+2. january 2022,14:00,1:2,Birmingham City,Queens Park Rangers,"{'14': 'away', '71': 'away', '75': 'home'}",2021-2022,26
+2. january 2022,14:00,1:1,West Bromwich Albion,Cardiff City,"{'34': 'away', '48': 'home'}",2021-2022,26
+2. january 2022,14:15,0:0,Blackburn Rovers,Huddersfield Town,,2021-2022,26
+3. january 2022,15:00,2:2,Reading FC,Derby County,"{'37': 'home', '56': 'home', '86': 'away', '90': 'away'}",2021-2022,26
+3. january 2022,15:00,1:2,Stoke City,Preston North End,"{'46': 'home', '59': 'away', '81': 'away'}",2021-2022,26
+25. january 2022,19:45,3:0,Nottingham Forest,Barnsley FC,"{'15': 'home', '38': 'home', '75': 'home'}",2021-2022,26
+8. march 2022,19:45,1:1,AFC Bournemouth,Peterborough United,"{'30': 'away', '52': 'home'}",2021-2022,26
+8. march 2022,19:45,0:1,Coventry City,Luton Town,{'38': 'away'},2021-2022,26
+8. march 2022,19:45,4:1,Sheffield United,Middlesbrough FC,"{'23': 'home', '25': 'home', '59': 'home', '62': 'away', '79': 'home'}",2021-2022,26
+8. march 2022,19:45,1:5,Swansea City,Fulham FC,"{'46': 'away', '52': 'away', '73': 'away', '75': 'home', '77': 'away', '85': 'away'}",2021-2022,26
+15. january 2022,12:30,0:1,Cardiff City,Blackburn Rovers,{'14': 'away'},2021-2022,27
+15. january 2022,12:30,3:2,Luton Town,AFC Bournemouth,"{'30': 'home', '42': 'home', '51': 'away', '78': 'away', '90': 'home'}",2021-2022,27
+15. january 2022,15:00,2:0,Derby County,Sheffield United,"{'69': 'home', '78': 'home'}",2021-2022,27
+15. january 2022,15:00,6:2,Fulham FC,Bristol City,"{'7': 'away', '21': 'home', '29': 'away', '31': 'home', '36': 'home', '41': 'home', '45': 'home', '57': 'home'}",2021-2022,27
+15. january 2022,15:00,2:1,Middlesbrough FC,Reading FC,"{'68': 'away', '84': 'home', '90': 'home'}",2021-2022,27
+15. january 2022,15:00,0:1,Millwall FC,Nottingham Forest,{'90': 'away'},2021-2022,27
+15. january 2022,15:00,1:1,Huddersfield Town,Swansea City,"{'15': 'home', '78': 'away'}",2021-2022,27
+15. january 2022,15:00,1:4,Peterborough United,Coventry City,"{'15': 'away', '25': 'away', '37': 'home', '81': 'away', '90': 'away'}",2021-2022,27
+15. january 2022,15:00,1:1,Preston North End,Birmingham City,"{'31': 'home', '86': 'away'}",2021-2022,27
+15. january 2022,15:00,1:0,Queens Park Rangers,West Bromwich Albion,{'89': 'home'},2021-2022,27
+16. january 2022,12:00,0:2,Hull City,Stoke City,"{'22': 'away', '50': 'away'}",2021-2022,27
+26. april 2022,19:45,0:2,Barnsley FC,Blackpool FC,"{'39': 'away', '66': 'away'}",2021-2022,27
+22. january 2022,12:30,3:2,Bristol City,Cardiff City,"{'31': 'away', '33': 'home', '63': 'home', '77': 'home', '90': 'away'}",2021-2022,28
+22. january 2022,12:30,2:1,Nottingham Forest,Derby County,"{'48': 'home', '82': 'home', '88': 'away'}",2021-2022,28
+22. january 2022,15:00,0:1,AFC Bournemouth,Hull City,{'77': 'away'},2021-2022,28
+22. january 2022,15:00,2:1,Birmingham City,Barnsley FC,"{'34': 'home', '51': 'home', '87': 'away'}",2021-2022,28
+22. january 2022,15:00,1:0,Blackpool FC,Millwall FC,{'55': 'home'},2021-2022,28
+22. january 2022,15:00,1:2,Coventry City,Queens Park Rangers,"{'6': 'away', '50': 'home', '88': 'away'}",2021-2022,28
+22. january 2022,15:00,3:4,Reading FC,Huddersfield Town,"{'5': 'home', '9': 'away', '15': 'away', '22': 'home', '25': 'away', '45': 'home', '53': 'away'}",2021-2022,28
+22. january 2022,15:00,2:0,Sheffield United,Luton Town,"{'48': 'home', '51': 'home'}",2021-2022,28
+22. january 2022,15:00,2:3,Stoke City,Fulham FC,"{'1': 'home', '2': 'away', '33': 'away', '58': 'home', '72': 'away'}",2021-2022,28
+22. january 2022,15:00,1:0,Swansea City,Preston North End,{'51': 'home'},2021-2022,28
+22. january 2022,15:00,3:0,West Bromwich Albion,Peterborough United,"{'78': 'home', '85': 'home', '89': 'home'}",2021-2022,28
+24. january 2022,19:45,1:0,Blackburn Rovers,Middlesbrough FC,{'76': 'home'},2021-2022,28
+28. january 2022,19:45,1:1,Huddersfield Town,Stoke City,"{'27': 'home', '78': 'away'}",2021-2022,29
+29. january 2022,15:00,0:1,Barnsley FC,AFC Bournemouth,{'12': 'away'},2021-2022,29
+29. january 2022,15:00,1:1,Fulham FC,Blackpool FC,"{'6': 'home', '57': 'away'}",2021-2022,29
+29. january 2022,15:00,1:0,Middlesbrough FC,Coventry City,{'58': 'home'},2021-2022,29
+29. january 2022,15:00,2:0,Millwall FC,West Bromwich Albion,"{'67': 'home', '76': 'home'}",2021-2022,29
+29. january 2022,15:00,2:0,Hull City,Swansea City,"{'5': 'home', '17': 'home'}",2021-2022,29
+29. january 2022,15:00,0:0,Luton Town,Blackburn Rovers,,2021-2022,29
+29. january 2022,15:00,2:2,Preston North End,Bristol City,"{'12': 'away', '52': 'home', '81': 'away', '90': 'home'}",2021-2022,29
+29. january 2022,15:00,4:0,Queens Park Rangers,Reading FC,"{'13': 'home', '35': 'home', '37': 'home', '51': 'home'}",2021-2022,29
+29. january 2022,17:30,0:2,Peterborough United,Sheffield United,"{'54': 'away', '81': 'away'}",2021-2022,29
+30. january 2022,13:30,2:2,Derby County,Birmingham City,"{'7': 'away', '56': 'away', '87': 'home', '90': 'home'}",2021-2022,29
+30. january 2022,16:00,2:1,Cardiff City,Nottingham Forest,"{'6': 'home', '65': 'home', '90': 'away'}",2021-2022,29
+2. february 2022,19:45,0:1,Barnsley FC,Cardiff City,{'71': 'away'},2021-2022,30
+2. february 2022,19:45,2:0,Huddersfield Town,Derby County,"{'75': 'home', '79': 'home'}",2021-2022,30
+4. february 2022,19:45,1:2,Birmingham City,Sheffield United,"{'61': 'home', '64': 'away', '74': 'away'}",2021-2022,30
+5. february 2022,15:00,3:1,Blackpool FC,Bristol City,"{'36': 'home', '39': 'home', '48': 'home', '86': 'away'}",2021-2022,30
+5. february 2022,15:00,0:1,Hull City,Preston North End,{'51': 'away'},2021-2022,30
+5. february 2022,17:30,1:0,Swansea City,Blackburn Rovers,{'16': 'home'},2021-2022,30
+15. february 2022,19:45,2:0,Millwall FC,Queens Park Rangers,"{'48': 'home', '64': 'home'}",2021-2022,30
+5. april 2022,19:45,1:1,Peterborough United,Luton Town,"{'49': 'away', '87': 'home'}",2021-2022,30
+5. april 2022,20:00,2:1,Reading FC,Stoke City,"{None: 'home', '44': 'away', '63': 'home'}",2021-2022,30
+6. april 2022,19:45,0:1,Middlesbrough FC,Fulham FC,{'73': 'away'},2021-2022,30
+6. april 2022,19:45,2:0,Nottingham Forest,Coventry City,"{'25': 'home', '61': 'home'}",2021-2022,30
+6. april 2022,20:00,2:0,West Bromwich Albion,AFC Bournemouth,"{'8': 'home', '12': 'home'}",2021-2022,30
+8. february 2022,19:45,1:1,Coventry City,Blackpool FC,"{'24': 'away', '42': 'home'}",2021-2022,31
+8. february 2022,19:45,3:1,Derby County,Hull City,"{'19': 'home', '38': 'home', '47': 'home', '65': 'away'}",2021-2022,31
+8. february 2022,19:45,3:0,Fulham FC,Millwall FC,"{'29': 'home', '50': 'home', '87': 'home'}",2021-2022,31
+8. february 2022,19:45,2:1,Luton Town,Barnsley FC,"{'28': 'home', '44': 'away', '59': 'home'}",2021-2022,31
+8. february 2022,19:45,3:0,Stoke City,Swansea City,"{'47': 'home', '59': 'home', '78': 'home'}",2021-2022,31
+9. february 2022,19:45,4:0,Cardiff City,Peterborough United,"{'4': 'home', '39': 'home', '57': 'home', '85': 'home'}",2021-2022,31
+9. february 2022,19:45,3:1,AFC Bournemouth,Birmingham City,"{'17': 'home', '31': 'home', '69': 'away', '76': 'home'}",2021-2022,31
+9. february 2022,19:45,0:2,Blackburn Rovers,Nottingham Forest,"{'22': 'away', '90': 'away'}",2021-2022,31
+9. february 2022,19:45,2:1,Bristol City,Reading FC,"{'44': 'home', '47': 'home', '74': 'away'}",2021-2022,31
+9. february 2022,19:45,0:0,Preston North End,Huddersfield Town,,2021-2022,31
+9. february 2022,19:45,2:2,Queens Park Rangers,Middlesbrough FC,"{'29': 'home', '45': 'away', '46': 'home', '60': 'away'}",2021-2022,31
+9. february 2022,19:45,2:0,Sheffield United,West Bromwich Albion,"{'22': 'home', '80': 'home'}",2021-2022,31
+12. february 2022,12:30,0:0,Huddersfield Town,Sheffield United,,2021-2022,32
+12. february 2022,15:00,3:0,Birmingham City,Luton Town,"{'25': 'home', '46': 'home', '69': 'home'}",2021-2022,32
+12. february 2022,15:00,1:2,Blackpool FC,AFC Bournemouth,"{'37': 'home', '86': 'away', '90': 'away'}",2021-2022,32
+12. february 2022,15:00,1:0,Barnsley FC,Queens Park Rangers,{'74': 'home'},2021-2022,32
+12. february 2022,15:00,4:1,Middlesbrough FC,Derby County,"{'15': 'home', '39': 'away', '44': 'home', '45': 'home', '89': 'home'}",2021-2022,32
+12. february 2022,15:00,2:1,Millwall FC,Cardiff City,"{'73': 'home', '82': 'home', '90': 'away'}",2021-2022,32
+12. february 2022,15:00,2:3,Reading FC,Coventry City,"{'23': 'home', '45': 'away', '47': 'away', '55': 'home', '65': 'away'}",2021-2022,32
+12. february 2022,15:00,0:1,Hull City,Fulham FC,{'57': 'away'},2021-2022,32
+12. february 2022,15:00,2:2,Nottingham Forest,Stoke City,"{'56': 'home', '68': 'away', '88': 'away', '90': 'home'}",2021-2022,32
+12. february 2022,15:00,0:1,Peterborough United,Preston North End,{'80': 'away'},2021-2022,32
+13. february 2022,13:00,3:1,Swansea City,Bristol City,"{'42': 'away', '54': 'home', '79': 'home', '90': 'home'}",2021-2022,32
+14. february 2022,20:00,0:0,West Bromwich Albion,Blackburn Rovers,,2021-2022,32
+19. february 2022,12:30,1:2,Fulham FC,Huddersfield Town,"{'31': 'away', '43': 'away', '83': 'home'}",2021-2022,33
+19. february 2022,15:00,2:1,Bristol City,Middlesbrough FC,"{'7': 'home', '68': 'home', '90': 'away'}",2021-2022,33
+19. february 2022,15:00,1:1,Cardiff City,Blackpool FC,"{'11': 'away', '49': 'home'}",2021-2022,33
+19. february 2022,15:00,1:0,Coventry City,Barnsley FC,{'90': 'home'},2021-2022,33
+19. february 2022,15:00,1:0,Derby County,Peterborough United,{'90': 'home'},2021-2022,33
+19. february 2022,15:00,2:0,Luton Town,West Bromwich Albion,"{'55': 'home', '83': 'home'}",2021-2022,33
+19. february 2022,15:00,2:3,Preston North End,Reading FC,"{'2': 'away', '19': 'away', '55': 'away', '57': 'home', '74': 'home'}",2021-2022,33
+19. february 2022,15:00,1:1,Queens Park Rangers,Hull City,"{'26': 'away', '75': 'home'}",2021-2022,33
+19. february 2022,15:00,4:0,Sheffield United,Swansea City,"{'14': 'home', '17': 'home', '38': 'home', '78': 'home'}",2021-2022,33
+19. february 2022,15:00,2:2,Stoke City,Birmingham City,"{'12': 'away', '25': 'home', '52': 'home', '58': 'away'}",2021-2022,33
+8. march 2022,19:45,0:0,Blackburn Rovers,Millwall FC,,2021-2022,33
+3. may 2022,19:00,1:0,AFC Bournemouth,Nottingham Forest,{'83': 'home'},2021-2022,33
+22. february 2022,19:45,1:2,Bristol City,Coventry City,"{'25': 'away', '62': 'home', '89': 'away'}",2021-2022,34
+22. february 2022,19:45,2:1,Middlesbrough FC,West Bromwich Albion,"{'28': 'away', '60': 'home', '69': 'home'}",2021-2022,34
+22. february 2022,19:45,0:2,Hull City,Barnsley FC,"{'27': 'away', '45': 'away'}",2021-2022,34
+22. february 2022,19:45,0:0,Preston North End,Nottingham Forest,,2021-2022,34
+22. february 2022,20:00,2:1,Reading FC,Birmingham City,"{'67': 'home', '73': 'home', '82': 'away'}",2021-2022,34
+23. february 2022,19:45,1:2,Derby County,Millwall FC,"{'2': 'away', '30': 'away', '88': 'home'}",2021-2022,34
+23. february 2022,19:45,2:1,Fulham FC,Peterborough United,"{'29': 'home', '62': 'home', '89': 'away'}",2021-2022,34
+23. february 2022,19:45,2:1,Huddersfield Town,Cardiff City,"{'61': 'away', '88': 'home', '90': 'home'}",2021-2022,34
+23. february 2022,19:45,2:1,Queens Park Rangers,Blackpool FC,"{'31': 'home', '82': 'away', '89': 'home'}",2021-2022,34
+23. february 2022,19:45,1:0,Sheffield United,Blackburn Rovers,{'90': 'home'},2021-2022,34
+23. february 2022,19:45,1:2,Stoke City,Luton Town,"{'56': 'away', '82': 'away', '90': 'home'}",2021-2022,34
+26. april 2022,19:45,3:3,Swansea City,AFC Bournemouth,"{'6': 'home', '12': 'home', '58': 'home', '72': 'away', '81': 'away', '90': 'away'}",2021-2022,34
+26. february 2022,12:30,1:0,Blackburn Rovers,Queens Park Rangers,{'77': 'home'},2021-2022,35
+26. february 2022,15:00,2:1,AFC Bournemouth,Stoke City,"{'20': 'away', '83': 'home', '89': 'home'}",2021-2022,35
+26. february 2022,15:00,0:2,Birmingham City,Huddersfield Town,"{None: 'away', '44': 'away'}",2021-2022,35
+26. february 2022,15:00,4:1,Blackpool FC,Reading FC,"{'17': 'away', '27': 'home', '61': 'home', '86': 'home', '90': 'home'}",2021-2022,35
+26. february 2022,15:00,0:1,Cardiff City,Fulham FC,{'41': 'away'},2021-2022,35
+26. february 2022,15:00,1:1,Coventry City,Preston North End,"{'89': 'away', '90': 'home'}",2021-2022,35
+26. february 2022,15:00,3:2,Barnsley FC,Middlesbrough FC,"{'7': 'home', '16': 'home', '54': 'home', '61': 'away', '90': 'away'}",2021-2022,35
+26. february 2022,15:00,1:0,Millwall FC,Sheffield United,{'61': 'home'},2021-2022,35
+26. february 2022,15:00,1:0,Luton Town,Derby County,{'67': 'home'},2021-2022,35
+26. february 2022,15:00,2:0,Nottingham Forest,Bristol City,"{'38': 'home', '55': 'home'}",2021-2022,35
+26. february 2022,15:00,0:3,Peterborough United,Hull City,"{'25': 'away', '51': 'away', '70': 'away'}",2021-2022,35
+28. february 2022,20:00,0:2,West Bromwich Albion,Swansea City,"{'79': 'away', '84': 'away'}",2021-2022,35
+4. march 2022,19:45,3:0,Huddersfield Town,Peterborough United,"{'3': 'home', '7': 'home', '72': 'home'}",2021-2022,36
+4. march 2022,19:45,1:1,Sheffield United,Nottingham Forest,"{'69': 'home', '90': 'away'}",2021-2022,36
+5. march 2022,12:30,2:0,Fulham FC,Blackburn Rovers,"{'25': 'home', '35': 'home'}",2021-2022,36
+5. march 2022,15:00,1:2,Bristol City,Birmingham City,"{'2': 'away', '13': 'away', '48': 'home'}",2021-2022,36
+5. march 2022,15:00,2:0,Derby County,Barnsley FC,"{'22': 'home', '47': 'home'}",2021-2022,36
+5. march 2022,15:00,2:1,Middlesbrough FC,Luton Town,"{'17': 'home', '87': 'home', '90': 'away'}",2021-2022,36
+5. march 2022,15:00,0:1,Reading FC,Millwall FC,{'37': 'away'},2021-2022,36
+5. march 2022,15:00,0:2,Hull City,West Bromwich Albion,"{'17': 'away', '48': 'away'}",2021-2022,36
+5. march 2022,15:00,2:1,Preston North End,AFC Bournemouth,"{'50': 'away', '54': 'home', '89': 'home'}",2021-2022,36
+5. march 2022,15:00,1:2,Queens Park Rangers,Cardiff City,"{'38': 'home', '70': 'away', '74': 'away'}",2021-2022,36
+5. march 2022,15:00,0:1,Stoke City,Blackpool FC,{'86': 'away'},2021-2022,36
+5. march 2022,15:00,3:1,Swansea City,Coventry City,"{'12': 'home', '40': 'home', '48': 'home', '84': 'away'}",2021-2022,36
+11. march 2022,20:00,2:2,West Bromwich Albion,Huddersfield Town,"{'24': 'away', '74': 'away', '84': 'home', '85': 'home'}",2021-2022,37
+12. march 2022,12:30,1:1,Barnsley FC,Fulham FC,"{'44': 'home', '86': 'away'}",2021-2022,37
+12. march 2022,15:00,2:0,AFC Bournemouth,Derby County,"{'45': 'home', '90': 'home'}",2021-2022,37
+12. march 2022,15:00,0:0,Birmingham City,Hull City,,2021-2022,37
+12. march 2022,15:00,0:1,Blackburn Rovers,Bristol City,{'90': 'away'},2021-2022,37
+12. march 2022,15:00,1:0,Blackpool FC,Swansea City,{'4': 'home'},2021-2022,37
+12. march 2022,15:00,0:0,Cardiff City,Preston North End,,2021-2022,37
+12. march 2022,15:00,4:1,Coventry City,Sheffield United,"{'16': 'away', '20': 'home', '52': 'home', '59': 'home', '68': 'home'}",2021-2022,37
+12. march 2022,15:00,0:0,Millwall FC,Middlesbrough FC,,2021-2022,37
+12. march 2022,15:00,4:0,Nottingham Forest,Reading FC,"{'1': 'home', '62': 'home', '75': 'home', '80': 'home'}",2021-2022,37
+12. march 2022,15:00,2:2,Peterborough United,Stoke City,"{'28': 'away', '33': 'home', '84': 'away', '90': 'home'}",2021-2022,37
+13. march 2022,12:00,1:2,Luton Town,Queens Park Rangers,"{'37': 'home', '55': 'away', None: 'away'}",2021-2022,37
+15. march 2022,19:45,1:1,AFC Bournemouth,Reading FC,"{'8': 'home', '83': 'away'}",2021-2022,38
+15. march 2022,19:45,0:2,Birmingham City,Middlesbrough FC,"{'23': 'away', '62': 'away'}",2021-2022,38
+15. march 2022,19:45,3:1,Blackburn Rovers,Derby County,"{'28': 'away', '53': 'home', '59': 'home', '90': 'home'}",2021-2022,38
+15. march 2022,19:45,2:0,Barnsley FC,Bristol City,"{'10': 'home', '21': 'home'}",2021-2022,38
+15. march 2022,20:00,1:0,West Bromwich Albion,Fulham FC,{'64': 'home'},2021-2022,38
+16. march 2022,19:45,3:1,Nottingham Forest,Queens Park Rangers,"{'40': 'away', '55': 'home', '83': 'home', '87': 'home'}",2021-2022,38
+16. march 2022,19:45,0:0,Blackpool FC,Sheffield United,,2021-2022,38
+16. march 2022,19:45,2:1,Cardiff City,Stoke City,"{'23': 'away', '39': 'home', '43': 'home'}",2021-2022,38
+16. march 2022,19:45,0:2,Coventry City,Hull City,"{'4': 'away', '28': 'away'}",2021-2022,38
+16. march 2022,19:45,2:0,Millwall FC,Huddersfield Town,"{'27': 'home', '57': 'home'}",2021-2022,38
+16. march 2022,19:45,4:0,Luton Town,Preston North End,"{'9': 'home', '28': 'home', '42': 'home', '59': 'home'}",2021-2022,38
+16. march 2022,19:45,2:3,Peterborough United,Swansea City,"{'44': 'away', '51': 'home', '63': 'home', '71': 'away', '90': 'away'}",2021-2022,38
+19. march 2022,12:30,1:1,Derby County,Coventry City,"{'28': 'away', '66': 'home'}",2021-2022,39
+19. march 2022,12:30,2:0,Sheffield United,Barnsley FC,"{'54': 'home', '76': 'home'}",2021-2022,39
+19. march 2022,15:00,2:2,Bristol City,West Bromwich Albion,"{'29': 'home', '68': 'away', '85': 'home', '90': 'away'}",2021-2022,39
+19. march 2022,15:00,1:0,Reading FC,Blackburn Rovers,{'78': 'home'},2021-2022,39
+19. march 2022,15:00,0:3,Huddersfield Town,AFC Bournemouth,"{'19': 'away', '31': 'away', '46': 'away'}",2021-2022,39
+19. march 2022,15:00,1:3,Hull City,Luton Town,"{'9': 'away', '56': 'away', '72': 'away', '90': 'home'}",2021-2022,39
+19. march 2022,15:00,2:0,Stoke City,Millwall FC,"{'19': 'home', '70': 'home'}",2021-2022,39
+19. march 2022,15:00,0:0,Swansea City,Birmingham City,,2021-2022,39
+20. march 2022,12:30,1:3,Queens Park Rangers,Peterborough United,"{'9': 'home', '39': 'away', '53': 'away', '54': 'away'}",2021-2022,39
+5. april 2022,19:45,1:0,Preston North End,Blackpool FC,{'45': 'home'},2021-2022,39
+26. april 2022,19:45,0:1,Fulham FC,Nottingham Forest,{'15': 'away'},2021-2022,39
+27. april 2022,19:45,2:0,Middlesbrough FC,Cardiff City,"{'28': 'home', '53': 'home'}",2021-2022,39
+1. april 2022,19:45,0:1,Hull City,Huddersfield Town,{'79': 'away'},2021-2022,40
+2. april 2022,12:30,1:4,Blackpool FC,Nottingham Forest,"{'11': 'away', '30': 'away', '36': 'away', '82': 'away', '89': 'home'}",2021-2022,40
+2. april 2022,15:00,3:2,AFC Bournemouth,Bristol City,"{'4': 'away', '40': 'home', '52': 'home', '81': 'home', '90': 'away'}",2021-2022,40
+2. april 2022,15:00,0:4,Cardiff City,Swansea City,"{'6': 'away', '57': 'away', '78': 'away', '82': 'away'}",2021-2022,40
+2. april 2022,15:00,2:2,Coventry City,Blackburn Rovers,"{'9': 'home', '46': 'away', '82': 'away', '90': 'home'}",2021-2022,40
+2. april 2022,15:00,1:0,Derby County,Preston North End,{'80': 'home'},2021-2022,40
+2. april 2022,15:00,1:1,Barnsley FC,Reading FC,"{'5': 'home', '82': 'away'}",2021-2022,40
+2. april 2022,15:00,2:2,Luton Town,Millwall FC,"{'25': 'away', '33': 'home', '81': 'away', '87': 'home'}",2021-2022,40
+2. april 2022,15:00,0:4,Peterborough United,Middlesbrough FC,"{'26': 'away', '49': 'away', '82': 'away', '90': 'away'}",2021-2022,40
+2. april 2022,15:00,0:2,Queens Park Rangers,Fulham FC,"{'14': 'away', '78': 'away'}",2021-2022,40
+2. april 2022,15:00,1:0,Stoke City,Sheffield United,{'77': 'home'},2021-2022,40
+3. april 2022,15:00,1:0,Birmingham City,West Bromwich Albion,{'67': 'home'},2021-2022,40
+9. april 2022,12:45,0:0,Sheffield United,AFC Bournemouth,,2021-2022,41
+9. april 2022,15:00,1:1,Blackburn Rovers,Blackpool FC,"{'10': 'home', '48': 'away'}",2021-2022,41
+9. april 2022,15:00,1:1,Bristol City,Peterborough United,"{'43': 'home', '65': 'away'}",2021-2022,41
+9. april 2022,15:00,0:1,Middlesbrough FC,Hull City,{'74': 'away'},2021-2022,41
+9. april 2022,15:00,4:1,Millwall FC,Barnsley FC,"{'31': 'home', '47': 'home', '49': 'away', '58': 'home', '72': 'home'}",2021-2022,41
+9. april 2022,15:00,1:2,Reading FC,Cardiff City,"{'7': 'home', '59': 'away', '85': 'away'}",2021-2022,41
+9. april 2022,15:00,2:0,Nottingham Forest,Birmingham City,"{'5': 'home', '79': 'home'}",2021-2022,41
+9. april 2022,15:00,2:1,Preston North End,Queens Park Rangers,"{'42': 'home', '50': 'home', '90': 'away'}",2021-2022,41
+9. april 2022,15:00,2:1,Swansea City,Derby County,"{'8': 'home', '16': 'home', '22': 'away'}",2021-2022,41
+9. april 2022,15:00,1:3,West Bromwich Albion,Stoke City,"{'16': 'away', '59': 'away', '73': 'home', '90': 'away'}",2021-2022,41
+10. april 2022,15:00,1:3,Fulham FC,Coventry City,"{'20': 'away', '24': 'away', '82': 'home', '90': 'away'}",2021-2022,41
+11. april 2022,19:45,2:0,Huddersfield Town,Luton Town,"{'59': 'home', '89': 'home'}",2021-2022,41
+15. april 2022,12:30,1:0,Luton Town,Nottingham Forest,{'37': 'home'},2021-2022,42
+15. april 2022,15:00,0:0,AFC Bournemouth,Middlesbrough FC,,2021-2022,42
+15. april 2022,15:00,2:4,Birmingham City,Coventry City,"{'12': 'home', '39': 'home', '40': 'away', '45': 'away', '71': 'away', '90': 'away'}",2021-2022,42
+15. april 2022,15:00,2:1,Hull City,Cardiff City,"{'8': 'home', '11': 'home', '81': 'away'}",2021-2022,42
+15. april 2022,15:00,2:1,Peterborough United,Blackburn Rovers,"{'77': 'away', '83': 'home', '87': 'home'}",2021-2022,42
+15. april 2022,15:00,1:1,Preston North End,Millwall FC,"{'6': 'home', '22': 'away'}",2021-2022,42
+15. april 2022,15:00,1:2,Sheffield United,Reading FC,"{'17': 'away', '90': 'away'}",2021-2022,42
+15. april 2022,15:00,0:1,Stoke City,Bristol City,{'84': 'away'},2021-2022,42
+15. april 2022,15:00,1:1,Swansea City,Barnsley FC,"{'54': 'away', '64': 'home'}",2021-2022,42
+15. april 2022,15:00,2:1,West Bromwich Albion,Blackpool FC,"{'42': 'home', '53': 'away', '90': 'home'}",2021-2022,42
+15. april 2022,17:30,2:2,Huddersfield Town,Queens Park Rangers,"{'6': 'home', '43': 'away', '53': 'home', '58': 'away'}",2021-2022,42
+15. april 2022,20:00,2:1,Derby County,Fulham FC,"{'20': 'away', '51': 'home', '73': 'home'}",2021-2022,42
+18. april 2022,12:30,0:2,Middlesbrough FC,Huddersfield Town,"{'41': 'away', '60': 'away'}",2021-2022,43
+18. april 2022,15:00,0:1,Blackburn Rovers,Stoke City,{'4': 'away'},2021-2022,43
+18. april 2022,15:00,6:1,Blackpool FC,Birmingham City,"{'3': 'home', '14': 'home', '40': 'home', '56': 'home', '63': 'away', '85': 'home', '90': 'home'}",2021-2022,43
+18. april 2022,15:00,0:1,Cardiff City,Luton Town,{'71': 'away'},2021-2022,43
+18. april 2022,15:00,0:3,Coventry City,AFC Bournemouth,"{'12': 'away', '45': 'away', '55': 'away'}",2021-2022,43
+18. april 2022,15:00,0:2,Barnsley FC,Peterborough United,"{'25': 'away', '75': 'away'}",2021-2022,43
+18. april 2022,15:00,2:1,Millwall FC,Hull City,"{'51': 'home', '55': 'home', '87': 'away'}",2021-2022,43
+18. april 2022,15:00,4:4,Reading FC,Swansea City,"{'3': 'home', '6': 'away', '12': 'away', '45': 'away', '58': 'away', '61': 'home', '71': 'home', '90': 'home'}",2021-2022,43
+18. april 2022,15:00,1:0,Queens Park Rangers,Derby County,{'88': 'home'},2021-2022,43
+18. april 2022,17:30,1:1,Bristol City,Sheffield United,"{'49': 'home', '60': 'away'}",2021-2022,43
+18. april 2022,20:00,4:0,Nottingham Forest,West Bromwich Albion,"{'19': 'home', '23': 'home', '45': 'home', '90': 'home'}",2021-2022,43
+19. april 2022,19:45,3:0,Fulham FC,Preston North End,"{'9': 'home', '34': 'home', '41': 'home'}",2021-2022,43
+22. april 2022,19:45,2:1,Huddersfield Town,Barnsley FC,"{'4': 'home', '45': 'home', '90': 'away'}",2021-2022,44
+23. april 2022,12:30,1:1,Luton Town,Blackpool FC,"{'2': 'home', '55': 'away'}",2021-2022,44
+23. april 2022,15:00,1:1,AFC Bournemouth,Fulham FC,"{'56': 'away', '90': 'home'}",2021-2022,44
+23. april 2022,15:00,2:2,Birmingham City,Millwall FC,"{'47': 'home', '68': 'away', '79': 'home', '90': 'away'}",2021-2022,44
+23. april 2022,15:00,1:3,Derby County,Bristol City,"{'10': 'away', '38': 'away', '61': 'home', '79': 'away'}",2021-2022,44
+23. april 2022,15:00,3:0,Hull City,Reading FC,"{'40': 'home', '53': 'home', '90': 'home'}",2021-2022,44
+23. april 2022,15:00,0:1,Peterborough United,Nottingham Forest,{'45': 'away'},2021-2022,44
+23. april 2022,15:00,1:0,Sheffield United,Cardiff City,{'47': 'home'},2021-2022,44
+23. april 2022,15:00,1:0,Stoke City,Queens Park Rangers,{'45': 'home'},2021-2022,44
+23. april 2022,15:00,1:1,Swansea City,Middlesbrough FC,"{'46': 'away', '48': 'home'}",2021-2022,44
+23. april 2022,15:00,0:0,West Bromwich Albion,Coventry City,,2021-2022,44
+25. april 2022,19:30,1:4,Preston North End,Blackburn Rovers,"{'9': 'away', '12': 'away', '29': 'home', '37': 'away', '52': 'away'}",2021-2022,44
+29. april 2022,19:45,1:3,Queens Park Rangers,Sheffield United,"{'31': 'home', '54': 'away', '73': 'away', '90': 'away'}",2021-2022,45
+30. april 2022,12:30,1:3,Barnsley FC,Preston North End,"{'17': 'home', '23': 'away', '54': 'away', '74': 'away'}",2021-2022,45
+30. april 2022,15:00,0:3,Blackburn Rovers,AFC Bournemouth,"{'21': 'away', '70': 'away', '79': 'away'}",2021-2022,45
+30. april 2022,15:00,0:2,Blackpool FC,Derby County,"{'73': 'away', '82': 'away'}",2021-2022,45
+30. april 2022,15:00,5:0,Bristol City,Hull City,"{'5': 'home', '33': 'home', '35': 'home', '54': 'home', '82': 'home'}",2021-2022,45
+30. april 2022,15:00,1:1,Cardiff City,Birmingham City,"{'22': 'away', '82': 'home'}",2021-2022,45
+30. april 2022,15:00,1:2,Coventry City,Huddersfield Town,"{'45': 'away', '79': 'away', '90': 'home'}",2021-2022,45
+30. april 2022,15:00,3:1,Middlesbrough FC,Stoke City,"{'21': 'home', '25': 'home', '72': 'home', '90': 'away'}",2021-2022,45
+30. april 2022,15:00,3:0,Millwall FC,Peterborough United,"{'53': 'home', '73': 'home', '76': 'home'}",2021-2022,45
+30. april 2022,15:00,0:1,Reading FC,West Bromwich Albion,{'78': 'away'},2021-2022,45
+30. april 2022,15:00,5:1,Nottingham Forest,Swansea City,"{'22': 'home', '28': 'away', '48': 'home', '52': 'home', '69': 'home', '84': 'home'}",2021-2022,45
+2. may 2022,17:15,7:0,Fulham FC,Luton Town,"{'29': 'home', '39': 'home', '54': 'home', '62': 'home', '65': 'home', '79': 'home', '90': 'home'}",2021-2022,45
+7. may 2022,12:30,1:0,AFC Bournemouth,Millwall FC,{'81': 'home'},2021-2022,46
+7. may 2022,12:30,1:2,Birmingham City,Blackburn Rovers,"{'29': 'away', '45': 'away', '78': 'home'}",2021-2022,46
+7. may 2022,12:30,0:1,Derby County,Cardiff City,{'55': 'away'},2021-2022,46
+7. may 2022,12:30,2:0,Huddersfield Town,Bristol City,"{'33': 'home', None: 'home'}",2021-2022,46
+7. may 2022,12:30,1:1,Hull City,Nottingham Forest,{'90': 'home'},2021-2022,46
+7. may 2022,12:30,1:0,Luton Town,Reading FC,{'45': 'home'},2021-2022,46
+7. may 2022,12:30,5:0,Peterborough United,Blackpool FC,"{'36': 'home', '62': 'home', '70': 'home', '85': 'home', '89': 'home'}",2021-2022,46
+7. may 2022,12:30,4:1,Preston North End,Middlesbrough FC,"{'24': 'home', '35': 'home', '48': 'away', '53': 'home', '74': 'home'}",2021-2022,46
+7. may 2022,12:30,4:0,Sheffield United,Fulham FC,"{'10': 'home', '21': 'home', '25': 'home', '49': 'home'}",2021-2022,46
+7. may 2022,12:30,1:1,Stoke City,Coventry City,"{'14': 'away', '43': 'home'}",2021-2022,46
+7. may 2022,12:30,0:1,Swansea City,Queens Park Rangers,{'80': 'away'},2021-2022,46
+7. may 2022,12:30,4:0,West Bromwich Albion,Barnsley FC,"{'37': 'home', '40': 'home', '52': 'home', '60': 'home'}",2021-2022,46

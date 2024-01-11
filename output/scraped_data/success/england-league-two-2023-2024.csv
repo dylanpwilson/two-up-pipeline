@@ -1,0 +1,310 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+5. august 2023,15:00,3:0,Accrington Stanley,Newport County,"{None: 'home', '90': 'home'}",2023-2024,1
+5. august 2023,15:00,1:0,Crawley Town,Bradford City,{None: 'home'},2023-2024,1
+5. august 2023,15:00,2:2,Crewe Alexandra,Mansfield Town,{None: 'home'},2023-2024,1
+5. august 2023,15:00,0:1,Doncaster Rovers,Harrogate Town,{'66': 'away'},2023-2024,1
+5. august 2023,15:00,2:1,Morecambe FC,Walsall FC,"{None: 'away', '90': 'home'}",2023-2024,1
+5. august 2023,15:00,0:2,Forest Green Rovers,Salford City,"{None: 'away', '90': 'away'}",2023-2024,1
+5. august 2023,15:00,0:0,Grimsby Town,AFC Wimbledon,,2023-2024,1
+5. august 2023,15:00,0:1,Stockport County,Gillingham FC,{None: 'away'},2023-2024,1
+5. august 2023,15:00,5:1,Sutton United,Notts County,{None: 'home'},2023-2024,1
+5. august 2023,15:00,1:2,Tranmere Rovers,Barrow AFC,"{None: 'away', '63': 'home'}",2023-2024,1
+5. august 2023,15:00,3:5,Wrexham AFC,Milton Keynes Dons,"{'6': 'away', None: 'home', '90': 'home'}",2023-2024,1
+7. november 2023,19:45,3:1,Colchester United,Swindon Town,"{None: 'home', '49': 'home', '90': 'home'}",2023-2024,1
+12. august 2023,15:00,2:1,Barrow AFC,Sutton United,{None: 'home'},2023-2024,2
+12. august 2023,15:00,2:1,Bradford City,Colchester United,{None: 'home'},2023-2024,2
+12. august 2023,15:00,1:0,Gillingham FC,Accrington Stanley,{None: 'home'},2023-2024,2
+12. august 2023,15:00,2:1,Walsall FC,Stockport County,"{None: 'home', '90': 'away'}",2023-2024,2
+12. august 2023,15:00,0:1,Harrogate Town,Forest Green Rovers,{None: 'away'},2023-2024,2
+12. august 2023,15:00,3:0,Mansfield Town,Morecambe FC,"{'45': 'home', None: 'home', '87': 'home'}",2023-2024,2
+12. august 2023,15:00,1:0,Milton Keynes Dons,Tranmere Rovers,{None: 'home'},2023-2024,2
+12. august 2023,15:00,4:0,Newport County,Doncaster Rovers,"{None: 'home', '21': 'home'}",2023-2024,2
+12. august 2023,15:00,3:2,Notts County,Grimsby Town,"{None: 'home', '45': 'away', '50': 'home'}",2023-2024,2
+12. august 2023,15:00,1:1,Salford City,Crawley Town,"{'40': 'away', None: 'home'}",2023-2024,2
+12. august 2023,15:00,2:2,Swindon Town,Crewe Alexandra,{None: 'away'},2023-2024,2
+12. august 2023,15:00,1:1,AFC Wimbledon,Wrexham AFC,"{None: 'away', '81': 'home'}",2023-2024,2
+15. august 2023,19:45,1:1,Accrington Stanley,Barrow AFC,{None: 'away'},2023-2024,3
+15. august 2023,19:45,0:2,Colchester United,AFC Wimbledon,{None: 'away'},2023-2024,3
+15. august 2023,19:45,2:1,Crawley Town,Milton Keynes Dons,{None: 'home'},2023-2024,3
+15. august 2023,19:45,4:2,Crewe Alexandra,Newport County,"{None: 'away', '66': 'home'}",2023-2024,3
+15. august 2023,19:45,2:2,Doncaster Rovers,Mansfield Town,{None: 'away'},2023-2024,3
+15. august 2023,19:45,0:0,Morecambe FC,Notts County,,2023-2024,3
+15. august 2023,19:45,1:2,Forest Green Rovers,Swindon Town,"{None: 'away', '90': 'away'}",2023-2024,3
+15. august 2023,19:45,2:0,Grimsby Town,Salford City,{None: 'home'},2023-2024,3
+15. august 2023,19:45,1:1,Stockport County,Bradford City,{None: 'home'},2023-2024,3
+15. august 2023,19:45,0:1,Sutton United,Gillingham FC,{None: 'away'},2023-2024,3
+15. august 2023,19:45,3:0,Tranmere Rovers,Harrogate Town,{None: 'home'},2023-2024,3
+15. august 2023,19:45,4:2,Wrexham AFC,Walsall FC,"{None: 'home', '90': 'away'}",2023-2024,3
+19. august 2023,15:00,2:1,Accrington Stanley,Harrogate Town,"{None: 'away', '90': 'home'}",2023-2024,4
+19. august 2023,15:00,2:3,Colchester United,Milton Keynes Dons,"{None: 'away', '90': 'away'}",2023-2024,4
+19. august 2023,15:00,0:1,Crawley Town,Gillingham FC,{'40': 'away'},2023-2024,4
+19. august 2023,15:00,2:2,Crewe Alexandra,Walsall FC,"{None: 'home', '90': 'home'}",2023-2024,4
+19. august 2023,15:00,1:3,Doncaster Rovers,Notts County,"{None: 'away', '90': 'home'}",2023-2024,4
+19. august 2023,15:00,3:0,Morecambe FC,Bradford City,"{None: 'home', '86': 'home'}",2023-2024,4
+19. august 2023,15:00,0:3,Forest Green Rovers,Newport County,"{None: 'away', '88': 'away'}",2023-2024,4
+19. august 2023,15:00,1:1,Grimsby Town,Mansfield Town,{None: 'away'},2023-2024,4
+19. august 2023,15:00,1:0,Stockport County,Barrow AFC,{None: 'home'},2023-2024,4
+19. august 2023,15:00,0:3,Sutton United,AFC Wimbledon,{None: 'away'},2023-2024,4
+19. august 2023,15:00,3:4,Tranmere Rovers,Salford City,{None: 'home'},2023-2024,4
+19. august 2023,15:00,5:5,Wrexham AFC,Swindon Town,"{None: 'away', '51': 'home', '90': 'home'}",2023-2024,4
+26. august 2023,15:00,1:1,Barrow AFC,Wrexham AFC,"{'12': 'away', None: 'home'}",2023-2024,5
+26. august 2023,15:00,1:0,Bradford City,Crewe Alexandra,{None: 'home'},2023-2024,5
+26. august 2023,15:00,0:3,Gillingham FC,Colchester United,{None: 'away'},2023-2024,5
+26. august 2023,15:00,1:1,Walsall FC,Grimsby Town,{None: 'home'},2023-2024,5
+26. august 2023,15:00,2:0,Harrogate Town,Morecambe FC,"{'20': 'home', None: 'home'}",2023-2024,5
+26. august 2023,15:00,3:2,Mansfield Town,Stockport County,{None: 'home'},2023-2024,5
+26. august 2023,15:00,2:1,Milton Keynes Dons,Doncaster Rovers,{None: 'away'},2023-2024,5
+26. august 2023,15:00,3:1,Newport County,Sutton United,"{None: 'home', '70': 'home'}",2023-2024,5
+26. august 2023,15:00,2:1,Notts County,Tranmere Rovers,{None: 'away'},2023-2024,5
+26. august 2023,15:00,1:2,Salford City,Accrington Stanley,"{None: 'away', '88': 'home'}",2023-2024,5
+26. august 2023,15:00,6:0,Swindon Town,Crawley Town,"{None: 'home', '90': 'home'}",2023-2024,5
+26. august 2023,15:00,1:1,AFC Wimbledon,Forest Green Rovers,{None: 'away'},2023-2024,5
+2. september 2023,12:30,0:1,Tranmere Rovers,Wrexham AFC,{None: 'away'},2023-2024,6
+2. september 2023,15:00,3:1,Crewe Alexandra,Milton Keynes Dons,{None: 'home'},2023-2024,6
+2. september 2023,15:00,0:0,Doncaster Rovers,Swindon Town,,2023-2024,6
+2. september 2023,15:00,1:0,Morecambe FC,Salford City,{None: 'home'},2023-2024,6
+2. september 2023,15:00,1:0,Walsall FC,Colchester United,{None: 'home'},2023-2024,6
+2. september 2023,15:00,2:0,Grimsby Town,Gillingham FC,{None: 'home'},2023-2024,6
+2. september 2023,15:00,0:1,Harrogate Town,Barrow AFC,{None: 'away'},2023-2024,6
+2. september 2023,15:00,0:0,Mansfield Town,Bradford City,,2023-2024,6
+2. september 2023,15:00,2:2,Newport County,AFC Wimbledon,"{None: 'home', '45': 'home'}",2023-2024,6
+2. september 2023,15:00,3:1,Notts County,Accrington Stanley,{None: 'home'},2023-2024,6
+2. september 2023,15:00,3:3,Stockport County,Crawley Town,{None: 'home'},2023-2024,6
+2. september 2023,15:00,0:1,Sutton United,Forest Green Rovers,{None: 'away'},2023-2024,6
+9. september 2023,12:30,1:1,Bradford City,Grimsby Town,{None: 'home'},2023-2024,7
+9. september 2023,15:00,0:3,Accrington Stanley,Mansfield Town,{None: 'away'},2023-2024,7
+9. september 2023,15:00,2:0,Colchester United,Tranmere Rovers,{None: 'home'},2023-2024,7
+9. september 2023,15:00,4:1,Crawley Town,Newport County,{None: 'home'},2023-2024,7
+9. september 2023,15:00,1:0,Gillingham FC,Harrogate Town,{'90': 'home'},2023-2024,7
+9. september 2023,15:00,1:4,Forest Green Rovers,Crewe Alexandra,{None: 'away'},2023-2024,7
+9. september 2023,15:00,1:1,Milton Keynes Dons,Notts County,{None: 'away'},2023-2024,7
+9. september 2023,15:00,1:2,Salford City,Walsall FC,{None: 'away'},2023-2024,7
+9. september 2023,15:00,5:3,Swindon Town,Sutton United,{None: 'home'},2023-2024,7
+9. september 2023,15:00,1:2,AFC Wimbledon,Stockport County,{None: 'away'},2023-2024,7
+9. september 2023,15:00,2:1,Wrexham AFC,Doncaster Rovers,{None: 'home'},2023-2024,7
+31. october 2023,19:45,1:0,Barrow AFC,Morecambe FC,{None: 'home'},2023-2024,7
+15. september 2023,19:45,0:2,Salford City,Notts County,{None: 'away'},2023-2024,8
+16. september 2023,15:00,4:1,Accrington Stanley,Sutton United,"{'45': 'home', None: 'away', '90': 'home'}",2023-2024,8
+16. september 2023,15:00,1:1,Newport County,Barrow AFC,"{None: 'home', '69': 'away'}",2023-2024,8
+16. september 2023,15:00,1:1,Bradford City,Harrogate Town,"{None: 'away', '90': 'home'}",2023-2024,8
+16. september 2023,15:00,1:1,Colchester United,Mansfield Town,{None: 'away'},2023-2024,8
+16. september 2023,15:00,3:2,Crawley Town,Tranmere Rovers,"{None: 'home', '90': 'home'}",2023-2024,8
+16. september 2023,15:00,2:1,Gillingham FC,Morecambe FC,{None: 'home'},2023-2024,8
+16. september 2023,15:00,1:2,Forest Green Rovers,Doncaster Rovers,"{None: 'home', '90': 'away'}",2023-2024,8
+16. september 2023,15:00,1:2,Milton Keynes Dons,Stockport County,"{None: 'home', '45': 'away'}",2023-2024,8
+16. september 2023,15:00,2:0,Swindon Town,Walsall FC,{None: 'home'},2023-2024,8
+16. september 2023,15:00,2:2,AFC Wimbledon,Crewe Alexandra,"{None: 'away', '90': 'away'}",2023-2024,8
+16. september 2023,15:00,3:0,Wrexham AFC,Grimsby Town,{None: 'home'},2023-2024,8
+23. september 2023,15:00,2:1,Crewe Alexandra,Colchester United,{None: 'away'},2023-2024,9
+23. september 2023,15:00,2:1,Doncaster Rovers,Gillingham FC,"{None: 'home', '45': 'away'}",2023-2024,9
+23. september 2023,15:00,2:2,Morecambe FC,Swindon Town,"{None: 'home', '57': 'away'}",2023-2024,9
+23. september 2023,15:00,1:3,Walsall FC,AFC Wimbledon,{None: 'away'},2023-2024,9
+23. september 2023,15:00,2:3,Grimsby Town,Crawley Town,"{None: 'away', '90': 'away'}",2023-2024,9
+23. september 2023,15:00,3:2,Harrogate Town,Salford City,"{'16': 'home', None: 'home'}",2023-2024,9
+23. september 2023,15:00,1:0,Mansfield Town,Barrow AFC,{None: 'home'},2023-2024,9
+23. september 2023,15:00,1:4,Newport County,Bradford City,"{None: 'home', '90': 'away'}",2023-2024,9
+23. september 2023,15:00,4:3,Notts County,Forest Green Rovers,"{None: 'home', '79': 'away'}",2023-2024,9
+23. september 2023,15:00,5:0,Stockport County,Wrexham AFC,{None: 'home'},2023-2024,9
+23. september 2023,15:00,1:1,Sutton United,Milton Keynes Dons,{None: 'away'},2023-2024,9
+23. september 2023,15:00,2:0,Tranmere Rovers,Accrington Stanley,"{'14': 'home', None: 'home'}",2023-2024,9
+30. september 2023,15:00,1:3,Accrington Stanley,Stockport County,"{None: 'home', '59': 'away'}",2023-2024,10
+30. september 2023,15:00,3:2,Barrow AFC,Doncaster Rovers,"{None: 'home', '90': 'away'}",2023-2024,10
+30. september 2023,15:00,1:3,Bradford City,Walsall FC,"{'23': 'home', None: 'away', '45': 'away'}",2023-2024,10
+30. september 2023,15:00,5:4,Colchester United,Notts County,"{None: 'home', '90': 'away'}",2023-2024,10
+30. september 2023,15:00,3:0,Crawley Town,Sutton United,{None: 'home'},2023-2024,10
+30. september 2023,15:00,1:1,Gillingham FC,Mansfield Town,{None: 'away'},2023-2024,10
+30. september 2023,15:00,1:2,Forest Green Rovers,Morecambe FC,{None: 'home'},2023-2024,10
+30. september 2023,15:00,0:1,Milton Keynes Dons,Harrogate Town,{'40': 'away'},2023-2024,10
+30. september 2023,15:00,2:1,Salford City,Newport County,"{None: 'away', '45': 'home'}",2023-2024,10
+30. september 2023,15:00,2:1,Swindon Town,Grimsby Town,{None: 'away'},2023-2024,10
+30. september 2023,15:00,4:1,AFC Wimbledon,Tranmere Rovers,{None: 'home'},2023-2024,10
+30. september 2023,15:00,3:3,Wrexham AFC,Crewe Alexandra,"{None: 'away', '45': 'away', '90': 'home'}",2023-2024,10
+3. october 2023,19:45,2:0,Crewe Alexandra,Gillingham FC,{None: 'home'},2023-2024,11
+3. october 2023,19:45,2:0,Doncaster Rovers,Crawley Town,"{None: 'home', '62': 'home'}",2023-2024,11
+3. october 2023,19:45,1:1,Morecambe FC,Accrington Stanley,"{None: 'home', '70': 'away'}",2023-2024,11
+3. october 2023,19:45,0:0,Walsall FC,Milton Keynes Dons,,2023-2024,11
+3. october 2023,19:45,2:1,Grimsby Town,Barrow AFC,{None: 'away'},2023-2024,11
+3. october 2023,19:45,0:1,Harrogate Town,AFC Wimbledon,{None: 'away'},2023-2024,11
+3. october 2023,19:45,0:0,Mansfield Town,Wrexham AFC,,2023-2024,11
+3. october 2023,19:45,2:1,Newport County,Colchester United,{None: 'home'},2023-2024,11
+3. october 2023,19:45,3:1,Notts County,Swindon Town,"{None: 'away', '35': 'home'}",2023-2024,11
+3. october 2023,19:45,2:0,Stockport County,Forest Green Rovers,{None: 'home'},2023-2024,11
+3. october 2023,19:45,0:2,Sutton United,Salford City,{None: 'away'},2023-2024,11
+3. october 2023,19:45,2:1,Tranmere Rovers,Bradford City,{None: 'home'},2023-2024,11
+7. october 2023,15:00,2:1,Accrington Stanley,Forest Green Rovers,{None: 'away'},2023-2024,12
+7. october 2023,15:00,1:1,Barrow AFC,Notts County,"{None: 'away', '79': 'home'}",2023-2024,12
+7. october 2023,15:00,1:0,Bradford City,Swindon Town,{None: 'home'},2023-2024,12
+7. october 2023,15:00,1:3,Colchester United,Morecambe FC,{None: 'home'},2023-2024,12
+7. october 2023,15:00,0:1,Crawley Town,Wrexham AFC,{None: 'away'},2023-2024,12
+7. october 2023,15:00,2:1,Gillingham FC,Milton Keynes Dons,{None: 'away'},2023-2024,12
+7. october 2023,15:00,0:0,Mansfield Town,AFC Wimbledon,,2023-2024,12
+7. october 2023,15:00,1:2,Newport County,Harrogate Town,{None: 'home'},2023-2024,12
+7. october 2023,15:00,4:2,Salford City,Crewe Alexandra,"{None: 'home', '45': 'home', '90': 'away'}",2023-2024,12
+7. october 2023,15:00,1:0,Stockport County,Doncaster Rovers,{None: 'home'},2023-2024,12
+7. october 2023,15:00,4:0,Sutton United,Walsall FC,"{None: 'home', '27': 'home'}",2023-2024,12
+7. october 2023,15:00,2:2,Tranmere Rovers,Grimsby Town,{None: 'home'},2023-2024,12
+14. october 2023,12:30,1:4,Notts County,Mansfield Town,{None: 'away'},2023-2024,13
+14. october 2023,15:00,2:0,Crewe Alexandra,Tranmere Rovers,{None: 'home'},2023-2024,13
+14. october 2023,15:00,4:1,Doncaster Rovers,Sutton United,"{'17': 'home', None: 'home', '90': 'away'}",2023-2024,13
+14. october 2023,15:00,4:1,Walsall FC,Gillingham FC,{None: 'home'},2023-2024,13
+14. october 2023,15:00,5:0,Forest Green Rovers,Colchester United,"{None: 'home', '90': 'home'}",2023-2024,13
+14. october 2023,15:00,0:2,Grimsby Town,Accrington Stanley,{None: 'away'},2023-2024,13
+14. october 2023,15:00,1:3,Harrogate Town,Stockport County,"{None: 'away', '50': 'away', '73': 'home'}",2023-2024,13
+14. october 2023,15:00,2:2,Milton Keynes Dons,Barrow AFC,"{None: 'home', '90': 'away'}",2023-2024,13
+14. october 2023,15:00,2:0,Swindon Town,Newport County,{None: 'home'},2023-2024,13
+14. october 2023,15:00,0:1,AFC Wimbledon,Bradford City,{None: 'away'},2023-2024,13
+14. october 2023,15:00,3:2,Wrexham AFC,Salford City,{None: 'home'},2023-2024,13
+20. october 2023,19:45,3:3,Newport County,Walsall FC,"{None: 'home', '45': 'home', '90': 'away'}",2023-2024,14
+20. october 2023,19:45,1:2,Tranmere Rovers,Doncaster Rovers,{None: 'home'},2023-2024,14
+21. october 2023,15:00,1:0,Accrington Stanley,Milton Keynes Dons,{None: 'home'},2023-2024,14
+21. october 2023,15:00,0:0,Barrow AFC,AFC Wimbledon,,2023-2024,14
+21. october 2023,15:00,1:1,Bradford City,Wrexham AFC,{None: 'home'},2023-2024,14
+21. october 2023,15:00,1:2,Colchester United,Harrogate Town,{None: 'away'},2023-2024,14
+21. october 2023,15:00,2:4,Crawley Town,Crewe Alexandra,"{None: 'away', '56': 'away', '90': 'away'}",2023-2024,14
+21. october 2023,15:00,1:2,Gillingham FC,Notts County,{None: 'away'},2023-2024,14
+21. october 2023,15:00,2:2,Salford City,Swindon Town,"{None: 'away', '85': 'away', '90': 'home'}",2023-2024,14
+21. october 2023,15:00,3:2,Stockport County,Grimsby Town,"{'6': 'home', None: 'home', '45': 'away', '52': 'away'}",2023-2024,14
+21. october 2023,15:00,2:3,Sutton United,Morecambe FC,"{'31': 'away', '45': 'home', None: 'home', '90': 'away'}",2023-2024,14
+24. october 2023,19:45,0:2,Crewe Alexandra,Stockport County,{None: 'away'},2023-2024,15
+24. october 2023,19:45,0:3,Doncaster Rovers,Salford City,{None: 'away'},2023-2024,15
+24. october 2023,19:45,1:0,Morecambe FC,Tranmere Rovers,{'72': 'home'},2023-2024,15
+24. october 2023,19:45,1:1,Walsall FC,Crawley Town,"{None: 'home', '90': 'away'}",2023-2024,15
+24. october 2023,19:45,0:2,Forest Green Rovers,Barrow AFC,{None: 'away'},2023-2024,15
+24. october 2023,19:45,2:3,Grimsby Town,Colchester United,"{'7': 'home', None: 'away'}",2023-2024,15
+24. october 2023,19:45,1:4,Harrogate Town,Mansfield Town,{None: 'home'},2023-2024,15
+24. october 2023,19:45,4:1,Milton Keynes Dons,Bradford City,{None: 'home'},2023-2024,15
+24. october 2023,19:45,3:0,Notts County,Newport County,{None: 'home'},2023-2024,15
+24. october 2023,19:45,0:1,Swindon Town,Gillingham FC,{None: 'away'},2023-2024,15
+24. october 2023,19:45,2:4,AFC Wimbledon,Accrington Stanley,{None: 'away'},2023-2024,15
+24. october 2023,19:45,2:1,Wrexham AFC,Sutton United,{None: 'home'},2023-2024,15
+28. october 2023,15:00,0:1,Accrington Stanley,Colchester United,{None: 'away'},2023-2024,16
+28. october 2023,15:00,0:0,Barrow AFC,Salford City,,2023-2024,16
+28. october 2023,15:00,1:0,Doncaster Rovers,Grimsby Town,{'72': 'home'},2023-2024,16
+28. october 2023,15:00,0:2,Gillingham FC,Newport County,"{'20': 'away', '27': 'away'}",2023-2024,16
+28. october 2023,15:00,4:1,Morecambe FC,AFC Wimbledon,"{None: 'home', '51': 'home', '61': 'home'}",2023-2024,16
+28. october 2023,15:00,2:1,Forest Green Rovers,Crawley Town,"{None: 'home', '45': 'home'}",2023-2024,16
+28. october 2023,15:00,0:1,Harrogate Town,Crewe Alexandra,{None: 'away'},2023-2024,16
+28. october 2023,15:00,2:1,Mansfield Town,Walsall FC,{None: 'home'},2023-2024,16
+28. october 2023,15:00,3:2,Milton Keynes Dons,Swindon Town,"{None: 'home', '84': 'home', '90': 'away'}",2023-2024,16
+28. october 2023,15:00,0:2,Notts County,Wrexham AFC,{None: 'away'},2023-2024,16
+28. october 2023,15:00,2:0,Stockport County,Tranmere Rovers,{None: 'home'},2023-2024,16
+28. october 2023,15:00,2:1,Sutton United,Bradford City,{None: 'home'},2023-2024,16
+11. november 2023,15:00,1:2,Bradford City,Barrow AFC,{None: 'away'},2023-2024,17
+11. november 2023,15:00,1:1,Colchester United,Sutton United,"{None: 'home', '90': 'away'}",2023-2024,17
+11. november 2023,15:00,3:1,Crawley Town,Accrington Stanley,"{None: 'home', '76': 'home'}",2023-2024,17
+11. november 2023,15:00,1:0,Crewe Alexandra,Notts County,{'90': 'home'},2023-2024,17
+11. november 2023,15:00,0:1,Walsall FC,Harrogate Town,{None: 'away'},2023-2024,17
+11. november 2023,15:00,3:2,Grimsby Town,Morecambe FC,{None: 'away'},2023-2024,17
+11. november 2023,15:00,0:0,Newport County,Milton Keynes Dons,,2023-2024,17
+11. november 2023,15:00,1:2,Salford City,Mansfield Town,{None: 'away'},2023-2024,17
+11. november 2023,15:00,2:4,Swindon Town,Stockport County,"{None: 'away', '52': 'away'}",2023-2024,17
+11. november 2023,15:00,3:0,Tranmere Rovers,Forest Green Rovers,"{'8': 'home', None: 'home'}",2023-2024,17
+11. november 2023,15:00,2:0,AFC Wimbledon,Doncaster Rovers,"{'45': 'home', None: 'home'}",2023-2024,17
+11. november 2023,15:00,2:0,Wrexham AFC,Gillingham FC,{None: 'home'},2023-2024,17
+18. november 2023,12:30,4:2,Notts County,Bradford City,"{None: 'away', '45': 'home', '57': 'away'}",2023-2024,18
+18. november 2023,15:00,2:0,Accrington Stanley,Wrexham AFC,"{'50': 'home', None: 'home'}",2023-2024,18
+18. november 2023,15:00,1:0,Barrow AFC,Crawley Town,{None: 'home'},2023-2024,18
+18. november 2023,15:00,3:1,Gillingham FC,Salford City,{None: 'home'},2023-2024,18
+18. november 2023,15:00,2:2,Forest Green Rovers,Grimsby Town,"{'37': 'home', None: 'away'}",2023-2024,18
+18. november 2023,15:00,1:1,Harrogate Town,Swindon Town,{None: 'home'},2023-2024,18
+18. november 2023,15:00,2:0,Mansfield Town,Newport County,{None: 'home'},2023-2024,18
+18. november 2023,15:00,2:0,Stockport County,Colchester United,{None: 'home'},2023-2024,18
+18. november 2023,15:00,1:1,Sutton United,Tranmere Rovers,"{'17': 'away', None: 'home'}",2023-2024,18
+25. november 2023,15:00,1:0,Bradford City,Accrington Stanley,{None: 'home'},2023-2024,19
+25. november 2023,15:00,1:4,Colchester United,Barrow AFC,"{None: 'away', '52': 'away', '90': 'away'}",2023-2024,19
+25. november 2023,15:00,2:1,Crawley Town,Harrogate Town,"{None: 'home', '45': 'away'}",2023-2024,19
+25. november 2023,15:00,3:2,Crewe Alexandra,Doncaster Rovers,"{None: 'away', '90': 'home'}",2023-2024,19
+25. november 2023,15:00,0:0,Walsall FC,Forest Green Rovers,,2023-2024,19
+25. november 2023,15:00,1:1,Grimsby Town,Sutton United,"{None: 'home', '45': 'away'}",2023-2024,19
+25. november 2023,15:00,2:1,Newport County,Stockport County,"{'45': 'home', None: 'home', '90': 'away'}",2023-2024,19
+25. november 2023,15:00,2:4,Salford City,Milton Keynes Dons,"{None: 'away', '45': 'home'}",2023-2024,19
+25. november 2023,15:00,2:1,Swindon Town,Mansfield Town,"{None: 'away', '90': 'home'}",2023-2024,19
+25. november 2023,15:00,3:1,Tranmere Rovers,Gillingham FC,"{None: 'home', '90': 'away'}",2023-2024,19
+25. november 2023,15:00,4:2,AFC Wimbledon,Notts County,"{'29': 'home', None: 'away', '86': 'home', '90': 'home'}",2023-2024,19
+25. november 2023,15:00,6:0,Wrexham AFC,Morecambe FC,"{'5': 'home', None: 'home', '90': 'home'}",2023-2024,19
+28. november 2023,19:45,3:4,Accrington Stanley,Swindon Town,"{'17': 'away', None: 'away', '90': 'home'}",2023-2024,20
+28. november 2023,19:45,2:0,Barrow AFC,Walsall FC,{None: 'home'},2023-2024,20
+28. november 2023,19:45,3:1,Doncaster Rovers,Colchester United,"{'33': 'home', None: 'home', '87': 'home'}",2023-2024,20
+28. november 2023,19:45,1:0,Gillingham FC,AFC Wimbledon,{None: 'home'},2023-2024,20
+28. november 2023,19:45,1:2,Morecambe FC,Newport County,{None: 'away'},2023-2024,20
+28. november 2023,19:45,0:3,Forest Green Rovers,Bradford City,"{None: 'away', '21': 'away'}",2023-2024,20
+28. november 2023,19:45,2:2,Harrogate Town,Wrexham AFC,{None: 'home'},2023-2024,20
+28. november 2023,19:45,2:2,Mansfield Town,Tranmere Rovers,{None: 'home'},2023-2024,20
+28. november 2023,19:45,1:1,Milton Keynes Dons,Grimsby Town,{None: 'home'},2023-2024,20
+28. november 2023,19:45,3:1,Notts County,Crawley Town,{None: 'home'},2023-2024,20
+28. november 2023,19:45,0:0,Stockport County,Salford City,,2023-2024,20
+28. november 2023,19:45,1:1,Sutton United,Crewe Alexandra,{None: 'home'},2023-2024,20
+9. december 2023,15:00,0:0,Accrington Stanley,Doncaster Rovers,,2023-2024,21
+9. december 2023,15:00,1:2,Colchester United,Crawley Town,"{None: 'away', '64': 'away', '90': 'home'}",2023-2024,21
+9. december 2023,15:00,1:1,Morecambe FC,Stockport County,{None: 'away'},2023-2024,21
+9. december 2023,15:00,2:1,Grimsby Town,Crewe Alexandra,{None: 'away'},2023-2024,21
+9. december 2023,15:00,1:2,Notts County,Walsall FC,{None: 'away'},2023-2024,21
+9. december 2023,15:00,2:1,Tranmere Rovers,Newport County,{None: 'home'},2023-2024,21
+16. december 2023,15:00,1:3,Crawley Town,Mansfield Town,"{None: 'away', '36': 'home'}",2023-2024,22
+16. december 2023,15:00,3:3,Crewe Alexandra,Accrington Stanley,"{None: 'away', '90': 'home'}",2023-2024,22
+16. december 2023,15:00,0:5,Doncaster Rovers,Morecambe FC,"{None: 'away', '90': 'away'}",2023-2024,22
+16. december 2023,15:00,0:2,Gillingham FC,Bradford City,{None: 'away'},2023-2024,22
+16. december 2023,15:00,1:0,Walsall FC,Tranmere Rovers,{None: 'home'},2023-2024,22
+16. december 2023,15:00,3:1,Harrogate Town,Notts County,{None: 'home'},2023-2024,22
+16. december 2023,15:00,2:0,Milton Keynes Dons,Forest Green Rovers,{None: 'home'},2023-2024,22
+16. december 2023,15:00,1:1,Newport County,Grimsby Town,{None: 'away'},2023-2024,22
+16. december 2023,15:00,0:0,Salford City,AFC Wimbledon,,2023-2024,22
+16. december 2023,15:00,8:0,Stockport County,Sutton United,"{None: 'home', '90': 'home'}",2023-2024,22
+16. december 2023,15:00,0:3,Swindon Town,Barrow AFC,{None: 'away'},2023-2024,22
+16. december 2023,15:00,2:1,Wrexham AFC,Colchester United,"{None: 'away', '69': 'home'}",2023-2024,22
+22. december 2023,19:00,0:0,Forest Green Rovers,Gillingham FC,,2023-2024,23
+22. december 2023,19:45,2:1,Colchester United,Salford City,"{None: 'home', '90': 'away'}",2023-2024,23
+22. december 2023,19:45,1:2,Crawley Town,AFC Wimbledon,{None: 'home'},2023-2024,23
+22. december 2023,19:45,1:3,Crewe Alexandra,Barrow AFC,"{None: 'away', '50': 'away'}",2023-2024,23
+22. december 2023,19:45,1:3,Doncaster Rovers,Bradford City,{None: 'away'},2023-2024,23
+22. december 2023,19:45,2:1,Stockport County,Notts County,"{None: 'home', '86': 'home', '90': 'away'}",2023-2024,23
+23. december 2023,15:00,2:1,Accrington Stanley,Walsall FC,"{None: 'home', '45': 'away'}",2023-2024,23
+23. december 2023,15:00,1:3,Morecambe FC,Milton Keynes Dons,"{None: 'away', '90': 'away'}",2023-2024,23
+23. december 2023,15:00,1:2,Grimsby Town,Harrogate Town,"{None: 'away', '90': 'home'}",2023-2024,23
+23. december 2023,15:00,0:2,Sutton United,Mansfield Town,{None: 'away'},2023-2024,23
+23. december 2023,15:00,2:1,Tranmere Rovers,Swindon Town,{None: 'home'},2023-2024,23
+23. december 2023,15:00,2:0,Wrexham AFC,Newport County,{None: 'home'},2023-2024,23
+26. december 2023,12:30,2:0,Mansfield Town,Grimsby Town,"{None: 'home', '45': 'home'}",2023-2024,24
+26. december 2023,13:00,0:2,Gillingham FC,Crawley Town,{None: 'away'},2023-2024,24
+26. december 2023,15:00,2:2,Barrow AFC,Stockport County,"{None: 'away', '45': 'away'}",2023-2024,24
+26. december 2023,15:00,2:2,Bradford City,Morecambe FC,{None: 'home'},2023-2024,24
+26. december 2023,15:00,2:0,Walsall FC,Crewe Alexandra,{None: 'home'},2023-2024,24
+26. december 2023,15:00,2:1,Harrogate Town,Accrington Stanley,"{None: 'home', '90': 'home'}",2023-2024,24
+26. december 2023,15:00,1:0,Milton Keynes Dons,Colchester United,{None: 'home'},2023-2024,24
+26. december 2023,15:00,4:2,Newport County,Forest Green Rovers,"{'2': 'away', None: 'home'}",2023-2024,24
+26. december 2023,15:00,3:0,Notts County,Doncaster Rovers,{None: 'home'},2023-2024,24
+26. december 2023,15:00,1:5,Salford City,Tranmere Rovers,"{None: 'away', '90': 'away'}",2023-2024,24
+26. december 2023,15:00,0:1,Swindon Town,Wrexham AFC,{None: 'away'},2023-2024,24
+26. december 2023,15:00,0:1,AFC Wimbledon,Sutton United,{None: 'away'},2023-2024,24
+29. december 2023,19:45,1:1,Barrow AFC,Accrington Stanley,{None: 'away'},2023-2024,25
+29. december 2023,19:45,0:0,Bradford City,Stockport County,,2023-2024,25
+29. december 2023,19:45,1:0,Gillingham FC,Sutton United,{None: 'home'},2023-2024,25
+29. december 2023,19:45,3:1,Walsall FC,Wrexham AFC,"{None: 'home', '24': 'away'}",2023-2024,25
+29. december 2023,19:45,0:2,Harrogate Town,Tranmere Rovers,{None: 'away'},2023-2024,25
+29. december 2023,19:45,1:1,Mansfield Town,Doncaster Rovers,{None: 'away'},2023-2024,25
+29. december 2023,19:45,2:0,Milton Keynes Dons,Crawley Town,{None: 'home'},2023-2024,25
+29. december 2023,19:45,1:1,Newport County,Crewe Alexandra,{None: 'home'},2023-2024,25
+29. december 2023,19:45,5:0,Notts County,Morecambe FC,"{'10': 'home', None: 'home'}",2023-2024,25
+29. december 2023,19:45,0:3,Salford City,Grimsby Town,{None: 'away'},2023-2024,25
+29. december 2023,19:45,2:1,Swindon Town,Forest Green Rovers,{None: 'home'},2023-2024,25
+29. december 2023,19:45,5:3,AFC Wimbledon,Colchester United,"{None: 'home', '90': 'away'}",2023-2024,25
+1. january 2024,15:00,3:0,Accrington Stanley,Salford City,"{None: 'home', '33': 'home'}",2023-2024,26
+1. january 2024,15:00,0:1,Colchester United,Gillingham FC,{None: 'away'},2023-2024,26
+1. january 2024,15:00,3:1,Crawley Town,Swindon Town,"{None: 'home', '90': 'away'}",2023-2024,26
+1. january 2024,15:00,1:0,Crewe Alexandra,Bradford City,{'13': 'home'},2023-2024,26
+1. january 2024,15:00,3:0,Doncaster Rovers,Milton Keynes Dons,{None: 'home'},2023-2024,26
+1. january 2024,15:00,2:2,Morecambe FC,Harrogate Town,"{None: 'away', '90': 'home'}",2023-2024,26
+1. january 2024,15:00,1:1,Forest Green Rovers,AFC Wimbledon,{None: 'away'},2023-2024,26
+1. january 2024,15:00,1:6,Grimsby Town,Walsall FC,"{None: 'away', '55': 'away', '90': 'away'}",2023-2024,26
+1. january 2024,15:00,0:2,Stockport County,Mansfield Town,"{None: 'away', '90': 'away'}",2023-2024,26
+1. january 2024,15:00,1:1,Sutton United,Newport County,{None: 'home'},2023-2024,26
+1. january 2024,15:00,4:2,Tranmere Rovers,Notts County,"{None: 'home', '90': 'home'}",2023-2024,26
+1. january 2024,15:00,4:1,Wrexham AFC,Barrow AFC,"{None: 'home', '45': 'home'}",2023-2024,26
+6. january 2024,13:00,3:1,Harrogate Town,Doncaster Rovers,{None: 'home'},2023-2024,27
+6. january 2024,15:00,1:0,Barrow AFC,Tranmere Rovers,{None: 'home'},2023-2024,27
+6. january 2024,15:00,2:4,Bradford City,Crawley Town,"{None: 'away', '79': 'home', '90': 'away'}",2023-2024,27
+6. january 2024,15:00,0:1,Mansfield Town,Crewe Alexandra,{None: 'away'},2023-2024,27
+6. january 2024,15:00,,Milton Keynes Dons,Wrexham AFC,{},2023-2024,27
+6. january 2024,15:00,,Milton Keynes Dons,Wrexham AFC,{},2023-2024,27
+6. january 2024,15:00,,Newport County,Accrington Stanley,{},2023-2024,27
+6. january 2024,15:00,,Newport County,Accrington Stanley,{},2023-2024,27

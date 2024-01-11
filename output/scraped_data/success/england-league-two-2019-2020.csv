@@ -1,0 +1,441 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+3. august 2019,12:30,2:0,Salford City,Stevenage FC,{None: 'home'},2019-2020,1
+3. august 2019,15:00,0:0,Bradford City,Cambridge United,,2019-2020,1
+3. august 2019,15:00,2:1,Carlisle United,Crawley Town,{None: 'home'},2019-2020,1
+3. august 2019,15:00,1:1,Colchester United,Port Vale FC,"{'5': 'away', None: 'home'}",2019-2020,1
+3. august 2019,15:00,0:3,Crewe Alexandra,Plymouth Argyle,{None: 'away'},2019-2020,1
+3. august 2019,15:00,1:0,Exeter City,Macclesfield Town,{None: 'home'},2019-2020,1
+3. august 2019,15:00,1:0,Forest Green Rovers,Oldham Athletic,{None: 'home'},2019-2020,1
+3. august 2019,15:00,1:0,Leyton Orient,Cheltenham Town,{None: 'home'},2019-2020,1
+3. august 2019,15:00,0:2,Morecambe FC,Grimsby Town,{None: 'away'},2019-2020,1
+3. august 2019,15:00,2:2,Newport County,Mansfield Town,"{None: 'away', '34': 'home'}",2019-2020,1
+3. august 2019,15:00,0:1,Northampton Town,Walsall FC,{None: 'away'},2019-2020,1
+3. august 2019,15:00,0:2,Scunthorpe United,Swindon Town,{None: 'away'},2019-2020,1
+10. august 2019,13:00,1:1,Grimsby Town,Bradford City,{None: 'home'},2019-2020,2
+10. august 2019,15:00,0:0,Cambridge United,Newport County,,2019-2020,2
+10. august 2019,15:00,4:1,Cheltenham Town,Scunthorpe United,"{None: 'home', '90': 'home'}",2019-2020,2
+10. august 2019,15:00,2:0,Crawley Town,Salford City,"{'36': 'home', None: 'home'}",2019-2020,2
+10. august 2019,15:00,3:0,Macclesfield Town,Leyton Orient,{None: 'home'},2019-2020,2
+10. august 2019,15:00,2:2,Mansfield Town,Morecambe FC,{None: 'home'},2019-2020,2
+10. august 2019,15:00,1:2,Oldham Athletic,Crewe Alexandra,"{None: 'away', '41': 'away'}",2019-2020,2
+10. august 2019,15:00,1:0,Plymouth Argyle,Colchester United,{None: 'home'},2019-2020,2
+10. august 2019,15:00,1:1,Port Vale FC,Northampton Town,{None: 'away'},2019-2020,2
+10. august 2019,15:00,0:1,Stevenage FC,Exeter City,{None: 'away'},2019-2020,2
+10. august 2019,15:00,3:2,Swindon Town,Carlisle United,{None: 'away'},2019-2020,2
+10. august 2019,15:00,1:1,Walsall FC,Forest Green Rovers,{None: 'home'},2019-2020,2
+17. august 2019,15:00,3:0,Bradford City,Oldham Athletic,{None: 'home'},2019-2020,3
+17. august 2019,15:00,0:2,Carlisle United,Mansfield Town,{None: 'away'},2019-2020,3
+17. august 2019,15:00,1:2,Colchester United,Cambridge United,"{'9': 'home', None: 'away'}",2019-2020,3
+17. august 2019,15:00,1:0,Crewe Alexandra,Walsall FC,{None: 'home'},2019-2020,3
+17. august 2019,15:00,1:1,Exeter City,Swindon Town,{None: 'away'},2019-2020,3
+17. august 2019,15:00,1:0,Forest Green Rovers,Grimsby Town,{None: 'home'},2019-2020,3
+17. august 2019,15:00,0:0,Leyton Orient,Stevenage FC,,2019-2020,3
+17. august 2019,15:00,0:0,Morecambe FC,Cheltenham Town,,2019-2020,3
+17. august 2019,15:00,1:0,Newport County,Plymouth Argyle,{None: 'home'},2019-2020,3
+17. august 2019,15:00,1:2,Northampton Town,Macclesfield Town,{None: 'away'},2019-2020,3
+17. august 2019,15:00,1:1,Salford City,Port Vale FC,{None: 'home'},2019-2020,3
+17. august 2019,15:00,2:2,Scunthorpe United,Crawley Town,{None: 'away'},2019-2020,3
+20. august 2019,19:45,3:2,Cambridge United,Scunthorpe United,{None: 'home'},2019-2020,4
+20. august 2019,19:45,2:0,Cheltenham Town,Carlisle United,{None: 'home'},2019-2020,4
+20. august 2019,19:45,1:2,Crawley Town,Crewe Alexandra,{None: 'away'},2019-2020,4
+20. august 2019,19:45,2:2,Grimsby Town,Colchester United,"{None: 'home', '48': 'home'}",2019-2020,4
+20. august 2019,19:45,0:1,Macclesfield Town,Morecambe FC,{None: 'away'},2019-2020,4
+20. august 2019,19:45,2:3,Mansfield Town,Leyton Orient,"{'12': 'home', '29': 'home', None: 'away'}",2019-2020,4
+20. august 2019,19:45,0:0,Oldham Athletic,Exeter City,,2019-2020,4
+20. august 2019,19:45,2:2,Plymouth Argyle,Salford City,"{None: 'away', '89': 'home'}",2019-2020,4
+20. august 2019,19:45,2:1,Port Vale FC,Forest Green Rovers,{None: 'home'},2019-2020,4
+20. august 2019,19:45,0:1,Stevenage FC,Bradford City,{'42': 'away'},2019-2020,4
+20. august 2019,19:45,0:1,Swindon Town,Northampton Town,{None: 'away'},2019-2020,4
+20. august 2019,19:45,0:0,Walsall FC,Newport County,,2019-2020,4
+24. august 2019,15:00,0:1,Bradford City,Forest Green Rovers,{None: 'away'},2019-2020,5
+24. august 2019,15:00,1:2,Cambridge United,Oldham Athletic,{None: 'away'},2019-2020,5
+24. august 2019,15:00,2:2,Carlisle United,Salford City,"{None: 'home', '33': 'away'}",2019-2020,5
+24. august 2019,15:00,2:2,Cheltenham Town,Swindon Town,{None: 'home'},2019-2020,5
+24. august 2019,15:00,1:0,Colchester United,Northampton Town,{'66': 'home'},2019-2020,5
+24. august 2019,15:00,5:2,Grimsby Town,Port Vale FC,"{'13': 'away', None: 'home'}",2019-2020,5
+24. august 2019,15:00,2:3,Leyton Orient,Crawley Town,"{None: 'away', '53': 'home'}",2019-2020,5
+24. august 2019,15:00,1:0,Macclesfield Town,Scunthorpe United,{'54': 'home'},2019-2020,5
+24. august 2019,15:00,0:0,Mansfield Town,Stevenage FC,,2019-2020,5
+24. august 2019,15:00,2:3,Morecambe FC,Exeter City,{None: 'away'},2019-2020,5
+24. august 2019,15:00,1:0,Newport County,Crewe Alexandra,{None: 'home'},2019-2020,5
+24. august 2019,15:00,3:0,Plymouth Argyle,Walsall FC,{None: 'home'},2019-2020,5
+31. august 2019,15:00,1:0,Crawley Town,Cheltenham Town,{None: 'home'},2019-2020,6
+31. august 2019,15:00,2:1,Crewe Alexandra,Bradford City,{None: 'home'},2019-2020,6
+31. august 2019,15:00,1:0,Exeter City,Mansfield Town,{None: 'home'},2019-2020,6
+31. august 2019,15:00,0:2,Forest Green Rovers,Newport County,{None: 'away'},2019-2020,6
+31. august 2019,15:00,3:1,Northampton Town,Plymouth Argyle,"{'7': 'home', None: 'home'}",2019-2020,6
+31. august 2019,15:00,0:1,Oldham Athletic,Colchester United,{None: 'away'},2019-2020,6
+31. august 2019,15:00,1:0,Port Vale FC,Cambridge United,{'84': 'home'},2019-2020,6
+31. august 2019,15:00,1:1,Salford City,Leyton Orient,"{None: 'home', '87': 'away'}",2019-2020,6
+31. august 2019,15:00,0:1,Scunthorpe United,Carlisle United,{None: 'away'},2019-2020,6
+31. august 2019,15:00,2:2,Stevenage FC,Macclesfield Town,"{None: 'home', '85': 'away'}",2019-2020,6
+31. august 2019,15:00,3:1,Swindon Town,Morecambe FC,{None: 'home'},2019-2020,6
+31. august 2019,15:00,1:3,Walsall FC,Grimsby Town,"{None: 'away', '81': 'away'}",2019-2020,6
+7. september 2019,15:00,2:1,Bradford City,Northampton Town,"{None: 'home', '77': 'home'}",2019-2020,7
+7. september 2019,15:00,0:1,Cambridge United,Forest Green Rovers,{None: 'away'},2019-2020,7
+7. september 2019,15:00,1:3,Carlisle United,Exeter City,{None: 'away'},2019-2020,7
+7. september 2019,15:00,4:2,Cheltenham Town,Stevenage FC,{None: 'home'},2019-2020,7
+7. september 2019,15:00,0:0,Colchester United,Walsall FC,,2019-2020,7
+7. september 2019,15:00,0:2,Grimsby Town,Crewe Alexandra,{None: 'away'},2019-2020,7
+7. september 2019,15:00,1:3,Leyton Orient,Swindon Town,"{None: 'home', '43': 'away'}",2019-2020,7
+7. september 2019,15:00,1:1,Macclesfield Town,Crawley Town,{None: 'away'},2019-2020,7
+7. september 2019,15:00,2:0,Mansfield Town,Scunthorpe United,{None: 'home'},2019-2020,7
+7. september 2019,15:00,2:2,Morecambe FC,Salford City,{None: 'away'},2019-2020,7
+7. september 2019,15:00,1:0,Newport County,Port Vale FC,{None: 'home'},2019-2020,7
+7. september 2019,15:00,2:2,Plymouth Argyle,Oldham Athletic,{None: 'away'},2019-2020,7
+14. september 2019,15:00,1:0,Crawley Town,Mansfield Town,{None: 'home'},2019-2020,8
+14. september 2019,15:00,2:3,Crewe Alexandra,Cambridge United,"{None: 'away', '72': 'away'}",2019-2020,8
+14. september 2019,15:00,2:2,Exeter City,Leyton Orient,"{None: 'away', '90': 'home'}",2019-2020,8
+14. september 2019,15:00,1:0,Forest Green Rovers,Colchester United,{'31': 'home'},2019-2020,8
+14. september 2019,15:00,2:0,Northampton Town,Newport County,{None: 'home'},2019-2020,8
+14. september 2019,15:00,2:2,Oldham Athletic,Grimsby Town,{None: 'away'},2019-2020,8
+14. september 2019,15:00,1:0,Port Vale FC,Plymouth Argyle,{None: 'home'},2019-2020,8
+14. september 2019,15:00,0:2,Salford City,Cheltenham Town,{None: 'away'},2019-2020,8
+14. september 2019,15:00,3:0,Scunthorpe United,Morecambe FC,{None: 'home'},2019-2020,8
+14. september 2019,15:00,2:3,Stevenage FC,Carlisle United,{None: 'away'},2019-2020,8
+14. september 2019,15:00,3:0,Swindon Town,Macclesfield Town,{None: 'home'},2019-2020,8
+14. september 2019,15:00,0:1,Walsall FC,Bradford City,{'83': 'away'},2019-2020,8
+17. september 2019,19:45,0:0,Carlisle United,Forest Green Rovers,,2019-2020,9
+17. september 2019,19:45,3:2,Cheltenham Town,Bradford City,{None: 'home'},2019-2020,9
+17. september 2019,19:45,2:2,Crawley Town,Plymouth Argyle,"{None: 'away', '85': 'home'}",2019-2020,9
+17. september 2019,19:45,2:0,Exeter City,Port Vale FC,"{None: 'home', '89': 'home'}",2019-2020,9
+17. september 2019,19:45,1:2,Leyton Orient,Crewe Alexandra,{None: 'away'},2019-2020,9
+17. september 2019,19:45,1:1,Macclesfield Town,Newport County,{None: 'home'},2019-2020,9
+17. september 2019,19:45,0:4,Mansfield Town,Cambridge United,"{None: 'away', '90': 'away'}",2019-2020,9
+17. september 2019,19:45,0:1,Morecambe FC,Walsall FC,{None: 'away'},2019-2020,9
+17. september 2019,19:45,1:0,Salford City,Grimsby Town,{None: 'home'},2019-2020,9
+17. september 2019,19:45,2:2,Scunthorpe United,Oldham Athletic,{None: 'home'},2019-2020,9
+17. september 2019,19:45,0:1,Stevenage FC,Northampton Town,{None: 'away'},2019-2020,9
+17. september 2019,19:45,0:3,Swindon Town,Colchester United,{None: 'away'},2019-2020,9
+21. september 2019,15:00,3:1,Bradford City,Carlisle United,{None: 'home'},2019-2020,10
+21. september 2019,15:00,0:1,Cambridge United,Swindon Town,{None: 'away'},2019-2020,10
+21. september 2019,15:00,2:1,Colchester United,Leyton Orient,{None: 'away'},2019-2020,10
+21. september 2019,15:00,4:1,Crewe Alexandra,Salford City,{None: 'home'},2019-2020,10
+21. september 2019,15:00,0:0,Forest Green Rovers,Stevenage FC,,2019-2020,10
+21. september 2019,15:00,1:0,Grimsby Town,Macclesfield Town,{None: 'home'},2019-2020,10
+21. september 2019,15:00,1:1,Newport County,Exeter City,"{None: 'away', '64': 'home'}",2019-2020,10
+21. september 2019,15:00,2:2,Northampton Town,Crawley Town,"{'15': 'home', None: 'away', '90': 'away'}",2019-2020,10
+21. september 2019,15:00,3:1,Oldham Athletic,Morecambe FC,{None: 'home'},2019-2020,10
+21. september 2019,15:00,0:2,Plymouth Argyle,Cheltenham Town,"{None: 'away', '90': 'away'}",2019-2020,10
+21. september 2019,15:00,2:2,Port Vale FC,Mansfield Town,"{None: 'home', '75': 'away'}",2019-2020,10
+21. september 2019,15:00,1:0,Walsall FC,Scunthorpe United,{None: 'home'},2019-2020,10
+28. september 2019,15:00,1:0,Carlisle United,Oldham Athletic,{None: 'home'},2019-2020,11
+28. september 2019,15:00,1:1,Cheltenham Town,Crewe Alexandra,{None: 'away'},2019-2020,11
+28. september 2019,15:00,2:3,Crawley Town,Walsall FC,{None: 'home'},2019-2020,11
+28. september 2019,15:00,1:3,Exeter City,Grimsby Town,"{None: 'home', '59': 'away'}",2019-2020,11
+28. september 2019,15:00,3:3,Leyton Orient,Port Vale FC,{None: 'home'},2019-2020,11
+28. september 2019,15:00,1:1,Macclesfield Town,Colchester United,{None: 'away'},2019-2020,11
+28. september 2019,15:00,0:1,Mansfield Town,Plymouth Argyle,{None: 'away'},2019-2020,11
+28. september 2019,15:00,2:2,Morecambe FC,Northampton Town,{None: 'home'},2019-2020,11
+28. september 2019,15:00,0:4,Salford City,Forest Green Rovers,{None: 'away'},2019-2020,11
+28. september 2019,15:00,1:1,Scunthorpe United,Bradford City,"{'13': 'home', None: 'away'}",2019-2020,11
+28. september 2019,15:00,1:1,Stevenage FC,Cambridge United,{None: 'away'},2019-2020,11
+28. september 2019,15:00,0:2,Swindon Town,Newport County,{None: 'away'},2019-2020,11
+5. october 2019,15:00,2:1,Bradford City,Swindon Town,{None: 'home'},2019-2020,12
+5. october 2019,15:00,2:2,Cambridge United,Macclesfield Town,{None: 'home'},2019-2020,12
+5. october 2019,15:00,3:1,Colchester United,Stevenage FC,"{None: 'home', '82': 'home'}",2019-2020,12
+5. october 2019,15:00,1:1,Crewe Alexandra,Exeter City,{None: 'home'},2019-2020,12
+5. october 2019,15:00,3:1,Forest Green Rovers,Crawley Town,"{None: 'away', '55': 'home'}",2019-2020,12
+5. october 2019,15:00,0:1,Grimsby Town,Mansfield Town,{None: 'away'},2019-2020,12
+5. october 2019,15:00,1:0,Newport County,Carlisle United,{None: 'home'},2019-2020,12
+5. october 2019,15:00,0:1,Northampton Town,Leyton Orient,{None: 'away'},2019-2020,12
+5. october 2019,15:00,1:1,Oldham Athletic,Cheltenham Town,{None: 'away'},2019-2020,12
+5. october 2019,15:00,2:2,Plymouth Argyle,Scunthorpe United,{None: 'away'},2019-2020,12
+5. october 2019,15:00,3:1,Port Vale FC,Morecambe FC,{None: 'home'},2019-2020,12
+5. october 2019,15:00,0:3,Walsall FC,Salford City,{None: 'away'},2019-2020,12
+12. october 2019,15:00,2:4,Carlisle United,Crewe Alexandra,"{None: 'away', '85': 'away'}",2019-2020,13
+12. october 2019,15:00,2:1,Crawley Town,Colchester United,{None: 'home'},2019-2020,13
+12. october 2019,15:00,1:0,Exeter City,Forest Green Rovers,{None: 'home'},2019-2020,13
+12. october 2019,15:00,3:1,Leyton Orient,Walsall FC,{None: 'home'},2019-2020,13
+12. october 2019,15:00,2:1,Macclesfield Town,Port Vale FC,{None: 'home'},2019-2020,13
+12. october 2019,15:00,6:1,Mansfield Town,Oldham Athletic,"{None: 'home', '56': 'home', '83': 'home'}",2019-2020,13
+12. october 2019,15:00,1:2,Morecambe FC,Bradford City,{None: 'home'},2019-2020,13
+12. october 2019,15:00,1:0,Salford City,Cambridge United,{None: 'home'},2019-2020,13
+12. october 2019,15:00,3:0,Scunthorpe United,Northampton Town,{None: 'home'},2019-2020,13
+12. october 2019,15:00,2:1,Stevenage FC,Grimsby Town,{None: 'away'},2019-2020,13
+12. october 2019,15:00,1:1,Swindon Town,Plymouth Argyle,{None: 'away'},2019-2020,13
+19. october 2019,15:00,2:1,Bradford City,Crawley Town,{None: 'away'},2019-2020,14
+19. october 2019,15:00,4:0,Cambridge United,Exeter City,{None: 'home'},2019-2020,14
+19. october 2019,15:00,0:1,Colchester United,Morecambe FC,{None: 'away'},2019-2020,14
+19. october 2019,15:00,3:1,Crewe Alexandra,Swindon Town,{None: 'home'},2019-2020,14
+19. october 2019,15:00,2:2,Forest Green Rovers,Mansfield Town,{None: 'away'},2019-2020,14
+19. october 2019,15:00,0:4,Grimsby Town,Leyton Orient,"{None: 'away', '85': 'away'}",2019-2020,14
+19. october 2019,15:00,2:1,Newport County,Scunthorpe United,"{None: 'home', '49': 'away'}",2019-2020,14
+19. october 2019,15:00,2:0,Northampton Town,Salford City,"{'35': 'home', None: 'home'}",2019-2020,14
+19. october 2019,15:00,0:1,Oldham Athletic,Macclesfield Town,{None: 'away'},2019-2020,14
+19. october 2019,15:00,2:0,Plymouth Argyle,Carlisle United,{None: 'home'},2019-2020,14
+19. october 2019,15:00,1:1,Port Vale FC,Stevenage FC,"{None: 'home', '23': 'away'}",2019-2020,14
+19. october 2019,15:00,1:2,Walsall FC,Cheltenham Town,"{None: 'away', '52': 'home'}",2019-2020,14
+22. october 2019,19:45,1:2,Bradford City,Port Vale FC,"{None: 'away', '45': 'home'}",2019-2020,15
+22. october 2019,19:45,0:0,Cambridge United,Grimsby Town,,2019-2020,15
+22. october 2019,19:45,0:2,Carlisle United,Northampton Town,{None: 'away'},2019-2020,15
+22. october 2019,19:45,3:0,Cheltenham Town,Macclesfield Town,{None: 'home'},2019-2020,15
+22. october 2019,19:45,0:0,Crewe Alexandra,Colchester United,,2019-2020,15
+22. october 2019,19:45,1:2,Mansfield Town,Salford City,{None: 'home'},2019-2020,15
+22. october 2019,19:45,0:2,Morecambe FC,Forest Green Rovers,{None: 'away'},2019-2020,15
+22. october 2019,19:45,1:1,Newport County,Crawley Town,"{'35': 'away', '74': 'home'}",2019-2020,15
+22. october 2019,19:45,2:0,Oldham Athletic,Walsall FC,{None: 'home'},2019-2020,15
+22. october 2019,19:45,4:0,Plymouth Argyle,Leyton Orient,"{None: 'home', '45': 'home'}",2019-2020,15
+22. october 2019,19:45,3:1,Scunthorpe United,Exeter City,{None: 'home'},2019-2020,15
+22. october 2019,19:45,1:0,Swindon Town,Stevenage FC,{None: 'home'},2019-2020,15
+26. october 2019,13:00,4:0,Exeter City,Plymouth Argyle,"{'42': 'home', None: 'home'}",2019-2020,16
+26. october 2019,15:00,3:1,Colchester United,Newport County,{None: 'home'},2019-2020,16
+26. october 2019,15:00,0:4,Crawley Town,Swindon Town,{None: 'away'},2019-2020,16
+26. october 2019,15:00,1:1,Leyton Orient,Carlisle United,"{'7': 'home', None: 'away'}",2019-2020,16
+26. october 2019,15:00,2:0,Northampton Town,Cambridge United,"{None: 'home', '45': 'home'}",2019-2020,16
+26. october 2019,15:00,0:0,Port Vale FC,Oldham Athletic,,2019-2020,16
+26. october 2019,15:00,1:1,Salford City,Scunthorpe United,{None: 'home'},2019-2020,16
+26. october 2019,15:00,1:0,Stevenage FC,Morecambe FC,{None: 'home'},2019-2020,16
+26. october 2019,15:00,1:2,Walsall FC,Mansfield Town,{None: 'away'},2019-2020,16
+26. november 2019,19:45,0:0,Forest Green Rovers,Crewe Alexandra,,2019-2020,16
+26. november 2019,19:45,0:0,Grimsby Town,Cheltenham Town,,2019-2020,16
+30. november 2019,15:00,1:1,Macclesfield Town,Bradford City,"{'32': 'home', None: 'away'}",2019-2020,16
+2. november 2019,15:00,2:0,Bradford City,Exeter City,"{'31': 'home', None: 'home'}",2019-2020,17
+2. november 2019,15:00,2:1,Cambridge United,Crawley Town,{None: 'home'},2019-2020,17
+2. november 2019,15:00,2:1,Carlisle United,Macclesfield Town,{None: 'home'},2019-2020,17
+2. november 2019,15:00,1:2,Cheltenham Town,Forest Green Rovers,{None: 'home'},2019-2020,17
+2. november 2019,15:00,0:1,Crewe Alexandra,Port Vale FC,{None: 'away'},2019-2020,17
+2. november 2019,15:00,2:3,Mansfield Town,Colchester United,{None: 'home'},2019-2020,17
+2. november 2019,15:00,1:0,Morecambe FC,Leyton Orient,{None: 'home'},2019-2020,17
+2. november 2019,15:00,1:2,Newport County,Salford City,"{None: 'away', '45': 'home'}",2019-2020,17
+2. november 2019,15:00,2:2,Oldham Athletic,Northampton Town,{None: 'home'},2019-2020,17
+2. november 2019,15:00,0:0,Scunthorpe United,Stevenage FC,,2019-2020,17
+2. november 2019,15:00,2:1,Swindon Town,Walsall FC,{None: 'away'},2019-2020,17
+3. march 2020,19:45,3:0,Plymouth Argyle,Grimsby Town,{None: 'home'},2019-2020,17
+16. november 2019,15:00,1:1,Crawley Town,Morecambe FC,"{'44': 'home', None: 'away'}",2019-2020,18
+16. november 2019,15:00,0:0,Exeter City,Cheltenham Town,,2019-2020,18
+16. november 2019,15:00,0:1,Forest Green Rovers,Plymouth Argyle,{None: 'away'},2019-2020,18
+16. november 2019,15:00,0:2,Leyton Orient,Scunthorpe United,{None: 'away'},2019-2020,18
+16. november 2019,15:00,0:0,Macclesfield Town,Mansfield Town,,2019-2020,18
+16. november 2019,15:00,4:1,Northampton Town,Crewe Alexandra,"{None: 'home', '24': 'home'}",2019-2020,18
+16. november 2019,15:00,2:1,Port Vale FC,Carlisle United,{None: 'home'},2019-2020,18
+16. november 2019,15:00,2:3,Salford City,Swindon Town,"{'4': 'home', None: 'away', '54': 'away', '90': 'home'}",2019-2020,18
+16. november 2019,15:00,2:1,Walsall FC,Cambridge United,{None: 'away'},2019-2020,18
+14. january 2020,19:45,0:0,Stevenage FC,Oldham Athletic,,2019-2020,18
+21. january 2020,19:45,0:0,Colchester United,Bradford City,,2019-2020,18
+25. february 2020,19:45,4:2,Grimsby Town,Newport County,{None: 'home'},2019-2020,18
+23. november 2019,15:00,0:0,Carlisle United,Cambridge United,,2019-2020,19
+23. november 2019,15:00,1:1,Cheltenham Town,Colchester United,"{None: 'away', '70': 'home'}",2019-2020,19
+23. november 2019,15:00,0:1,Crawley Town,Exeter City,{None: 'away'},2019-2020,19
+23. november 2019,15:00,5:0,Crewe Alexandra,Morecambe FC,{None: 'home'},2019-2020,19
+23. november 2019,15:00,2:4,Leyton Orient,Forest Green Rovers,{None: 'away'},2019-2020,19
+23. november 2019,15:00,0:1,Newport County,Oldham Athletic,{None: 'away'},2019-2020,19
+23. november 2019,15:00,2:0,Northampton Town,Grimsby Town,{None: 'home'},2019-2020,19
+23. november 2019,15:00,2:1,Plymouth Argyle,Bradford City,"{None: 'home', '51': 'away'}",2019-2020,19
+23. november 2019,15:00,0:0,Salford City,Macclesfield Town,,2019-2020,19
+23. november 2019,15:00,2:1,Scunthorpe United,Port Vale FC,{None: 'home'},2019-2020,19
+23. november 2019,15:00,1:0,Swindon Town,Mansfield Town,{None: 'home'},2019-2020,19
+23. november 2019,15:00,0:0,Walsall FC,Stevenage FC,,2019-2020,19
+7. december 2019,15:00,1:0,Bradford City,Newport County,{'58': 'home'},2019-2020,20
+7. december 2019,15:00,1:0,Cambridge United,Plymouth Argyle,{None: 'home'},2019-2020,20
+7. december 2019,15:00,1:0,Colchester United,Salford City,{None: 'home'},2019-2020,20
+7. december 2019,15:00,3:2,Exeter City,Northampton Town,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:2,Forest Green Rovers,Scunthorpe United,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:3,Grimsby Town,Swindon Town,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:3,Mansfield Town,Cheltenham Town,{None: 'away'},2019-2020,20
+7. december 2019,15:00,1:1,Morecambe FC,Carlisle United,{None: 'home'},2019-2020,20
+7. december 2019,15:00,1:1,Oldham Athletic,Leyton Orient,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:1,Port Vale FC,Walsall FC,{None: 'away'},2019-2020,20
+7. december 2019,15:00,0:0,Stevenage FC,Crawley Town,,2019-2020,20
+21. january 2020,19:45,1:1,Macclesfield Town,Crewe Alexandra,"{'44': 'home', None: 'away'}",2019-2020,20
+14. december 2019,15:00,0:0,Carlisle United,Grimsby Town,,2019-2020,21
+14. december 2019,15:00,1:1,Cheltenham Town,Cambridge United,{None: 'home'},2019-2020,21
+14. december 2019,15:00,0:0,Crawley Town,Port Vale FC,,2019-2020,21
+14. december 2019,15:00,1:1,Crewe Alexandra,Mansfield Town,{None: 'away'},2019-2020,21
+14. december 2019,15:00,0:0,Leyton Orient,Bradford City,,2019-2020,21
+14. december 2019,15:00,1:1,Newport County,Stevenage FC,{None: 'home'},2019-2020,21
+14. december 2019,15:00,1:0,Northampton Town,Forest Green Rovers,{'45': 'home'},2019-2020,21
+14. december 2019,15:00,3:0,Plymouth Argyle,Morecambe FC,"{None: 'home', '45': 'home'}",2019-2020,21
+14. december 2019,15:00,0:1,Salford City,Exeter City,{None: 'away'},2019-2020,21
+14. december 2019,15:00,2:2,Scunthorpe United,Colchester United,{None: 'away'},2019-2020,21
+14. december 2019,15:00,2:0,Swindon Town,Oldham Athletic,{None: 'home'},2019-2020,21
+14. december 2019,15:00,1:1,Walsall FC,Macclesfield Town,{None: 'home'},2019-2020,21
+21. december 2019,13:00,0:1,Grimsby Town,Scunthorpe United,{None: 'away'},2019-2020,22
+21. december 2019,15:00,1:1,Bradford City,Salford City,{None: 'away'},2019-2020,22
+21. december 2019,15:00,2:3,Cambridge United,Leyton Orient,"{None: 'home', '82': 'home'}",2019-2020,22
+21. december 2019,15:00,3:0,Colchester United,Carlisle United,"{'26': 'home', None: 'home'}",2019-2020,22
+21. december 2019,15:00,3:3,Exeter City,Walsall FC,"{'13': 'away', None: 'home'}",2019-2020,22
+21. december 2019,15:00,2:2,Forest Green Rovers,Swindon Town,{None: 'home'},2019-2020,22
+21. december 2019,15:00,1:1,Mansfield Town,Northampton Town,{None: 'away'},2019-2020,22
+21. december 2019,15:00,2:1,Morecambe FC,Newport County,{None: 'home'},2019-2020,22
+21. december 2019,15:00,2:1,Oldham Athletic,Crawley Town,{None: 'home'},2019-2020,22
+21. december 2019,15:00,1:1,Port Vale FC,Cheltenham Town,"{None: 'away', '39': 'home'}",2019-2020,22
+21. december 2019,15:00,1:5,Stevenage FC,Crewe Alexandra,"{None: 'home', '70': 'away'}",2019-2020,22
+18. february 2020,19:45,1:1,Macclesfield Town,Plymouth Argyle,{None: 'away'},2019-2020,22
+26. december 2019,13:00,1:3,Leyton Orient,Colchester United,{None: 'away'},2019-2020,23
+26. december 2019,15:00,0:0,Carlisle United,Bradford City,,2019-2020,23
+26. december 2019,15:00,0:1,Cheltenham Town,Plymouth Argyle,{None: 'away'},2019-2020,23
+26. december 2019,15:00,4:0,Crawley Town,Northampton Town,{None: 'home'},2019-2020,23
+26. december 2019,15:00,1:0,Exeter City,Newport County,{None: 'home'},2019-2020,23
+26. december 2019,15:00,1:1,Macclesfield Town,Grimsby Town,"{'49': 'home', None: 'away'}",2019-2020,23
+26. december 2019,15:00,2:2,Mansfield Town,Port Vale FC,{None: 'home'},2019-2020,23
+26. december 2019,15:00,1:2,Morecambe FC,Oldham Athletic,{None: 'away'},2019-2020,23
+26. december 2019,15:00,3:1,Salford City,Crewe Alexandra,"{None: 'away', '85': 'home'}",2019-2020,23
+26. december 2019,15:00,0:2,Scunthorpe United,Walsall FC,{None: 'away'},2019-2020,23
+26. december 2019,15:00,0:0,Stevenage FC,Forest Green Rovers,,2019-2020,23
+26. december 2019,15:00,4:0,Swindon Town,Cambridge United,"{'5': 'home', None: 'home'}",2019-2020,23
+29. december 2019,15:00,2:0,Bradford City,Mansfield Town,"{'13': 'home', '83': 'home'}",2019-2020,24
+29. december 2019,15:00,1:0,Cambridge United,Morecambe FC,{None: 'home'},2019-2020,24
+29. december 2019,15:00,2:2,Colchester United,Exeter City,"{None: 'home', '77': 'away'}",2019-2020,24
+29. december 2019,15:00,3:1,Crewe Alexandra,Scunthorpe United,{None: 'home'},2019-2020,24
+29. december 2019,15:00,1:0,Forest Green Rovers,Macclesfield Town,{None: 'home'},2019-2020,24
+29. december 2019,15:00,1:1,Grimsby Town,Crawley Town,{None: 'away'},2019-2020,24
+29. december 2019,15:00,1:1,Newport County,Leyton Orient,{None: 'home'},2019-2020,24
+29. december 2019,15:00,1:1,Northampton Town,Cheltenham Town,"{'3': 'away', None: 'home'}",2019-2020,24
+29. december 2019,15:00,1:4,Oldham Athletic,Salford City,{None: 'home'},2019-2020,24
+29. december 2019,15:00,2:1,Plymouth Argyle,Stevenage FC,"{'23': 'home', None: 'home'}",2019-2020,24
+29. december 2019,15:00,2:0,Port Vale FC,Swindon Town,{None: 'home'},2019-2020,24
+29. december 2019,15:00,1:2,Walsall FC,Carlisle United,{None: 'away'},2019-2020,24
+1. january 2020,15:00,1:0,Bradford City,Morecambe FC,{None: 'home'},2019-2020,25
+1. january 2020,15:00,2:3,Cambridge United,Mansfield Town,{None: 'away'},2019-2020,25
+1. january 2020,15:00,1:1,Colchester United,Crawley Town,{None: 'away'},2019-2020,25
+1. january 2020,15:00,4:1,Crewe Alexandra,Carlisle United,{None: 'away'},2019-2020,25
+1. january 2020,15:00,0:1,Forest Green Rovers,Exeter City,{None: 'away'},2019-2020,25
+1. january 2020,15:00,1:0,Grimsby Town,Salford City,{None: 'home'},2019-2020,25
+1. january 2020,15:00,1:1,Newport County,Cheltenham Town,{None: 'away'},2019-2020,25
+1. january 2020,15:00,1:0,Northampton Town,Stevenage FC,{None: 'home'},2019-2020,25
+1. january 2020,15:00,0:2,Oldham Athletic,Scunthorpe United,{None: 'away'},2019-2020,25
+1. january 2020,15:00,1:2,Plymouth Argyle,Swindon Town,{None: 'away'},2019-2020,25
+1. january 2020,15:00,2:2,Port Vale FC,Macclesfield Town,{None: 'home'},2019-2020,25
+1. january 2020,15:00,1:0,Walsall FC,Leyton Orient,{None: 'home'},2019-2020,25
+4. january 2020,15:00,3:0,Cheltenham Town,Oldham Athletic,{None: 'home'},2019-2020,26
+4. january 2020,15:00,1:1,Crawley Town,Forest Green Rovers,"{None: 'home', '63': 'away'}",2019-2020,26
+4. january 2020,15:00,1:0,Macclesfield Town,Cambridge United,{None: 'home'},2019-2020,26
+4. january 2020,15:00,0:1,Mansfield Town,Grimsby Town,{'66': 'away'},2019-2020,26
+4. january 2020,15:00,1:2,Salford City,Walsall FC,{None: 'home'},2019-2020,26
+4. january 2020,15:00,1:3,Scunthorpe United,Plymouth Argyle,{None: 'home'},2019-2020,26
+4. january 2020,15:00,0:0,Stevenage FC,Colchester United,,2019-2020,26
+4. january 2020,15:00,1:1,Swindon Town,Bradford City,"{'11': 'home', None: 'away'}",2019-2020,26
+14. january 2020,19:45,2:1,Morecambe FC,Port Vale FC,{None: 'away'},2019-2020,26
+21. january 2020,19:45,1:1,Leyton Orient,Northampton Town,"{None: 'away', '85': 'home'}",2019-2020,26
+3. march 2020,19:45,1:1,Exeter City,Crewe Alexandra,{None: 'away'},2019-2020,26
+10. march 2020,19:45,2:0,Carlisle United,Newport County,"{None: 'home', '33': 'home'}",2019-2020,26
+11. january 2020,15:00,0:3,Carlisle United,Plymouth Argyle,{None: 'away'},2019-2020,27
+11. january 2020,15:00,3:1,Cheltenham Town,Walsall FC,{None: 'away'},2019-2020,27
+11. january 2020,15:00,2:1,Crawley Town,Bradford City,{None: 'away'},2019-2020,27
+11. january 2020,15:00,2:0,Exeter City,Cambridge United,{None: 'home'},2019-2020,27
+11. january 2020,15:00,1:1,Leyton Orient,Grimsby Town,"{None: 'away', '90': 'home'}",2019-2020,27
+11. january 2020,15:00,1:1,Macclesfield Town,Oldham Athletic,"{None: 'away', '90': 'home'}",2019-2020,27
+11. january 2020,15:00,3:4,Mansfield Town,Forest Green Rovers,{None: 'away'},2019-2020,27
+11. january 2020,15:00,1:1,Morecambe FC,Colchester United,{None: 'home'},2019-2020,27
+11. january 2020,15:00,1:2,Salford City,Northampton Town,{None: 'away'},2019-2020,27
+11. january 2020,15:00,1:2,Scunthorpe United,Newport County,{None: 'away'},2019-2020,27
+11. january 2020,15:00,0:1,Stevenage FC,Port Vale FC,{'88': 'away'},2019-2020,27
+11. january 2020,15:00,3:1,Swindon Town,Crewe Alexandra,{None: 'home'},2019-2020,27
+18. january 2020,15:00,2:2,Bradford City,Scunthorpe United,{None: 'away'},2019-2020,28
+18. january 2020,15:00,0:4,Cambridge United,Stevenage FC,{None: 'away'},2019-2020,28
+18. january 2020,15:00,2:1,Colchester United,Macclesfield Town,"{None: 'away', '16': 'home'}",2019-2020,28
+18. january 2020,15:00,1:0,Crewe Alexandra,Cheltenham Town,{None: 'home'},2019-2020,28
+18. january 2020,15:00,1:2,Forest Green Rovers,Salford City,{None: 'away'},2019-2020,28
+18. january 2020,15:00,0:1,Grimsby Town,Exeter City,{None: 'away'},2019-2020,28
+18. january 2020,15:00,2:0,Newport County,Swindon Town,{None: 'home'},2019-2020,28
+18. january 2020,15:00,4:1,Northampton Town,Morecambe FC,{None: 'home'},2019-2020,28
+18. january 2020,15:00,1:1,Oldham Athletic,Carlisle United,{None: 'home'},2019-2020,28
+18. january 2020,15:00,3:1,Plymouth Argyle,Mansfield Town,{None: 'home'},2019-2020,28
+18. january 2020,15:00,1:0,Port Vale FC,Leyton Orient,{None: 'home'},2019-2020,28
+18. january 2020,15:00,2:1,Walsall FC,Crawley Town,{None: 'home'},2019-2020,28
+25. january 2020,15:00,2:1,Carlisle United,Walsall FC,"{None: 'away', '43': 'home'}",2019-2020,29
+25. january 2020,15:00,3:2,Crawley Town,Grimsby Town,{None: 'home'},2019-2020,29
+25. january 2020,15:00,0:0,Exeter City,Colchester United,,2019-2020,29
+25. january 2020,15:00,2:1,Leyton Orient,Newport County,"{'81': 'home', None: 'away'}",2019-2020,29
+25. january 2020,15:00,2:1,Macclesfield Town,Forest Green Rovers,{None: 'home'},2019-2020,29
+25. january 2020,15:00,3:0,Mansfield Town,Bradford City,{None: 'home'},2019-2020,29
+25. january 2020,15:00,1:1,Morecambe FC,Cambridge United,{None: 'away'},2019-2020,29
+25. january 2020,15:00,1:1,Salford City,Oldham Athletic,{None: 'away'},2019-2020,29
+25. january 2020,15:00,2:2,Scunthorpe United,Crewe Alexandra,{None: 'home'},2019-2020,29
+25. january 2020,15:00,1:2,Stevenage FC,Plymouth Argyle,{None: 'home'},2019-2020,29
+25. january 2020,15:00,3:0,Swindon Town,Port Vale FC,"{'41': 'home', None: 'home'}",2019-2020,29
+25. february 2020,19:45,2:1,Cheltenham Town,Northampton Town,{None: 'home'},2019-2020,29
+28. january 2020,19:45,1:1,Bradford City,Cheltenham Town,"{'11': 'home', None: 'away'}",2019-2020,30
+28. january 2020,19:45,0:4,Cambridge United,Salford City,"{None: 'away', '52': 'away'}",2019-2020,30
+28. january 2020,19:45,3:1,Colchester United,Swindon Town,{None: 'home'},2019-2020,30
+28. january 2020,19:45,2:0,Crewe Alexandra,Leyton Orient,{None: 'home'},2019-2020,30
+28. january 2020,19:45,1:4,Forest Green Rovers,Carlisle United,"{None: 'away', '47': 'away', '59': 'home'}",2019-2020,30
+28. january 2020,19:45,3:1,Grimsby Town,Stevenage FC,"{'17': 'home', '63': 'home', None: 'away'}",2019-2020,30
+28. january 2020,19:45,1:0,Newport County,Macclesfield Town,{None: 'home'},2019-2020,30
+28. january 2020,19:45,3:0,Northampton Town,Scunthorpe United,"{None: 'home', '70': 'home'}",2019-2020,30
+28. january 2020,19:45,3:1,Oldham Athletic,Mansfield Town,{None: 'away'},2019-2020,30
+28. january 2020,19:45,3:1,Port Vale FC,Exeter City,"{None: 'home', '50': 'home'}",2019-2020,30
+28. january 2020,19:45,0:2,Walsall FC,Morecambe FC,{None: 'away'},2019-2020,30
+28. january 2020,20:15,2:2,Plymouth Argyle,Crawley Town,"{None: 'away', '44': 'home'}",2019-2020,30
+1. february 2020,15:00,2:1,Cambridge United,Colchester United,{None: 'home'},2019-2020,31
+1. february 2020,15:00,2:1,Cheltenham Town,Morecambe FC,"{'32': 'home', None: 'away'}",2019-2020,31
+1. february 2020,15:00,3:1,Crawley Town,Scunthorpe United,"{None: 'home', '57': 'away'}",2019-2020,31
+1. february 2020,15:00,2:2,Grimsby Town,Forest Green Rovers,{None: 'home'},2019-2020,31
+1. february 2020,15:00,0:1,Macclesfield Town,Northampton Town,{None: 'away'},2019-2020,31
+1. february 2020,15:00,2:2,Mansfield Town,Carlisle United,{None: 'away'},2019-2020,31
+1. february 2020,15:00,3:0,Oldham Athletic,Bradford City,{None: 'home'},2019-2020,31
+1. february 2020,15:00,1:0,Plymouth Argyle,Newport County,{None: 'home'},2019-2020,31
+1. february 2020,15:00,1:1,Port Vale FC,Salford City,"{'55': 'home', None: 'away'}",2019-2020,31
+1. february 2020,15:00,0:3,Stevenage FC,Leyton Orient,{None: 'away'},2019-2020,31
+1. february 2020,15:00,2:1,Swindon Town,Exeter City,"{'20': 'home', None: 'home'}",2019-2020,31
+1. february 2020,15:00,1:2,Walsall FC,Crewe Alexandra,{None: 'away'},2019-2020,31
+8. february 2020,15:00,1:1,Bradford City,Grimsby Town,{None: 'away'},2019-2020,32
+8. february 2020,15:00,1:1,Carlisle United,Swindon Town,{None: 'home'},2019-2020,32
+8. february 2020,15:00,3:0,Colchester United,Plymouth Argyle,{None: 'home'},2019-2020,32
+8. february 2020,15:00,2:1,Crewe Alexandra,Oldham Athletic,{None: 'home'},2019-2020,32
+8. february 2020,15:00,2:1,Exeter City,Stevenage FC,{None: 'home'},2019-2020,32
+8. february 2020,15:00,1:2,Forest Green Rovers,Walsall FC,"{'52': 'away', None: 'home'}",2019-2020,32
+8. february 2020,15:00,1:1,Leyton Orient,Macclesfield Town,{None: 'away'},2019-2020,32
+8. february 2020,15:00,1:1,Morecambe FC,Mansfield Town,{None: 'home'},2019-2020,32
+8. february 2020,15:00,0:1,Newport County,Cambridge United,{None: 'away'},2019-2020,32
+8. february 2020,15:00,0:1,Northampton Town,Port Vale FC,{None: 'away'},2019-2020,32
+8. february 2020,15:00,0:0,Salford City,Crawley Town,,2019-2020,32
+8. february 2020,15:00,1:0,Scunthorpe United,Cheltenham Town,{None: 'home'},2019-2020,32
+11. february 2020,19:45,3:1,Bradford City,Stevenage FC,{None: 'home'},2019-2020,33
+11. february 2020,19:45,0:1,Carlisle United,Cheltenham Town,{None: 'away'},2019-2020,33
+11. february 2020,19:45,2:3,Colchester United,Grimsby Town,{None: 'away'},2019-2020,33
+11. february 2020,19:45,2:1,Crewe Alexandra,Crawley Town,"{'72': 'home', '84': 'away', None: 'home'}",2019-2020,33
+11. february 2020,19:45,5:1,Exeter City,Oldham Athletic,"{None: 'home', '43': 'home'}",2019-2020,33
+11. february 2020,19:45,2:3,Forest Green Rovers,Port Vale FC,"{None: 'home', '78': 'home'}",2019-2020,33
+11. february 2020,19:45,2:1,Leyton Orient,Mansfield Town,"{None: 'away', '74': 'home'}",2019-2020,33
+11. february 2020,19:45,2:0,Morecambe FC,Macclesfield Town,{None: 'home'},2019-2020,33
+11. february 2020,19:45,0:0,Newport County,Walsall FC,,2019-2020,33
+11. february 2020,19:45,0:1,Northampton Town,Swindon Town,{None: 'away'},2019-2020,33
+11. february 2020,19:45,2:3,Salford City,Plymouth Argyle,{None: 'away'},2019-2020,33
+11. february 2020,19:45,0:2,Scunthorpe United,Cambridge United,{None: 'away'},2019-2020,33
+15. february 2020,15:00,2:1,Cambridge United,Bradford City,{None: 'home'},2019-2020,34
+15. february 2020,15:00,2:1,Cheltenham Town,Leyton Orient,{None: 'home'},2019-2020,34
+15. february 2020,15:00,0:0,Crawley Town,Carlisle United,,2019-2020,34
+15. february 2020,15:00,2:1,Grimsby Town,Morecambe FC,{None: 'away'},2019-2020,34
+15. february 2020,15:00,2:3,Macclesfield Town,Exeter City,{None: 'away'},2019-2020,34
+15. february 2020,15:00,1:0,Mansfield Town,Newport County,{None: 'home'},2019-2020,34
+15. february 2020,15:00,1:1,Oldham Athletic,Forest Green Rovers,{None: 'away'},2019-2020,34
+15. february 2020,15:00,2:1,Plymouth Argyle,Crewe Alexandra,"{None: 'home', '71': 'home'}",2019-2020,34
+15. february 2020,15:00,3:0,Port Vale FC,Colchester United,{None: 'home'},2019-2020,34
+15. february 2020,15:00,0:1,Stevenage FC,Salford City,{None: 'away'},2019-2020,34
+15. february 2020,15:00,3:2,Walsall FC,Northampton Town,{None: 'home'},2019-2020,34
+3. march 2020,19:45,2:0,Swindon Town,Scunthorpe United,{None: 'home'},2019-2020,34
+22. february 2020,15:00,2:2,Carlisle United,Morecambe FC,{None: 'home'},2019-2020,35
+22. february 2020,15:00,1:0,Cheltenham Town,Mansfield Town,{None: 'home'},2019-2020,35
+22. february 2020,15:00,2:0,Crawley Town,Stevenage FC,{None: 'home'},2019-2020,35
+22. february 2020,15:00,2:0,Crewe Alexandra,Macclesfield Town,"{'11': 'home', None: 'home'}",2019-2020,35
+22. february 2020,15:00,2:2,Leyton Orient,Oldham Athletic,"{'13': 'home', None: 'home'}",2019-2020,35
+22. february 2020,15:00,2:1,Newport County,Bradford City,{None: 'home'},2019-2020,35
+22. february 2020,15:00,2:0,Northampton Town,Exeter City,"{None: 'home', '81': 'home'}",2019-2020,35
+22. february 2020,15:00,0:0,Plymouth Argyle,Cambridge United,,2019-2020,35
+22. february 2020,15:00,1:2,Salford City,Colchester United,{None: 'home'},2019-2020,35
+22. february 2020,15:00,1:0,Scunthorpe United,Forest Green Rovers,{None: 'home'},2019-2020,35
+22. february 2020,15:00,3:1,Swindon Town,Grimsby Town,"{None: 'away', '57': 'home'}",2019-2020,35
+22. february 2020,15:00,2:2,Walsall FC,Port Vale FC,{None: 'home'},2019-2020,35
+29. february 2020,15:00,2:1,Bradford City,Plymouth Argyle,{None: 'away'},2019-2020,36
+29. february 2020,15:00,1:2,Cambridge United,Carlisle United,{None: 'home'},2019-2020,36
+29. february 2020,15:00,0:2,Colchester United,Cheltenham Town,{None: 'away'},2019-2020,36
+29. february 2020,15:00,1:1,Exeter City,Crawley Town,{None: 'home'},2019-2020,36
+29. february 2020,15:00,0:3,Grimsby Town,Northampton Town,{None: 'away'},2019-2020,36
+29. february 2020,15:00,0:2,Macclesfield Town,Salford City,{None: 'away'},2019-2020,36
+29. february 2020,15:00,1:1,Morecambe FC,Crewe Alexandra,{None: 'home'},2019-2020,36
+29. february 2020,15:00,5:0,Oldham Athletic,Newport County,{None: 'home'},2019-2020,36
+29. february 2020,15:00,2:2,Port Vale FC,Scunthorpe United,{None: 'away'},2019-2020,36
+7. march 2020,13:00,0:2,Scunthorpe United,Grimsby Town,{None: 'away'},2019-2020,37
+7. march 2020,15:00,0:3,Carlisle United,Colchester United,{None: 'away'},2019-2020,37
+7. march 2020,15:00,0:0,Cheltenham Town,Port Vale FC,,2019-2020,37
+7. march 2020,15:00,3:0,Crawley Town,Oldham Athletic,"{None: 'home', '76': 'home'}",2019-2020,37
+7. march 2020,15:00,3:1,Crewe Alexandra,Stevenage FC,{None: 'away'},2019-2020,37
+7. march 2020,15:00,2:1,Leyton Orient,Cambridge United,{None: 'away'},2019-2020,37
+7. march 2020,15:00,1:0,Newport County,Morecambe FC,{None: 'home'},2019-2020,37
+7. march 2020,15:00,1:2,Northampton Town,Mansfield Town,"{'12': 'away', None: 'home'}",2019-2020,37
+7. march 2020,15:00,3:0,Plymouth Argyle,Macclesfield Town,{None: 'home'},2019-2020,37
+7. march 2020,15:00,2:0,Salford City,Bradford City,{None: 'home'},2019-2020,37
+7. march 2020,15:00,0:2,Swindon Town,Forest Green Rovers,{None: 'away'},2019-2020,37
+7. march 2020,15:00,3:1,Walsall FC,Exeter City,{None: 'home'},2019-2020,37

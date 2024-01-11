@@ -1,0 +1,553 @@
+match_date,match_time,final_score,home_team,away_team,goals,season,round
+12. september 2020,15:00,1:1,Barrow AFC,Stevenage FC,"{'12': 'home', '85': 'away'}",2020-2021,1
+12. september 2020,15:00,0:1,Bolton Wanderers,Forest Green Rovers,{None: 'away'},2020-2021,1
+12. september 2020,15:00,0:0,Bradford City,Colchester United,,2020-2021,1
+12. september 2020,15:00,3:0,Cambridge United,Carlisle United,{None: 'home'},2020-2021,1
+12. september 2020,15:00,1:2,Cheltenham Town,Morecambe FC,"{None: 'away', '78': 'away'}",2020-2021,1
+12. september 2020,15:00,1:0,Walsall FC,Grimsby Town,{None: 'home'},2020-2021,1
+12. september 2020,15:00,0:0,Mansfield Town,Tranmere Rovers,,2020-2021,1
+12. september 2020,15:00,0:1,Oldham Athletic,Leyton Orient,{None: 'away'},2020-2021,1
+12. september 2020,15:00,2:0,Port Vale FC,Crawley Town,{None: 'home'},2020-2021,1
+12. september 2020,15:00,2:2,Salford City,Exeter City,{None: 'home'},2020-2021,1
+12. september 2020,15:00,1:1,Scunthorpe United,Newport County,{None: 'home'},2020-2021,1
+12. september 2020,15:00,0:4,Southend United,Harrogate Town,{None: 'away'},2020-2021,1
+19. september 2020,13:00,2:0,Carlisle United,Southend United,{None: 'home'},2020-2021,2
+19. september 2020,15:00,2:0,Colchester United,Bolton Wanderers,{None: 'home'},2020-2021,2
+19. september 2020,15:00,1:0,Crawley Town,Scunthorpe United,{None: 'home'},2020-2021,2
+19. september 2020,15:00,0:2,Exeter City,Port Vale FC,{None: 'away'},2020-2021,2
+19. september 2020,15:00,0:5,Morecambe FC,Cambridge United,"{None: 'away', '34': 'away'}",2020-2021,2
+19. september 2020,15:00,3:0,Stevenage FC,Oldham Athletic,{None: 'home'},2020-2021,2
+19. september 2020,15:00,2:2,Forest Green Rovers,Bradford City,{None: 'home'},2020-2021,2
+19. september 2020,15:00,0:4,Grimsby Town,Salford City,"{None: 'away', '32': 'away', '63': 'away'}",2020-2021,2
+19. september 2020,15:00,2:2,Harrogate Town,Walsall FC,{None: 'away'},2020-2021,2
+19. september 2020,15:00,2:2,Leyton Orient,Mansfield Town,"{'52': 'away', None: 'home'}",2020-2021,2
+19. september 2020,15:00,2:1,Newport County,Barrow AFC,{None: 'home'},2020-2021,2
+19. september 2020,15:00,0:3,Tranmere Rovers,Cheltenham Town,"{None: 'away', '39': 'away'}",2020-2021,2
+26. september 2020,15:00,1:1,Barrow AFC,Colchester United,{None: 'home'},2020-2021,3
+26. september 2020,15:00,0:2,Bolton Wanderers,Newport County,{None: 'away'},2020-2021,3
+26. september 2020,15:00,2:1,Bradford City,Stevenage FC,{None: 'home'},2020-2021,3
+26. september 2020,15:00,0:0,Cambridge United,Tranmere Rovers,,2020-2021,3
+26. september 2020,15:00,1:2,Mansfield Town,Exeter City,"{None: 'away', '40': 'away'}",2020-2021,3
+26. september 2020,15:00,2:3,Oldham Athletic,Crawley Town,{None: 'home'},2020-2021,3
+26. september 2020,15:00,0:0,Port Vale FC,Harrogate Town,,2020-2021,3
+26. september 2020,15:00,0:0,Salford City,Forest Green Rovers,,2020-2021,3
+26. september 2020,15:00,1:0,Scunthorpe United,Carlisle United,{None: 'home'},2020-2021,3
+26. september 2020,15:00,1:2,Southend United,Morecambe FC,"{'5': 'home', None: 'away'}",2020-2021,3
+13. october 2020,19:00,1:3,Cheltenham Town,Grimsby Town,{None: 'away'},2020-2021,3
+13. october 2020,19:00,2:1,Walsall FC,Leyton Orient,{None: 'home'},2020-2021,3
+3. october 2020,15:00,1:0,Carlisle United,Barrow AFC,{None: 'home'},2020-2021,4
+3. october 2020,15:00,3:3,Colchester United,Oldham Athletic,"{None: 'away', '37': 'home', '52': 'away'}",2020-2021,4
+3. october 2020,15:00,1:1,Crawley Town,Southend United,{None: 'away'},2020-2021,4
+3. october 2020,15:00,2:0,Exeter City,Cambridge United,"{'16': 'home', None: 'home'}",2020-2021,4
+3. october 2020,15:00,1:0,Morecambe FC,Port Vale FC,{'76': 'home'},2020-2021,4
+3. october 2020,15:00,0:1,Stevenage FC,Salford City,{None: 'away'},2020-2021,4
+3. october 2020,15:00,1:1,Forest Green Rovers,Walsall FC,{None: 'home'},2020-2021,4
+3. october 2020,15:00,1:2,Harrogate Town,Bolton Wanderers,{None: 'home'},2020-2021,4
+3. october 2020,15:00,0:2,Leyton Orient,Cheltenham Town,"{'16': 'away', None: 'away'}",2020-2021,4
+3. october 2020,15:00,2:1,Newport County,Mansfield Town,"{None: 'home', '88': 'home'}",2020-2021,4
+3. october 2020,15:00,2:0,Tranmere Rovers,Scunthorpe United,{None: 'home'},2020-2021,4
+22. december 2020,19:00,1:2,Grimsby Town,Bradford City,{None: 'home'},2020-2021,4
+10. october 2020,15:00,1:1,Barrow AFC,Leyton Orient,{None: 'away'},2020-2021,5
+10. october 2020,15:00,0:0,Bolton Wanderers,Grimsby Town,,2020-2021,5
+10. october 2020,15:00,2:1,Cambridge United,Newport County,{None: 'away'},2020-2021,5
+10. october 2020,15:00,2:0,Cheltenham Town,Crawley Town,"{'33': 'home', None: 'home'}",2020-2021,5
+10. october 2020,15:00,1:1,Walsall FC,Colchester United,{None: 'home'},2020-2021,5
+10. october 2020,15:00,0:0,Mansfield Town,Stevenage FC,,2020-2021,5
+10. october 2020,15:00,2:3,Oldham Athletic,Morecambe FC,{None: 'home'},2020-2021,5
+10. october 2020,15:00,0:1,Port Vale FC,Carlisle United,{None: 'away'},2020-2021,5
+10. october 2020,15:00,2:2,Salford City,Tranmere Rovers,{None: 'away'},2020-2021,5
+10. october 2020,15:00,1:4,Scunthorpe United,Forest Green Rovers,{None: 'away'},2020-2021,5
+10. october 2020,15:00,2:2,Southend United,Exeter City,"{None: 'away', '65': 'home'}",2020-2021,5
+12. october 2020,19:45,0:1,Bradford City,Harrogate Town,{None: 'away'},2020-2021,5
+17. october 2020,15:00,1:2,Bolton Wanderers,Oldham Athletic,{None: 'away'},2020-2021,6
+17. october 2020,15:00,3:2,Carlisle United,Colchester United,"{None: 'home', '52': 'away'}",2020-2021,6
+17. october 2020,15:00,4:0,Crawley Town,Morecambe FC,{None: 'home'},2020-2021,6
+17. october 2020,15:00,0:0,Walsall FC,Exeter City,,2020-2021,6
+17. october 2020,15:00,1:0,Forest Green Rovers,Stevenage FC,{None: 'home'},2020-2021,6
+17. october 2020,15:00,1:0,Harrogate Town,Barrow AFC,{None: 'home'},2020-2021,6
+17. october 2020,15:00,1:3,Mansfield Town,Bradford City,"{'8': 'away', None: 'home'}",2020-2021,6
+17. october 2020,15:00,1:0,Newport County,Tranmere Rovers,{None: 'home'},2020-2021,6
+17. october 2020,15:00,1:0,Port Vale FC,Salford City,{None: 'home'},2020-2021,6
+17. october 2020,15:00,0:5,Scunthorpe United,Cambridge United,"{'35': 'away', '44': 'away', '51': 'away', None: 'away'}",2020-2021,6
+17. october 2020,15:00,0:2,Southend United,Cheltenham Town,"{'10': 'away', None: 'away'}",2020-2021,6
+17. october 2020,17:30,2:3,Leyton Orient,Grimsby Town,"{None: 'home', '90': 'away'}",2020-2021,6
+20. october 2020,18:00,1:0,Cheltenham Town,Scunthorpe United,{'5': 'home'},2020-2021,7
+20. october 2020,18:30,1:1,Morecambe FC,Mansfield Town,{None: 'away'},2020-2021,7
+20. october 2020,19:00,3:3,Barrow AFC,Bolton Wanderers,{None: 'away'},2020-2021,7
+20. october 2020,19:00,3:1,Cambridge United,Port Vale FC,"{'3': 'home', '18': 'away', None: 'home'}",2020-2021,7
+20. october 2020,19:00,1:0,Colchester United,Forest Green Rovers,{None: 'home'},2020-2021,7
+20. october 2020,19:00,2:1,Exeter City,Crawley Town,{None: 'home'},2020-2021,7
+20. october 2020,19:00,0:1,Stevenage FC,Newport County,{'8': 'away'},2020-2021,7
+20. october 2020,19:00,1:1,Oldham Athletic,Carlisle United,{None: 'home'},2020-2021,7
+20. october 2020,19:00,0:1,Tranmere Rovers,Leyton Orient,{None: 'away'},2020-2021,7
+20. october 2020,19:45,1:1,Bradford City,Walsall FC,"{None: 'away', '76': 'home'}",2020-2021,7
+20. october 2020,19:45,1:2,Grimsby Town,Harrogate Town,{None: 'away'},2020-2021,7
+20. october 2020,19:45,3:0,Salford City,Southend United,"{'26': 'home', None: 'home'}",2020-2021,7
+24. october 2020,13:00,3:1,Exeter City,Scunthorpe United,{None: 'home'},2020-2021,8
+24. october 2020,15:00,2:2,Barrow AFC,Walsall FC,"{'25': 'home', None: 'home', '58': 'away'}",2020-2021,8
+24. october 2020,15:00,0:3,Bradford City,Newport County,{None: 'away'},2020-2021,8
+24. october 2020,15:00,1:1,Cambridge United,Bolton Wanderers,"{'72': 'home', None: 'away'}",2020-2021,8
+24. october 2020,15:00,0:0,Cheltenham Town,Mansfield Town,,2020-2021,8
+24. october 2020,15:00,2:1,Colchester United,Harrogate Town,{None: 'away'},2020-2021,8
+24. october 2020,15:00,1:2,Morecambe FC,Forest Green Rovers,{None: 'away'},2020-2021,8
+24. october 2020,15:00,0:2,Stevenage FC,Leyton Orient,{None: 'away'},2020-2021,8
+24. october 2020,15:00,1:1,Grimsby Town,Carlisle United,"{None: 'home', '46': 'away'}",2020-2021,8
+24. october 2020,15:00,1:2,Oldham Athletic,Port Vale FC,{None: 'home'},2020-2021,8
+24. october 2020,15:00,1:1,Salford City,Crawley Town,{None: 'away'},2020-2021,8
+24. october 2020,15:00,2:0,Tranmere Rovers,Southend United,{None: 'home'},2020-2021,8
+27. october 2020,18:30,4:0,Crawley Town,Tranmere Rovers,{None: 'home'},2020-2021,9
+27. october 2020,19:00,3:1,Carlisle United,Morecambe FC,"{'1': 'home', None: 'home'}",2020-2021,9
+27. october 2020,19:00,0:2,Walsall FC,Cambridge United,"{'9': 'away', '80': 'away'}",2020-2021,9
+27. october 2020,19:00,1:0,Forest Green Rovers,Grimsby Town,{None: 'home'},2020-2021,9
+27. october 2020,19:00,0:0,Harrogate Town,Stevenage FC,,2020-2021,9
+27. october 2020,19:00,1:1,Leyton Orient,Exeter City,{None: 'away'},2020-2021,9
+27. october 2020,19:00,2:4,Mansfield Town,Barrow AFC,{None: 'home'},2020-2021,9
+27. october 2020,19:00,2:1,Newport County,Colchester United,{None: 'home'},2020-2021,9
+27. october 2020,19:00,2:1,Port Vale FC,Cheltenham Town,{None: 'home'},2020-2021,9
+27. october 2020,19:00,1:2,Southend United,Oldham Athletic,{None: 'away'},2020-2021,9
+27. october 2020,19:00,1:0,Bolton Wanderers,Bradford City,{None: 'home'},2020-2021,9
+12. january 2021,19:00,0:1,Scunthorpe United,Salford City,{None: 'away'},2020-2021,9
+31. october 2020,13:00,1:0,Exeter City,Carlisle United,{None: 'home'},2020-2021,10
+31. october 2020,15:00,1:0,Barrow AFC,Bradford City,{None: 'home'},2020-2021,10
+31. october 2020,15:00,2:1,Cheltenham Town,Forest Green Rovers,"{None: 'home', '73': 'away'}",2020-2021,10
+31. october 2020,15:00,2:1,Crawley Town,Cambridge United,{None: 'home'},2020-2021,10
+31. october 2020,15:00,0:0,Stevenage FC,Grimsby Town,,2020-2021,10
+31. october 2020,15:00,4:0,Leyton Orient,Bolton Wanderers,{None: 'home'},2020-2021,10
+31. october 2020,15:00,1:1,Mansfield Town,Walsall FC,{None: 'away'},2020-2021,10
+31. october 2020,15:00,2:1,Newport County,Harrogate Town,{None: 'home'},2020-2021,10
+31. october 2020,15:00,2:0,Salford City,Oldham Athletic,{None: 'home'},2020-2021,10
+31. october 2020,15:00,0:2,Southend United,Port Vale FC,{None: 'away'},2020-2021,10
+31. october 2020,15:00,0:1,Tranmere Rovers,Morecambe FC,{'57': 'away'},2020-2021,10
+8. december 2020,19:00,0:1,Scunthorpe United,Colchester United,{None: 'away'},2020-2021,10
+3. november 2020,18:00,2:1,Oldham Athletic,Cheltenham Town,{None: 'home'},2020-2021,11
+3. november 2020,18:30,2:2,Morecambe FC,Exeter City,{None: 'away'},2020-2021,11
+3. november 2020,19:00,3:0,Bradford City,Southend United,{None: 'home'},2020-2021,11
+3. november 2020,19:00,2:1,Cambridge United,Salford City,"{None: 'home', '49': 'home'}",2020-2021,11
+3. november 2020,19:00,3:2,Carlisle United,Newport County,"{'15': 'home', None: 'away'}",2020-2021,11
+3. november 2020,19:00,3:1,Colchester United,Stevenage FC,{None: 'home'},2020-2021,11
+3. november 2020,19:00,1:0,Walsall FC,Crawley Town,{None: 'home'},2020-2021,11
+3. november 2020,19:00,2:1,Forest Green Rovers,Leyton Orient,{None: 'home'},2020-2021,11
+3. november 2020,19:00,1:0,Grimsby Town,Barrow AFC,{None: 'home'},2020-2021,11
+3. november 2020,19:00,0:1,Harrogate Town,Tranmere Rovers,{None: 'away'},2020-2021,11
+3. november 2020,19:00,1:1,Bolton Wanderers,Mansfield Town,{None: 'home'},2020-2021,11
+17. november 2020,19:00,0:1,Port Vale FC,Scunthorpe United,{None: 'away'},2020-2021,11
+13. november 2020,19:45,2:0,Bolton Wanderers,Salford City,"{None: 'home', '67': 'home'}",2020-2021,12
+14. november 2020,15:00,2:2,Bradford City,Exeter City,{None: 'home'},2020-2021,12
+14. november 2020,15:00,1:1,Cambridge United,Barrow AFC,{None: 'away'},2020-2021,12
+14. november 2020,15:00,1:2,Carlisle United,Cheltenham Town,"{None: 'home', '36': 'away'}",2020-2021,12
+14. november 2020,15:00,2:1,Colchester United,Leyton Orient,{None: 'away'},2020-2021,12
+14. november 2020,15:00,1:1,Morecambe FC,Stevenage FC,"{'27': 'away', None: 'home'}",2020-2021,12
+14. november 2020,15:00,0:1,Walsall FC,Southend United,{None: 'away'},2020-2021,12
+14. november 2020,15:00,1:2,Forest Green Rovers,Mansfield Town,{None: 'home'},2020-2021,12
+14. november 2020,15:00,1:1,Harrogate Town,Crawley Town,{None: 'home'},2020-2021,12
+14. november 2020,15:00,0:2,Oldham Athletic,Scunthorpe United,{None: 'away'},2020-2021,12
+14. november 2020,15:00,3:4,Port Vale FC,Tranmere Rovers,"{'16': 'home', None: 'away', '71': 'away'}",2020-2021,12
+8. december 2020,19:00,0:2,Grimsby Town,Newport County,"{None: 'away', '45': 'away'}",2020-2021,12
+20. november 2020,19:00,1:1,Mansfield Town,Colchester United,{None: 'away'},2020-2021,13
+21. november 2020,13:30,0:3,Crawley Town,Carlisle United,{None: 'away'},2020-2021,13
+21. november 2020,15:00,2:2,Barrow AFC,Forest Green Rovers,"{None: 'away', '83': 'home'}",2020-2021,13
+21. november 2020,15:00,3:0,Cheltenham Town,Walsall FC,"{'50': 'home', None: 'home'}",2020-2021,13
+21. november 2020,15:00,1:2,Exeter City,Oldham Athletic,{None: 'away'},2020-2021,13
+21. november 2020,15:00,1:2,Stevenage FC,Bolton Wanderers,{None: 'home'},2020-2021,13
+21. november 2020,15:00,3:0,Leyton Orient,Harrogate Town,{None: 'home'},2020-2021,13
+21. november 2020,15:00,1:0,Newport County,Port Vale FC,{None: 'home'},2020-2021,13
+21. november 2020,15:00,3:0,Salford City,Bradford City,{None: 'home'},2020-2021,13
+21. november 2020,15:00,1:1,Scunthorpe United,Morecambe FC,{None: 'away'},2020-2021,13
+21. november 2020,15:00,5:0,Tranmere Rovers,Grimsby Town,"{None: 'home', '29': 'home'}",2020-2021,13
+19. january 2021,19:00,1:2,Southend United,Cambridge United,{None: 'away'},2020-2021,13
+24. november 2020,19:00,3:4,Barrow AFC,Oldham Athletic,"{None: 'away', '82': 'away', '90': 'home'}",2020-2021,14
+24. november 2020,19:00,1:1,Cheltenham Town,Cambridge United,{None: 'away'},2020-2021,14
+24. november 2020,19:00,1:2,Crawley Town,Grimsby Town,{None: 'away'},2020-2021,14
+24. november 2020,19:00,6:1,Exeter City,Colchester United,{None: 'home'},2020-2021,14
+24. november 2020,19:00,2:1,Stevenage FC,Port Vale FC,{None: 'away'},2020-2021,14
+24. november 2020,19:00,1:0,Leyton Orient,Bradford City,{None: 'home'},2020-2021,14
+24. november 2020,19:00,0:1,Mansfield Town,Harrogate Town,{None: 'away'},2020-2021,14
+24. november 2020,19:00,1:1,Newport County,Walsall FC,{None: 'home'},2020-2021,14
+24. november 2020,19:00,2:1,Salford City,Morecambe FC,{None: 'away'},2020-2021,14
+24. november 2020,19:00,0:1,Scunthorpe United,Bolton Wanderers,{None: 'away'},2020-2021,14
+24. november 2020,19:00,0:1,Southend United,Forest Green Rovers,{None: 'away'},2020-2021,14
+24. november 2020,19:00,1:0,Tranmere Rovers,Carlisle United,{None: 'home'},2020-2021,14
+28. november 2020,13:00,2:3,Port Vale FC,Leyton Orient,{None: 'away'},2020-2021,15
+28. november 2020,15:00,3:0,Bolton Wanderers,Southend United,"{None: 'home', '65': 'home'}",2020-2021,15
+1. december 2020,18:30,1:0,Morecambe FC,Barrow AFC,{None: 'home'},2020-2021,15
+1. december 2020,19:00,1:2,Bradford City,Cheltenham Town,{None: 'away'},2020-2021,15
+1. december 2020,19:00,1:1,Colchester United,Crawley Town,{None: 'away'},2020-2021,15
+1. december 2020,19:00,1:1,Forest Green Rovers,Newport County,"{'45': 'away', None: 'home'}",2020-2021,15
+1. december 2020,19:00,1:4,Grimsby Town,Exeter City,{None: 'away'},2020-2021,15
+1. december 2020,19:00,2:5,Harrogate Town,Scunthorpe United,"{None: 'home', '63': 'away'}",2020-2021,15
+1. december 2020,19:00,0:1,Oldham Athletic,Tranmere Rovers,{None: 'away'},2020-2021,15
+2. december 2020,19:00,2:1,Carlisle United,Salford City,{None: 'away'},2020-2021,15
+2. december 2020,19:00,1:1,Walsall FC,Stevenage FC,"{'50': 'away', '90': 'home'}",2020-2021,15
+2. december 2020,19:45,0:1,Cambridge United,Mansfield Town,{None: 'away'},2020-2021,15
+5. december 2020,13:00,2:0,Scunthorpe United,Leyton Orient,{None: 'home'},2020-2021,16
+5. december 2020,15:00,0:1,Barrow AFC,Salford City,{None: 'away'},2020-2021,16
+5. december 2020,15:00,3:6,Bolton Wanderers,Port Vale FC,"{None: 'home', '42': 'away'}",2020-2021,16
+5. december 2020,15:00,0:1,Bradford City,Carlisle United,{None: 'away'},2020-2021,16
+5. december 2020,15:00,1:2,Cambridge United,Oldham Athletic,{None: 'home'},2020-2021,16
+5. december 2020,15:00,5:3,Cheltenham Town,Exeter City,"{None: 'home', '45': 'home'}",2020-2021,16
+5. december 2020,15:00,0:0,Stevenage FC,Southend United,,2020-2021,16
+5. december 2020,15:00,0:1,Harrogate Town,Forest Green Rovers,{None: 'away'},2020-2021,16
+5. december 2020,15:00,3:3,Mansfield Town,Crawley Town,{None: 'home'},2020-2021,16
+5. december 2020,15:00,2:1,Newport County,Morecambe FC,"{None: 'away', '83': 'home'}",2020-2021,16
+5. december 2020,15:00,1:3,Tranmere Rovers,Walsall FC,{None: 'away'},2020-2021,16
+5. december 2020,17:30,2:1,Colchester United,Grimsby Town,{None: 'home'},2020-2021,16
+12. december 2020,15:00,4:0,Carlisle United,Stevenage FC,{None: 'home'},2020-2021,17
+12. december 2020,15:00,4:2,Crawley Town,Barrow AFC,"{None: 'home', '81': 'home'}",2020-2021,17
+12. december 2020,15:00,5:0,Exeter City,Tranmere Rovers,"{None: 'home', '18': 'home'}",2020-2021,17
+12. december 2020,15:00,1:0,Morecambe FC,Harrogate Town,{None: 'home'},2020-2021,17
+12. december 2020,15:00,2:1,Walsall FC,Bolton Wanderers,{None: 'home'},2020-2021,17
+12. december 2020,15:00,2:0,Forest Green Rovers,Cambridge United,"{None: 'home', '65': 'home'}",2020-2021,17
+12. december 2020,15:00,1:1,Grimsby Town,Mansfield Town,"{None: 'home', '69': 'away'}",2020-2021,17
+12. december 2020,15:00,2:1,Leyton Orient,Newport County,{None: 'home'},2020-2021,17
+12. december 2020,15:00,3:1,Oldham Athletic,Bradford City,{None: 'away'},2020-2021,17
+12. december 2020,15:00,1:1,Port Vale FC,Colchester United,{None: 'away'},2020-2021,17
+12. december 2020,15:00,0:0,Salford City,Cheltenham Town,,2020-2021,17
+12. december 2020,15:00,1:0,Southend United,Scunthorpe United,{None: 'home'},2020-2021,17
+15. december 2020,18:30,2:1,Morecambe FC,Leyton Orient,{None: 'home'},2020-2021,18
+15. december 2020,19:00,1:0,Carlisle United,Mansfield Town,{None: 'home'},2020-2021,18
+15. december 2020,19:00,2:3,Oldham Athletic,Walsall FC,"{'23': 'away', '52': 'away', None: 'away'}",2020-2021,18
+15. december 2020,19:00,1:1,Port Vale FC,Forest Green Rovers,"{'34': 'home', None: 'away'}",2020-2021,18
+15. december 2020,19:00,1:1,Salford City,Newport County,"{None: 'home', '90': 'away'}",2020-2021,18
+15. december 2020,19:00,2:1,Scunthorpe United,Barrow AFC,{None: 'home'},2020-2021,18
+15. december 2020,19:45,2:1,Cambridge United,Colchester United,"{None: 'home', '68': 'away'}",2020-2021,18
+15. december 2020,19:45,0:1,Cheltenham Town,Bolton Wanderers,{None: 'away'},2020-2021,18
+15. december 2020,19:45,1:1,Crawley Town,Bradford City,"{None: 'away', '25': 'home'}",2020-2021,18
+15. december 2020,19:45,1:2,Exeter City,Harrogate Town,{None: 'away'},2020-2021,18
+15. december 2020,19:45,3:1,Southend United,Grimsby Town,{None: 'home'},2020-2021,18
+9. february 2021,19:00,0:1,Tranmere Rovers,Stevenage FC,{None: 'away'},2020-2021,18
+19. december 2020,15:00,3:0,Barrow AFC,Cheltenham Town,"{'43': 'home', None: 'home'}",2020-2021,19
+19. december 2020,15:00,0:3,Bolton Wanderers,Tranmere Rovers,"{None: 'away', '75': 'away'}",2020-2021,19
+19. december 2020,15:00,1:0,Bradford City,Cambridge United,{None: 'home'},2020-2021,19
+19. december 2020,15:00,1:2,Colchester United,Morecambe FC,"{None: 'away', '24': 'home'}",2020-2021,19
+19. december 2020,15:00,4:3,Walsall FC,Port Vale FC,{None: 'home'},2020-2021,19
+19. december 2020,15:00,1:0,Forest Green Rovers,Carlisle United,{None: 'home'},2020-2021,19
+19. december 2020,15:00,1:0,Grimsby Town,Scunthorpe United,{None: 'home'},2020-2021,19
+19. december 2020,15:00,0:1,Harrogate Town,Salford City,{None: 'away'},2020-2021,19
+19. december 2020,15:00,1:2,Leyton Orient,Crawley Town,"{'15': 'away', '41': 'home', None: 'away'}",2020-2021,19
+19. december 2020,15:00,1:1,Mansfield Town,Southend United,{None: 'home'},2020-2021,19
+19. december 2020,15:00,2:4,Newport County,Oldham Athletic,{None: 'away'},2020-2021,19
+2. february 2021,19:00,0:1,Stevenage FC,Exeter City,{None: 'away'},2020-2021,19
+26. december 2020,13:00,2:1,Cambridge United,Leyton Orient,{None: 'home'},2020-2021,20
+26. december 2020,13:00,1:1,Exeter City,Forest Green Rovers,{None: 'home'},2020-2021,20
+26. december 2020,13:00,2:3,Scunthorpe United,Mansfield Town,"{None: 'home', '29': 'away', '38': 'home'}",2020-2021,20
+26. december 2020,13:00,2:0,Southend United,Colchester United,{None: 'home'},2020-2021,20
+26. december 2020,15:00,3:3,Carlisle United,Bolton Wanderers,{None: 'away'},2020-2021,20
+26. december 2020,15:00,1:1,Cheltenham Town,Stevenage FC,{None: 'away'},2020-2021,20
+26. december 2020,15:00,1:1,Crawley Town,Newport County,"{None: 'away', '32': 'home'}",2020-2021,20
+26. december 2020,15:00,3:1,Morecambe FC,Grimsby Town,{None: 'home'},2020-2021,20
+26. december 2020,15:00,1:2,Oldham Athletic,Harrogate Town,"{'19': 'home', None: 'away'}",2020-2021,20
+26. december 2020,15:00,0:2,Port Vale FC,Barrow AFC,{None: 'away'},2020-2021,20
+26. december 2020,15:00,2:0,Salford City,Walsall FC,{None: 'home'},2020-2021,20
+26. december 2020,15:00,0:1,Tranmere Rovers,Bradford City,{None: 'away'},2020-2021,20
+29. december 2020,17:00,1:0,Stevenage FC,Cambridge United,{None: 'home'},2020-2021,21
+29. december 2020,19:00,0:0,Bradford City,Port Vale FC,,2020-2021,21
+29. december 2020,19:00,1:2,Walsall FC,Scunthorpe United,{None: 'away'},2020-2021,21
+29. december 2020,19:00,1:2,Forest Green Rovers,Crawley Town,{None: 'away'},2020-2021,21
+29. december 2020,19:00,0:0,Grimsby Town,Oldham Athletic,,2020-2021,21
+29. december 2020,19:00,2:0,Leyton Orient,Southend United,{None: 'home'},2020-2021,21
+29. december 2020,19:45,1:1,Barrow AFC,Tranmere Rovers,"{None: 'away', '65': 'home'}",2020-2021,21
+29. december 2020,19:45,0:0,Colchester United,Cheltenham Town,,2020-2021,21
+5. january 2021,19:00,2:1,Mansfield Town,Salford City,{None: 'away'},2020-2021,21
+9. february 2021,19:00,1:1,Bolton Wanderers,Morecambe FC,{None: 'away'},2020-2021,21
+16. february 2021,19:00,1:0,Harrogate Town,Carlisle United,{'28': 'home'},2020-2021,21
+16. february 2021,19:00,1:1,Newport County,Exeter City,{None: 'home'},2020-2021,21
+2. january 2021,15:00,0:1,Bolton Wanderers,Crawley Town,{None: 'away'},2020-2021,22
+2. january 2021,15:00,3:1,Stevenage FC,Scunthorpe United,{None: 'home'},2020-2021,22
+2. january 2021,15:00,0:2,Walsall FC,Carlisle United,{None: 'away'},2020-2021,22
+2. january 2021,15:00,1:2,Grimsby Town,Cambridge United,{None: 'home'},2020-2021,22
+2. january 2021,15:00,1:0,Leyton Orient,Salford City,{None: 'home'},2020-2021,22
+2. january 2021,15:00,4:0,Mansfield Town,Port Vale FC,"{None: 'home', '77': 'home'}",2020-2021,22
+9. february 2021,18:00,0:1,Harrogate Town,Cheltenham Town,{None: 'away'},2020-2021,22
+9. february 2021,19:00,0:1,Newport County,Southend United,{None: 'away'},2020-2021,22
+16. february 2021,19:00,2:1,Bradford City,Morecambe FC,{None: 'home'},2020-2021,22
+16. february 2021,19:00,4:3,Forest Green Rovers,Oldham Athletic,{None: 'home'},2020-2021,22
+23. march 2021,19:00,2:2,Colchester United,Tranmere Rovers,"{None: 'away', '62': 'away'}",2020-2021,22
+13. april 2021,19:00,2:1,Barrow AFC,Exeter City,{None: 'away'},2020-2021,22
+9. january 2021,15:00,2:1,Cambridge United,Harrogate Town,{None: 'home'},2020-2021,23
+9. january 2021,15:00,3:0,Port Vale FC,Grimsby Town,"{None: 'home', '60': 'home'}",2020-2021,23
+9. january 2021,15:00,1:0,Southend United,Barrow AFC,{None: 'home'},2020-2021,23
+12. january 2021,19:00,1:1,Exeter City,Bolton Wanderers,"{'62': 'home', None: 'away'}",2020-2021,23
+13. january 2021,19:45,2:3,Oldham Athletic,Mansfield Town,{None: 'home'},2020-2021,23
+19. january 2021,19:00,1:1,Cheltenham Town,Newport County,{None: 'home'},2020-2021,23
+19. january 2021,19:00,1:1,Morecambe FC,Walsall FC,{None: 'home'},2020-2021,23
+19. january 2021,19:00,3:2,Tranmere Rovers,Forest Green Rovers,{None: 'away'},2020-2021,23
+16. february 2021,19:00,0:1,Crawley Town,Stevenage FC,{None: 'away'},2020-2021,23
+16. march 2021,19:00,0:0,Salford City,Colchester United,,2020-2021,23
+23. march 2021,18:30,0:1,Carlisle United,Leyton Orient,{None: 'away'},2020-2021,23
+23. march 2021,19:00,2:0,Scunthorpe United,Bradford City,{None: 'home'},2020-2021,23
+16. january 2021,15:00,1:0,Barrow AFC,Scunthorpe United,{None: 'home'},2020-2021,24
+16. january 2021,15:00,1:1,Bolton Wanderers,Cheltenham Town,{None: 'home'},2020-2021,24
+16. january 2021,15:00,1:1,Colchester United,Cambridge United,"{None: 'away', '39': 'home'}",2020-2021,24
+16. january 2021,15:00,0:0,Stevenage FC,Tranmere Rovers,,2020-2021,24
+16. january 2021,15:00,1:1,Walsall FC,Oldham Athletic,{None: 'away'},2020-2021,24
+16. january 2021,15:00,1:1,Forest Green Rovers,Port Vale FC,{None: 'away'},2020-2021,24
+16. january 2021,15:00,0:0,Grimsby Town,Southend United,,2020-2021,24
+16. january 2021,15:00,2:0,Leyton Orient,Morecambe FC,"{'88': 'home', None: 'home'}",2020-2021,24
+16. january 2021,15:00,0:0,Newport County,Salford City,,2020-2021,24
+19. january 2021,19:00,0:0,Harrogate Town,Exeter City,,2020-2021,24
+16. march 2021,19:30,1:1,Mansfield Town,Carlisle United,{None: 'home'},2020-2021,24
+13. april 2021,19:00,0:2,Bradford City,Crawley Town,{None: 'away'},2020-2021,24
+22. january 2021,19:00,2:2,Salford City,Harrogate Town,{None: 'away'},2020-2021,25
+23. january 2021,13:00,3:1,Exeter City,Stevenage FC,{None: 'home'},2020-2021,25
+23. january 2021,13:00,3:0,Scunthorpe United,Grimsby Town,{None: 'home'},2020-2021,25
+23. january 2021,15:00,0:0,Cambridge United,Bradford City,,2020-2021,25
+23. january 2021,15:00,3:0,Morecambe FC,Colchester United,{None: 'home'},2020-2021,25
+23. january 2021,15:00,3:2,Oldham Athletic,Newport County,"{None: 'away', '74': 'home'}",2020-2021,25
+23. january 2021,15:00,1:3,Port Vale FC,Walsall FC,"{None: 'away', '68': 'away'}",2020-2021,25
+23. january 2021,15:00,0:1,Southend United,Mansfield Town,{None: 'away'},2020-2021,25
+23. january 2021,15:00,2:1,Tranmere Rovers,Bolton Wanderers,"{None: 'away', '56': 'home'}",2020-2021,25
+2. february 2021,18:00,1:2,Carlisle United,Forest Green Rovers,"{'60': 'away', None: 'away'}",2020-2021,25
+2. february 2021,19:00,0:0,Crawley Town,Leyton Orient,,2020-2021,25
+16. march 2021,19:00,0:2,Cheltenham Town,Barrow AFC,"{None: 'away', '66': 'away'}",2020-2021,25
+23. january 2021,15:00,0:1,Leyton Orient,Forest Green Rovers,{None: 'away'},2020-2021,26
+26. january 2021,18:00,0:2,Exeter City,Morecambe FC,"{'9': 'away', None: 'away'}",2020-2021,26
+26. january 2021,19:00,2:0,Cheltenham Town,Oldham Athletic,{None: 'home'},2020-2021,26
+26. january 2021,19:00,0:0,Stevenage FC,Colchester United,,2020-2021,26
+26. january 2021,19:00,2:0,Scunthorpe United,Port Vale FC,{None: 'home'},2020-2021,26
+26. january 2021,19:00,1:3,Southend United,Bradford City,{None: 'away'},2020-2021,26
+26. january 2021,19:00,3:2,Tranmere Rovers,Harrogate Town,"{None: 'away', '36': 'home'}",2020-2021,26
+9. february 2021,17:30,4:1,Salford City,Cambridge United,{None: 'away'},2020-2021,26
+17. february 2021,17:00,2:3,Mansfield Town,Bolton Wanderers,"{None: 'away', '85': 'away'}",2020-2021,26
+16. march 2021,19:00,1:1,Crawley Town,Walsall FC,"{'55': 'away', '90': 'home'}",2020-2021,26
+23. march 2021,19:00,0:1,Barrow AFC,Grimsby Town,{None: 'away'},2020-2021,26
+13. april 2021,19:00,0:0,Newport County,Carlisle United,,2020-2021,26
+29. january 2021,19:00,0:1,Colchester United,Scunthorpe United,{None: 'away'},2020-2021,27
+30. january 2021,13:00,1:0,Carlisle United,Exeter City,{None: 'home'},2020-2021,27
+30. january 2021,15:00,2:0,Bolton Wanderers,Leyton Orient,"{'67': 'home', None: 'home'}",2020-2021,27
+30. january 2021,15:00,2:1,Bradford City,Barrow AFC,"{None: 'home', '37': 'away'}",2020-2021,27
+30. january 2021,15:00,3:1,Cambridge United,Crawley Town,{None: 'home'},2020-2021,27
+30. january 2021,15:00,0:1,Morecambe FC,Tranmere Rovers,{None: 'away'},2020-2021,27
+30. january 2021,15:00,0:0,Forest Green Rovers,Cheltenham Town,,2020-2021,27
+30. january 2021,15:00,1:2,Grimsby Town,Stevenage FC,{None: 'away'},2020-2021,27
+30. january 2021,15:00,2:1,Harrogate Town,Newport County,{None: 'home'},2020-2021,27
+30. january 2021,15:00,2:1,Oldham Athletic,Salford City,{None: 'home'},2020-2021,27
+30. january 2021,15:00,5:1,Port Vale FC,Southend United,"{None: 'home', '20': 'home'}",2020-2021,27
+9. february 2021,18:45,1:1,Walsall FC,Mansfield Town,{None: 'away'},2020-2021,27
+6. february 2021,13:00,3:2,Exeter City,Bradford City,"{None: 'home', '79': 'home'}",2020-2021,28
+6. february 2021,15:00,0:2,Barrow AFC,Cambridge United,{None: 'away'},2020-2021,28
+6. february 2021,15:00,1:3,Crawley Town,Harrogate Town,"{None: 'home', '30': 'away'}",2020-2021,28
+6. february 2021,15:00,2:2,Stevenage FC,Morecambe FC,{None: 'home'},2020-2021,28
+6. february 2021,15:00,0:0,Leyton Orient,Colchester United,,2020-2021,28
+6. february 2021,15:00,1:0,Newport County,Grimsby Town,{None: 'home'},2020-2021,28
+6. february 2021,15:00,3:1,Tranmere Rovers,Port Vale FC,{None: 'home'},2020-2021,28
+16. march 2021,19:00,1:1,Scunthorpe United,Oldham Athletic,{None: 'home'},2020-2021,28
+23. march 2021,18:00,0:0,Mansfield Town,Forest Green Rovers,,2020-2021,28
+23. march 2021,19:00,0:0,Southend United,Walsall FC,,2020-2021,28
+13. april 2021,19:00,0:1,Salford City,Bolton Wanderers,{None: 'away'},2020-2021,28
+27. april 2021,19:00,1:1,Cheltenham Town,Carlisle United,{None: 'home'},2020-2021,28
+13. february 2021,15:00,1:0,Bolton Wanderers,Stevenage FC,{None: 'home'},2020-2021,29
+13. february 2021,15:00,0:0,Cambridge United,Southend United,,2020-2021,29
+14. february 2021,15:00,2:2,Colchester United,Mansfield Town,"{'4': 'away', None: 'home'}",2020-2021,29
+16. february 2021,19:00,1:2,Walsall FC,Cheltenham Town,{None: 'away'},2020-2021,29
+16. march 2021,19:00,2:1,Port Vale FC,Newport County,{None: 'home'},2020-2021,29
+17. march 2021,19:00,0:0,Grimsby Town,Tranmere Rovers,,2020-2021,29
+23. march 2021,19:00,2:1,Oldham Athletic,Exeter City,{None: 'away'},2020-2021,29
+30. march 2021,19:00,2:0,Carlisle United,Crawley Town,{None: 'home'},2020-2021,29
+13. april 2021,18:30,4:1,Morecambe FC,Scunthorpe United,"{None: 'away', '49': 'home'}",2020-2021,29
+13. april 2021,19:00,2:2,Harrogate Town,Leyton Orient,{None: 'home'},2020-2021,29
+27. april 2021,19:00,0:1,Bradford City,Salford City,{None: 'away'},2020-2021,29
+27. april 2021,19:00,0:2,Forest Green Rovers,Barrow AFC,"{'18': 'away', None: 'away'}",2020-2021,29
+20. february 2021,15:00,1:2,Barrow AFC,Morecambe FC,{None: 'away'},2020-2021,30
+20. february 2021,15:00,0:2,Cheltenham Town,Bradford City,{None: 'away'},2020-2021,30
+20. february 2021,15:00,1:0,Crawley Town,Colchester United,{None: 'home'},2020-2021,30
+20. february 2021,15:00,1:1,Stevenage FC,Walsall FC,{None: 'home'},2020-2021,30
+20. february 2021,15:00,1:1,Leyton Orient,Port Vale FC,{None: 'home'},2020-2021,30
+20. february 2021,15:00,0:3,Mansfield Town,Cambridge United,{None: 'away'},2020-2021,30
+20. february 2021,15:00,1:1,Salford City,Carlisle United,{None: 'home'},2020-2021,30
+20. february 2021,15:00,3:1,Scunthorpe United,Harrogate Town,"{None: 'home', '27': 'away'}",2020-2021,30
+20. february 2021,15:00,0:1,Southend United,Bolton Wanderers,{None: 'away'},2020-2021,30
+20. february 2021,15:00,2:2,Tranmere Rovers,Oldham Athletic,{None: 'away'},2020-2021,30
+21. february 2021,13:00,0:2,Newport County,Forest Green Rovers,"{None: 'away', '63': 'away'}",2020-2021,30
+27. april 2021,19:00,3:2,Exeter City,Grimsby Town,"{'33': 'home', '41': 'away', None: 'home'}",2020-2021,30
+23. february 2021,18:30,2:1,Morecambe FC,Salford City,{None: 'home'},2020-2021,31
+23. february 2021,19:00,1:0,Bradford City,Leyton Orient,{'81': 'home'},2020-2021,31
+23. february 2021,19:00,0:1,Cambridge United,Cheltenham Town,{None: 'away'},2020-2021,31
+23. february 2021,19:00,2:3,Carlisle United,Tranmere Rovers,{None: 'away'},2020-2021,31
+23. february 2021,19:00,1:2,Colchester United,Exeter City,{None: 'home'},2020-2021,31
+23. february 2021,19:00,2:1,Grimsby Town,Crawley Town,{None: 'home'},2020-2021,31
+23. february 2021,19:00,1:0,Harrogate Town,Mansfield Town,{None: 'home'},2020-2021,31
+23. february 2021,19:00,0:1,Oldham Athletic,Barrow AFC,{None: 'away'},2020-2021,31
+23. february 2021,19:00,0:0,Port Vale FC,Stevenage FC,,2020-2021,31
+23. february 2021,19:00,2:0,Bolton Wanderers,Scunthorpe United,"{'37': 'home', None: 'home'}",2020-2021,31
+24. february 2021,17:30,0:1,Walsall FC,Newport County,{None: 'away'},2020-2021,31
+24. february 2021,18:00,1:3,Forest Green Rovers,Southend United,{None: 'home'},2020-2021,31
+27. february 2021,13:00,2:0,Crawley Town,Exeter City,"{'62': 'home', None: 'home'}",2020-2021,32
+27. february 2021,15:00,1:0,Bolton Wanderers,Barrow AFC,{None: 'home'},2020-2021,32
+27. february 2021,15:00,1:3,Carlisle United,Oldham Athletic,"{None: 'away', '71': 'away'}",2020-2021,32
+27. february 2021,15:00,1:2,Walsall FC,Bradford City,{None: 'home'},2020-2021,32
+27. february 2021,15:00,1:0,Harrogate Town,Grimsby Town,{None: 'home'},2020-2021,32
+27. february 2021,15:00,1:3,Leyton Orient,Tranmere Rovers,{None: 'home'},2020-2021,32
+27. february 2021,15:00,1:0,Mansfield Town,Morecambe FC,{None: 'home'},2020-2021,32
+27. february 2021,15:00,0:0,Newport County,Stevenage FC,,2020-2021,32
+27. february 2021,15:00,0:1,Port Vale FC,Cambridge United,{None: 'away'},2020-2021,32
+27. february 2021,15:00,0:2,Scunthorpe United,Cheltenham Town,{None: 'away'},2020-2021,32
+27. february 2021,15:00,0:0,Southend United,Salford City,,2020-2021,32
+27. february 2021,17:30,3:0,Forest Green Rovers,Colchester United,"{None: 'home', '67': 'home'}",2020-2021,32
+2. march 2021,18:30,3:1,Morecambe FC,Crawley Town,{None: 'home'},2020-2021,33
+2. march 2021,19:00,0:1,Barrow AFC,Harrogate Town,{None: 'away'},2020-2021,33
+2. march 2021,19:00,1:0,Bradford City,Mansfield Town,{None: 'home'},2020-2021,33
+2. march 2021,19:00,0:1,Cambridge United,Scunthorpe United,{None: 'away'},2020-2021,33
+2. march 2021,19:00,1:0,Cheltenham Town,Southend United,{'53': 'home'},2020-2021,33
+2. march 2021,19:00,2:1,Colchester United,Carlisle United,"{None: 'home', '67': 'home'}",2020-2021,33
+2. march 2021,19:00,0:0,Exeter City,Walsall FC,,2020-2021,33
+2. march 2021,19:00,3:0,Stevenage FC,Forest Green Rovers,{None: 'home'},2020-2021,33
+2. march 2021,19:00,0:1,Grimsby Town,Leyton Orient,{None: 'away'},2020-2021,33
+2. march 2021,19:00,0:2,Oldham Athletic,Bolton Wanderers,"{'19': 'away', None: 'away'}",2020-2021,33
+2. march 2021,19:00,1:0,Salford City,Port Vale FC,{None: 'home'},2020-2021,33
+2. march 2021,19:00,1:0,Tranmere Rovers,Newport County,{None: 'home'},2020-2021,33
+6. march 2021,13:00,4:0,Exeter City,Leyton Orient,"{None: 'home', '50': 'home'}",2020-2021,34
+6. march 2021,15:00,2:0,Barrow AFC,Mansfield Town,{None: 'home'},2020-2021,34
+6. march 2021,15:00,1:1,Bradford City,Bolton Wanderers,{None: 'home'},2020-2021,34
+6. march 2021,15:00,1:0,Cambridge United,Walsall FC,{None: 'home'},2020-2021,34
+6. march 2021,15:00,3:2,Cheltenham Town,Port Vale FC,"{None: 'away', '18': 'home'}",2020-2021,34
+6. march 2021,15:00,0:2,Colchester United,Newport County,{None: 'away'},2020-2021,34
+6. march 2021,15:00,3:1,Morecambe FC,Carlisle United,{None: 'away'},2020-2021,34
+6. march 2021,15:00,1:0,Stevenage FC,Harrogate Town,{None: 'home'},2020-2021,34
+6. march 2021,15:00,1:2,Grimsby Town,Forest Green Rovers,"{'19': 'away', None: 'away'}",2020-2021,34
+6. march 2021,15:00,0:0,Oldham Athletic,Southend United,,2020-2021,34
+6. march 2021,15:00,1:1,Salford City,Scunthorpe United,"{None: 'home', '43': 'away'}",2020-2021,34
+6. march 2021,15:00,0:1,Tranmere Rovers,Crawley Town,{None: 'away'},2020-2021,34
+9. march 2021,19:00,1:1,Carlisle United,Grimsby Town,{None: 'home'},2020-2021,35
+9. march 2021,19:00,1:0,Crawley Town,Salford City,{None: 'home'},2020-2021,35
+9. march 2021,19:00,2:2,Forest Green Rovers,Morecambe FC,{None: 'away'},2020-2021,35
+9. march 2021,19:00,3:0,Harrogate Town,Colchester United,{None: 'home'},2020-2021,35
+9. march 2021,19:00,0:0,Leyton Orient,Stevenage FC,,2020-2021,35
+9. march 2021,19:00,3:1,Mansfield Town,Cheltenham Town,{None: 'home'},2020-2021,35
+9. march 2021,19:00,2:1,Newport County,Bradford City,"{None: 'home', '90': 'home'}",2020-2021,35
+9. march 2021,19:00,0:0,Port Vale FC,Oldham Athletic,,2020-2021,35
+9. march 2021,19:00,0:2,Scunthorpe United,Exeter City,{None: 'away'},2020-2021,35
+9. march 2021,19:00,0:2,Southend United,Tranmere Rovers,{None: 'away'},2020-2021,35
+9. march 2021,19:00,2:1,Bolton Wanderers,Cambridge United,{None: 'away'},2020-2021,35
+12. march 2021,19:00,0:1,Walsall FC,Barrow AFC,{None: 'away'},2020-2021,35
+16. february 2021,19:00,1:0,Salford City,Barrow AFC,{None: 'home'},2020-2021,36
+13. march 2021,13:00,1:1,Leyton Orient,Scunthorpe United,{None: 'home'},2020-2021,36
+13. march 2021,15:00,3:1,Carlisle United,Bradford City,{None: 'away'},2020-2021,36
+13. march 2021,15:00,1:0,Crawley Town,Mansfield Town,{None: 'home'},2020-2021,36
+13. march 2021,15:00,0:1,Exeter City,Cheltenham Town,{None: 'away'},2020-2021,36
+13. march 2021,15:00,1:3,Morecambe FC,Newport County,"{'8': 'away', None: 'away'}",2020-2021,36
+13. march 2021,15:00,2:1,Forest Green Rovers,Harrogate Town,{None: 'away'},2020-2021,36
+13. march 2021,15:00,2:4,Oldham Athletic,Cambridge United,"{None: 'away', '25': 'away'}",2020-2021,36
+13. march 2021,15:00,0:1,Port Vale FC,Bolton Wanderers,{None: 'away'},2020-2021,36
+13. march 2021,15:00,0:0,Southend United,Stevenage FC,,2020-2021,36
+13. march 2021,17:30,0:0,Grimsby Town,Colchester United,,2020-2021,36
+13. april 2021,19:00,1:0,Walsall FC,Tranmere Rovers,{None: 'home'},2020-2021,36
+20. march 2021,13:00,3:1,Stevenage FC,Carlisle United,{None: 'home'},2020-2021,37
+20. march 2021,13:00,0:1,Newport County,Leyton Orient,{None: 'away'},2020-2021,37
+20. march 2021,15:00,3:2,Barrow AFC,Crawley Town,"{None: 'home', '36': 'home'}",2020-2021,37
+20. march 2021,15:00,2:1,Bolton Wanderers,Walsall FC,"{None: 'home', '80': 'home'}",2020-2021,37
+20. march 2021,15:00,0:0,Bradford City,Oldham Athletic,,2020-2021,37
+20. march 2021,15:00,1:0,Cambridge United,Forest Green Rovers,{None: 'home'},2020-2021,37
+20. march 2021,15:00,2:0,Cheltenham Town,Salford City,{None: 'home'},2020-2021,37
+20. march 2021,15:00,0:1,Colchester United,Port Vale FC,{None: 'away'},2020-2021,37
+20. march 2021,15:00,0:1,Harrogate Town,Morecambe FC,{'1': 'away'},2020-2021,37
+20. march 2021,15:00,2:2,Mansfield Town,Grimsby Town,{None: 'away'},2020-2021,37
+20. march 2021,15:00,1:1,Scunthorpe United,Southend United,"{'79': 'away', None: 'home'}",2020-2021,37
+20. march 2021,15:00,2:1,Tranmere Rovers,Exeter City,"{'18': 'home', None: 'away', '68': 'home'}",2020-2021,37
+27. march 2021,12:00,0:1,Forest Green Rovers,Bolton Wanderers,{None: 'away'},2020-2021,38
+27. march 2021,13:00,1:0,Exeter City,Salford City,{None: 'home'},2020-2021,38
+27. march 2021,15:00,1:2,Carlisle United,Cambridge United,{None: 'away'},2020-2021,38
+27. march 2021,15:00,1:2,Colchester United,Bradford City,{None: 'away'},2020-2021,38
+27. march 2021,15:00,1:3,Crawley Town,Port Vale FC,{None: 'away'},2020-2021,38
+27. march 2021,15:00,1:0,Morecambe FC,Cheltenham Town,{None: 'home'},2020-2021,38
+27. march 2021,15:00,2:1,Stevenage FC,Barrow AFC,"{None: 'away', '87': 'home'}",2020-2021,38
+27. march 2021,15:00,1:1,Grimsby Town,Walsall FC,{None: 'away'},2020-2021,38
+27. march 2021,15:00,0:1,Harrogate Town,Southend United,{None: 'away'},2020-2021,38
+27. march 2021,15:00,2:1,Leyton Orient,Oldham Athletic,{None: 'away'},2020-2021,38
+27. march 2021,15:00,1:1,Tranmere Rovers,Mansfield Town,{None: 'away'},2020-2021,38
+27. april 2021,18:30,4:0,Newport County,Scunthorpe United,"{'29': 'home', None: 'home'}",2020-2021,38
+2. april 2021,13:00,0:0,Bolton Wanderers,Colchester United,,2020-2021,39
+2. april 2021,13:00,0:0,Scunthorpe United,Crawley Town,,2020-2021,39
+2. april 2021,15:00,2:1,Barrow AFC,Newport County,{None: 'home'},2020-2021,39
+2. april 2021,15:00,4:1,Bradford City,Forest Green Rovers,{None: 'home'},2020-2021,39
+2. april 2021,15:00,2:1,Cambridge United,Morecambe FC,"{None: 'away', '81': 'home'}",2020-2021,39
+2. april 2021,15:00,4:0,Cheltenham Town,Tranmere Rovers,{None: 'home'},2020-2021,39
+2. april 2021,15:00,0:0,Walsall FC,Harrogate Town,,2020-2021,39
+2. april 2021,15:00,0:2,Mansfield Town,Leyton Orient,{None: 'away'},2020-2021,39
+2. april 2021,15:00,0:1,Oldham Athletic,Stevenage FC,{None: 'away'},2020-2021,39
+2. april 2021,15:00,1:0,Port Vale FC,Exeter City,{None: 'home'},2020-2021,39
+2. april 2021,15:00,1:1,Salford City,Grimsby Town,{None: 'home'},2020-2021,39
+3. april 2021,13:00,0:2,Southend United,Carlisle United,{None: 'away'},2020-2021,39
+5. april 2021,15:00,1:1,Colchester United,Barrow AFC,{None: 'away'},2020-2021,40
+5. april 2021,15:00,1:4,Crawley Town,Oldham Athletic,{None: 'away'},2020-2021,40
+5. april 2021,15:00,0:0,Exeter City,Mansfield Town,,2020-2021,40
+5. april 2021,15:00,1:1,Stevenage FC,Bradford City,{None: 'away'},2020-2021,40
+5. april 2021,15:00,0:2,Forest Green Rovers,Salford City,{None: 'away'},2020-2021,40
+5. april 2021,15:00,1:1,Grimsby Town,Cheltenham Town,{None: 'away'},2020-2021,40
+5. april 2021,15:00,0:2,Harrogate Town,Port Vale FC,{None: 'away'},2020-2021,40
+5. april 2021,15:00,0:0,Leyton Orient,Walsall FC,,2020-2021,40
+5. april 2021,15:00,1:0,Newport County,Bolton Wanderers,{None: 'home'},2020-2021,40
+5. april 2021,15:00,1:1,Tranmere Rovers,Cambridge United,{None: 'away'},2020-2021,40
+6. april 2021,18:30,2:0,Carlisle United,Scunthorpe United,{None: 'home'},2020-2021,40
+6. april 2021,18:30,1:1,Morecambe FC,Southend United,{None: 'home'},2020-2021,40
+9. april 2021,18:00,1:1,Mansfield Town,Newport County,{None: 'home'},2020-2021,41
+9. april 2021,19:00,5:2,Oldham Athletic,Colchester United,"{'37': 'home', None: 'home'}",2020-2021,41
+10. april 2021,15:00,2:2,Barrow AFC,Carlisle United,"{None: 'home', '79': 'away'}",2020-2021,41
+10. april 2021,15:00,2:1,Bolton Wanderers,Harrogate Town,{None: 'home'},2020-2021,41
+10. april 2021,15:00,1:0,Bradford City,Grimsby Town,{None: 'home'},2020-2021,41
+10. april 2021,15:00,1:4,Cambridge United,Exeter City,{None: 'away'},2020-2021,41
+10. april 2021,15:00,1:0,Cheltenham Town,Leyton Orient,{'31': 'home'},2020-2021,41
+10. april 2021,15:00,2:1,Walsall FC,Forest Green Rovers,{None: 'away'},2020-2021,41
+10. april 2021,15:00,1:0,Port Vale FC,Morecambe FC,{None: 'home'},2020-2021,41
+10. april 2021,15:00,2:1,Salford City,Stevenage FC,{None: 'home'},2020-2021,41
+10. april 2021,15:00,0:0,Scunthorpe United,Tranmere Rovers,,2020-2021,41
+10. april 2021,15:00,0:0,Southend United,Crawley Town,,2020-2021,41
+16. april 2021,18:30,1:0,Crawley Town,Cheltenham Town,{None: 'home'},2020-2021,42
+17. april 2021,12:30,0:0,Carlisle United,Port Vale FC,,2020-2021,42
+17. april 2021,12:30,0:0,Exeter City,Southend United,,2020-2021,42
+17. april 2021,12:30,4:3,Morecambe FC,Oldham Athletic,{None: 'away'},2020-2021,42
+17. april 2021,12:30,0:1,Stevenage FC,Mansfield Town,{None: 'away'},2020-2021,42
+17. april 2021,12:30,3:2,Forest Green Rovers,Scunthorpe United,{None: 'home'},2020-2021,42
+17. april 2021,12:30,2:1,Grimsby Town,Bolton Wanderers,{None: 'away'},2020-2021,42
+17. april 2021,12:30,2:1,Harrogate Town,Bradford City,{None: 'home'},2020-2021,42
+17. april 2021,12:30,2:0,Leyton Orient,Barrow AFC,{None: 'home'},2020-2021,42
+17. april 2021,12:30,0:1,Newport County,Cambridge United,{None: 'away'},2020-2021,42
+17. april 2021,12:30,0:0,Tranmere Rovers,Salford City,,2020-2021,42
+17. april 2021,17:30,2:1,Colchester United,Walsall FC,{None: 'home'},2020-2021,42
+20. april 2021,19:00,0:2,Barrow AFC,Port Vale FC,{None: 'away'},2020-2021,43
+20. april 2021,19:00,0:1,Bradford City,Tranmere Rovers,{'45': 'away'},2020-2021,43
+20. april 2021,19:00,2:0,Colchester United,Southend United,{None: 'home'},2020-2021,43
+20. april 2021,19:00,0:1,Stevenage FC,Cheltenham Town,{None: 'away'},2020-2021,43
+20. april 2021,19:00,0:2,Walsall FC,Salford City,{None: 'away'},2020-2021,43
+20. april 2021,19:00,0:0,Forest Green Rovers,Exeter City,,2020-2021,43
+20. april 2021,19:00,0:3,Grimsby Town,Morecambe FC,"{None: 'away', '81': 'away'}",2020-2021,43
+20. april 2021,19:00,0:3,Harrogate Town,Oldham Athletic,{None: 'away'},2020-2021,43
+20. april 2021,19:00,2:4,Leyton Orient,Cambridge United,"{None: 'away', '69': 'away', '73': 'home'}",2020-2021,43
+20. april 2021,19:00,3:0,Mansfield Town,Scunthorpe United,{None: 'home'},2020-2021,43
+20. april 2021,19:00,2:0,Newport County,Crawley Town,{None: 'home'},2020-2021,43
+20. april 2021,19:00,1:0,Bolton Wanderers,Carlisle United,{None: 'home'},2020-2021,43
+24. april 2021,15:00,0:1,Cambridge United,Stevenage FC,{None: 'away'},2020-2021,44
+24. april 2021,15:00,1:1,Carlisle United,Harrogate Town,{None: 'home'},2020-2021,44
+24. april 2021,15:00,1:0,Cheltenham Town,Colchester United,{None: 'home'},2020-2021,44
+24. april 2021,15:00,0:0,Crawley Town,Forest Green Rovers,,2020-2021,44
+24. april 2021,15:00,0:0,Exeter City,Newport County,,2020-2021,44
+24. april 2021,15:00,0:1,Morecambe FC,Bolton Wanderers,{None: 'away'},2020-2021,44
+24. april 2021,15:00,1:2,Oldham Athletic,Grimsby Town,{None: 'away'},2020-2021,44
+24. april 2021,15:00,2:1,Port Vale FC,Bradford City,"{None: 'home', '32': 'home'}",2020-2021,44
+24. april 2021,15:00,2:0,Salford City,Mansfield Town,{None: 'home'},2020-2021,44
+24. april 2021,15:00,0:2,Scunthorpe United,Walsall FC,{None: 'away'},2020-2021,44
+24. april 2021,15:00,2:1,Southend United,Leyton Orient,{None: 'home'},2020-2021,44
+24. april 2021,15:00,1:0,Tranmere Rovers,Barrow AFC,{None: 'home'},2020-2021,44
+30. april 2021,19:00,5:4,Harrogate Town,Cambridge United,"{None: 'home', '20': 'home', '74': 'away'}",2020-2021,45
+1. may 2021,15:00,1:2,Barrow AFC,Southend United,{None: 'away'},2020-2021,45
+1. may 2021,15:00,1:2,Bolton Wanderers,Exeter City,{None: 'away'},2020-2021,45
+1. may 2021,15:00,0:0,Bradford City,Scunthorpe United,,2020-2021,45
+1. may 2021,15:00,1:0,Colchester United,Salford City,{None: 'home'},2020-2021,45
+1. may 2021,15:00,3:3,Stevenage FC,Crawley Town,"{'21': 'home', None: 'away', '79': 'away'}",2020-2021,45
+1. may 2021,15:00,0:2,Walsall FC,Morecambe FC,{None: 'away'},2020-2021,45
+1. may 2021,15:00,2:1,Forest Green Rovers,Tranmere Rovers,"{None: 'away', '81': 'home'}",2020-2021,45
+1. may 2021,15:00,1:0,Grimsby Town,Port Vale FC,{None: 'home'},2020-2021,45
+1. may 2021,15:00,2:3,Leyton Orient,Carlisle United,"{None: 'away', '54': 'away'}",2020-2021,45
+1. may 2021,15:00,4:1,Mansfield Town,Oldham Athletic,{None: 'home'},2020-2021,45
+1. may 2021,15:00,1:0,Newport County,Cheltenham Town,{None: 'home'},2020-2021,45
+8. may 2021,15:00,3:0,Cambridge United,Grimsby Town,{None: 'home'},2020-2021,46
+8. may 2021,15:00,0:0,Carlisle United,Walsall FC,,2020-2021,46
+8. may 2021,15:00,4:1,Cheltenham Town,Harrogate Town,{None: 'home'},2020-2021,46
+8. may 2021,15:00,1:4,Crawley Town,Bolton Wanderers,{None: 'home'},2020-2021,46
+8. may 2021,15:00,1:1,Exeter City,Barrow AFC,{None: 'away'},2020-2021,46
+8. may 2021,15:00,2:0,Morecambe FC,Bradford City,{None: 'home'},2020-2021,46
+8. may 2021,15:00,0:3,Oldham Athletic,Forest Green Rovers,"{'63': 'away', None: 'away'}",2020-2021,46
+8. may 2021,15:00,0:3,Port Vale FC,Mansfield Town,{None: 'away'},2020-2021,46
+8. may 2021,15:00,3:0,Salford City,Leyton Orient,{None: 'home'},2020-2021,46
+8. may 2021,15:00,0:1,Scunthorpe United,Stevenage FC,{None: 'away'},2020-2021,46
+8. may 2021,15:00,1:1,Southend United,Newport County,{None: 'away'},2020-2021,46
+8. may 2021,15:00,0:0,Tranmere Rovers,Colchester United,,2020-2021,46
