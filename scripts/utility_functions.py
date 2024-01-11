@@ -1,3 +1,4 @@
+from configs import month_map
 import pandas as pd
 import os
 import regex
@@ -39,3 +40,15 @@ def extract_str(pattern, string):
         return regex.search(pattern, string).group()
     else:
         return None
+
+
+def format_date_str(string):
+    day = regex.search('[0-9]+(?=\.)', string).group()
+    month = regex.search('[a-z]+', string).group()
+    year = regex.search('2[0-9]{3}', string).group()
+
+    month_num = str(month_map[month])
+
+    date_str = year + '-' + month_num + '-' + day
+
+    return date_str

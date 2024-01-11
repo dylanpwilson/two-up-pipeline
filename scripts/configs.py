@@ -9,7 +9,7 @@ sql_configs = {el.split(':')[0]: el.split(':')[1].strip() for el in read_txt_by_
 # ---------------------------------------- REGEX CONFIGS ---------------------------------------- #
 months_str = 'january|february|march|april|may|june|july|august|september|october|november|december'
 days_str = 'monday|tuesday|wednesday|thursday|friday|saturday|sunday'
-
+c = {month: index+1 for index, month in enumerate(months_str.split('|'))}
 
 # ---------------------------------------- SCRAPPING CONFIGS ---------------------------------------- #
 league_urls = {
